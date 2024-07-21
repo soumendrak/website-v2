@@ -9,7 +9,7 @@ tags=["browser", "tricks", "javascript", "tools", "god", "god-mode"]
 
 With the help of god mode, you can modify any text on a website. Yes, **any text**.
 
-![God mode explained](https://cdn.hashnode.com/res/hashnode/image/upload/v1705206226752/fcbee2dc-9b86-4ee3-a210-141109189e0e.gif align="center")
+![God mode explained](https://cdn.hashnode.com/res/hashnode/image/upload/v1705206226752/fcbee2dc-9b86-4ee3-a210-141109189e0e.gif)
 
 ```javascript
 document.designMode = "on";

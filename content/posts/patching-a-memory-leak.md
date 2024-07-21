@@ -13,7 +13,7 @@ At [Freshworks](https://www.freshworks.com/), we were alerted to a recurring pod
 
 I checked the logs and the infra-monitoring dashboard for the last hour; nothing fishy was there. Then, to increase the scope, I checked the memory usage of the pods from one hour to one day and then from one day to one week.
 
-![Memory usage of a Server pod in three days; from ~600MB to ~700MB.](https://cdn.hashnode.com/res/hashnode/image/upload/v1716635664649/133c88eb-bd57-4f65-8eae-72693655a3b7.png align="center")
+![Memory usage of a Server pod in three days; from ~600MB to ~700MB.](https://cdn.hashnode.com/res/hashnode/image/upload/v1716635664649/133c88eb-bd57-4f65-8eae-72693655a3b7.png)
 
 _Figure 1: Memory usage of a Server pod in three days, from ~600MB to ~700MB._
 
@@ -124,7 +124,7 @@ Top 10 highest memory used lines on day-5 of the code change
 
 ## Postfix
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1716638010742/5be304dc-fff2-408e-8d54-3e098aa82d5b.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1716638010742/5be304dc-fff2-408e-8d54-3e098aa82d5b.png)
 
 _Figure 2: The memory usage after the fix_
 

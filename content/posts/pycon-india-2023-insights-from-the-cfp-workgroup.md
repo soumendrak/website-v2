@@ -7,7 +7,6 @@ cover = "https://cdn.hashnode.com/res/hashnode/image/upload/v1696489627921/cffbf
 tags=["cfp", "pycon", "pyconindia2023", "pyconindia", "pycon2023"]
 +++
 
-
 ## Introduction
 
 If you are part of the CFP group at PyCon India or any other conference, this post is for you. I have mentioned my learnings and working process for the CFP workgroup at PyCon India 2023.
@@ -72,7 +71,7 @@ According to analysis, the reason why some reviewers left PyCon can be attribute
 
 Volunteer drop issue is common across Wikipedia, Mozilla, and other volunteer-driven projects I contribute to.
 
-![a line graph showing the number of volunteers vs date](https://cdn.hashnode.com/res/hashnode/image/upload/v1694186297186/fb151871-f3ee-48f9-b872-ca1676aae7d6.png align="center")
+![a line graph showing the number of volunteers vs date](https://cdn.hashnode.com/res/hashnode/image/upload/v1694186297186/fb151871-f3ee-48f9-b872-ca1676aae7d6.png)
 
 _The trend of the number of attendees in the weekly call of the CFP workgroup._
 
@@ -86,7 +85,7 @@ To know more about the proposal category trends across previous editions, please
 
 Once the Junction tool was ready with data backup of previous editions and Category &lt;&gt; Reviewer mapping, we opened the CFP submission.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696356177782/f9db40e5-699e-4021-897f-63c9450b84b8.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696356177782/f9db40e5-699e-4021-897f-63c9450b84b8.png)
 
 _The trend of the number of Talk and Workshop proposals received over time._
 
@@ -115,7 +114,7 @@ Let's see the qualifying rate.
 
 Let's break down how the Talk proposals narrowed down over the rounds.
 
-![a line graph showing proposals per round](https://cdn.hashnode.com/res/hashnode/image/upload/v1696483014268/c364a1db-d538-4b26-ae50-14dcf4924f58.png align="center")
+![a line graph showing proposals per round](https://cdn.hashnode.com/res/hashnode/image/upload/v1696483014268/c364a1db-d538-4b26-ae50-14dcf4924f58.png)
 
 _Number of Talk proposals qualified across various stages of the review process_
 
@@ -210,7 +209,7 @@ In these seven months, I learned many things:
 
 ## Acknowledgment
 
-![Volunteers at PyCon India 2023.](https://cdn.hashnode.com/res/hashnode/image/upload/v1696488994788/8cf8faa1-d68c-41f9-a2a8-2f5271314a7d.png align="center")
+![Volunteers at PyCon India 2023.](https://cdn.hashnode.com/res/hashnode/image/upload/v1696488994788/8cf8faa1-d68c-41f9-a2a8-2f5271314a7d.png)
 
 _Volunteers at PyCon India 2023 closing ceremony. P.C.:_[_Animesh Ghosh_](https://x.com/theOnlyMaDDogx/status/1708476003805470805?s=20)
 
@@ -237,7 +236,7 @@ On the days of the event, I contributed to the registration desk session monitor
 
 In this post, we discussed the overall process of the CFP workgroup since its inception and the challenges faced in between. Thank you.
 
-![CFP Team](https://cdn.hashnode.com/res/hashnode/image/upload/v1696488384210/81a10e08-4ecb-4d50-812b-b60e54a29dd9.jpeg align="center")
+![CFP Team](https://cdn.hashnode.com/res/hashnode/image/upload/v1696488384210/81a10e08-4ecb-4d50-812b-b60e54a29dd9.jpeg)
 
 _Partial CFP Team: (From left) Samir Thakkar, Koti Vellanki, Soumendra (me) and Dr Murali_
 

@@ -3,6 +3,18 @@ title = "Profile"
 path = "resume"
 +++
 
+## About Me
+* Accomplished professional with extensive experience in scalable ML service, back-end software development, and leading teams to develop end-to-end solutions in Banking & Finance, and Education domains.
+* 2.5+ years of experience in deploying, operationalizing, maintaining and scaling Machine Learning models in production.
+* 2+ years of experience AIOps platform development in IBM.
+* 8+ years of experience in both traditional and Generative AI models.
+* 11+ years of experience in multiple phases of Software Development Life Cycle including coding standards, code reviews, source control management, build processes, testing, and operations experience.
+* Led 12 software developers and 3 QA engineers on a project, and overall, in my career, led 20+ software engineers and 5+ QA engineers.
+* Post-graduated from one of India's top ten technical universities in Data Science and Engineering.
+* Certified in AWS Machine Learning Specialty and Azure AI fundamentals. Extensive experience working with AWS cloud. Also worked on Azure, GCP, IBM Cloud, Heroku, and Digital Ocean.
+* Well-versed with Python programming language, active volunteer, and one of the organizers of the PyCon India 2023.
+
+
 ## Top Skills
 * Python Programming
 * MLOps (Machine Learning Operations) Engineering
@@ -10,6 +22,19 @@ path = "resume"
 * Technical Writing
 * Solving problems with System Design and Architecture
 * Maintaining a happy and healthy work environment
+
+### Overall Skills
+
+| **Category** | **Skills** |
+|:------------ |:---------- |
+| **ML tools** | Grafana, LogStash, Databricks, MLFlow, LangChain, LCEL, LangGraph, LangSmith, Kibana, W&B |
+| **Web Frameworks** | Flask, FastAPI, Django, ReactJS, Go Fiber, Gin |
+| **Programming Languages** | Python, SQL, Golang, Javascript, Typescript, Shell script, Batch script, VB Script, COBOL, C, C++, MATLAB |
+| **Databases** | MySQL, PostgreSQL, ClickHouse, AWS ElastiCache, MongoDB, Redis, Elasticsearch, AWS Open search, IBM DB2 |
+| **CI/CD Tools** | Git, GitHub, GitLab, Docker, Kubernetes, Jenkins, GitHub Actions, Cloudflare Pages, AWS Code Commit, AWS CodeBuild, AWS CodeDeploy, AWS CodePipeline |
+| **Documentation Tools** | Markdown, GitHub pages, Jekyll, Confluence, Jupyter Notebook, GitHub Wiki, Grammarly, Excalidraw, MS Visio, D2 |
+| **Other Tools** | Kafka, Spark, Nifi, Airflow, Nginx, Envoy proxy, Postman |
+
 
 ## About Me
 
@@ -21,21 +46,61 @@ I am passionate about solving societal problems through technology and believe i
 
 ## Experiences
 
-### Freshworks
+### Freshworks (2021-present)
 
-### IBM
+#### Lead MLOps/System Engineer
+* Designed end-to-end LLM Operations platform for the existing LLM solutions.
+* Implemented solutions for Model Monitoring, Logging, Evaluation, Versioning, Usage, and Adoption tracking.
+* Developed and Designed a Dashboard for monitoring the models' availability, infra usage, latency, efficacy, and throughput.
+* Standardized Creation, Deployment across different production regions in various modes, Scaling up/down, and triggering retraining of the Model services.
+* Fine-tuned and benchmarked open-source LLMs for custom use cases, replacing proprietary LLM service and reducing cost and latency.
+* Made extensive documentation and design on all the proposed and implemented changes.
+* Designing the next MLOps infrastructure for the entire org from Data Engineering to Model Deployment and Model Retraining pipeline.
+* Scaled up the throughput of traditional ML services from 50 to 1000 requests per sec.
+* Debugged end-to-end applications to hunt down bottlenecks and memory leaks, reducing the p99 latency from 15 minutes to under a second.
+* Other than the unit and sanity tests, performance tested the ML application by mimicking the expected production load in the staging environment.
+* Optimized large table (> 1.5TBs) MySQL queries, scaled up Database bottlenecks using sharding/partitions and reduced costs by removing old records.
+* Analyzed every P0/1/2 outage received on existing applications and made permanent fixes to the root cause, resulting in zero P0 in the last year and only two P1 issues in the application.
 
-### Wipro
+### IBM (2018-2021)
+#### MCMP AIOps Platform squad leader
+* Led two developers and 1 QA engineer and gained domain knowledge on AIOps and its use cases.
+* Implemented a consumption-based pricing model for clients, which enabled a pay-as-you-go model. Also, I implemented multiple pricing tiers, allowing the clients to use different versions per their use cases.
+* Designed and implemented multi-tenant architecture.
+* Architected and implemented end-to-end user authentication and authorization in the ELK stack.
+* Designed and proposed multiple transformation options for a unified (real-time + batch) ingestion and analytics framework for high-volume and real-time data analytics, providing end-to-end capabilities.
 
-### Accenture
 
-### Tata Consultancy Services
+### Wipro (2016-2018)
+#### Technical Lead
+* Led a team of 10 developers and QA engineers to develop an enterprise-grade search engine from scratch. 
+* Deployed the product from PoC to a scalable production level for 1000 concurrent users.
+* Reduced the query time from > 5 seconds to 100 ms.
+* Converted natural language queries (NLQ) to structured query languages (SQL) for structured data searches.
+* In another European banking client project, entities were extracted from the email conversation between the client and the vendor using NLP algorithms. This automation helped the client reduce the headcount of 50 agents.
+
+### Accenture (2014-2016)
+#### Application Development Analyst
+* Automated complex human screen entries using VB Script and saved worth $40,000+ per year time of maintainers.
+* Analyzed 10+ sev-1/2 production issues and built fixes.
+* Worked with one of the top 3 banks in the world and gained immense domain knowledge on money transfer. 
+* Gathered and broke down the requirements into manageable problems to design solutions.
+* Conducted the Unit Test, Sanity Test, and System Integration Test.
+
+### Tata Consultancy Services (2012-2014)
+#### Systems Engineer
+* I have worked with one of the top stock brokerage firms in the USA. I learned about mutual funds and stocks.
+* I studied the BRD and HLD to understand the business, technical, and functional requirements.
+* I organized and participated with the team to create the strategy for the enhancement and develop the optimum plan.
+* I guided and delegated tasks to my junior associates.
 
 ## Education
 
-### M.Tech in Data Science and Engineering, BITS Pilani
+### M.Tech in Data Science and Engineering, BITS Pilani (2021-2023)
+* Graduated from one of India's top ten technical universities in Data Science and Engineering.
 
-### B.Tech in Electrical Engineering, ITER, SoA University, Bhubaneswar
+### B.Tech in Electrical Engineering, ITER, SoA University, Bhubaneswar (2008-2012)
+* Completed Bachelor of Technology in Electrical Engineering.
 
 ## License and Certifications
 
@@ -44,7 +109,7 @@ I am passionate about solving societal problems through technology and believe i
 * [Introduction to ML in Production](https://coursera.org/share/506f3b74b351bbad38e06c6166847191) (2024-)
 * [IBM Certified Database Associate - DB2 10.1 Fundamentals](https://drive.google.com/file/d/0B52uJ3p1lN-rVVJJSG15QzRSbG8/view?resourcekey=0-LvJgOJHEMq5FqPzDqJU8Qg) (2014-)
 
-## Patent
+## Patents
 * [Monitoring of anomalies in behavior to increase quality of software development](https://patents.google.com/patent/US20230420122A1/) - Pending
 
 ## Publications

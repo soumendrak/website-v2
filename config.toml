@@ -212,6 +212,7 @@ meta = [
 
 menu = [
     { name = "/posts", url = "/posts", weight = 1 },
+    { name = "/projects", url = "/projects", weight = 2 },
     { name = "/tils", url = "/tils", weight = 3 },
     { name = "/resume", url = "/resume", weight = 4 },
     { name = "/tags", url = "/tags", weight = 5 },

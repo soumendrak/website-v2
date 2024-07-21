@@ -74,4 +74,4 @@ In this post, we discussed various proposal categories and their trends. We have
 
 In the next part, I will discuss more insights into the challenges and how we overcome them.
 
-If you want to learn about my experience in 2019 as a Reviewer, check out my article on [The Inside Story of How We Selected 30 Talks from 280+ Proposals for Pycon India 2019](https://blog.soumendrak.com/pycon-india-cfp-review). Thank you. 🙏🏼
+If you want to learn about my experience in 2019 as a Reviewer, check out my article on [Selecting 30 Talks from 280+ Proposals for Pycon India 2019](@/posts/pycon-india-cfp-review.md). Thank you. 🙏🏼

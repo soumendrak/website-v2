@@ -1,6 +1,9 @@
 +++
 title = "Profile"
 path = "resume"
+date = "2024-07-21"
+[taxonomies]
+tags=["resume"]
 +++
 
 ## About Me

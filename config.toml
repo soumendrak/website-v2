@@ -194,6 +194,7 @@ index_format = "elasticlunr_json"
 # author value will be available using {{ config.extra.author }} in templates
 #
 [extra]
+date_format="%d %b, %Y"
 toc = true
 use_cdn = false
 favicon = "/icons/soumendra_avatar.png"

@@ -1,5 +1,5 @@
 +++
-paginate_by = 7
+paginate_by = 50
 title = "Posts"
 description = "Blog posts accumulated over the years"
 sort_by = "date"

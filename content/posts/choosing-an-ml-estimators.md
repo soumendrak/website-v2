@@ -5,6 +5,7 @@ date="2019-03-30"
 [taxonomies]
 tags=["Machine Learning"]
 +++
+
 ## Choosing an ML estimators
 
 
@@ -18,7 +19,7 @@ Do you want to predict a category (classification), a quantity (regression), an 
 
 The quantity, quality, variety of data available play an important role. Typically, it is said that if you have more than 1,00,000 data points you can apply almost all algorithms. (SAP Conversational AI, n.d.) The number of classes labeled data matter.
 
-Based on Sci-kit learn minimum 50 samples are needed to start with ML approach.[[1]](#_ftn1)
+Based on Sci-kit learn minimum 50 samples are needed to start with ML approach[^1].
 
 **Constraints**
 
@@ -33,7 +34,7 @@ Two also very important aspects we, enthusiastic developers, tend to forget is t
 
 **Communication**: Developers, are sometimes working with non-developers. For some projects, it is sometimes necessary to expose your solution to people of other professions. In this case, it might be judicious to go for an ML solution that is more suitable for a layman.
 
-**Can Machine Learning solve this problem?[[2](#_ftn2)]**
+**Can Machine Learning solve this problem?[^2]**
 
 ![Traditional programming vs ML approach [[source](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634083515/0kc7povZy.html)]](https://cdn-images-1.medium.com/max/2000/1*T643niQJlKeYRYb5DpmVQQ.png)*Traditional programming vs ML approach [[source](https://cai.tools.sap/blog/machine-learning-algorithms/)]*
 
@@ -47,7 +48,7 @@ When automation rules become too complex then ML comes into the picture. ML will
 
 **How to decide if a problem is an ML problem?**
 
-Any problems those: [[3](#_ftn3)]
+Any problems those: [^3]
 
 1. Require prediction rather than causal inference and
 
@@ -62,7 +63,7 @@ Examples of good machine learning problems include predicting the likelihood tha
 
 Bad examples include predicting profits from the introduction of a completely new and revolutionary product line or extrapolating next year’s sales from past data when an important new competitor just entered the market.
 
-**Error acceptance level[[4](#_ftn4)]**
+**Error acceptance level[^4]**
 
 Every human makes mistakes, and every algorithm is error-prone, too. For all but the simplest of problems, there will be times when things go wrong. The machine learning prediction engine with getting things right on average but will reliably make mistakes. Mistakes will happen, and they will happen most often in ways that you cannot anticipate.
 
@@ -90,7 +91,7 @@ Once the problem statement is defined, the minimum dataset requirement tick mark
 
 ## Supervised ML
 
-If you have more than 50 samples[[5](#_ftn5)] of labeled data and a defined output requirement you can start with Supervised Learning.
+If you have more than 50 samples[^5] of labeled data and a defined output requirement you can start with Supervised Learning.
 
 Based on the target variable the algorithm needs to be determined as a classification or regression.
  Before going further [data analysis](https://ibm.ent.box.com/notes/399010199242?s=l5k82gsy8f9b98c2w3jq9pu5ptr8mo9m) and [feature selection](https://ibm.ent.box.com/notes/398583032178?s=aau86pchy6i1an6howhquunj86zwsar0) need to be done as described in these articles.
@@ -117,10 +118,10 @@ If the target variable(s) is discrete (categorical/nominal/ordinal) classificati
 
 * K-Nearest neighbors
 
-**How to select the right classification algorithm?[[6](#_ftn6)]**
+**How to select the right classification algorithm?[^6]**
 
 Logistic regression is the de facto algorithm to start with solving classification problems. It is **fast and explainable**. However, it works only for binary classification and does not accept null values in any features.
- Naïve Bayes can outperform Logistic regression if the independent features are **not correlated** to each other. It can work with a large number of data sets.[[7](#_ftn7)]
+ Naïve Bayes can outperform Logistic regression if the independent features are **not correlated** to each other. It can work with a large number of data sets[^7].
 
 SGD (Stochastic Gradient Descent) can handle a large number of input data sets with its pre-built various **loss functions**. It is very efficient for linear models. However, it requires many hyperparameters and sensitive to feature scaling.
 
@@ -159,7 +160,7 @@ Regression regularization methods (Lasso, Ridge, and ElasticNet) works well in c
 
 ## Ensemble Learning
 
-As you have seen different algorithms are specialized in different use cases. To maximize the result two or a more diverse set of algorithms can be combined to increase the accuracy and performance of the model. The Ensemble is the art of combining a diverse set of learners (individual models) together to improvise on the stability and predictive power of the model.[[8](#_ftn8)] Some commonly used ensemble methods are bagging, boosting and stacking. [[9](#_ftn9)]
+As you have seen different algorithms are specialized in different use cases. To maximize the result two or a more diverse set of algorithms can be combined to increase the accuracy and performance of the model. The Ensemble is the art of combining a diverse set of learners (individual models) together to improvise on the stability and predictive power of the model[^8]. Some commonly used ensemble methods are bagging, boosting and stacking[^9].
 
 ## Conclusion
 
@@ -168,20 +169,20 @@ However, we have to remember the strengths and weakness of the estimators, which
 
 ## References:
 
-[[1]](#_ftnref1) [https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+[^1]: [https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
-[[2](#_ftnref2)] [https://cai.tools.sap/blog/machine-learning-algorithms/](https://cai.tools.sap/blog/machine-learning-algorithms/)
+[^2]: [https://cai.tools.sap/blog/machine-learning-algorithms/](https://cai.tools.sap/blog/machine-learning-algorithms/)
 
-[[3](#_ftnref3)] [https://hbr.org/2016/11/how-to-tell-if-machine-learning-can-solve-your-business-problem](https://hbr.org/2016/11/how-to-tell-if-machine-learning-can-solve-your-business-problem)
+[^3]: [https://hbr.org/2016/11/how-to-tell-if-machine-learning-can-solve-your-business-problem](https://hbr.org/2016/11/how-to-tell-if-machine-learning-can-solve-your-business-problem)
 
-[[4](#_ftnref4)] [https://hbr.org/2016/11/how-to-tell-if-machine-learning-can-solve-your-business-problem](https://hbr.org/2016/11/how-to-tell-if-machine-learning-can-solve-your-business-problem)
+[^4]: [https://hbr.org/2016/11/how-to-tell-if-machine-learning-can-solve-your-business-problem](https://hbr.org/2016/11/how-to-tell-if-machine-learning-can-solve-your-business-problem)
 
-[[5](#_ftnref5)] [https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+[^5]: [https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
-[[6](#_ftnref6)] [https://www.analyticsindiamag.com/7-types-classification-algorithms/](https://www.analyticsindiamag.com/7-types-classification-algorithms/)
+[^6]: [https://www.analyticsindiamag.com/7-types-classification-algorithms/](https://www.analyticsindiamag.com/7-types-classification-algorithms/)
 
-[[7](#_ftnref7)] [http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
+[^7]: [http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
 
-[[8](#_ftnref8)] [https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/](https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/)
+[^8]: [https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/](https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/)
 
-[[9](#_ftnref9)] [https://www.toptal.com/machine-learning/ensemble-methods-machine-learning](https://www.toptal.com/machine-learning/ensemble-methods-machine-learning)
+[^9]: [https://www.toptal.com/machine-learning/ensemble-methods-machine-learning](https://www.toptal.com/machine-learning/ensemble-methods-machine-learning)

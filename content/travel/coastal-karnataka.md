@@ -2,7 +2,7 @@
 date = "2023-06-11T09:35:21+00:00"
 description = "Drive from Bengaluru to Udupi, taking an unplanned detour to Goa. Along the way, I share my experiences of thrilling ghat drives, tranquil beach views, and my culinary adventures in Mangalorean cuisine"
 in_search_index = true
-og_preview_img = "/images/travel/coastal-karnataka-1.jpg"
+og_preview_img = "/images/travel/coastal-karnataka-1.png"
 slug = "coastal-karnataka"
 title = "Coastal Karnataka Travelogue"
 type = "post"

@@ -3,7 +3,7 @@ title= "Hello 👋🏼"
 template = "homepage.html"
 +++
 
-I'm Soumendra Kumar Sahoo, a software engineer from India. I'm currently working as a Lead System Engineer at [Freshworks](https://www.freshworks.com/). I love to build things and I'm passionate about open-source software. I focus on backend software dev with a focus on Python and JavaScript.
+I'm Soumendra Kumar Sahoo, a software engineer from India. I'm currently working as a Lead MLOps/System Engineer at [Freshworks](https://www.freshworks.com/). I love to build things and I'm passionate about open-source software. I am a backend software dev with a focus on Python and JavaScript. I kind of consider myself as a full-stack developer.
 
 When I'm not working, I like to play chess, walk, and write about my experiences.
 

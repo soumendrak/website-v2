@@ -10,4 +10,6 @@ When I'm not working, I like to play chess, walk, and write about my experiences
 ## Featured Posts
 A few of my featured posts:
 
-*Coming Soon*
+* [Patching a memory leak in Python](@/posts/patching-a-memory-leak.md)
+* [PyCon India 2023 Insights from the CFP workgroup](@/posts/pycon-india-2023-insights-from-the-cfp-workgroup.md)
+* [Migrating from Carrd to Cloudflare Pages](@/posts/step-by-step-migrating-from-carrd-to-cloudflare-pages.md)

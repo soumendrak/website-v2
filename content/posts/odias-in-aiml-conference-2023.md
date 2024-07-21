@@ -14,10 +14,9 @@ Odias in AI/ML is an annual conference of people directly/indirectly related to 
 Conference Website: [Odias in Artificial Intelligence (](https://www.odishaai.org/conference2023)[odishaai.org](http://odishaai.org)[)](https://www.odishaai.org/conference2023)
 
 Live streaming links of the conference:
+{{ youtube(id="GPkWL-9akQc") }}
 
-%[https://www.youtube.com/watch?v=GPkWL-9akQc]
-
-%[https://www.youtube.com/watch?v=KZB9bfKkLgM]
+{{ youtube(id="KZB9bfKkLgM") }}
 
 ## Salient Features
 

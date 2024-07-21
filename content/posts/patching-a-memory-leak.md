@@ -45,7 +45,7 @@ This was a slowly accumulating memory leak over a month. These are generally har
 - In this talk, the speaker, Sanket Patel, explained a similar scenario happened at LinkedIn.
 - I revisited this talk and took inspiration to resolve this memory leak.
 
-%[https://www.youtube.com/watch?v=s9kAghWpzoE]
+{{ youtube(id="s9kAghWpzoE") }}
 
 _PyCon India 2019 Talk - Debug Memory Leak In Python Flask_
 

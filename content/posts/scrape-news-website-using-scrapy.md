@@ -69,8 +69,7 @@ Scrapy was on my radar for at least a couple of years. Due to procrastination, I
 I have explained in a deep dive video, how I did it, you can refer to it.  
 *Disclaimer: this video is in Odia language.*
 
-%[https://www.youtube.com/watch?v=1DCpznINiX4]
-
+{{ youtube(id="1DCpznINiX4") }}
 
 ## Start URL
 

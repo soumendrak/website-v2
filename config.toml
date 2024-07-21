@@ -196,7 +196,7 @@ index_format = "elasticlunr_javascript"
 [extra]
 toc = true
 use_cdn = false
-favicon = "/icon/favicon.png"
+favicon = "/icons/soumendra_avatar.png"
 theme = "toggle"              # light, dark, auto, toggle
 comment = false
 fancy_code = true

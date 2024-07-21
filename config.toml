@@ -144,13 +144,13 @@ paths_keep_dates = false
 # Whether to include the title of the page/section in the index
 include_title = true
 # Whether to include the description of the page/section in the index
-include_description = false
+include_description = true
 # Whether to include the RFC3339 datetime of the page in the search index
-include_date = false
+include_date = true
 # Whether to include the path of the page/section in the index (the permalink is always included)
-include_path = false
+include_path = true
 # Whether to include the rendered content of the page/section in the index
-include_content = true
+include_content = false
 # At which code point to truncate the content to. Useful if you have a lot of pages and the index would
 # become too big to load on the site. Defaults to not being set.
 # truncate_content_length = 100
@@ -159,7 +159,7 @@ include_content = true
 # Accepted values:
 # - "elasticlunr_javascript", "elasticlunr_json"
 # - "fuse_javascript", "fuse_json"
-index_format = "elasticlunr_javascript"
+index_format = "elasticlunr_json"
 
 # Optional translation object for the default language
 # Example:
@@ -198,7 +198,7 @@ toc = true
 use_cdn = false
 favicon = "/icons/soumendra_avatar.png"
 theme = "toggle"              # light, dark, auto, toggle
-comment = false
+comment = true
 fancy_code = true
 dynamic_note = true           # a note that can be toggled
 mathjax = true

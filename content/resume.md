@@ -7,11 +7,11 @@ path = "resume"
 * Accomplished professional with extensive experience in scalable ML service, back-end software development, and leading teams to develop end-to-end solutions in Banking & Finance, and Education domains.
 * 2.5+ years of experience in deploying, operationalizing, maintaining and scaling Machine Learning models in production.
 * 2+ years of experience AIOps platform development in IBM.
-* 8+ years of experience in both traditional and Generative AI models.
-* 11+ years of experience in multiple phases of Software Development Life Cycle including coding standards, code reviews, source control management, build processes, testing, and operations experience.
-* Led 12 software developers and 3 QA engineers on a project, and overall, in my career, led 20+ software engineers and 5+ QA engineers.
+* 8+ years of experience in **both traditional and Generative AI models**.
+* 12+ years of experience in multiple phases of Software Development Life Cycle including coding standards, code reviews, source control management, build processes, testing, and operations experience.
+* Led 12 software developers and 3 QA engineers on a project, and overall, in my career, **led 20+ software engineers and 5+ QA engineers**.
 * Post-graduated from one of India's top ten technical universities in Data Science and Engineering.
-* Certified in AWS Machine Learning Specialty and Azure AI fundamentals. Extensive experience working with AWS cloud. Also worked on Azure, GCP, IBM Cloud, Heroku, and Digital Ocean.
+* Certified in **AWS Machine Learning Specialty** and Azure AI fundamentals. Extensive experience working with AWS cloud. Also worked on Azure, GCP, IBM Cloud, Heroku, and Digital Ocean.
 * Well-versed with Python programming language, active volunteer, and one of the organizers of the PyCon India 2023.
 
 
@@ -36,45 +36,37 @@ path = "resume"
 | **Other Tools** | Kafka, Spark, Nifi, Airflow, Nginx, Envoy proxy, Postman |
 
 
-## About Me
-
-As a Lead System Engineer at Freshworks, I work on removing roadblocks, scaling up, and adding new features to the Freddy AI platform. I have over 11 years of experience developing and leading AI solutions and transformations for various industries and domains.
-
-As an AI Consultant, I advise startups on defining the problems, scoping the requirements, and finding the right tools to solve the problems within a specific time frame.
-
-I am passionate about solving societal problems through technology and believe in giving back to the community. I volunteer at Mozilla Common Voice to build a text-to-speech corpus on a low-resource language, create and edit Wikipedia pages to maintain unbiased data, and contribute to many open-source projects on GitHub. I also love to code, guide developers, and teach students and graduates.
-
 ## Experiences
 
 ### Freshworks (2021-present)
 
 #### Lead MLOps/System Engineer
-* Designed end-to-end LLM Operations platform for the existing LLM solutions.
-* Implemented solutions for Model Monitoring, Logging, Evaluation, Versioning, Usage, and Adoption tracking.
+* **Designed end-to-end** LLM Operations platform for the existing LLM solutions.
+* Implemented solutions for **Model Monitoring, Logging, Evaluation, Versioning, Usage, and Adoption tracking**.
 * Developed and Designed a Dashboard for monitoring the models' availability, infra usage, latency, efficacy, and throughput.
 * Standardized Creation, Deployment across different production regions in various modes, Scaling up/down, and triggering retraining of the Model services.
-* Fine-tuned and benchmarked open-source LLMs for custom use cases, replacing proprietary LLM service and reducing cost and latency.
+* **Fine-tuned and benchmarked open-source LLMs** for custom use cases, replacing proprietary LLM service and reducing cost and latency.
 * Made extensive documentation and design on all the proposed and implemented changes.
 * Designing the next MLOps infrastructure for the entire org from Data Engineering to Model Deployment and Model Retraining pipeline.
-* Scaled up the throughput of traditional ML services from 50 to 1000 requests per sec.
-* Debugged end-to-end applications to hunt down bottlenecks and memory leaks, reducing the p99 latency from 15 minutes to under a second.
+* Scaled up the throughput of traditional ML services **from 50 to 1000 requests per sec**.
+* Debugged end-to-end applications to hunt down bottlenecks and memory leaks, **reducing the p99 latency from 15 minutes to under a second**.
 * Other than the unit and sanity tests, performance tested the ML application by mimicking the expected production load in the staging environment.
-* Optimized large table (> 1.5TBs) MySQL queries, scaled up Database bottlenecks using sharding/partitions and reduced costs by removing old records.
-* Analyzed every P0/1/2 outage received on existing applications and made permanent fixes to the root cause, resulting in zero P0 in the last year and only two P1 issues in the application.
+* Optimized **large table (> 1.5TBs) MySQL queries**, scaled up Database bottlenecks using sharding/partitions and reduced costs by removing old records.
+* Analyzed every P0/1/2 outage received on existing applications and made permanent fixes to the root cause, resulting in **zero P0** in the last year and only two P1 issues in the application.
 
 ### IBM (2018-2021)
 #### MCMP AIOps Platform squad leader
 * Led two developers and 1 QA engineer and gained domain knowledge on AIOps and its use cases.
-* Implemented a consumption-based pricing model for clients, which enabled a pay-as-you-go model. Also, I implemented multiple pricing tiers, allowing the clients to use different versions per their use cases.
+* Implemented a **consumption-based pricing model** for clients, which enabled a pay-as-you-go model. Also, I implemented multiple **pricing tiers**, allowing the clients to use different versions per their use cases.
 * Designed and implemented multi-tenant architecture.
-* Architected and implemented end-to-end user authentication and authorization in the ELK stack.
-* Designed and proposed multiple transformation options for a unified (real-time + batch) ingestion and analytics framework for high-volume and real-time data analytics, providing end-to-end capabilities.
+* Architected and implemented end-to-end **user authentication and authorization** in the ELK stack.
+* Designed and proposed multiple transformation options for a **unified (real-time + batch) ingestion** and analytics framework for high-volume and real-time data analytics, providing end-to-end capabilities.
 
 
 ### Wipro (2016-2018)
 #### Technical Lead
 * Led a team of 10 developers and QA engineers to develop an enterprise-grade search engine from scratch. 
-* Deployed the product from PoC to a scalable production level for 1000 concurrent users.
+* Deployed the product **from PoC to a scalable production level** for 1000 concurrent users.
 * Reduced the query time from > 5 seconds to 100 ms.
 * Converted natural language queries (NLQ) to structured query languages (SQL) for structured data searches.
 * In another European banking client project, entities were extracted from the email conversation between the client and the vendor using NLP algorithms. This automation helped the client reduce the headcount of 50 agents.
@@ -93,6 +85,14 @@ I am passionate about solving societal problems through technology and believe i
 * I studied the BRD and HLD to understand the business, technical, and functional requirements.
 * I organized and participated with the team to create the strategy for the enhancement and develop the optimum plan.
 * I guided and delegated tasks to my junior associates.
+
+## Volunteering Experience
+* Maintainer of an open-source PyPi package, [OpenOdia](https://github.com/soumendrak/openodia), with 40,000+ downloads. 
+* Started a couple of volunteering teams, [Odias in AI](https://www.odishaai.org/about#core-team) and [OdiaGenAI](https://www.odiagenai.org/).
+* Led multiple volunteering teams: [PyCon India 2023](https://in.pycon.org/2023/volunteers/workgroup-leads/), Odia Wikipedia, and Mozilla Common Voice for Odia.
+* Developed [Shabdarasa](https://www.shabdarasa.com/), a wordle game for the Odia language with 100+ DAU.
+* Actively volunteering on OpenStreetMap and other education-based causes.
+
 
 ## Education
 

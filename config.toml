@@ -223,4 +223,4 @@ socials = [
 
 [extra.analytics.umami]
 website_id = "baba6031-fb63-47cc-bddd-196ee709a553"
-host_url = "https://analytics.eu.umami.is"
+host_url = "https://analytics.us.umami.is"

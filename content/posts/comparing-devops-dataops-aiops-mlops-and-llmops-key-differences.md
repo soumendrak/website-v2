@@ -11,7 +11,7 @@ These are the commonly used terms that can be misunderstood. Here are the scope 
 
 ## DevOps
 
-![DevOps Tech Stack](https://substackcdn.com/image/fetch/w_2912,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c17237c-1baa-4849-8630-af4400281db7_3777x2859.png align="left")
+![DevOps Tech Stack](https://substackcdn.com/image/fetch/w_2912,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c17237c-1baa-4849-8630-af4400281db7_3777x2859.png)
 
 ### Scope
 
@@ -32,7 +32,7 @@ These are the commonly used terms that can be misunderstood. Here are the scope 
 
 ## DataOps
 
-[![Venn Diagram DevOps vs DataOps](https://assets-global.website-files.com/605c9e03d6553a5d82976ce2/6087c71f2148c15a2de32f2b_DevOps_vs_DataOps_venn.png align="left")](https://assets-global.website-files.com/605c9e03d6553a5d82976ce2/6087c71f2148c15a2de32f2b_DevOps_vs_DataOps_venn.png)
+[![Venn Diagram DevOps vs DataOps](https://assets-global.website-files.com/605c9e03d6553a5d82976ce2/6087c71f2148c15a2de32f2b_DevOps_vs_DataOps_venn.png)](https://assets-global.website-files.com/605c9e03d6553a5d82976ce2/6087c71f2148c15a2de32f2b_DevOps_vs_DataOps_venn.png)
 
 ### Scope
 

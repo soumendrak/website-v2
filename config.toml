@@ -4,7 +4,7 @@ base_url = "https://beta.soumendrak.com"
 
 
 # The site title and description; used in feeds by default.
-title = "Soumendra's Website"
+title = "Soumendra Kumar Sahoo"
 description = "The detailed posts of Soumendra Kumar Sahoo"
 
 # The default language; used in feeds.
@@ -210,9 +210,10 @@ meta = [
 
 menu = [
     { name = "/posts", url = "/posts", weight = 1 },
-    { name = "/projects", url = "/projects", weight = 2 },
-    { name = "/about", url = "/about", weight = 3 },
-    { name = "/tags", url = "/tags", weight = 4 }
+    { name = "/tils", url = "/tils", weight = 3 },
+    { name = "/resume", url = "/resume", weight = 4 },
+    { name = "/tags", url = "/tags", weight = 5 },
+    { name = "/contact", url = "/contact", weight = 6 },
 ]
 
 socials = [

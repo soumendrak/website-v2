@@ -1,7 +1,7 @@
 +++
 title="Python double/nested for loop list comprehension"
-seoTitle="Python double/nested for loop list comprehension with conditions"
-seoDescription="Optimize Python with list comprehension: learn nested or double for-loops, if/else conditions for efficient programming. Use at your own risk."
+
+
 date=2020-11-25
 cover="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/StvYPDirU6o/upload/a595686144447fe354dd3bbf09b8f28c.jpeg"
 [taxonomies]

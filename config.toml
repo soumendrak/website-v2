@@ -221,6 +221,7 @@ menu = [
 socials = [
     { name = "twitter", url = "https://twitter.com/soumendrak_", icon = "twitter" },
     { name = "github", url = "https://github.com/soumendrak", icon = "github" },
+    { name = "rss", url = "/atom.xml", icon = "rss" },
 ]
 
 [extra.analytics]

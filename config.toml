@@ -196,7 +196,7 @@ index_format = "elasticlunr_json"
 [extra]
 date_format="%d %b, %Y"
 toc = true
-use_cdn = true
+use_cdn = false
 favicon = "/icons/soumendra_avatar.png"
 theme = "toggle"              # light, dark, auto, toggle
 comment = true

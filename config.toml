@@ -226,7 +226,7 @@ socials = [
 ]
 
 [extra.analytics]
-enabled = true
+enabled = false
 
 [extra.analytics.umami]
 website_id = "baba6031-fb63-47cc-bddd-196ee709a553"

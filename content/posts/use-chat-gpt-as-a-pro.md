@@ -39,4 +39,4 @@ We already know what chatGPT is, here are a few Twitter threads on how to utiliz
 
 If you want to know various open-source tools developed for ChatGPT, you may check my following article:
 
-[ChatGPT resources (](https://blog.soumendrak.com/chatgpt-resources)[soumendrak.com](http://soumendrak.com)[)](https://blog.soumendrak.com/chatgpt-resources)
+[ChatGPT resources (](https://blog.soumendrak.com/chatgpt-resources)[soumendrak.com](https://soumendrak.com)[)](https://blog.soumendrak.com/chatgpt-resources)

@@ -10,13 +10,13 @@ tags=["programming", "python", "youtube-dl"]
 
 ### Installation
 
-``` bash
+```bash
 $ brew install youtube-dl
 ```
 
 ### Download videos
 
-``` bash
+```bash
 $ youtube-dl <youtube-link>
 
 ```
@@ -25,14 +25,14 @@ $ youtube-dl <youtube-link>
 
 - you need to install `ffmpeg` before trying this operation
 
-``` bash
+```bash
 $ brew install ffmpeg
 $ youtube-dl -x --audio-format mp3 <youtube-link>
 ```
 
 ### Example
 
-``` bash
+```bash
 $ youtube-dl -x --audio-format mp3 https://www.youtube.com/watch?v=SlPhMPnQ58k
 [youtube] SlPhMPnQ58k: Downloading webpage
 [download] Destination: Maroon 5 - Memories (Official Video)-SlPhMPnQ58k.webm
@@ -43,6 +43,6 @@ Deleting original file Maroon 5 - Memories (Official Video)-SlPhMPnQ58k.webm (pa
 
 ### Further reading
 
-- http://ytdl-org.github.io/youtube-dl/
+- https://ytdl-org.github.io/youtube-dl/
 
 <span>Photo by <a href="https://unsplash.com/@vmxhu?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Szabo Viktor</a> on <a href="https://unsplash.com/s/photos/youtube?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

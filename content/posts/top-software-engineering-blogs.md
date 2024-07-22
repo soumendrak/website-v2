@@ -25,7 +25,7 @@ This is a growing collection of blogs by software companies that you can read to
 - [eBay](https://tech.ebayinc.com/engineering/)
 - [GitHub](https://github.blog/category/engineering/)
 - [Groupon](https://medium.com/groupon-eng)
-- [Hackerearth](http://engineering.hackerearth.com/)
+- [Hackerearth](https://engineering.hackerearth.com/)
 - [Instagram](https://instagram-engineering.com/)
 - [Intercom](https://www.intercom.com/blog/engineering/)
 - [LinkedIn](https://engineering.linkedin.com/)

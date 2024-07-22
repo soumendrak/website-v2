@@ -289,4 +289,4 @@ schema = {"type": "string", "minLength": 5, "maxLength": 10}
 
 This schema defines that the data must be a string of at least five characters and a maximum of 10 characters.
 
-To learn more about the possible keywords, follow the [Understanding JSON Schema — Understanding JSON Schema 2020-12 documentation (](http://json-schema.org/understanding-json-schema/)[json-schema.org](http://json-schema.org)[)](http://json-schema.org/understanding-json-schema/).
+To learn more about the possible keywords, follow the [Understanding JSON Schema — Understanding JSON Schema 2020-12 documentation (](https://json-schema.org/understanding-json-schema/)[json-schema.org](https://json-schema.org)[)](https://json-schema.org/understanding-json-schema/).

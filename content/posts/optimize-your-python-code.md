@@ -6,8 +6,8 @@ cover = "https://cdn.hashnode.com/res/hashnode/image/upload/v1629634098473/3sDv0
 [taxonomies]
 tags=["programming", "python", "optimization", "performance", "design-patterns"]
 +++
-## Optimize your Python code
 
+## Optimize your Python code
 
 As Python is one of the top prerequisites to learning Machine Learning, there is a huge influx of programmers/scientists from a different background.
 
@@ -25,7 +25,7 @@ Writing code in Python is easy. Few lines of code and it’s working! However, P
 
 1. Multiprocessing
 
-1. Using __slots__ operator
+1. Using **slots** operator
 
 1. Using Pythonic code
 
@@ -39,11 +39,11 @@ Writing code in Python is easy. Few lines of code and it’s working! However, P
 
 ## Code profiling
 
-To optimize a program we need to find the bottlenecks. There are [many libraries available](https://stackoverflow.com/q/582336/5014656) to profile a code. Some of the libraries which we used are [cProfile](https://docs.python.org/2/library/profile.html), [line_profiler](https://github.com/rkern/line_profiler), [pycallgraph](https://github.com/gak/pycallgraph). Other than these we used the *%%timeit* operator in Jupyter notebook and [memory_profiler](https://pypi.org/project/memory_profiler/). Memory profiler is used to keep the RAM usage under limit.
+To optimize a program we need to find the bottlenecks. There are [many libraries available](https://stackoverflow.com/q/582336/5014656) to profile a code. Some of the libraries which we used are [cProfile](https://docs.python.org/2/library/profile.html), [line_profiler](https://github.com/rkern/line_profiler), [pycallgraph](https://github.com/gak/pycallgraph). Other than these we used the _%%timeit_ operator in Jupyter notebook and [memory_profiler](https://pypi.org/project/memory_profiler/). Memory profiler is used to keep the RAM usage under limit.
 
 ## Cython
 
-[Cython](http://docs.cython.org/en/latest/src/userguide/language_basics.html?highlight=annotate.html)izing the python files will make them run faster. [[Reference](https://stackoverflow.com/questions/4872715/cythonize-a-python-function-to-make-it-faster#5033066)]
+[Cython](https://docs.cython.org/en/latest/src/userguide/language_basics.html?highlight=annotate.html)izing the python files will make them run faster. [[Reference](https://stackoverflow.com/questions/4872715/cythonize-a-python-function-to-make-it-faster#5033066)]
 
 ## Object-oriented programming with design patterns
 
@@ -57,7 +57,7 @@ Dead codes which were written for some operation but are not being used currentl
 
 Python generators are one of the best things to handle large data set processing with limited memory usage during runtime. [[Reference](https://stackoverflow.com/a/231855/5014656)]
 
-## [Context managers](http://book.pythontips.com/en/latest/context_managers.html)
+## [Context managers](https://book.pythontips.com/en/latest/context_managers.html)
 
 Context managers allow you to allocate and release resources precisely when you want to. Opening files and closing automatically can be done with the help of these. No need to explicitly close the files.
 
@@ -65,29 +65,28 @@ Context managers allow you to allocate and release resources precisely when you 
 
 Multiprocessing module in python can be used to run independent processes in parallel. It can be used for utilizing the CPU of the server.
 
-## Using __slots__ operator [[Reference](https://stackoverflow.com/a/8117194/5014656)]
+## Using **slots** operator [[Reference](https://stackoverflow.com/a/8117194/5014656)]
 
-* Object attributes of a class are stored in __dict__.
+- Object attributes of a class are stored in **dict**.
 
-* Dictionaries are used for high access speed, O(1). However, in most cases __dict__ becomes 1/3rd empty.
+- Dictionaries are used for high access speed, O(1). However, in most cases **dict** becomes 1/3rd empty.
 
 ```
 from sys import getsizeof as gs
- 
+
 d_obj = {}
 print(gs(d_obj)) *# print the default size*
 *# 280*
- 
+
 d_obj = {k: v for k, v in enumerate(range(5))}
 print(gs(d_obj)) *# default size continues till this*
 *# 280*
- 
+
 d_obj = {k: v for k, v in enumerate(range(6))}
 *# a new set of memory allocation begin where most of the memory are unutilized*
 print(gs(d_obj))
 *# 1048*
 ```
-
 
 Details of other data types can be found below: [[Source](https://stackoverflow.com/a/30316760/5014656)]
 
@@ -102,21 +101,20 @@ Bytes  type        empty + scaling notes
 232    set         sixth item increases to 744; 22nd, 2280; 86th, 8424
 280    dict        sixth item increases to 1048; 22nd, 3352; 86th, 12568 *
 64     class inst  has a __dict__ attr, same scaling as dict above
-16     __slots__   class with slots has no dict, seems to store in 
+16     __slots__   class with slots has no dict, seems to store in
                    mutable tuple-like structure.
 120    func def    doesn't include default args and other attrs
 904    class def   has a proxy __dict__ structure for class attrs
 104    old class   makes sense, less stuff, has real dict though.
 ```
 
-
-* __slots__ can be used to get rid of these free memory spaces. Here you can not add more attributes once you define __slots__. By this way, you can reduce the memory usage of the object(s).
+- **slots** can be used to get rid of these free memory spaces. Here you can not add more attributes once you define **slots**. By this way, you can reduce the memory usage of the object(s).
 
 ## Using Pythonic code
 
 There are many cases where using Pythonic codes improve the performance. Some examples are:
 
-1. Using list/generator expressions over for loop [[Reference](https://stackoverflow.com/q/1247486/5014656)][[Reference](http://www.u.arizona.edu/~erdmann/mse350/topics/list_comprehensions.html)]
+1. Using list/generator expressions over for loop [[Reference](https://stackoverflow.com/q/1247486/5014656)][[Reference](https://www.u.arizona.edu/~erdmann/mse350/topics/list_comprehensions.html)]
 
 1. Using [short-circuit](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not) operator to avoid additional if-else condition check. [[Reference](https://stackoverflow.com/a/14892812/5014656)]
 
@@ -144,17 +142,17 @@ A separate function is used to print the operations. However, those can be disab
 
 ## Technology stacks for performance
 
-* [Nginx](https://nginx.org/) for load balance between multiple servers
+- [Nginx](https://nginx.org/) for load balance between multiple servers
 
-* [Redis](https://redis.io/) as the cache manager
+- [Redis](https://redis.io/) as the cache manager
 
-* [RabbitMQ ](https://www.rabbitmq.com/)or [Apache Kafka ](https://kafka.apache.org/)for job queue management
+- [RabbitMQ ](https://www.rabbitmq.com/)or [Apache Kafka ](https://kafka.apache.org/)for job queue management
 
-* [CherryPy](https://github.com/cherrypy/cheroot) as WSGI server in Windows OS
+- [CherryPy](https://github.com/cherrypy/cheroot) as WSGI server in Windows OS
 
-* [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) in Linux OS
+- [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) in Linux OS
 
-* [Flask ](https://github.com/pallets/flask)for REST API development
+- [Flask ](https://github.com/pallets/flask)for REST API development
 
 ## Conclusion
 
@@ -162,12 +160,12 @@ After implementing the above methods the concurrency user support has been incre
 
 ## Additional optimization tips and references:
 
-* [Python](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
+- [Python](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
 
-* [StackOverflow](https://stackoverflow.com/questions/7165465/optimizing-python-code)
+- [StackOverflow](https://stackoverflow.com/questions/7165465/optimizing-python-code)
 
-* [Geekforgeeks](https://www.geeksforgeeks.org/optimization-tips-python-code/)
+- [Geekforgeeks](https://www.geeksforgeeks.org/optimization-tips-python-code/)
 
-* [System design](https://github.com/donnemartin/system-design-primer)
+- [System design](https://github.com/donnemartin/system-design-primer)
 
 Thank you for your time.

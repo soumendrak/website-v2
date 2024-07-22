@@ -54,10 +54,10 @@ _For more search, awesome Youtube, visit_ [_awesome-YouTubers_](https://github.c
 
 Newsletters usually published weekly keep you up to date on the latest developments in the Python world.
 
-- [Awesome Python Newsletter](http://python.libhunt.com/newsletter)
-- [Pycoder's Weekly](http://pycoders.com/)
+- [Awesome Python Newsletter](https://python.libhunt.com/newsletter)
+- [Pycoder's Weekly](https://pycoders.com/)
 - [Python Tricks](https://realpython.com/python-tricks/)
-- [Python Weekly](http://www.pythonweekly.com/)
+- [Python Weekly](https://www.pythonweekly.com/)
 
 ## Podcasts
 

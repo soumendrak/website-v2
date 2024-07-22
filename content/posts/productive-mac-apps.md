@@ -26,11 +26,11 @@ I have been using a MacBook pro since the end of 2019. These are the different a
   - I use Thunderbird as my all-in-one email client.
 - [LanguageTool - Online Grammar, Style & Spell Checker](https://languagetool.org/)
   - Alternative to Grammarly: almost all features and cheaper.
-- [f.lux: software to make your life better (](https://justgetflux.com/)[justgetflux.com](http://justgetflux.com)[)](https://justgetflux.com/)
+- [f.lux: software to make your life better (](https://justgetflux.com/)[justgetflux.com](https://justgetflux.com)[)](https://justgetflux.com/)
   - Screen color changer for betterment of eyes
 - [Espanso - A Privacy-first, Cross-platform Text Expander](https://espanso.org/)
   - An ultimate productivity tool to save typing characters.
-- [AppCleaner (](https://freemacsoft.net/appcleaner/)[freemacsoft.net](http://freemacsoft.net)[)](https://freemacsoft.net/appcleaner/)
+- [AppCleaner (](https://freemacsoft.net/appcleaner/)[freemacsoft.net](https://freemacsoft.net)[)](https://freemacsoft.net/appcleaner/)
   - Deletes all residual files from Apps.
 
 Other notable Apps:
@@ -46,11 +46,11 @@ Other notable Apps:
 - [PyCharm Pro](https://www.jetbrains.com/pycharm/) for professional Python projects
 - [Webstorm](https://www.jetbrains.com/webstorm/) for UI development
 - [Beeper — All your chats in one app. Yes, really.](https://www.beeper.com/)
-- [Rectangle Mac (](https://rectangleapp.com/)[rectangleapp.com](http://rectangleapp.com)[)](https://rectangleapp.com/)
+- [Rectangle Mac (](https://rectangleapp.com/)[rectangleapp.com](https://rectangleapp.com)[)](https://rectangleapp.com/)
   - Move and resize windows in macOS using keyboard shortcuts or snap areas
 - [IINA - The modern media player for macOS](https://iina.io/) (Open Source GPLv3)
 - [Pandan — Sindre Sorhus](https://sindresorhus.com/pandan)
   - Time awareness on the menu bar to know how much time you have been on your Mac
-- [Latest (](https://max.codes/latest/)[max.codes](http://max.codes)[)](https://max.codes/latest/) : Software update tracker
+- [Latest (](https://max.codes/latest/)[max.codes](https://max.codes)[)](https://max.codes/latest/) : Software update tracker
 
 What other Mac OS App do you use which is helpful to you? You can follow me on Twitter [@soumendrak\_](https://www.twitter.com/soumendrak_)

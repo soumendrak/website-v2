@@ -81,7 +81,7 @@ One positive aspect of volunteer-led initiatives is that the individuals who rem
 
 ## Proposals Management 📒
 
-To know more about the proposal category trends across previous editions, please follow my blog post, [PyCon India 2023 Proposals Analysis (](https://blog.soumendrak.com/an-analysis-of-pycon-india-2023-proposals)[soumendrak.com](http://soumendrak.com)[)](https://blog.soumendrak.com/an-analysis-of-pycon-india-2023-proposals).
+To know more about the proposal category trends across previous editions, please follow my blog post, [PyCon India 2023 Proposals Analysis (](https://blog.soumendrak.com/an-analysis-of-pycon-india-2023-proposals)[soumendrak.com](https://soumendrak.com)[)](https://blog.soumendrak.com/an-analysis-of-pycon-india-2023-proposals).
 
 Once the Junction tool was ready with data backup of previous editions and Category &lt;&gt; Reviewer mapping, we opened the CFP submission.
 

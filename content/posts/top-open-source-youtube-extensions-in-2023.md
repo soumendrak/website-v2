@@ -9,7 +9,7 @@ tags=["opensource", "chrome-extension", "youtube"]
 
 # uBlock origin
 
-- You can remove the Ads from [YouTube.com](http://YouTube.com) by just installing an AdBlocker in your browser.
+- You can remove the Ads from [YouTube.com](https://YouTube.com) by just installing an AdBlocker in your browser.
 - \- I recommend open-source AdBlocker "uBlock origin."
 
 %[https://github.com/gorhill/uBlock]

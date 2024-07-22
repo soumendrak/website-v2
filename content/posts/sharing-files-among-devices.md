@@ -19,23 +19,23 @@ You got a scenario where you need to share a large file or multiple large files 
 
 - run the following command in your source computer from the folder where your source file is present.
 
-``` bash
+```bash
 $ python -m http.server
 ```
 
-- Get the IP of your source computer through *ifconfig/ipconfig* based on your OS.
+- Get the IP of your source computer through _ifconfig/ipconfig_ based on your OS.
 - Go to your destination device and open a browser.
 - Type in the `<IP>:8000` on the browser address bar
-
 
 ### Example
 
 source:
 
-``` bash
+```bash
 $ python -m http.server
-Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
+Serving HTTP on 0.0.0.0 port 8000 (https://0.0.0.0:8000/) ...
 ```
+
 destination:
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1610989940817/pndIWmpCf.png)
@@ -44,7 +44,7 @@ right-click on the desired file and click on `save link as` to save the file on 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1610990001459/K-nMBbtlg.png)
 
-That's it. :) 
+That's it. :)
 
 ### Bonus tip:
 

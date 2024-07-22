@@ -55,5 +55,5 @@ The development of LMs can be broadly classified into five stages.
 
 ## References
 
-1. [Language Models in Plain English (](https://learning.oreilly.com/library/view/language-models-in/9781098109073/)[oreilly.com](http://oreilly.com)[)](https://learning.oreilly.com/library/view/language-models-in/9781098109073/)
-2. [\[2303.18223\] A Survey of Large Language Models (](https://arxiv.org/abs/2303.18223)[arxiv.org](http://arxiv.org)[)](https://arxiv.org/abs/2303.18223)
+1. [Language Models in Plain English (](https://learning.oreilly.com/library/view/language-models-in/9781098109073/)[oreilly.com](https://oreilly.com)[)](https://learning.oreilly.com/library/view/language-models-in/9781098109073/)
+2. [\[2303.18223\] A Survey of Large Language Models (](https://arxiv.org/abs/2303.18223)[arxiv.org](https://arxiv.org)[)](https://arxiv.org/abs/2303.18223)

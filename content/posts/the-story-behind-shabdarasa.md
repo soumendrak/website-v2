@@ -19,13 +19,11 @@ Please check out the game here: **[www.ଶବ୍ଦରସ.com](https://ଶବ୍
 - I did not have any clue of the game Wordle, other than watching people post green-yellow boxes on their Twitter handles.
 - Even Dr. Aviseka did not have a clue if it can be done in Odia. Dr. Aviseka and I met once over an [Odias In ML Twitter](https://twitter.com/odias_in_ml) space. Later when I asked him what inspired him to reach out to me with this requirement. His exact response:
 
-
-> 1. The way English language injecting into our kids life is becoming a threat to our own language. 
-> 2. We all know how crucial a language is for state / nation 
-> 3. The only way we can claim back and prosperous is with innovation , smart , easy approach with our language so the game is one of them. 
+> 1. The way English language injecting into our kids life is becoming a threat to our own language.
+> 2. We all know how crucial a language is for state / nation
+> 3. The only way we can claim back and prosperous is with innovation , smart , easy approach with our language so the game is one of them.
 > 4. I followed your work and saw your passion for the Odia language so I thought you may guide me.
 > 5. I heard your speech in my space there I discovered your potency as well .
-
 
 ## 🧐 Initial analysis (ପ୍ରାରମ୍ଭିକ ବିଶ୍ଳେଷଣ)
 
@@ -40,7 +38,6 @@ Please check out the game here: **[www.ଶବ୍ଦରସ.com](https://ଶବ୍
 
 After playing the game and keeping the end goal in mind, I have gathered the following requirements:
 
-
 1. A specific length of words data/corpus required
 2. Need to compare multiple words: position and letter
 3. Letter with Matra(diacritics) and Juktakhyara(combination of multiple letters) is a challenge to compare, but let's figure it out later.
@@ -48,37 +45,35 @@ After playing the game and keeping the end goal in mind, I have gathered the fol
 5. A keyboard to input Odia letters
 6. Rest all requirements are to mimic the features, that the original game has. Those will be Add-on.
 
-
 ## 🕵🏻‍♀️ Haunting for existing solutions (ବିଦ୍ୟମାନ ସମାଧାନ ଖୋଜା)
 
 - Do not reinvent the wheel.
 - Where is the best way to search for code. For code, snippets search StackOverflow, but for actual working integrated code, [search GitHub](https://github.com/search?q=wordle+clone).
 - From there I zeroed down on the following repos:
 
-|Name|Usability|URL to play|GitHub|Language|Notes|
-|---|---|---|---|---|---|
-|Italian Wordle||https://pietroppeter.github.io/wordle-it/|https://github.com/pietroppeter/wordle-it|Javascript|Complicated JS code| but all in a single file. Do not know where he hosted it"|
-|Word length customizable||http://foldr.moe/hello-wordl/|https://github.com/lynn/hello-wordl|Typescript|Not exactly clone|
-|Tailwind Wordle|Medium|https://wordle.hannahmariepark.com/|https://github.com/hannahcode/wordle|"ReactJS| TailwindCSS|The best code however I do not know how to support Odia keyboard here"|
-|Another clone||https://guessle.herokuapp.com/|https://github.com/jakerella/guessle|Javascript|Customizable|
-|Tamil Wordle|Highest|https://tecoholic.github.io/tamil-wordle/|https://github.com/tecoholic/tamil-wordle|"Go| ReactJS"| hope it will work|
-|Bulgarian wordle||https://wordle-bg.ggerganov.com/|https://github.com/ggerganov/wordle-bg|C++|Another language keyboard|
-|Thai Wordle|High|https://thwordle.vercel.app/|https://github.com/narze/thwordle|Vite|Closely monitor|
-|Motle||https://uk23xf.deta.dev/|Smooth deployment with deta|
-|Another||https://wordle-svelte.vercel.app/|https://github.com/nijat/wordle|Svelte||
-|gogoprog|Medium|https://gogoprog.github.io/motuz/src/?lang=en|https://github.com/gogoprog/motuz|Javascript|"Multilanguage support| without keyboard"|
+| Name                     | Usability | URL to play                                   | GitHub                                    | Language   | Notes                     |
+| ------------------------ | --------- | --------------------------------------------- | ----------------------------------------- | ---------- | ------------------------- | ---------------------------------------------------------------------- |
+| Italian Wordle           |           | https://pietroppeter.github.io/wordle-it/     | https://github.com/pietroppeter/wordle-it | Javascript | Complicated JS code       | but all in a single file. Do not know where he hosted it"              |
+| Word length customizable |           | https://foldr.moe/hello-wordl/                | https://github.com/lynn/hello-wordl       | Typescript | Not exactly clone         |
+| Tailwind Wordle          | Medium    | https://wordle.hannahmariepark.com/           | https://github.com/hannahcode/wordle      | "ReactJS   | TailwindCSS               | The best code however I do not know how to support Odia keyboard here" |
+| Another clone            |           | https://guessle.herokuapp.com/                | https://github.com/jakerella/guessle      | Javascript | Customizable              |
+| Tamil Wordle             | Highest   | https://tecoholic.github.io/tamil-wordle/     | https://github.com/tecoholic/tamil-wordle | "Go        | ReactJS"                  | hope it will work                                                      |
+| Bulgarian wordle         |           | https://wordle-bg.ggerganov.com/              | https://github.com/ggerganov/wordle-bg    | C++        | Another language keyboard |
+| Thai Wordle              | High      | https://thwordle.vercel.app/                  | https://github.com/narze/thwordle         | Vite       | Closely monitor           |
+| Motle                    |           | https://uk23xf.deta.dev/                      | Smooth deployment with deta               |
+| Another                  |           | https://wordle-svelte.vercel.app/             | https://github.com/nijat/wordle           | Svelte     |                           |
+| gogoprog                 | Medium    | https://gogoprog.github.io/motuz/src/?lang=en | https://github.com/gogoprog/motuz         | Javascript | "Multilanguage support    | without keyboard"                                                      |
 
 - From day-0 the challenging part I knew will be to get an Odia keyboard.
 - Most of the solutions use the default English keyboard.
 
 ### Tamil-Wordle
 
-
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643401469305/jyoRantQAr.png)
 
-- I have been a Python programmer, I was looking for a Python-based solution, the Tamil-wordle was written in Golang. I learned (and forgot 😀) Golang in IBM, therefore I was a bit confident about it that I can recall the concepts and apply them. The project has a backend and a frontend. 
+- I have been a Python programmer, I was looking for a Python-based solution, the Tamil-wordle was written in Golang. I learned (and forgot 😀) Golang in IBM, therefore I was a bit confident about it that I can recall the concepts and apply them. The project has a backend and a frontend.
 - The front end makes calls to the backend Golang server, where the validation and verification happen.
-- The main branch was based on CLI and the UI was in progress. 
+- The main branch was based on CLI and the UI was in progress.
 - There were two UI PRs were there, One UI PR (Pull Request) was built in ReactJS, which caught my attention.
 - It had a Tamil keyboard with Alternate row functionality using the Shift key i.e. in one row you can display two rows of keys. One row normal key (the vowels) and another row (the corresponding matra/diacritics) with pressing the Shift key.
 
@@ -87,7 +82,6 @@ After playing the game and keeping the end goal in mind, I have gathered the fol
 - An Indic (Tamil) keyboard support that can be easily transformed into an Odia keyboard.
 - Golang backend and ReactJS frontend I have knowledge once upon a time, I can recall once I see the code.
 
-
 #### Cons
 
 - It was not maintained seriously, no commit for 6 days. A lot of risk on future support and maintenance.
@@ -95,7 +89,6 @@ After playing the game and keeping the end goal in mind, I have gathered the fol
 - The UI PR was not exactly like the original wordle game, but far from it.
 
 ### ReactJS/Tailwind Wordle
-
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643401444745/Aj0h8rLy6.png)
 
@@ -109,8 +102,6 @@ After playing the game and keeping the end goal in mind, I have gathered the fol
 
 - SImple clean UI; mimics the original Wordle to a large extent.
 
-
-
 ![Overall Flow.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643433841981/qsSVIiX1M.png)
 
 - There was no backend or server-side scripting involved. Just load the website and you are all set. No back and forth API calls I need to make.
@@ -122,9 +113,7 @@ After playing the game and keeping the end goal in mind, I have gathered the fol
 - No Odia keyboard support
 - I have written many programs in Natural Language Processing in Python, but I had absolutely no idea how can I use Typescript to do text/word comparison.
 
-
 ### Thai-Wordle
-
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643401507647/HU1x9J_pj.png)
 
@@ -139,9 +128,8 @@ After playing the game and keeping the end goal in mind, I have gathered the fol
 
 #### Cons
 
-- In a new framework called *Svelte* which I have never heard of before. Not even have the slightest clue. Googled a bit and got to know about it, but not much comfortable.
+- In a new framework called _Svelte_ which I have never heard of before. Not even have the slightest clue. Googled a bit and got to know about it, but not much comfortable.
 - The UI was not as beautiful as the previous Tailwind one.
-
 
 ## 🙋🏻‍♀️ Do we have a winner? (କେହି ବିଜେତା ମିଳିଲେ କି?)
 
@@ -151,7 +139,7 @@ After playing the game and keeping the end goal in mind, I have gathered the fol
 ![wordle-1.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1643402102222/HGpAETbbB.jpeg)
 
 - The non-acceptance of this UI PR haunted me down. Every passing day the risk was getting higher and higher.
-- One fine day I decided to try my hands on the Tailwind Wordle one. 
+- One fine day I decided to try my hands on the Tailwind Wordle one.
 - Used the multi-key row structure from the Thai Wordle to design the keyboard. In Tamil-wordle it was taking Unicode, but here I had to give the actual value of the keys.
 - It took me some time to understand why the name is **Type**script, everything you write should have a predefined type associated with it.
 
@@ -174,33 +162,51 @@ To
 
 ### 2. Merging diacritics into the current cell 📦
 
-- Each key was taken as a single letter therefore, writing diacritics like *aa' kaar matra* ('ା') was written into the new cell on the grid as an independent letter.
+- Each key was taken as a single letter therefore, writing diacritics like _aa' kaar matra_ ('ା') was written into the new cell on the grid as an independent letter.
 - To merge diacritics with the non-diacritics, I have used the code snippet from [Tamil-wordle](https://github.com/tecoholic/tamil-wordle/blob/a9db5ca535c41c6babac71287a3c8135682e1ce1/ui/src/utils.js#L33)
 - Directly it was not possible to use, have to modify it for Typescript.
 - Also I have to make further changes to do unlimited diacritics overlap with the letters, this is to write complex letters like: 'ରାଷ୍ଟ୍ର'
 - Later on, to simplify, I got rid of the diacritics Object and made it an array of strings.
 
 ```typescript
-export const diacritics: string[] = [  'ଁ',  'ଂ',  'ଃ',  '଼',  'ା',  'ି',  'ୀ',  'ୁ',  'ୂ',  'ୃ',  'ୄ',  'େ',  'ୈ',  'ୋ',  'ୌ',  '୍',  'ୖ',' ୗ',
-]
+export const diacritics: string[] = [
+  "ଁ",
+  "ଂ",
+  "ଃ",
+  "଼",
+  "ା",
+  "ି",
+  "ୀ",
+  "ୁ",
+  "ୂ",
+  "ୃ",
+  "ୄ",
+  "େ",
+  "ୈ",
+  "ୋ",
+  "ୌ",
+  "୍",
+  "ୖ",
+  " ୗ",
+];
 export function toOdiaLetters(word: string): string[] {
   // Joins Unicodes to Odia letters
-  let letters = []
+  let letters = [];
   for (let i = 0; i !== word.length; i++) {
-    let character: string = word[i]
+    let character: string = word[i];
     if (
       (diacritics.includes(character) && letters.length) ||
-      (i > 0 && word[i - 1] === '୍')
+      (i > 0 && word[i - 1] === "୍")
     ) {
-      letters[letters.length - 1] += character
-    } else letters.push(character)
+      letters[letters.length - 1] += character;
+    } else letters.push(character);
   }
-  return letters
+  return letters;
 }
 ```
 
 - It checks if the current key pressed is a diacritic, then merges with the previous cell.
-- Also if the previous key is *halant* then merges with the previous cell, to create Juktakhyara.
+- Also if the previous key is _halant_ then merges with the previous cell, to create Juktakhyara.
 
 ### 3. Writing diacritics and juktakhyara in the last box 🎁
 
@@ -218,14 +224,15 @@ export function toOdiaLetters(word: string): string[] {
 ![5-letters.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1644338519675/S8rAlZYWH.jpeg)
 
 - However, within no time, we got to know it is impossible for a common person to guess the 5 letter word, even if we gave them 10 chances.
-- Each letterbox can have ~50 possibilities. 5 letters 50 * 5 = 250 combinations; and with 10 chances. There is no way.
+- Each letterbox can have ~50 possibilities. 5 letters 50 \* 5 = 250 combinations; and with 10 chances. There is no way.
 - Initial trial runs were disasters.
 - Then we graded it down to 4 letter words.
 
 ![4-letter.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1644338549753/BHWZrL1iS.jpeg)
+
 - Even with that it took us some time to figure out the word in less than 10 iterations. The possibilities are vast.
 - There we realized the richness of the vocabulary of the Odia language.
-_ With the letters, when we add the diacritics and Juktakhyara Odia is an advanced language to represent a larger meaning in lesser space.
+  \_ With the letters, when we add the diacritics and Juktakhyara Odia is an advanced language to represent a larger meaning in lesser space.
 - In addition to feeling proud, it was a new challenge.
 - Finally, we made it down to 3 letter words.
 - In all these iterations, we never had a scarcity of words. We had 28,000+ 3 letter and 4 letter words. 10,000+ 5 letter words.
@@ -240,18 +247,22 @@ _ With the letters, when we add the diacritics and Juktakhyara Odia is an advanc
 - The length you see in your naked eye and for a computer are different.
 - While 'ବିଦ୍ରୋହ' looks like a 3 letter word.
 - To computer
+
 ```typescript
 >> 'ବିଦ୍ରୋହ'.length
 7
 ```
-- Which is a combination of 7 Unicode letters,  "ବ", "ି", "ଦ", "୍", "ର", "ୋ" and "ହ"
+
+- Which is a combination of 7 Unicode letters, "ବ", "ି", "ଦ", "୍", "ର", "ୋ" and "ହ"
 - To calculate the exact length was a challenge.
 
 ### 7. Fixing the length of the letters support 🤷🏻‍♀️
+
 - In the original English wordle, the maximum word length was 5 to reduce it to three and make necessary changes throughout the code by removing the hardcoded values.
 - As it is told, to start from scratch is easy, but to understand another developer's code and do changes is difficult. Everything has trade-offs.
 
 ### 8. Showcasing diacritics/juktakhyara mismatch 🙅🏻‍♀️ to users
+
 - This was a no-brainer.
 - Odia and almost all the Indic languages support matra/diacritics and juktakhyaras i.e. combination of two or more letters.
 - How to match these multiple Unicode letters and successfully display a reliable message to user was a challenge.
@@ -276,7 +287,6 @@ _ With the letters, when we add the diacritics and Juktakhyara Odia is an advanc
 - Got an issue with custom domain support for Vercel, that's why moved to Netlify.
 - The other branch builds' URLs [can not be deleted](https://answers.netlify.com/t/how-to-delete-old-deploys/11793) in Netlify, therefore using Vercel for other branch builds (beta testing of new features) and using Netlify for production custom website support.
 
-
 ## Rewind ⏪
 
 - We have gone through the motivation behind this project.
@@ -289,11 +299,11 @@ _ With the letters, when we add the diacritics and Juktakhyara Odia is an advanc
 - If you have an idea and do not have the necessary skills, find someone who can make it for you.
 - Sometimes you do not know if it can be done, the only way to know is by doing it.
 - Programming languages are just tools to solve problems. Do not get limited by a specific tool. To solve different problems, different tools are built.
-> “When something is important enough, you do it even if the odds are not in your favor.” – Elon Musk
+  > “When something is important enough, you do it even if the odds are not in your favor.” – Elon Musk
 - Emotions can make people do unimaginable things. That's what makes us human.
 
-
 ## 🔮 Future plans (ଭବିଷ୍ୟତ ଯୋଜନା)
+
 - Customized game specific to Odia Bhagabata by Jagannath Das, Sarala Mahabharata, and more.
 - Jumbled sentence prediction
 - Children education in school
@@ -302,14 +312,13 @@ _ With the letters, when we add the diacritics and Juktakhyara Odia is an advanc
 - Sentence auto-completion
 - Transliteration
 
-
 ## ✌🏼Conclusion (ସିଦ୍ଧାନ୍ତ)
 
 - All it took was a sincere effort towards the right direction and a lot of emotion towards your motherland.
 - People should take this as an inspiration that, yes whatever can be done in English, can be done in Indic languages too, can be done in Odia too.
 - It has been just 10 days and we have more than 1,700 unique users from 25+ countries. More on that later.
 - Thanks for your time. Please check out the game here: [www.ଶବ୍ଦରସ.com](https://ଶବ୍ଦରସ.com)
-As always, please provide your valuable feedback.
+  As always, please provide your valuable feedback.
 - Check out other versions of the Wordle in [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) and in [Wordle Alternatives](https://aloneonahill.com/blog/wordle-alternatives/)
 
 ## 🙏🏼 Acknowledgements
@@ -335,7 +344,7 @@ If you find this article useful, please cite this using:
 }
 ```
 
------
+---
 
 Let me know what you think at any of the following places:
 

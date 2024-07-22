@@ -8,7 +8,6 @@ tags=["Machine Learning"]
 
 ## Choosing an ML estimators
 
-
 Approaching the problem
 
 **Problem**
@@ -36,13 +35,13 @@ Two also very important aspects we, enthusiastic developers, tend to forget is t
 
 **Can Machine Learning solve this problem?[^2]**
 
-![Traditional programming vs ML approach [[source](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634083515/0kc7povZy.html)]](https://cdn-images-1.medium.com/max/2000/1*T643niQJlKeYRYb5DpmVQQ.png)*Traditional programming vs ML approach [[source](https://cai.tools.sap/blog/machine-learning-algorithms/)]*
+![Traditional programming vs ML approach [[source](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634083515/0kc7povZy.html)]](https://cdn-images-1.medium.com/max/2000/1*T643niQJlKeYRYb5DpmVQQ.png)_Traditional programming vs ML approach [[source](https://cai.tools.sap/blog/machine-learning-algorithms/)]_
 
 **Is it an automation problem or learning problem?**
 
-* Hedge funds automatically filtering out bad data in the form of a negative value for trading volume, which can’t be negative is an automation problem.
+- Hedge funds automatically filtering out bad data in the form of a negative value for trading volume, which can’t be negative is an automation problem.
 
-* On the other hand, encoding human language into a structured dataset is something that is just a tad too ambitious for a straightforward set of rules
+- On the other hand, encoding human language into a structured dataset is something that is just a tad too ambitious for a straightforward set of rules
 
 When automation rules become too complex then ML comes into the picture. ML will find patterns on deciding.
 
@@ -71,57 +70,57 @@ Evaluate the extent to which you can allow for exceptions or statistical errors 
 
 ## Possible Algorithms
 
-![Source: [Sci-kit learn library of Python](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634085177/t1NY9j7YE.html)](https://cdn-images-1.medium.com/max/3150/1*AotLqUBWRytEpzQBol9BxQ.png)*Source: [Sci-kit learn library of Python](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)*
+![Source: [Sci-kit learn library of Python](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634085177/t1NY9j7YE.html)](https://cdn-images-1.medium.com/max/3150/1*AotLqUBWRytEpzQBol9BxQ.png)_Source: [Sci-kit learn library of Python](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)_
 
-![A list of ML algorithms](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634086713/H3C6lo8cb.png)*A list of ML algorithms*
+![A list of ML algorithms](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634086713/H3C6lo8cb.png)_A list of ML algorithms_
 
 Once the problem statement is defined, the minimum dataset requirement tick marked, and you have decided to go with the ML approach, you need to identify a class of algorithms out of the following lists:
 
 1. Supervised
 
-* Classification
+- Classification
 
-* Regression
+- Regression
 
 1. Unsupervised
 
-* Clustering
+- Clustering
 
-* Recommendation or Association rule
+- Recommendation or Association rule
 
 ## Supervised ML
 
 If you have more than 50 samples[^5] of labeled data and a defined output requirement you can start with Supervised Learning.
 
 Based on the target variable the algorithm needs to be determined as a classification or regression.
- Before going further [data analysis](https://ibm.ent.box.com/notes/399010199242?s=l5k82gsy8f9b98c2w3jq9pu5ptr8mo9m) and [feature selection](https://ibm.ent.box.com/notes/398583032178?s=aau86pchy6i1an6howhquunj86zwsar0) need to be done as described in these articles.
+Before going further [data analysis](https://ibm.ent.box.com/notes/399010199242?s=l5k82gsy8f9b98c2w3jq9pu5ptr8mo9m) and [feature selection](https://ibm.ent.box.com/notes/398583032178?s=aau86pchy6i1an6howhquunj86zwsar0) need to be done as described in these articles.
 
 **Classification**
 
-![Source: [https://cdn.hashnode.com/res/hashnode/image/upload/v1629634090739/KG66lVCu2.pdf](http://www.cs.cmu.edu/~aarti/Class/10701/MLAlgo_Comparisons.pdf)](https://cdn-images-1.medium.com/max/2000/1*CwfV0qrMx_d0xrhlrKygcQ.png)*Source: [http://www.cs.cmu.edu/~aarti/Class/10701/MLAlgo_Comparisons.pdf](http://www.cs.cmu.edu/~aarti/Class/10701/MLAlgo_Comparisons.pdf)*
+![Source: [https://cdn.hashnode.com/res/hashnode/image/upload/v1629634090739/KG66lVCu2.pdf](https://www.cs.cmu.edu/~aarti/Class/10701/MLAlgo_Comparisons.pdf)](https://cdn-images-1.medium.com/max/2000/1*CwfV0qrMx_d0xrhlrKygcQ.png)_Source: [https://www.cs.cmu.edu/~aarti/Class/10701/MLAlgo_Comparisons.pdf](https://www.cs.cmu.edu/~aarti/Class/10701/MLAlgo_Comparisons.pdf)_
 
 If the target variable(s) is discrete (categorical/nominal/ordinal) classification algorithm need to be used.
 
-* Logistic Regression
+- Logistic Regression
 
-* Naïve Bayes classifier
+- Naïve Bayes classifier
 
-* Support vector machines
+- Support vector machines
 
-* Decision trees
+- Decision trees
 
-* Boosted trees
+- Boosted trees
 
-* Random forest
+- Random forest
 
-* Neural networks
+- Neural networks
 
-* K-Nearest neighbors
+- K-Nearest neighbors
 
 **How to select the right classification algorithm?[^6]**
 
 Logistic regression is the de facto algorithm to start with solving classification problems. It is **fast and explainable**. However, it works only for binary classification and does not accept null values in any features.
- Naïve Bayes can outperform Logistic regression if the independent features are **not correlated** to each other. It can work with a large number of data sets[^7].
+Naïve Bayes can outperform Logistic regression if the independent features are **not correlated** to each other. It can work with a large number of data sets[^7].
 
 SGD (Stochastic Gradient Descent) can handle a large number of input data sets with its pre-built various **loss functions**. It is very efficient for linear models. However, it requires many hyperparameters and sensitive to feature scaling.
 
@@ -136,17 +135,17 @@ Common practice: Based on the use case and data the probable similar algorithms 
 ## Regression
 
 If the target variable(s) is continuous then regression algorithms need to be used.
- The common algorithms can be used:
+The common algorithms can be used:
 
-* Linear regression
+- Linear regression
 
-* Polynomial regression
+- Polynomial regression
 
-* Ridge regression
+- Ridge regression
 
-* Lasso regression
+- Lasso regression
 
-* ElasticNet regression
+- ElasticNet regression
 
 ## How to select the right regression model?
 
@@ -170,19 +169,11 @@ However, we have to remember the strengths and weakness of the estimators, which
 ## References:
 
 [^1]: [https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
-
 [^2]: [https://cai.tools.sap/blog/machine-learning-algorithms/](https://cai.tools.sap/blog/machine-learning-algorithms/)
-
 [^3]: [https://hbr.org/2016/11/how-to-tell-if-machine-learning-can-solve-your-business-problem](https://hbr.org/2016/11/how-to-tell-if-machine-learning-can-solve-your-business-problem)
-
 [^4]: [https://hbr.org/2016/11/how-to-tell-if-machine-learning-can-solve-your-business-problem](https://hbr.org/2016/11/how-to-tell-if-machine-learning-can-solve-your-business-problem)
-
 [^5]: [https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
-
 [^6]: [https://www.analyticsindiamag.com/7-types-classification-algorithms/](https://www.analyticsindiamag.com/7-types-classification-algorithms/)
-
-[^7]: [http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
-
+[^7]: [https://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/](https://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
 [^8]: [https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/](https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/)
-
 [^9]: [https://www.toptal.com/machine-learning/ensemble-methods-machine-learning](https://www.toptal.com/machine-learning/ensemble-methods-machine-learning)

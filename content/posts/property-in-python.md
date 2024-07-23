@@ -1,7 +1,7 @@
 +++
 title = "@property in Python"
 date = "2023-03-18"
-cover = "https://cdn.hashnode.com/res/hashnode/image/upload/v1678992304060/3e33f3c6-96c8-40dd-ae6d-d792d00492c9.png"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1678992304060/3e33f3c6-96c8-40dd-ae6d-d792d00492c9.png"
 
 [taxonomies]
 tags=["python", "python3", "property", "decorators", "getter-and-setter"]

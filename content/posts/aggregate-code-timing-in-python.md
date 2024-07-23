@@ -1,7 +1,7 @@
 +++
 title = "Aggregate Code timing in Python"
 date = "2022-07-20"
-cover = "https://cdn.hashnode.com/res/hashnode/image/upload/v1658288950375/TftmgLoJ1.png"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1658288950375/TftmgLoJ1.png"
 
 [taxonomies]
 tags=["programming", "python", "performance", "code-timing"]
@@ -37,7 +37,6 @@ This decorator can be used by decorating a function to get the time spent.
 What if you want to aggregate this timing data in a timeframe, like how many times this function has been called, and what the maximum time is taken, for that, we need to use a library called [codetiming](https://github.com/realpython/codetiming).
 Here is a sample use case:
 
-
 ```python
 # pip install codetiming
 # pip install humanfriendly
@@ -66,6 +65,7 @@ def get_aggregated_timings(cls):
     Timer.timers.clear()  # clears all the timer data
 
 ```
+
 This will find the aggregated time spent by `my_func`. Let's go through what each one of them will log:
 
 - _count_: Number of times the function has been called.
@@ -82,6 +82,6 @@ Do you want to use an in-memory LRU cache with a timeout, you may check out this
 
 %[https://blog.soumendrak.com/cache-heavy-computation-functions-with-a-timeout-value]
 
-I post on Python programming on my Twitter handle, you can follow me [@soumendrak_](https://www.twitter.com/soumendrak_).
+I post on Python programming on my Twitter handle, you can follow me [@soumendrak\_](https://www.twitter.com/soumendrak_).
 
 [My website](https://www.soumendrak.com)

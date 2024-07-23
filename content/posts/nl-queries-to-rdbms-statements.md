@@ -1,7 +1,7 @@
 +++
 title = "Converting NL queries to RDBMS statements"
 date = "2018-10-20"
-cover = "https://cdn.hashnode.com/res/hashnode/image/unsplash/fPkvU7RDmCo/upload/v1658418588790/lftnHJZJd.jpeg"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/unsplash/fPkvU7RDmCo/upload/v1658418588790/lftnHJZJd.jpeg"
 
 [taxonomies]
 tags=["programming", "python", "nlp", "sql"]

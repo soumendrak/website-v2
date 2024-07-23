@@ -4,7 +4,7 @@ description = "Managing the CFP process for PyCon India 2019 and 2023."
 weight = 1
 
 [extra]
-local_image = "/images/pyconInd2023.jpg"
+og_preview_img = "/images/pyconInd2023.jpg"
 +++
 
 ## About project

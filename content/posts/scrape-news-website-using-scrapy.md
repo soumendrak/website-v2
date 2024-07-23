@@ -1,11 +1,12 @@
 +++
 title = "Scrape News website using Scrapy"
 date = "2021-12-04"
-cover = "https://cdn.hashnode.com/res/hashnode/image/upload/v1638618116576/plUi0Ufdw.png"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1638618116576/plUi0Ufdw.png"
 
 [taxonomies]
 tags=["programming", "python", "nlp", "odia"]
 +++
+
 ## Scrape News website using Scrapy
 
 # Abstract
@@ -15,7 +16,7 @@ To feed data-hungry NLP models of recent times, I have scraped 5,50,000+ news ar
 # Introduction
 
 - Odia being a vocabulary rich (ଶବ୍ଦକୋଷ ସମୃଦ୍ଧ) language, has very little presence over the internet to feed the data-hungry giants of the latest developments in NLP.
-- There has been a constant demand for Odia corpus for these NLP tasks. 
+- There has been a constant demand for Odia corpus for these NLP tasks.
 - After the demand from various forums, the news publisher of Odisha upgraded themselves from uploading only e-papers (physical newspaper scan) to writing actual articles of news in Odia Unicode format on their websites.
 - Almost all the major Odia news agencies have been posting articles over the internet since 2019.
 - Therefore, I believed in two years enough data should have been there for me to extract to build a large corpus (ଭଣ୍ଡାର).
@@ -26,7 +27,7 @@ To feed data-hungry NLP models of recent times, I have scraped 5,50,000+ news ar
 
 ### Reduce the housekeeping tasks
 
-- Earlier I had written a [Wikipedia parser](https://github.com/OdiaNLP/wikipedia-corpus) to get data from Odia Wikipedia while using [Beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/) python library. 
+- Earlier I had written a [Wikipedia parser](https://github.com/OdiaNLP/wikipedia-corpus) to get data from Odia Wikipedia while using [Beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/) python library.
 - However, that involves many housekeeping tasks like building your own POST requests, sleeping in case of failure/rate-limiting and not being scalable.
 - I need to develop something easily without many maintenance tasks to keep track of.
 
@@ -35,15 +36,14 @@ To feed data-hungry NLP models of recent times, I have scraped 5,50,000+ news ar
 - How can I leverage the existing open-source library/framework to make it easy for beginners?
 - Just give only the minimum fields like where to crawl, what to scrape and what to store and it should handle the rest.
 
-
 ## Possible Solutions
 
 In the quest of resolving the above problems I scouted over the following libraries:
 
 1. [Beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
 2. [Lxml](https://lxml.de/)
-2. [Selenium](https://selenium-python.readthedocs.io/)
-3. [Scrapy](https://scrapy.org/)
+3. [Selenium](https://selenium-python.readthedocs.io/)
+4. [Scrapy](https://scrapy.org/)
 
 ## Why did I choose Scrapy
 
@@ -63,11 +63,10 @@ Scrapy was on my radar for at least a couple of years. Due to procrastination, I
 
 # How did I do this?
 
-
 ![Scrapy.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1638606496109/9m5Dck3da.png)
 
 I have explained in a deep dive video, how I did it, you can refer to it.  
-*Disclaimer: this video is in Odia language.*
+_Disclaimer: this video is in Odia language._
 
 {{ youtube(id="1DCpznINiX4") }}
 
@@ -84,14 +83,13 @@ def fetch_start_urls():
     end_date = date.today()  # current date
     delta = timedelta(days=1) # getting the archive pages, one day at a time
     urls = []
-    
-    # Iterate though all the days starting from start date to today 
+
+    # Iterate though all the days starting from start date to today
     while start_date <= end_date:
         urls += [f"https://sambad.in/date/{start_date.strftime('%Y/%m/%d')}"]
         start_date += delta
     return urls
 ```
-
 
 Broadly, there are two XPath expressions used:
 
@@ -108,10 +106,10 @@ Broadly, there are two XPath expressions used:
 ```python
 Rule(LinkExtractor(restrict_xpaths="//a[@class='btn-bs-pagination next']"), follow=True)
 ```
+
 - The first rule is about the horizontal crawling browsing through all the websites in a day's archive by clicking through the `ପରବର୍ତ୍ତୀ ପୃଷ୍ଠା` (next) button.
 - You can check this web page for the 4th December's [archive page](https://sambad.in/date/2021/12/04/)
 - `follow=True` means crawl through the link and process it in the same Spider logic.
-
 
 ## Vertical crawling
 
@@ -121,6 +119,7 @@ Rule(LinkExtractor(restrict_xpaths="//a[@class='btn-bs-pagination next']"), foll
 ```python
 Rule(LinkExtractor(restrict_xpaths="//a[@class='post-title post-url']"), follow=True, callback='parse_item')
 ```
+
 - In this rule, we direct the spider to fetch the URL of the XPath element and parse that link as mentioned in the function, `parse_item`.
 - This is vertical crawling into individual posts from the daily archive post page.
 
@@ -187,28 +186,33 @@ class SambadSpider(CrawlSpider):
                     MapCompose(lambda text: text.strip()), Join())
         return l.load_item()
 ```
+
 The full source code can be found here: https://bit.ly/OdiaNLPSambad
 
 # Data scraped
 
 News website and corresponding articles data extracted
 
-
-| Website                | # of Articles     |      Size        |
-|:------------------|----------------|:------------|
-| Sambad | 2,38,680  | 947 MB |
-| Dharitri  | 1,21,368 | 388.2 MB |
-| Samaja  | 1,02,671 | 356.7 MB|
-| Prameya| 70,918| 270.7 MB|
-| Pragativadi | 12,987 | 36.1 MB |
-| Samaya | 3,220 | 8.6 MB |
+| Website     | # of Articles | Size     |
+| :---------- | ------------- | :------- |
+| Sambad      | 2,38,680      | 947 MB   |
+| Dharitri    | 1,21,368      | 388.2 MB |
+| Samaja      | 1,02,671      | 356.7 MB |
+| Prameya     | 70,918        | 270.7 MB |
+| Pragativadi | 12,987        | 36.1 MB  |
+| Samaya      | 3,220         | 8.6 MB   |
 
 - The datasets are in [Kaggle](https://bit.ly/3dj5nGz).
 
 ### Sample Article
 
 ```json
-{"header": [" ରଥଖଳାରେ ନିର୍ମାଣ ହେବ ରଥ; ଯାତ୍ରା ନିଷ୍ପତ୍ତି ନେବେ ରାଜ୍ୟସରକାର"], "content": [" Edited by Papu Mohanty  ଭୁବନେଶ୍ୱର, (ସବୁ୍ୟ): 07/05:ରଥ ନିର୍ମାଣ ନେଇ କେନ୍ଦ୍ରସରକାର ରାଜ୍ୟକୁ ଦେଇଛନ୍ତି ସବୁଜ ସଙ୍କେତ । ଏ ସମ୍ପର୍କରେ କେନ୍ଦ୍ର ଗୃହମନ୍ତ୍ରଣାଳୟ ପକ୍ଷରୁ ଓଡିଶା ମୁଖ୍ୟ ସଚିବଙ୍କୁ ଚିଠି ଲେଖି ଅନୁମତି ପ୍ରଦାନ ସମ୍ପର୍କରେ ଜଣାଇଦିଆଯାଇଛି । ତେବେ ଏହି ଅନୁମତି ସର୍ତମୂଳକ । ଗୃହମନ୍ତ୍ରଣାଳୟର ସର୍ତ୍ତ ଅନୁସାରେ ରଥଖଳାରେ ରଥ ନିର୍ମାଣ କାର୍ଯ୍ୟ କରାଯିବ ତେବେ ସେଠାରେ କୌଣସି ଧାର୍ମିକ ଏକତ୍ରୀ କରଣ ହୋଇପାରିବନି । ସାମାଜି ଦୂରତାର କଡା ଅନୁପାଳନ ହେବ । ଲକ୍‌ଡାଉନ୍‌ ସର୍ମ୍ପକିତ ସମସ୍ଥ ଗାଇଡ୍‌ଲାଇନକୁ କଡାକଡି ଭାବେ ପାଳନ କରାଯିବ । ସୂଚନାଯୋଗ୍ୟ ଯେ ରଥଯାତ୍ରା ପାଇଁ ରାଜ୍ୟ ସରକାର କେନ୍ଦ୍ରକୁ ଅନୁମତି ମାଗିଥିଲେ । ତେବେ ରଥ ନିର୍ମାଣ ପାଇଁ କେନ୍ଦ୍ର ସବୁଜ ସଙ୍କେତ ଦେଇଥିଲେ ମଧ୍ୟ ରଥଯାତ୍ରା ହେବକି ନାହିଁ ତାହାର ନିଷ୍ପତ୍ତି ରାଜ୍ୟସରକାରଙ୍କ ଉପରେ ଛାଡିଦେଇଛନ୍ତି । ରଥଯାତ୍ରା ହେବକିନାହିଁ ସେତେବେଳର ସ୍ଥିତିକୁ ଆକଳନ କରି ଯାହା ନିଷ୍ପତ୍ତି ରାଜ୍ୟସରକାର ନେବେବୋଲି କୁହାଯାଇଛି ।  "]}
+{
+  "header": [" ରଥଖଳାରେ ନିର୍ମାଣ ହେବ ରଥ; ଯାତ୍ରା ନିଷ୍ପତ୍ତି ନେବେ ରାଜ୍ୟସରକାର"],
+  "content": [
+    " Edited by Papu Mohanty  ଭୁବନେଶ୍ୱର, (ସବୁ୍ୟ): 07/05:ରଥ ନିର୍ମାଣ ନେଇ କେନ୍ଦ୍ରସରକାର ରାଜ୍ୟକୁ ଦେଇଛନ୍ତି ସବୁଜ ସଙ୍କେତ । ଏ ସମ୍ପର୍କରେ କେନ୍ଦ୍ର ଗୃହମନ୍ତ୍ରଣାଳୟ ପକ୍ଷରୁ ଓଡିଶା ମୁଖ୍ୟ ସଚିବଙ୍କୁ ଚିଠି ଲେଖି ଅନୁମତି ପ୍ରଦାନ ସମ୍ପର୍କରେ ଜଣାଇଦିଆଯାଇଛି । ତେବେ ଏହି ଅନୁମତି ସର୍ତମୂଳକ । ଗୃହମନ୍ତ୍ରଣାଳୟର ସର୍ତ୍ତ ଅନୁସାରେ ରଥଖଳାରେ ରଥ ନିର୍ମାଣ କାର୍ଯ୍ୟ କରାଯିବ ତେବେ ସେଠାରେ କୌଣସି ଧାର୍ମିକ ଏକତ୍ରୀ କରଣ ହୋଇପାରିବନି । ସାମାଜି ଦୂରତାର କଡା ଅନୁପାଳନ ହେବ । ଲକ୍‌ଡାଉନ୍‌ ସର୍ମ୍ପକିତ ସମସ୍ଥ ଗାଇଡ୍‌ଲାଇନକୁ କଡାକଡି ଭାବେ ପାଳନ କରାଯିବ । ସୂଚନାଯୋଗ୍ୟ ଯେ ରଥଯାତ୍ରା ପାଇଁ ରାଜ୍ୟ ସରକାର କେନ୍ଦ୍ରକୁ ଅନୁମତି ମାଗିଥିଲେ । ତେବେ ରଥ ନିର୍ମାଣ ପାଇଁ କେନ୍ଦ୍ର ସବୁଜ ସଙ୍କେତ ଦେଇଥିଲେ ମଧ୍ୟ ରଥଯାତ୍ରା ହେବକି ନାହିଁ ତାହାର ନିଷ୍ପତ୍ତି ରାଜ୍ୟସରକାରଙ୍କ ଉପରେ ଛାଡିଦେଇଛନ୍ତି । ରଥଯାତ୍ରା ହେବକିନାହିଁ ସେତେବେଳର ସ୍ଥିତିକୁ ଆକଳନ କରି ଯାହା ନିଷ୍ପତ୍ତି ରାଜ୍ୟସରକାର ନେବେବୋଲି କୁହାଯାଇଛି ।  "
+  ]
+}
 ```
 
 # Future scopes
@@ -227,7 +231,6 @@ News website and corresponding articles data extracted
 - [Official documentation](https://docs.scrapy.org/en/latest/intro/tutorial.html)
 - [A Minimalist End-to-End Scrapy Tutorial](https://towardsdatascience.com/a-minimalist-end-to-end-scrapy-tutorial-part-i-11e350bcdec0)
 - [Tutorials Point](https://www.tutorialspoint.com/scrapy/index.htm)
-
 
 ## Video-based
 

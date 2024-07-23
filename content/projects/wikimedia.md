@@ -5,7 +5,7 @@ weight = 2
 
 [extra]
 # You can also crop the image in the url by adjusting w=/h=
-local_image = "/images/wikimedia_projects.jpg"
+og_preview_img = "/images/wikimedia_projects.jpg"
 +++
 
 ## About project

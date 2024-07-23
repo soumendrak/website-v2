@@ -1,7 +1,7 @@
 +++
 title = "PyCon India 2023: Insights from the CFP Workgroup"
 date = "2023-10-05"
-cover = "https://cdn.hashnode.com/res/hashnode/image/upload/v1696489627921/cffbf53a-fe06-4ea7-8b0a-e1cd826ba3bb.png"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1696489627921/cffbf53a-fe06-4ea7-8b0a-e1cd826ba3bb.png"
 
 [taxonomies]
 tags=["cfp", "pycon", "pyconindia2023", "pyconindia", "pycon2023"]

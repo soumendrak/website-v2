@@ -1,7 +1,7 @@
 +++
 title = "Multiple return values from a function"
 date = "2023-02-18"
-cover = "https://cdn.hashnode.com/res/hashnode/image/upload/v1676611821562/9103d75a-efdd-4409-812b-d656c1ffcac6.png"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1676611821562/9103d75a-efdd-4409-812b-d656c1ffcac6.png"
 
 [taxonomies]
 tags=["go", "developer", "beginners", "go-lang", "programming-tips"]

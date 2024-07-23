@@ -1,7 +1,7 @@
 +++
 title = "10 Python Libraries Every AI/ML Developer Should Know"
 date = "2023-02-26"
-cover = "https://cdn.hashnode.com/res/hashnode/image/upload/v1676651780964/3d80f53c-4980-47d9-aef3-06daad710f82.png"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1676651780964/3d80f53c-4980-47d9-aef3-06daad710f82.png"
 
 [taxonomies]
 tags=["ai", "python", "machine-learning", "ml", "python-beginner"]

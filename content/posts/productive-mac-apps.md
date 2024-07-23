@@ -1,7 +1,7 @@
 +++
 title = "Productive Mac Apps"
 date = "2022-07-21"
-cover = "https://cdn.hashnode.com/res/hashnode/image/upload/v1658292984606/fM6SHT77N.png"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1658292984606/fM6SHT77N.png"
 
 [taxonomies]
 tags=["mac", "productivity", "macbook", "tools", "macos"]

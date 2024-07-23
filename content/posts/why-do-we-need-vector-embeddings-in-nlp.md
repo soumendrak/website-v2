@@ -1,7 +1,7 @@
 +++
 title = "Why do we need vector embeddings in NLP?"
 date = "2022-04-06"
-cover = "https://cdn.hashnode.com/res/hashnode/image/unsplash/Wpnoqo2plFA/upload/v1649222144375/mPhlpbYBG.jpeg"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/unsplash/Wpnoqo2plFA/upload/v1649222144375/mPhlpbYBG.jpeg"
 
 [taxonomies]
 tags=["interview", "artificial-intelligence", "machine-learning", "nlp", "technical-interview"]

@@ -1,7 +1,7 @@
 +++
 title = "Go: Let's start"
 date = "2022-12-25"
-cover = "https://cdn.hashnode.com/res/hashnode/image/upload/v1671933984028/70e76930-0502-4642-9024-a20394c47287.png"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1671933984028/70e76930-0502-4642-9024-a20394c47287.png"
 
 [taxonomies]
 tags=["go", "go-tutorial"]

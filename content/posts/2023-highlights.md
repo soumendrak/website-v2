@@ -1,7 +1,7 @@
 +++
 title = "2023: Highlights"
 date = "2023-12-30"
-cover = "https://cdn.hashnode.com/res/hashnode/image/upload/v1703936041639/381f62de-408d-4bb0-89b7-45bd78e34dd3.png"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1703936041639/381f62de-408d-4bb0-89b7-45bd78e34dd3.png"
 
 [taxonomies]
 tags=["yearinreview", "2023", "year-in-a-review"]

@@ -1,7 +1,7 @@
 +++
 title = "Finding RCA of an Issue"
 date = 2022-12-06
-cover = "https://cdn.hashnode.com/res/hashnode/image/upload/v1670300636929/KoZEGmKA5.png"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1670300636929/KoZEGmKA5.png"
 
 [taxonomies]
 tags=["debug", "debugging", "rca", "production-bug", "root-cause-analysis"]

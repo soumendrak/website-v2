@@ -4,7 +4,7 @@ description = "Developed a word based game for Odia language"
 weight = 4
 
 [extra]
-local_image = "/images/shabdarasa.png"
+og_preview_img = "/images/shabdarasa.png"
 +++
 
 ## About project

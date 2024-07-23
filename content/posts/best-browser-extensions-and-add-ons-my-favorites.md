@@ -1,7 +1,7 @@
 +++
 title = "Best Browser Extensions and Add-ons: My Favorites"
 date = "2022-07-16"
-cover = "https://cdn.hashnode.com/res/hashnode/image/unsplash/JySoEnr-eOg/upload/v1657996502846/rCvKyQYyj.jpeg"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/unsplash/JySoEnr-eOg/upload/v1657996502846/rCvKyQYyj.jpeg"
 
 [taxonomies]
 tags=["productivity", "web-extensions", "web-addons"]

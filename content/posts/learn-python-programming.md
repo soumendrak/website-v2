@@ -1,7 +1,7 @@
 +++
 title = "Learn Python Programming"
 date = "2022-11-07"
-cover = "https://cdn.hashnode.com/res/hashnode/image/upload/v1667799350414/-GJaIF4jQ.png"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1667799350414/-GJaIF4jQ.png"
 
 [taxonomies]
 tags=["python", "python3", "beginners", "python-beginner", "python-projects"]

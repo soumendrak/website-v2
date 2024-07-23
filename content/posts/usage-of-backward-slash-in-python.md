@@ -1,7 +1,7 @@
 +++
 title = "The Importance of Backward Slashes in Python and How to Use Them"
 date = "2022-12-10"
-cover = "https://cdn.hashnode.com/res/hashnode/image/upload/v1670651985360/HSpKtnzfC.png"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1670651985360/HSpKtnzfC.png"
 
 
 [taxonomies]

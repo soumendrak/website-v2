@@ -1,7 +1,7 @@
 +++
 title = "Optimize your Python code"
 date = "2018-10-20"
-cover = "https://cdn.hashnode.com/res/hashnode/image/upload/v1629634098473/3sDv0wc4G.png"
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1629634098473/3sDv0wc4G.png"
 
 [taxonomies]
 tags=["programming", "python", "optimization", "performance", "design-patterns"]

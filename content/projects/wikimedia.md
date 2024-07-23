@@ -42,6 +42,7 @@ Wikimedia Projects encompass a wide range of collaborative initiatives driven by
 | 2020 | TTT | Pan India-level participants came for Train The Trainer conference. |
 | 2023 | WTS | 2nd Wikimedia Technology Summit |
 | 2023 | WCI | Participants from all over the world visited to Wikimedia Conference India.
+
 ** All the conferences attended as a scholarship participants. Wikimedia covered my travel and accommodation expenses.
 
 ## Rewards and Recognitions

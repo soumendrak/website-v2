@@ -1,4 +1,6 @@
 {% if config.extra.footer %}
 <hr>
-<center><small>{{ config.extra.footer | markdown | safe }}</small></center>
+<footer>
+    <center><small>{{ config.extra.footer | markdown | safe }}</small></center>
+</footer>
 {% endif %}

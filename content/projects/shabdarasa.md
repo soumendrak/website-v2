@@ -40,7 +40,7 @@ Shabdarasa is a word puzzle game (like wordle) for Odia language.
 ## Rewards and Recognition
 * Sambad newspaper posted [an article](https://web.archive.org/web/20220222124228/https://sambad.in/state/odia-wordle-sabda-rasa-781088/) about Shabdarasa.
 
-{{ youtube(id="v=Hjq1Z2XunOM") }}
+{{ youtube(id="Hjq1Z2XunOM") }}
 
 ## Other Resources
 * [Main Website](https://www.shabdarasa.com/)

@@ -55,9 +55,9 @@ Wikimedia Projects encompass a wide range of collaborative initiatives driven by
 ## Other resources
 * [180+ Articles](https://pageviews.wmcloud.org/userviews/?project=or.wikipedia.org&platform=all-access&agent=user&namespace=0&redirects=0&range=latest-20&sort=views&direction=1&view=list&user=Soumendrak) created and 7000+ edits in Odia Wikipedia.
 
-{{ youtube(id="v=Evp9hgA9GTY") }}
+{{ youtube(id="Evp9hgA9GTY") }}
 *Tutorial Video*
-{{ youtube(id="v=C7BN2V6KDVg") }}
+{{ youtube(id="C7BN2V6KDVg") }}
 *Interview with Odia Wikipedia Community*
 * Other CC-BY-SA-4.0 license medias of mine in [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Soumendra_Kumar_Sahoo).
 * Appreciation for Organizing Param Vir Chakra Editathon

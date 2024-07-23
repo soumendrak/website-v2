@@ -5,7 +5,7 @@ base_url = "https://www.soumendrak.com"
 
 # The site title and description; used in feeds by default.
 title = "Soumendra Kumar Sahoo"
-description = "Soumendra's personal blog and website" 
+description = "Soumendra's blog and website" 
 
 # The default language; used in feeds.
 default_language = "en"
@@ -40,7 +40,7 @@ ignored_content = []
 ignored_static = []
 
 # When set to "true", a feed is automatically generated.
-generate_feeds = true
+generate_feeds = false
 
 # The filenames to use for the feeds. Used as the template filenames, too.
 # Defaults to ["atom.xml"], which has a built-in template that renders an Atom 1.0 feed.
@@ -64,7 +64,7 @@ author = "Soumendra Kumar Sahoo"
 # Example:
 taxonomies = [
   {name = "tags", feed = true}, # each tag will have its own feed
-  {name = "tags"}, # you can have taxonomies with the same name in multiple languages
+  {name = "posts", feed = true}, # you can have taxonomies with the same name in multiple languages
   {name = "categories", paginate_by = 5},  # 5 items per page for a term
   {name = "authors"}, # Basic definition: no feed or pagination
 ]
@@ -222,7 +222,7 @@ menu = [
 socials = [
     { name = "twitter", url = "https://twitter.com/soumendrak_", icon = "twitter" },
     { name = "github", url = "https://github.com/soumendrak", icon = "github" },
-    { name = "rss", url = "/atom.xml", icon = "rss" },
+    { name = "rss", url = "/posts/atom.xml", icon = "rss" },
 ]
 
 [extra.analytics]

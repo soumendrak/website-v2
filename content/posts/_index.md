@@ -1,8 +1,9 @@
 +++
 paginate_by = 50
 title = "Posts"
-description = "Blog posts accumulated over the years"
+description = "Subscribe to [Atom feed](/posts/atom.xml) for updates."
 sort_by = "date"
 
 insert_anchor_links = "heading"
+generate_feeds = true
 +++

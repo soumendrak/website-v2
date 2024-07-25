@@ -2,7 +2,7 @@
 title = "The Inside Story of How We Selected 30 Talks from 280+ Proposals for Pycon India 2019"
 date = "2020-06-26"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1629634423896/WzTurM67a.png"
+og_preview_img = "/images/posts/pycon-india-cfp-review.webp"
 
 [taxonomies]
 tags=["programming-blogs", "python", "python3", "meetup", "python-projects"]

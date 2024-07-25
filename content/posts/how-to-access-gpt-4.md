@@ -2,7 +2,7 @@
 title = "How to access GPT-4"
 date = "2023-03-14"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/VimHVpBr-9E/upload/0c0b1663ab3d261d21f64781928fb9ce.jpeg"
+og_preview_img = "/images/posts/access-gpt4.webp"
 
 [taxonomies]
 tags=["openai", "llm", "bing", "chatgpt", "gpt-4"]

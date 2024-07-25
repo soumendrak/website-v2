@@ -2,7 +2,7 @@
 title = "Top Software Engineering Blogs"
 date = "2022-07-17"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1658419729154/VyL7VwmlR.png"
+og_preview_img = "/images/posts/top-software-engineering-blogs.webp"
 
 [taxonomies]
 tags=["software-engineering", "software-architecture"]

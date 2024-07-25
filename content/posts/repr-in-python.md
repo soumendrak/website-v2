@@ -1,7 +1,7 @@
 +++
 title = "__repr__ in Python"
 date = "2023-03-25"
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1679624740604/e4167bb8-39ea-4450-a814-8b5d0e785a00.png"
+og_preview_img = "/images/posts/repr-in-python.webp"
 
 [taxonomies]
 tags=["python", "python-beginner", "python-advanced", "repr", "str"]

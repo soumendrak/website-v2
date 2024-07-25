@@ -2,7 +2,7 @@
 title = "PWA: Progressive Web App"
 date = "2022-10-30"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1667132004318/zzcENt80g.png"
+og_preview_img = "/images/posts/progressive-web-app.webp"
 
 [taxonomies]
 tags=["app-development", "applications", "progressive-web-apps", "pwa", "pwa-vs-native-apps"]

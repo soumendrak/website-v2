@@ -2,7 +2,7 @@
 title = "Understanding Python's Pre-Constructed Exceptions for Beginners"
 date = "2022-12-26"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1671937621102/5bc48782-4e9e-4ad2-9acd-b56a5c4d8362.png"
+og_preview_img = "/images/posts/understanding-pythons-pre-constructed-exceptions-for-beginners.webp"
 
 [taxonomies]
 tags=["python", "python3", "python-beginner", "exceptions"]

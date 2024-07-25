@@ -2,7 +2,7 @@
 title = "Retrospecting Retrospectives"
 date = "2023-03-15"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1677405082546/230db992-7cc1-4b00-a39d-ddeaa53da250.png"
+og_preview_img = "/images/posts/retrospecting-retrospectives.webp"
 
 [taxonomies]
 tags=["agile", "agile-software-development", "agile-methodology", "agile-methods", "retrosepctive"]

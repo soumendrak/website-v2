@@ -2,7 +2,7 @@
 title = "Usage of forward slash (/) in Python"
 date = "2022-12-05"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1670061545428/9poSaMtDc.png"
+og_preview_img = "/images/posts/usage-of-forward-slash-in-python.webp"
 
 [taxonomies]
 tags=["python", "python3", "python-programming", "keywords", "python-beginner"]

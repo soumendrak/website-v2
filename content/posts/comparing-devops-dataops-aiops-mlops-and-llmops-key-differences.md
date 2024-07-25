@@ -2,7 +2,7 @@
 title = "Comparing DevOps, DataOps, AIOps, MLOps, and LLMOps: Key Differences"
 date = "2024-04-11"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1712861806721/1068937e-ebb3-43c5-8b00-ae7615e5f1d4.png"
+og_preview_img = "/images/posts/diffrences-dataops-aiops-mlops.webp"
 
 [taxonomies]
 tags = ["devops", "mlops", "devops-articles", "dataops", "aiops", "llmops"]

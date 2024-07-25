@@ -2,7 +2,7 @@
 title = "What is Zero Trust?"
 date = "2023-03-01"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1677035505726/64cb871d-a0ec-468b-85b2-b5dc22a1c548.png"
+og_preview_img = "/images/posts/what-is-zero-trust.webp"
 
 [taxonomies]
 tags=["security", "zerotrust", "cxo", "czto"]

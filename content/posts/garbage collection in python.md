@@ -2,7 +2,7 @@
 title = "Garbage Collection in Python"
 date = "2023-03-31"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1679632884241/0bd43353-7347-481b-8896-d76b579d6614.png"
+og_preview_img = "/images/posts/gc.webp"
 [taxonomies]
 tags = ["python", "gc", "programming-tips", "garbagecollection", "garbage-collector"]
 +++

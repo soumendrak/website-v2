@@ -2,7 +2,7 @@
 title = "Autoincrement ID Support in SQLAlchemy"
 date = "2023-02-22"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1676923574501/3ca7db33-d9c0-4d87-b60a-a9b6b58e0354.png"
+og_preview_img = "/images/posts/sqlalchemy-autoincrement.webp"
 
 
 [taxonomies]

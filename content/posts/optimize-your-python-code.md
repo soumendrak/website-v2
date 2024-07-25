@@ -2,7 +2,7 @@
 title = "Optimize your Python code"
 date = "2018-10-20"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1629634098473/3sDv0wc4G.png"
+og_preview_img = "/images/posts/optimize-your-python-code.webp"
 
 [taxonomies]
 tags=["programming", "python", "optimization", "performance", "design-patterns"]

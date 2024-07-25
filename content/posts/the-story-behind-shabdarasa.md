@@ -2,7 +2,7 @@
 title = "The story behind Shabdarasa (ଶବ୍ଦରସ)"
 date = "2022-02-08"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1643403582441/JWjBugsDa.png"
+og_preview_img = "/images/posts/the-story-behind-shabdarasa.webp"
 [taxonomies]
 tags=["odia", "wordle", "game"]
 +++

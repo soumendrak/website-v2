@@ -2,7 +2,7 @@
 title = "GitHub vs. Open Source: Understanding the Differences"
 date = "2023-02-25"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1676625724370/d9eca3e7-f5aa-4525-9c4d-2e9db4dc4a5c.png"
+og_preview_img = "/images/posts/github-opensource.webp"
 [taxonomies]
 tags=["github", "opensource", "git"]
 +++

@@ -1,9 +1,8 @@
 +++
 title="Python double/nested for loop list comprehension"
-
-
-date=2020-11-25
-cover="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/StvYPDirU6o/upload/a595686144447fe354dd3bbf09b8f28c.jpeg"
+date="2020-11-25"
+[extra]
+og_preview_img = "/images/posts/python-nested-for-loop-list-comprehension.webp"
 [taxonomies]
 tags=["programming", "python"]
 +++

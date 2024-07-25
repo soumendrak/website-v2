@@ -2,7 +2,7 @@
 title = "Go: Arrays vs Slices"
 date = "2022-12-09"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1670614388004/B2fB89dKb.png"
+og_preview_img = "/images/posts/go-arrays-slices.webp"
 
 [taxonomies]
 tags=["go", "golang", "array", "slice", "golang-developer"]

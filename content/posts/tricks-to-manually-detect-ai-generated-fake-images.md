@@ -2,7 +2,7 @@
 title = "Tricks to manually detect AI-generated fake images"
 date = "2022-03-29"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1648540059268/stSr3UnSV.jpg"
+og_preview_img = "/images/posts/tricks-to-manually-detect-ai-generated-fake-images.webp"
 
 [taxonomies]
 tags=["ai", "github", "opensource", "images", "social-media"]

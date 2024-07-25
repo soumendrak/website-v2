@@ -2,7 +2,7 @@
 title = "Step-by-Step: Migrating from Carrd to Cloudflare Pages"
 date = "2023-07-31"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1690804592076/61cae82d-0f0f-415c-bc6b-75b416319ae8.png"
+og_preview_img = "/images/posts/step-by-step-migrating-from-carrd-to-cloudflare-pages.webp"
 
 [taxonomies]
 tags=["cloudflare", "migration", "carrd", "cloudflare-pages"]

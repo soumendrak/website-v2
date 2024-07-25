@@ -2,7 +2,7 @@
 title = "Large Language Models History"
 date = "2023-09-13"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1694628384133/cc93e1c3-854c-4656-a133-404b4d626a89.png"
+og_preview_img = "/images/posts/llm-history.webp"
 
 [taxonomies]
 tags=["nlp", "llm", "languagemodelling", "large-language-models"]

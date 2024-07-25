@@ -2,7 +2,7 @@
 title = "Ownership and Borrowing in Rust"
 date = "2023-03-10"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1677307350783/f05a32ff-f91c-414c-b744-8365113f7fac.png"
+og_preview_img = "/images/posts/ownership-and-borrowing-in-rust.webp"
 
 [taxonomies]
 tags=["rust", "programming-languages", "rust-lang", "ownership", "borrowing"]

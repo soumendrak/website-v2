@@ -2,7 +2,7 @@
 title = "How to Use Structs in GoLang: A Comprehensive Tutorial"
 date = "2023-03-23"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1679204308931/bfa1cf78-361c-48a0-b451-372e72d4231e.png"
+og_preview_img = "/images/posts/go-structs.webp"
 
 [taxonomies]
 tags=["go", "golang", "struct", "programming-tips", "golang-developer"]

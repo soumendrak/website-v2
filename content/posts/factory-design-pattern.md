@@ -2,7 +2,7 @@
 title = "Factory Design Pattern"
 date = 2022-12-01
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1669897918661/Ef2oR2LVm.png"
+og_preview_img = "/images/posts/factory-design-pattern.webp"
 [taxonomies]
 tags=["design-patterns", "python", "python-beginner", "factory-design-pattern", "solid-principles"]
 +++

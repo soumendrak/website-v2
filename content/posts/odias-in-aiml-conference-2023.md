@@ -2,7 +2,7 @@
 title = "Odias in AI/ML Conference 2023"
 date = "2023-10-22"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1697956285944/117cc8aa-9617-41e6-8183-e73d48df47c9.png"
+og_preview_img = "/images/posts/odias-in-aiml-conference-2023.webp"
 
 [taxonomies]
 tags=["ai", "conference", "odia", "ai-ml", "odisha"]

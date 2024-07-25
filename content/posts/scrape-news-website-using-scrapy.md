@@ -2,7 +2,7 @@
 title = "Scrape News website using Scrapy"
 date = "2021-12-04"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1638618116576/plUi0Ufdw.png"
+og_preview_img = "/images/posts/scrape-news-website-using-scrapy.webp"
 
 [taxonomies]
 tags=["programming", "python", "nlp", "odia"]

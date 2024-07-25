@@ -2,7 +2,7 @@
 title = "God mode in a browser"
 date = "2024-01-14"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1705206391064/ba80765f-9ecb-417c-aa36-40dc2c8fbb6b.png"
+og_preview_img = "/images/posts/god-mode.webp"
 
 [taxonomies]
 tags=["browser", "tricks", "javascript", "tools", "god", "god-mode"]

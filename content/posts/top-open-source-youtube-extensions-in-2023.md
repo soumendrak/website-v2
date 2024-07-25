@@ -2,7 +2,7 @@
 title = "Top Open source YouTube Extensions in 2023"
 date = "2023-01-06"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1672979298816/763d3fcb-1e16-467b-9cef-743a0c75bc8b.png"
+og_preview_img = "/images/posts/top-open-source-youtube-extensions-in-2023.webp"
 
 [taxonomies]
 tags=["opensource", "chrome-extension", "youtube"]

@@ -2,7 +2,7 @@
 title = "Go: Let's start"
 date = "2022-12-25"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1671933984028/70e76930-0502-4642-9024-a20394c47287.png"
+og_preview_img = "/images/posts/go-lets-start.webp"
 
 [taxonomies]
 tags=["go", "go-tutorial"]

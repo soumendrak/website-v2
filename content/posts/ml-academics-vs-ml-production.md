@@ -2,7 +2,7 @@
 title = "ML academics vs ML production"
 date = "2022-10-19"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1666148357794/0n2_escPX.png"
+og_preview_img = "/images/posts/ml-academics-vs-ml-production.webp"
 
 [taxonomies]
 tags=["machine-learning", "ml", "mlops", "machine-learning-models", "machine-learning-life-cycle"]

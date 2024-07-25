@@ -2,7 +2,7 @@
 title = "Concurrency and parallelism in Go"
 date = "2023-02-19"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1676612232647/5051a32a-7836-4adc-b526-361f1b54a273.png"
+og_preview_img = "/images/posts/concurrency-parallelism.webp"
 
 
 [taxonomies]

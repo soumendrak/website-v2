@@ -2,7 +2,7 @@
 title = "Aggregate Code timing in Python"
 date = "2022-07-20"
 [extra]
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1658288950375/TftmgLoJ1.png"
+og_preview_img = "/images/posts/codetiming.webp"
 
 [taxonomies]
 tags=["programming", "python", "performance", "code-timing"]

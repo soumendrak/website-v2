@@ -1,5 +1,6 @@
 +++
 title = "Factory Design Pattern"
+description = "Factory Design Pattern: Creational Pattern for creating objects."
 date = 2022-12-01
 [extra]
 og_preview_img = "/images/posts/factory-design-pattern.webp"

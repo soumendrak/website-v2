@@ -1,5 +1,6 @@
 +++
 title = "How to access GPT-4"
+description = "How to access GPT-4 from OpenAI."
 date = "2023-03-14"
 [extra]
 og_preview_img = "/images/posts/access-gpt4.webp"

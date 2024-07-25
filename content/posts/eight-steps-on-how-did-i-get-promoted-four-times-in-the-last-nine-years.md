@@ -1,5 +1,6 @@
 +++
 title = "Eight steps on how did I get promoted four times in the last nine years?"
+draft = true
 date = "2021-09-15"
 
 [taxonomies]

@@ -1,6 +1,8 @@
 +++
 title = "Concurrency and parallelism in Go"
+description = "Concurrency and parallelism in Go: How to use goroutines and channels to achieve concurrency and parallelism in Go."
 date = "2023-02-19"
+draft = true
 [extra]
 og_preview_img = "/images/posts/concurrency-parallelism.webp"
 

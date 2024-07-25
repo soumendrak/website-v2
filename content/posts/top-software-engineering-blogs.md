@@ -1,5 +1,6 @@
 +++
 title = "Top Software Engineering Blogs"
+description = "Software Engineering, Software Architecture, and other topics."
 date = "2022-07-17"
 [extra]
 og_preview_img = "/images/posts/top-software-engineering-blogs.webp"

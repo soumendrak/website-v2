@@ -1,5 +1,6 @@
 +++
 title = "Odias in AI/ML Conference 2023"
+description = "Odias in AI/ML is an annual conference of people directly/indirectly related to Odisha and Odia people."
 date = "2023-10-22"
 [extra]
 og_preview_img = "/images/posts/odias-in-aiml-conference-2023.webp"

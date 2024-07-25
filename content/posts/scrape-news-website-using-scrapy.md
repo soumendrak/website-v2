@@ -1,5 +1,6 @@
 +++
 title = "Scrape News website using Scrapy"
+description = "How to use Scrapy to scrape news websites using Scrapy framework."
 date = "2021-12-04"
 [extra]
 og_preview_img = "/images/posts/scrape-news-website-using-scrapy.webp"

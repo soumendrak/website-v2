@@ -1,5 +1,6 @@
 +++
 title = "ବ୍ଲକ୍‌ଚେନ୍‌ (Blockchain)"
+description = "Blockchain carsh course for beginners in Odia language."
 date = "2022-01-13"
 
 [taxonomies]

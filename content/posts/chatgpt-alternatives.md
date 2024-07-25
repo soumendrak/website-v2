@@ -1,5 +1,6 @@
 +++
 title = "ChatGPT Alternatives"
+description = "ChatGPT Alternatives: ChatGPT, Bard, and other alternatives."
 date = "2023-02-08"
 [extra]
 og_preview_img = "/images/posts/chatgpt-alternative.webp"

@@ -1,5 +1,6 @@
 +++
 title = "Productive Mac Apps"
+description = "A list of productive Mac apps"
 date = "2022-07-21"
 [extra]
 og_preview_img = "/images/posts/productive-mac-apps.webp"

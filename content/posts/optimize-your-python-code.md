@@ -1,5 +1,6 @@
 +++
 title = "Optimize your Python code"
+description = "How to optimize your Python code for better performance."
 date = "2018-10-20"
 [extra]
 og_preview_img = "/images/posts/optimize-your-python-code.webp"

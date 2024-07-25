@@ -1,5 +1,6 @@
 +++
 title = "10 Python Libraries Every AI/ML Developer Should Know"
+description = "Python Libraries Every AI/ML Developer Should Know to get ahead in the field."
 date = "2023-02-26"
 [extra]
 og_preview_img = "/images/posts/10python.webp"

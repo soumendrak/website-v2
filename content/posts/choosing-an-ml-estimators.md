@@ -1,5 +1,6 @@
 +++
 title="Choosing an ML estimators"
+description="Choosing an ML estimators: Linear Regression, Logistic Regression, Decision Tree, Random Forest, and other estimators."
 date="2019-03-30"
 
 [taxonomies]

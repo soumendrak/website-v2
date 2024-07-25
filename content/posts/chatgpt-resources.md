@@ -1,5 +1,6 @@
 +++
 title = "ChatGPT resources"
+description = "ChatGPT resources: APIs, Apps, and other tools."
 date = 2022-12-07
 [extra]
 og_preview_img = "/images/posts/chatgpt-resources.webp"

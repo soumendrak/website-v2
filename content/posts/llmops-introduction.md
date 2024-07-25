@@ -1,5 +1,6 @@
 +++
 title = "LLMOps: Introduction"
+description = "Introduction to LLMOps: Large Language Models Operations."
 date = "2024-01-12"
 [extra]
 og_preview_img = "/images/posts/llmops-introduction.webp"

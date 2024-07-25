@@ -1,5 +1,6 @@
 +++
 title = "Usage of 'else' in Python"
+description = "How the 'else' keyword in Python works and its different uses."
 date = "2024-03-18"
 [extra]
 og_preview_img = "/images/posts/usage-of-else-in-python.webp"

@@ -1,5 +1,6 @@
 +++
 title = "Odia language detection"
+description = "How to detect the language of an Odia text."
 date = "2021-10-07"
 
 [taxonomies]

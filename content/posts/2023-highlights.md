@@ -1,5 +1,6 @@
 +++
 title = "2023: Highlights"
+description = "Highlights of 2023 year in a review."
 date = "2023-12-30"
 [extra]
 og_preview_img = "/images/posts/2023highlights.webp"

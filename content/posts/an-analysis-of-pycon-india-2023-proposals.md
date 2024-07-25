@@ -1,5 +1,6 @@
 +++
 title = "An Analysis of PyCon India 2023 Proposals"
+description = "An Analysis of PyCon India 2023 Talk Proposals"
 date = "2023-09-27"
 og_preview_img = "/images/posts/pyconIndia2023proposals.webp"
 

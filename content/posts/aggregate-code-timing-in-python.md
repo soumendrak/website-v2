@@ -1,5 +1,6 @@
 +++
 title = "Aggregate Code timing in Python"
+description = "Group by the code timings in Python using codetiming library."
 date = "2022-07-20"
 updated = "2024-07-24"
 [extra]
@@ -82,6 +83,7 @@ At the end `Timer.timers.clear()` clears the data stored In memory and starts fr
 
 Do you want to use an in-memory LRU cache with a timeout, you may check out this article:
 
-[Cache heavy computation functions with a timeout value](@/posts/cache-heavy-computation-functions-with-timeout.md)
+* [Cache heavy computation functions with a timeout value](@/posts/cache-heavy-computation-functions-with-timeout.md)
+* How I solved a memory leak caused by this codetiming library: [Patching a memory leak](@/posts/patching-a-memory-leak.md)
 
 I post on Python programming on my Twitter handle, you can follow me [@soumendrak\_](https://www.twitter.com/soumendrak_).

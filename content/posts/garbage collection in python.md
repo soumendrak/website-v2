@@ -1,5 +1,6 @@
 +++
 title = "Garbage Collection in Python"
+description = "How to use garbage collection in Python to manage memory efficiently."
 date = "2023-03-31"
 [extra]
 og_preview_img = "/images/posts/gc.webp"

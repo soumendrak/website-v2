@@ -1,5 +1,6 @@
 +++
 title = "__repr__ in Python"
+description = "How to use __repr__ in Python to create a human-readable representation of an object."
 date = "2023-03-25"
 og_preview_img = "/images/posts/repr-in-python.webp"
 

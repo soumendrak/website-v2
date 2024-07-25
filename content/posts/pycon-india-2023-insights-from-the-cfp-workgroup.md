@@ -1,5 +1,6 @@
 +++
 title = "PyCon India 2023: Insights from the CFP Workgroup"
+description = "PyCon India 2023 CFP Workgroup timeline and insights"
 date = "2023-10-05"
 [extra]
 og_preview_img = "/images/posts/pycon-india-2023-insights-from-the-cfp-workgroup.webp"

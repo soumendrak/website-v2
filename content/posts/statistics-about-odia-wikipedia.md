@@ -1,5 +1,6 @@
 +++
 title = "Statistics about Odia Wikipedia"
+description = "Statistics about Odia Wikipedia on users, edits, and pageviews"
 date = "2019-01-11"
 [extra]
 og_preview_img = "/images/posts/statistics-about-odia-wikipedia.webp"

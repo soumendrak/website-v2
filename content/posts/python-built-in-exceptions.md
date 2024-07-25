@@ -1,5 +1,6 @@
 +++
 title = "Understanding Python's Pre-Constructed Exceptions for Beginners"
+description = "Understanding Python's Pre-Constructed Exceptions for Beginners: How to use try/except blocks to handle exceptions."
 date = "2022-12-26"
 [extra]
 og_preview_img = "/images/posts/understanding-pythons-pre-constructed-exceptions-for-beginners.webp"

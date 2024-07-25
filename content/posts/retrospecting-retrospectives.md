@@ -1,5 +1,6 @@
 +++
 title = "Retrospecting Retrospectives"
+description = "How to conduct a retrospective."
 date = "2023-03-15"
 [extra]
 og_preview_img = "/images/posts/retrospecting-retrospectives.webp"

@@ -1,5 +1,6 @@
 +++
 title = "Advantages of Open source software"
+description = "Advantages of Open source software over proprietary software."
 date = "2023-02-17"
 [extra]
 og_preview_img = "/images/posts/advantage-opensource.webp"

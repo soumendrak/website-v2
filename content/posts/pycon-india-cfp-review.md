@@ -1,5 +1,6 @@
 +++
-title = "The Inside Story of How We Selected 30 Talks from 280+ Proposals for Pycon India 2019"
+title = "Pycon India 2019 CFP group"
+description = "The Inside Story of How We Selected 30 Talks from 280+ Proposals for Pycon India 2019"
 date = "2020-06-26"
 [extra]
 og_preview_img = "/images/posts/pycon-india-cfp-review.webp"

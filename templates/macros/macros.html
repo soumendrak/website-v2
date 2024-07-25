@@ -35,8 +35,10 @@
                         <div class="description">
                             {% if page.description %}
                             {{ page.description }}
+                            {% set hide_read_more = true %}
                             {% elif page.summary %}
                             {{ page.summary | safe }}&hellip;
+                            {% set hide_read_more = true %}
                             {% else %}
                             {% set hide_read_more = true %}
                             {% endif %}

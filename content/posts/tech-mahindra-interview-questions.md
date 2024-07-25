@@ -1,5 +1,6 @@
 +++
 title = "Tech Mahindra interview questions"
+description = "My interview experience with Tech Mahindra"
 date = "2021-12-27"
 
 [taxonomies]

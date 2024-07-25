@@ -1,5 +1,6 @@
 +++
 title="Cool Python tricks you are not using, but you should."
+description="Nice little tricks in Python: Ternary operator, Short Circuit, Comprehension, etc."
 date="2020-11-25"
 
 [taxonomies]

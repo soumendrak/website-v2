@@ -1,5 +1,6 @@
 +++
 title = "@property in Python"
+description = "Python's @property decorator is used to define getter and setter methods for a class attribute."
 date = "2023-03-18"
 [extra]
 og_preview_img = "/images/posts/property-in-python.webp"

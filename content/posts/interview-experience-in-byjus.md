@@ -1,5 +1,6 @@
 +++
 title = "Interview experience in Byjus"
+description = "My experience and what I learned."
 date = "2022-09-15"
 
 [taxonomies]

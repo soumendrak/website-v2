@@ -1,5 +1,6 @@
 +++
 title = "Why do we need vector embeddings in NLP?"
+description = "Why do we need vector embeddings in NLP?"
 date = "2022-04-06"
 [extra]
 og_preview_img = "/images/posts/why-do-we-need-vector-embeddings-in-nlp.webp"

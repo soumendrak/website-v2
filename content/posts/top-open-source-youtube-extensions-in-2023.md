@@ -1,5 +1,6 @@
 +++
 title = "Top Open source YouTube Extensions in 2023"
+description = "Top open source YouTube extensions in 2023 to help you."
 date = "2023-01-06"
 [extra]
 og_preview_img = "/images/posts/top-open-source-youtube-extensions-in-2023.webp"

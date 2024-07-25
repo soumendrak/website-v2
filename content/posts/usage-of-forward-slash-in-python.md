@@ -1,5 +1,6 @@
 +++
 title = "Usage of forward slash (/) in Python"
+description = "Usage of forward slash (/) in Python and how to use it"
 date = "2022-12-05"
 [extra]
 og_preview_img = "/images/posts/usage-of-forward-slash-in-python.webp"

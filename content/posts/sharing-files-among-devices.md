@@ -1,5 +1,6 @@
 +++
 title="Sharing file among devices through Python"
+description="How to share files among devices on the same network through Python."
 date="2020-11-25"
 
 [taxonomies]

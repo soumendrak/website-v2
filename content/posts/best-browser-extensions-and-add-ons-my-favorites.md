@@ -1,5 +1,6 @@
 +++
 title = "Best Browser Extensions and Add-ons: My Favorites"
+description = "My favorite browser extensions and add-ons."
 date = "2022-07-16"
 [extra]
 og_preview_img = "/images/posts/browser-extension.webp"

@@ -1,5 +1,6 @@
 +++
 title="Run Nginx with Flask in Windows OS"
+description="How to run Nginx with Flask in Windows OS."
 date="2018-02-02"
 
 [taxonomies]

@@ -1,5 +1,6 @@
 +++
 title = "Large Language Models History"
+description = "History of Large Language Models (LLMs) and their impact on the field of NLP."
 date = "2023-09-13"
 [extra]
 og_preview_img = "/images/posts/llm-history.webp"

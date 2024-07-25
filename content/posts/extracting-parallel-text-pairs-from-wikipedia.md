@@ -1,5 +1,6 @@
 +++
 title="Extracting Parallel-text pairs from Wikipedia"
+description="How to extract parallel English-Odia text pairs from Wikipedia."
 date="2019-07-28"
 
 [taxonomies]

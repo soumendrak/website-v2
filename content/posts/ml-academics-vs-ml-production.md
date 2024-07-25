@@ -1,5 +1,6 @@
 +++
 title = "ML academics vs ML production"
+description = "ML academics vs ML production: Differences between academics and production."
 date = "2022-10-19"
 [extra]
 og_preview_img = "/images/posts/ml-academics-vs-ml-production.webp"

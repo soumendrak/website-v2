@@ -1,5 +1,6 @@
 +++
 title = "A Guide to the Amazon Recruiting Process: What to Expect and How to Get Ready"
+description = "Amazon Recruiting Process: my experience and what to expect."
 date = "2023-02-07"
 [extra]
 og_preview_img = "/images/posts/amazon.webp"

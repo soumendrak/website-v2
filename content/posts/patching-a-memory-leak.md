@@ -1,5 +1,6 @@
 +++
 title = "Patching a memory leak"
+description = "Patching a memory leak in Python with Flask server."
 date = "2024-05-25"
 [extra]
 og_preview_img = "/images/posts/patching-a-memory-leak.webp"

@@ -1,5 +1,6 @@
 +++
 title = "Python vs Golang vs Rust"
+description = "Comparison of Python, Golang, and Rust based on performance and code-timing."
 date = "2022-05-17"
 [extra]
 og_preview_img = "/images/posts/python-vs-golang-vs-rust.webp"

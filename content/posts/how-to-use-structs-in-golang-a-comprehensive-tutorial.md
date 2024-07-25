@@ -1,5 +1,6 @@
 +++
 title = "How to Use Structs in GoLang: A Comprehensive Tutorial"
+description = "structs in GoLang: How to use structs in GoLang to create complex data structures."
 date = "2023-03-23"
 [extra]
 og_preview_img = "/images/posts/go-structs.webp"

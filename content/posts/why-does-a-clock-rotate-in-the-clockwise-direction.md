@@ -1,5 +1,6 @@
 +++
 title = "Why does a clock rotate in the clockwise direction?"
+description = "Why and how did we decide that the clock rotates in the clockwise direction?"
 date = "2022-05-07"
 
 [taxonomies]

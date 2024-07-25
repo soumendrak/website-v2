@@ -1,5 +1,6 @@
 +++
 title = "Step-by-Step: Migrating from Carrd to Cloudflare Pages"
+description = "Carrd.co is a single-page website builder with a no-code paid tool. Cloudflare Pages is a JAMstack platform for front-end developers to collaborate and deploy websites."
 date = "2023-07-31"
 [extra]
 og_preview_img = "/images/posts/step-by-step-migrating-from-carrd-to-cloudflare-pages.webp"

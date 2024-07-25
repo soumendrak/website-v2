@@ -1,5 +1,6 @@
 +++
 title = "Tricks to manually detect AI-generated fake images"
+description = "Pointers to check if an image is AI-generated"
 date = "2022-03-29"
 [extra]
 og_preview_img = "/images/posts/tricks-to-manually-detect-ai-generated-fake-images.webp"

@@ -1,5 +1,6 @@
 +++
 title = "PWA: Progressive Web App"
+description = "Progressive Web Applications (PWA) is intended to work on any platform with a standards-compliant browser, including desktop and mobile devices."
 date = "2022-10-30"
 [extra]
 og_preview_img = "/images/posts/progressive-web-app.webp"

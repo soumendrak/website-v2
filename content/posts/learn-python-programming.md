@@ -1,5 +1,6 @@
 +++
 title = "Learn Python Programming"
+description = "Materials to learn Python programming."
 date = "2022-11-07"
 [extra]
 og_preview_img = "/images/posts/learn-python.webp"

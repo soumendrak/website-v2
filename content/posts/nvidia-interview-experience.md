@@ -1,5 +1,6 @@
 +++
 title = "Nvidia interview experience"
+description = "My experience and what I learned."
 date = "2021-12-18"
 
 [taxonomies]

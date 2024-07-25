@@ -1,5 +1,6 @@
 +++
 title = "MySQL Partition"
+description = "How to use partitions in MySQL to improve performance."
 date = "2023-06-09"
 [extra]
 og_preview_img = "/images/posts/mysql-partition.webp"

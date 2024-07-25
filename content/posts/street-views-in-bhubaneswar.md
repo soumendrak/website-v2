@@ -1,5 +1,6 @@
 +++
 title = "Street Views in Bhubaneswar"
+description = "Google Street View coverage in Bhubaneswar"
 date = "2022-07-28"
 
 [taxonomies]

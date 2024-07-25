@@ -1,5 +1,6 @@
 +++
 title = "Multiple return values from a function"
+description = "Multiple return values from a function: How to use multiple return values from a function in GoLang."
 date = "2023-02-18"
 [extra]
 og_preview_img = "/images/posts/multiple-return-values-from-a-function.webp"

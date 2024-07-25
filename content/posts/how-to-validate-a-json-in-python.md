@@ -1,6 +1,8 @@
 +++
 title = "How to validate a JSON in Python"
+description = "How to validate a JSON in Python using JSON Schema."
 date = "2023-03-08"
+updated = "2024-01-13"
 [extra]
 og_preview_img = "/images/posts/json-validation.webp"
 

@@ -1,5 +1,6 @@
 +++
 title="Run Nginx as a service in Windows platform"
+description="Batch file to run Nginx as a service in Windows platform."
 date="2018-02-03"
 
 [taxonomies]

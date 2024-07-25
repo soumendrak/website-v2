@@ -1,5 +1,6 @@
 +++
 title = "10 Best Practices for your Python code"
+description = "10 Best Practices for your Python code"
 date = "2023-03-04"
 [taxonomies]
 tags=["programming-blogs", "python", "python-beginner", "programming-tips"]

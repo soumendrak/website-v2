@@ -1,5 +1,6 @@
 +++
 title = "Sony interview questions"
+description = "My interview experience with Sony"
 date = "2021-12-20"
 
 [taxonomies]

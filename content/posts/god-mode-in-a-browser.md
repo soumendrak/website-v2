@@ -1,5 +1,6 @@
 +++
 title = "God mode in a browser"
+description = "How to use the God mode in a browser to modify any text on a website."
 date = "2024-01-14"
 [extra]
 og_preview_img = "/images/posts/god-mode.webp"

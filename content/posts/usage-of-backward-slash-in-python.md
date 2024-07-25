@@ -1,5 +1,6 @@
 +++
 title = "The Importance of Backward Slashes in Python and How to Use Them"
+description = "The importance of Backward Slashes in Python and how to use them"
 date = "2022-12-10"
 [extra]
 og_preview_img = "/images/posts/the-importance-of-backward-slashes-in-python-and-how-to-use-them.webp"

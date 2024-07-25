@@ -1,6 +1,7 @@
 +++
 title = "Life is what you make it"
 date = "2021-12-01"
+draft = true
 
 [taxonomies]
 tags=["life", "inspiration", "book-review"]

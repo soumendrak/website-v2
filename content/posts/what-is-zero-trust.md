@@ -1,5 +1,6 @@
 +++
 title = "What is Zero Trust?"
+description = "Zero Trust is a security model that assumes all users, devices, and network traffic are potential threats."
 date = "2023-03-01"
 [extra]
 og_preview_img = "/images/posts/what-is-zero-trust.webp"

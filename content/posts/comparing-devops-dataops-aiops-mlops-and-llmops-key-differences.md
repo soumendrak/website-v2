@@ -1,5 +1,6 @@
 +++
 title = "Comparing DevOps, DataOps, AIOps, MLOps, and LLMOps: Key Differences"
+description = "Comparing the key differences between the Ops: DevOps, DataOps, AIOps, MLOps, and LLMOps" 
 date = "2024-04-11"
 [extra]
 og_preview_img = "/images/posts/diffrences-dataops-aiops-mlops.webp"

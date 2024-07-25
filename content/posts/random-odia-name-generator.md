@@ -1,5 +1,6 @@
 +++
 title = "Random Odia Name Generator"
+description = "Generate random names in Odia language."
 date = "2021-10-19"
 
 [taxonomies]

@@ -1,6 +1,7 @@
 +++
 title = "Tricks to manually detect AI-generated fake images"
 date = "2022-03-29"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1648540059268/stSr3UnSV.jpg"
 
 [taxonomies]

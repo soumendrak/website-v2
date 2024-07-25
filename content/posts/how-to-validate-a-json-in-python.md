@@ -1,6 +1,7 @@
 +++
 title = "How to validate a JSON in Python"
 date = "2023-03-08"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1677313589599/b6429d6b-9e9c-4664-a87a-c997d5ca4e4c.png"
 
 [taxonomies]

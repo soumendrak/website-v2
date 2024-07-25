@@ -1,6 +1,7 @@
 +++
 title = "ChatGPT resources"
 date = 2022-12-07
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1670388270082/D7lXtM4bM.png"
 
 [taxonomies]

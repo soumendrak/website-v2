@@ -1,6 +1,7 @@
 +++
 title = "Usage of forward slash (/) in Python"
-date = 2022-12-05
+date = "2022-12-05"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1670061545428/9poSaMtDc.png"
 
 [taxonomies]

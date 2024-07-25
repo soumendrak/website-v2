@@ -1,6 +1,7 @@
 +++
 title = "Usage of 'else' in Python"
 date = "2024-03-18"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1710750492048/7697508e-d54b-4918-9dcc-c82272845c9d.png"
 
 [taxonomies]

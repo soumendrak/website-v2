@@ -1,6 +1,7 @@
 +++
 title = "PWA: Progressive Web App"
 date = "2022-10-30"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1667132004318/zzcENt80g.png"
 
 [taxonomies]

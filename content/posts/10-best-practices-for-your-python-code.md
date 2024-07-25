@@ -1,9 +1,10 @@
 +++
 title = "10 Best Practices for your Python code"
 date = "2023-03-04"
-og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1676653373996/6ccfacd3-2aee-4ce3-945f-f1a13589c4c2.png"
 [taxonomies]
 tags=["programming-blogs", "python", "python-beginner", "programming-tips"]
+[extra]
+og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1676653373996/6ccfacd3-2aee-4ce3-945f-f1a13589c4c2.png"
 +++
 
 In this blog post, I will share ten best practices every Python developer should follow. These best practices will help you write better, more efficient, and readable Python code.

@@ -1,6 +1,7 @@
 +++
 title = "LLMOps: Introduction"
 date = "2024-01-12"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1705068072893/9884868d-7912-48a0-813c-1eccf32a87b2.png"
 
 [taxonomies]

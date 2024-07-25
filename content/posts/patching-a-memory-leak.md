@@ -1,6 +1,7 @@
 +++
 title = "Patching a memory leak"
 date = "2024-05-25"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1716653054329/ce74d9c3-b5c1-46ed-9e5d-cce15a947ec9.png"
 
 [taxonomies]

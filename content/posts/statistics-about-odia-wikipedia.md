@@ -1,6 +1,7 @@
 +++
 title = "Statistics about Odia Wikipedia"
 date = "2019-01-11"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1629634034253/G9yNY-ZIM.png"
 
 [taxonomies]

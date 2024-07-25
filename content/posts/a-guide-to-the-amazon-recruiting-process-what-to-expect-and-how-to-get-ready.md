@@ -1,6 +1,7 @@
 +++
 title = "A Guide to the Amazon Recruiting Process: What to Expect and How to Get Ready"
 date = "2023-02-07"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1671973927760/029f8dc4-67a5-4fe5-82ce-f65016523404.png"
 
 [taxonomies]

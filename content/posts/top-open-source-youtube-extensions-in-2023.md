@@ -1,6 +1,7 @@
 +++
 title = "Top Open source YouTube Extensions in 2023"
 date = "2023-01-06"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1672979298816/763d3fcb-1e16-467b-9cef-743a0c75bc8b.png"
 
 [taxonomies]

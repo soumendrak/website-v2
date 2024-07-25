@@ -1,6 +1,7 @@
 +++
 title = "ChatGPT Alternatives"
 date = "2023-02-08"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1675872939320/312babd6-73a5-4b56-a7d9-ac85608afdcb.png"
 
 [taxonomies]

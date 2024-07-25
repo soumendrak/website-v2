@@ -1,6 +1,7 @@
 +++
 title = "Maximizing ChatGPT's Capabilities for Increased Productivity"
 date = "2023-01-10"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1673329894301/cb1e8625-0e87-4ce4-b8d0-b741fd85ec5b.png"
 
 [taxonomies]

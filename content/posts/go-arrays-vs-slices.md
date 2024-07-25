@@ -1,6 +1,7 @@
 +++
 title = "Go: Arrays vs Slices"
-date = 2022-12-09
+date = "2022-12-09"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1670614388004/B2fB89dKb.png"
 
 [taxonomies]

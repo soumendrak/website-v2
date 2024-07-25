@@ -1,6 +1,7 @@
 +++
 title = "Prompt Engineering"
 date = "2023-03-17"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1677473467489/a5c17ab3-6378-4a0b-8b39-9994662e3a88.png"
 
 [taxonomies]

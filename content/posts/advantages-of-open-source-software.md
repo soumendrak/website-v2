@@ -1,6 +1,7 @@
 +++
 title = "Advantages of Open source software"
 date = "2023-02-17"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1676614098464/53fecb1c-193f-45bd-a1b1-f2685e90728b.png"
 
 [taxonomies]

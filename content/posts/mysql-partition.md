@@ -1,6 +1,7 @@
 +++
 title = "MySQL Partition"
 date = "2023-06-09"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/upload/v1686339483007/fc297093-7442-4b77-8e2c-53f511d26a8d.png"
 
 [taxonomies]

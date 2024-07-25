@@ -1,6 +1,7 @@
 +++
 title = "Python vs Golang vs Rust"
 date = "2022-05-17"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/unsplash/WkY8KhEFXak/upload/v1652770261761/MOPLQv6NG.jpeg"
 
 [taxonomies]

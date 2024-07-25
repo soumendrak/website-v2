@@ -1,6 +1,7 @@
 +++
 title = "Why do we need vector embeddings in NLP?"
 date = "2022-04-06"
+[extra]
 og_preview_img = "https://cdn.hashnode.com/res/hashnode/image/unsplash/Wpnoqo2plFA/upload/v1649222144375/mPhlpbYBG.jpeg"
 
 [taxonomies]

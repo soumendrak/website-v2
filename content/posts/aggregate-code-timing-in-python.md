@@ -1,6 +1,7 @@
 +++
 title = "Aggregate Code timing in Python"
 date = "2022-07-20"
+updated = "2024-07-24"
 [extra]
 og_preview_img = "/images/posts/codetiming.webp"
 
@@ -81,8 +82,6 @@ At the end `Timer.timers.clear()` clears the data stored In memory and starts fr
 
 Do you want to use an in-memory LRU cache with a timeout, you may check out this article:
 
-%[https://blog.soumendrak.com/cache-heavy-computation-functions-with-a-timeout-value]
+[Cache heavy computation functions with a timeout value](@/posts/cache-heavy-computation-functions-with-timeout.md)
 
 I post on Python programming on my Twitter handle, you can follow me [@soumendrak\_](https://www.twitter.com/soumendrak_).
-
-[My website](https://www.soumendrak.com)

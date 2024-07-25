@@ -261,7 +261,7 @@ Let me know what you think at any of the following places:
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/soumendrak/
 - 📝 Medium: https://medium.com/@soumendrak
-- 📖 Blog: https://blog.soumendrak.com/
+- 📖 Blog: https://www.soumendrak.com/posts/
 - 🐥 Twitter: https://twitter.com/soumendrak_
 - 🧑🏻‍💻 Github: https://github.com/soumendrak
 - 📹 Youtube: https://www.youtube.com/@openodia

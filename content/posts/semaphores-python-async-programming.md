@@ -10,13 +10,14 @@ tags=["python", "async", "semaphore"]
 og_preview_img="/images/posts/semaphore.webp"
 +++
 
+## Context
+
+While doing LLM-as-a-judge for evaluations, I was facing a rate limit issue from OpenAI. This post will explain how to use `asyncio.Semaphore` in Python to manage the rate limit and avoid getting rate limit errors. We will start with the basics of semaphores and then move on to use cases. To directly jump to the code, you can check out the [use case 5](#use-case-5-calling-openai-api).
+
 ## Introduction
 
 Managing shared resources and coordinating concurrent operations can be challenging in the world of asynchronous programming. Enter semaphores: a powerful synchronization primitive that can help you control access to limited resources and coordinate between multiple coroutines. This post will explore practical use cases for semaphores in Python's asyncio framework, complete with code examples you can adapt for your projects.
 
-## Context
-
-While doing LLM-as-a-judge for evaluations, I was facing a rate limit issue from OpenAI. This post will explain how to use `asyncio.Semaphore` in Python to manage the rate limit and avoid getting rate limit errors.
 
 ## Setting Up: Semaphores in Python's asyncio
 

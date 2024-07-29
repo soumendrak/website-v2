@@ -14,6 +14,31 @@ A few questions and answers for interviewers to check someone's basic python kno
 ## Q: Which is the latest version of Python?
 - Python 3.12
 
+## Q: How to create a virtual environment in Python?
+
+```bash
+python -m venv myenv
+```
+
+## Q: What is the purpose of `requirements.txt` file?
+
+- It is a file that contains a list of all the packages and their versions that your project requires.
+- It is used to install the required packages in your project.
+- Example:
+
+```bash
+# requirements.txt
+requests==2.28.1
+beautifulsoup4==4.11.1
+```
+- To install the required packages, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Q: What is the difference between `pip install` and `pip install -r requirements.txt`?
+
 ## Q: What is the difference between a list and a tuple in Python? 
 
 | List | Tuple |

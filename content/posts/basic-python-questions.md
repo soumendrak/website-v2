@@ -194,8 +194,14 @@ print(add_numbers(1, 2, 3, a=4, b=5))  # Output: 15
 x = 10
 y = 10
 print(x is y)  # Output: True
-print(x == y)  # Output: False
+print(x == y)  # Output: True
+
+x = 257
+y = 257
+print(x is y)  # Output: False
+print(x == y)  # Output: True
 ```
+Python automatically interns (reuses) small integers, which typically range from -5 to 256. This means that these integer objects are pre-allocated and stored in a global integer cache. Whenever you assign one of these values to a variable, Python uses the cached version instead of creating a new object.
 
 ## Q: What is the purpose of the `pass` statement in Python?
 - The `pass` statement is used as a placeholder when you don't want to add any code to a block. It's often used as a placeholder for code that will be added later.

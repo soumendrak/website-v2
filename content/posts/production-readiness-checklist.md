@@ -11,7 +11,7 @@ tags=["devops", "production-readiness", "python", "aws", "kubernetes"]
 
 I have been working on multiple pojects where I have moved applications from PoC to Production.
 These are the checklists I have prepared for myself and my team to ensure we are ready for production.
-Here the checkists are in focus as the application is in Python programming language and deployed to AWS via Kubernetes.
+Here the checklists are in focus as the application is in Python programming language and deployed to AWS via Kubernetes.
 Not all of these are mandatory, but they are the ones I have found most useful.
 
 ## 1. Alerts & Metrics

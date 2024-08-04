@@ -1,5 +1,5 @@
 +++
-paginate_by = 50
+paginate_by =25
 title = "Posts"
 description = "Subscribe to [Atom feed](/posts/atom.xml) for updates."
 sort_by = "date"

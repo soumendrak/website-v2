@@ -3,7 +3,7 @@ title= "Hello 👋🏼"
 template = "homepage.html"
     
 [extra]
-display_picture = "images/india_DP.webp"    
+display_picture = "images/India_DP.webp"    
 display_picture_alt = "Soumendra Kumar Sahoo"    
 +++
 

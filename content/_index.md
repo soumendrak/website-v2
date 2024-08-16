@@ -1,6 +1,10 @@
 +++
 title= "Hello 👋🏼"
 template = "homepage.html"
+    
+[extra]
+display_picture = "images/india_DP.png"    
+display_picture_alt = "Soumendra Kumar Sahoo"    
 +++
 
 I'm Soumendra Kumar Sahoo, a software engineer from Bengaluru, India. I'm currently working as a Lead MLOps/System Engineer at [Freshworks](https://www.freshworks.com/). I am also working as a part-time AI Consultant. I have 12+ years of experience in the field of software engineering. I have started my career as a COBOL/Mainframe developer. You can find my resume [here](@/resume.md).

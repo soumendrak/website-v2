@@ -256,3 +256,9 @@
     {% endfor -%}
 </div>
 {% endmacro cards_posts %}
+
+{% macro display_picture(image_path, alt_text) %}
+<div class="display-picture">
+    <img src="{{ get_url(path=image_path) }}" alt="{{ alt_text }}" class="profile-image">
+</div>
+{% endmacro display_picture %}

@@ -1,5 +1,12 @@
 {% extends "base.html" %}
 
 {% block main_content %}
-    {{ post_macros::home_page(section=section) }}
+    <div class="homepage-content">
+        <div class="text-content">
+            {{ post_macros::home_page(section=section) }}
+        </div>
+        <div class="display-picture">
+            {{ post_macros::display_picture(image_path=section.extra.display_picture, alt_text=section.extra.display_picture_alt | default(value="Profile Picture")) }}
+        </div>
+    </div>
 {% endblock main_content %}

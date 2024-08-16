@@ -2,10 +2,13 @@
 title = "The story behind Shabdarasa (ଶବ୍ଦରସ)"
 description = "The background story on Shabdarasa, why and how it started."
 date = "2022-02-08"
+updated = "2024-08-16"
+
 [extra]
 og_preview_img = "/images/posts/the-story-behind-shabdarasa.webp"
 [taxonomies]
 tags=["odia", "wordle", "game"]
+categories=["odia"]
 +++
 
 # The story behind Shabdarasa (ଶବ୍ଦରସ)

@@ -2,6 +2,7 @@
 title = "Concurrency and parallelism in Go"
 description = "Concurrency and parallelism in Go: How to use goroutines and channels to achieve concurrency and parallelism in Go."
 date = "2023-02-19"
+updated = "2024-08-16"
 draft = true
 [extra]
 og_preview_img = "/images/posts/concurrency-parallelism.webp"
@@ -9,6 +10,7 @@ og_preview_img = "/images/posts/concurrency-parallelism.webp"
 
 [taxonomies]
 tags=["programming-blogs", "go", "beginners", "programming-tips", "codingnewbies"]
+categories=["Go"]
 +++
 
 Boosting Go Performance: Understanding Concurrency and Parallelism for Efficient Code Execution

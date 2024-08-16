@@ -2,9 +2,11 @@
 title="5 usages of an asterisk (*) in Python"
 description="5 usages of an asterisk (*) in Python"
 date="2020-11-25"
+updated="2024-08-16"
 
 [taxonomies]
 tags=["programming", "python"]
+categories=["python"]
 +++
 ## 5 usages of an asterisk (*) in Python
 

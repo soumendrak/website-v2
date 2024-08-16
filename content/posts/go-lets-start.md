@@ -1,11 +1,13 @@
 +++
 title = "Go: Let's start"
 date = "2022-12-25"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/go-lets-start.webp"
 
 [taxonomies]
 tags=["go", "go-tutorial"]
+categories=["Go"]
 +++
 
 Go is a popular programming language known for its simplicity, concurrency support, and efficient memory management. Whether new to programming or an experienced developer, Go is a great language to learn.

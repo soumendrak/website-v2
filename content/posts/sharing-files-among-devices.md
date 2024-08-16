@@ -2,9 +2,11 @@
 title="Sharing file among devices through Python"
 description="How to share files among devices on the same network through Python."
 date="2020-11-25"
+updated="2024-08-16"
 
 [taxonomies]
 tags=["programming", "python"]
+categories=["python"]
 +++
 
 ## Sharing files among devices through Python through your WiFi router or not

@@ -5,6 +5,7 @@ date="2020-01-01"
 
 [taxonomies]
 tags=["facebook", "social-media", "python", "python3", "meetup", "python-projects"]
+categories=["social-media"]
 +++
 # Increase traffic flows to your Facebook page organically
 

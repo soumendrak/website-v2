@@ -2,11 +2,13 @@
 title = "Usage of forward slash (/) in Python"
 description = "Usage of forward slash (/) in Python and how to use it"
 date = "2022-12-05"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/usage-of-forward-slash-in-python.webp"
 
 [taxonomies]
 tags=["python", "python3", "python-programming", "keywords", "python-beginner"]
+categories=["python"]
 +++
 
 In Python, the forward slash (/) has several different uses depending on the context in which it appears. Some of the primary benefits of the forward slash in Python include:

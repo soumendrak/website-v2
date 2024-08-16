@@ -1,9 +1,11 @@
 +++
 title = "Understanding Layer 2 of Blockchain"
 date = "2022-01-07"
+updated = "2024-08-16"
 
 [taxonomies]
 tags=["blockchain", "layer-2"]
+categories=["blockchain"]
 +++
 ## Understanding Layer 2 of Blockchain
 

@@ -7,6 +7,7 @@ og_preview_img = "/images/posts/prompt-engineering.webp"
 
 [taxonomies]
 tags=["nlp", "llm", "chatgpt", "promptengineering", "bard"]
+categories=["AI", "LLM"]
 +++
 
 ## TL;DR

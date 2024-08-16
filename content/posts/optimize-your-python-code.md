@@ -7,6 +7,7 @@ og_preview_img = "/images/posts/optimize-your-python-code.webp"
 
 [taxonomies]
 tags=["programming", "python", "optimization", "performance", "design-patterns"]
+categories=["python"]
 +++
 
 ## Optimize your Python code

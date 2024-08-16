@@ -2,9 +2,11 @@
 title = "Tech Mahindra interview questions"
 description = "My interview experience with Tech Mahindra"
 date = "2021-12-27"
+updated = "2024-08-16"
 
 [taxonomies]
 tags=["career", "interview", "python", "tech-mahindra"]
+categories=["job-interview"]
 +++
 
 ## Tech Mahindra interview questions

@@ -2,12 +2,14 @@
 title = "Autoincrement ID Support in SQLAlchemy"
 description = "Autoincrement ID Support in SQLAlchemy library for Python in MySQL."
 date = "2023-02-22"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/sqlalchemy-autoincrement.webp"
 
 
 [taxonomies]
 tags=["python", "databases", "python3", "database-design", "sqlalchemy"]
+categories=["python", "databases"]
 +++
 
 ## Introduction

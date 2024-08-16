@@ -2,9 +2,11 @@
 title="Semaphores in Python Async Programming Real-World Use Cases"
 date="2024-07-25"
 description="Use semaphore to avoid rate limit from OpenAI"
+updated="2024-08-16"
 
 [taxonomies]
 tags=["python", "async", "semaphore"]
+categories=["python"]
 
 [extra]
 og_preview_img="/images/posts/semaphore.webp"

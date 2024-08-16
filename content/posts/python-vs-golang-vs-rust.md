@@ -7,6 +7,7 @@ og_preview_img = "/images/posts/python-vs-golang-vs-rust.webp"
 
 [taxonomies]
 tags=["programming", "python", "golang", "rust", "performance", "code-timing"]
+categories=["python", "Go", "rust"]
 +++
 
 ## Python vs Golang vs Rust

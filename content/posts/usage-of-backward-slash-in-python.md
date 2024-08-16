@@ -2,12 +2,14 @@
 title = "The Importance of Backward Slashes in Python and How to Use Them"
 description = "The importance of Backward Slashes in Python and how to use them"
 date = "2022-12-10"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/the-importance-of-backward-slashes-in-python-and-how-to-use-them.webp"
 
 
 [taxonomies]
 tags=["programming-blogs", "python", "python3", "python-beginner"]
+categories=["python"]
 +++
 
 In Python, the backslash (\\) character is used for several purposes, such as:

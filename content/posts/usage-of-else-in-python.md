@@ -2,11 +2,13 @@
 title = "Usage of 'else' in Python"
 description = "How the 'else' keyword in Python works and its different uses."
 date = "2024-03-18"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/usage-of-else-in-python.webp"
 
 [taxonomies]
 tags=["programming-blogs", "python", "programming-languages", "loops", "programming-tips", "conditional-statement", "exceptionhandling"]
+categories=["python"]
 +++
 
 The `else` keyword in Python has a few different applications, but it primarily functions within conditional statements:

@@ -2,11 +2,13 @@
 title = "2023: Highlights"
 description = "Highlights of 2023 year in a review."
 date = "2023-12-30"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/2023highlights.webp"
 
 [taxonomies]
 tags=["yearinreview", "2023", "year-in-a-review"]
+categories=["personal"]
 +++
 
 _As a person with access to the privileges of society, only providing income tax is not enough; we should help others without any expectations._

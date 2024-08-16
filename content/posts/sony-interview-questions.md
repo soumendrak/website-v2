@@ -2,9 +2,11 @@
 title = "Sony interview questions"
 description = "My interview experience with Sony"
 date = "2021-12-20"
+updated = "2024-08-16"
 
 [taxonomies]
 tags=["career", "interview", "python", "sony"]
+categories=["job-interview"]
 +++
 
 ## Sony interview questions

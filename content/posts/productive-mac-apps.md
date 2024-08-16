@@ -7,6 +7,7 @@ og_preview_img = "/images/posts/productive-mac-apps.webp"
 
 [taxonomies]
 tags=["mac", "productivity", "macbook", "tools", "macos"]
+categories=["tools"]
 +++
 
 _Edit: Updated on 28-10-2023_

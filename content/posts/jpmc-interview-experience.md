@@ -5,6 +5,7 @@ date = "2022-02-18"
 
 [taxonomies]
 tags=["career", "interview", "python", "jpmc"]
+categories=["job-interview"]
 +++
 
 ## JP Morgan & Chase interview questions and answers

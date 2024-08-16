@@ -6,6 +6,7 @@ og_preview_img = "/images/posts/repr-in-python.webp"
 
 [taxonomies]
 tags=["python", "python-beginner", "python-advanced", "repr", "str"]
+categories=["python"]
 +++
 
 ## Introduction

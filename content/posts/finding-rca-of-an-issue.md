@@ -2,6 +2,7 @@
 title = "Finding RCA of an Issue"
 description = "How to find the root cause of a production bug."
 date = "2022-12-06"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/rca.webp"
 

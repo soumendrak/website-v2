@@ -7,6 +7,7 @@ og_preview_img = "/images/posts/multiple-return-values-from-a-function.webp"
 
 [taxonomies]
 tags=["go", "developer", "beginners", "go-lang", "programming-tips"]
+categories=["Go"]
 +++
 
 One feature that makes GoLang unique is its support for multiple return values from a function. This can be very useful in various situations, such as error handling, parsing data, and returning multiple values from a computation.

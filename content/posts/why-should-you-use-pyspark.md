@@ -2,9 +2,11 @@
 title="Why should you use PySpark?"
 description="Business requirement, Spark's architecture, and other benefits."
 date="2019-03-02"
+updated="2024-08-16"
 
 [taxonomies]
 tags=["python", "python3", "meetup", "python-projects"]
+categories=["python"]
 +++
 
 ## Why should you use PySpark?

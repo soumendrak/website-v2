@@ -2,9 +2,11 @@
 title="Download YouTube videos or only audios through this library"
 description="Use youtube-dl to download YouTube videos or only audios."
 date="2020-11-25"
+updated="2024-08-16"
 
 [taxonomies]
 tags=["programming", "python", "youtube-dl"]
+categories=["python"]
 +++
 
 ## Download YouTube videos or only audios through this library

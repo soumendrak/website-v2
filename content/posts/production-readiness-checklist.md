@@ -7,6 +7,7 @@ og_preview_img = "/images/posts/production-readiness-checklist.webp"
 
 [taxonomies]
 tags=["devops", "production-readiness", "python", "aws", "kubernetes"]
+categories=["DevOps"]
 +++
 
 I have been working on multiple pojects where I have moved applications from PoC to Production.

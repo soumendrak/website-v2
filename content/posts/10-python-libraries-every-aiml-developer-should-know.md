@@ -2,11 +2,13 @@
 title = "10 Python Libraries Every AI/ML Developer Should Know"
 description = "Python Libraries Every AI/ML Developer Should Know to get ahead in the field."
 date = "2023-02-26"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/10python.webp"
 
 [taxonomies]
 tags=["ai", "python", "machine-learning", "ml", "python-beginner"]
+categories=["python"]
 +++
 
 1. Requests - Requests is a library used for making HTTP requests in Python. It provides support for handling HTTP methods like GET, POST, and DELETE, and includes features like request headers and authentication.

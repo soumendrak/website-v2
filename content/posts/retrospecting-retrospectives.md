@@ -7,6 +7,7 @@ og_preview_img = "/images/posts/retrospecting-retrospectives.webp"
 
 [taxonomies]
 tags=["agile", "agile-software-development", "agile-methodology", "agile-methods", "retrosepctive"]
+categories=["career"]
 +++
 
 Retrospectives are used in the IT industry to reflect on work processes, identify areas for improvement, and generate action items for the next cycle or iteration. They are a key part of the Agile methodology and are conducted at various intervals with the help of a facilitator. The outcome is a set of action items that the team follows up on during subsequent retrospectives, leading to continuous improvement and better outcomes.

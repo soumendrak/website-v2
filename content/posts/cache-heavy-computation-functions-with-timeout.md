@@ -2,9 +2,11 @@
 title="Cache heavy computation functions with a timeout value"
 description="How to cache heavy computation functions with a specific timeout value."
 date="2020-11-25"
+updated="2024-08-16"
 
 [taxonomies]
 tags=["programming", "python"]
+categories=["python"]
 +++
 ## Cache heavy computation functions with a timeout value
 

@@ -5,6 +5,7 @@ date = "2021-10-07"
 
 [taxonomies]
 tags=["programming", "python", "nlp", "language-detection", "odia"]
+categories=["NLP", "odia"]
 +++
 
 # Odia language detection

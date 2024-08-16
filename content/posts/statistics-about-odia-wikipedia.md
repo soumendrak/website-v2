@@ -2,11 +2,13 @@
 title = "Statistics about Odia Wikipedia"
 description = "Statistics about Odia Wikipedia on users, edits, and pageviews"
 date = "2019-01-11"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/statistics-about-odia-wikipedia.webp"
 
 [taxonomies]
 tags=["programming", "python", "statistics", "wikipedia"]
+categories=["odia"]
 +++
 
 ## Statistics about Odia Wikipedia

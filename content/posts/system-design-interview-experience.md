@@ -1,9 +1,11 @@
 +++
 title = "Clear the third round for a Lead Engineer"
 date = "2021-10-11"
+updated = "2024-08-16"
 
 [taxonomies]
 tags=["career", "interview", "system-design"]
+categories=["job-interview"]
 +++
 
 ## Clear the third round for a Lead Engineer

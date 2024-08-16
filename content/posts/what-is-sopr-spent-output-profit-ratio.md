@@ -1,9 +1,11 @@
 +++
 title = "What is SOPR (Spent Output Profit Ratio)?"
 date = "2021-12-25"
+updated = "2024-08-16"
 
 [taxonomies]
 tags=["sopr", "blockchain"]
+categories=["blockchain"]
 +++
 
 ## What is SOPR (Spent Output Profit Ratio)?

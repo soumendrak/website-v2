@@ -2,11 +2,13 @@
 title = "Advantages of Open source software"
 description = "Advantages of Open source software over proprietary software."
 date = "2023-02-17"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/advantage-opensource.webp"
 
 [taxonomies]
 tags=["opensource"]
+categories=["opensource"]
 +++
 
 In recent years, open-source software has become a significant part of the technology industry. With many companies and individuals turning to open source for their software needs, the benefits of this type of software are becoming more apparent. In this post, we will explore the benefits of open-source software, why it is essential, and how to get involved.

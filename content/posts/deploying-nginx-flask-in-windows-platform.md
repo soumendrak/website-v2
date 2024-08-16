@@ -2,9 +2,11 @@
 title="Run Nginx with Flask in Windows OS"
 description="How to run Nginx with Flask in Windows OS."
 date="2018-02-02"
+updated="2024-08-16"
 
 [taxonomies]
 tags=["nginx", "flask", "windows"]
+categories=["python"]
 +++
 
 ## Run Nginx with Flask in Windows OS

@@ -2,12 +2,14 @@
 title = "AI Tools"
 description = "AI Tools across different usecases."
 date = "2024-07-28"
+updated = "2024-08-16"
 
 [extra]
 og_preview_img = "/images/posts/ai-tools.webp"
 
 [taxonomies]
 tags=["ai", "tools", "ai-tools", "saas"]
+categories=["AI", "tools"]
 +++
 
 ## Writing

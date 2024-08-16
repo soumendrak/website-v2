@@ -2,9 +2,11 @@
 title="Circuit Breaker Pattern"
 description="Circuit Breaker Pattern: Design Pattern for handling failure in distributed systems."
 date="2019-03-31"
+updated="2024-08-16"
 
 [taxonomies]
 tags=["programming", "python", "design-patterns"]
+categories=["python", "design-patterns"]
 +++
 
 ## Circuit Breaker Pattern

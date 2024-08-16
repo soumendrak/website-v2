@@ -2,8 +2,10 @@
 title="Python double/nested for loop list comprehension"
 description="Python double/nested for loop list comprehension: How to use list comprehension to create a new list from an existing list."
 date="2020-11-25"
+updated="2024-08-16"
 [taxonomies]
 tags=["programming", "python"]
+categories=["python"]
 +++
 
 ## Code refactoring

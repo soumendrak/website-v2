@@ -6,6 +6,7 @@ og_preview_img = "/images/posts/ownership-and-borrowing-in-rust.webp"
 
 [taxonomies]
 tags=["rust", "programming-languages", "rust-lang", "ownership", "borrowing"]
+categories=["rust"]
 +++
 
 Ownership and borrowing are fundamental concepts in Rust that help ensure memory safety and prevent common programming errors like data races and null pointer dereferences. In this blog, we'll explore ownership and borrowing and how they work in Rust.

@@ -2,9 +2,11 @@
 title="Usage of the Underscore(_) in Python?"
 description="Usage of the Underscore(_) in Python and how to use it"
 date="2021-07-31"
+updated="2024-08-16"
 
 [taxonomies]
 tags=["programming", "python"]
+categories=["python"]
 +++
 ## Usage of the Underscore(_) in Python?
 

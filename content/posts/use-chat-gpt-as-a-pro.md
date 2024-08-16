@@ -1,11 +1,13 @@
 +++
 title = "Maximizing ChatGPT's Capabilities for Increased Productivity"
 date = "2023-01-10"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/maximizing-chatgpts-capabilities-for-increased-productivity.webp"
 
 [taxonomies]
 tags=["ai", "tools", "gpt-3", "openai", "chatgpt"]
+categories=["AI", "tools"]
 +++
 
 We already know what chatGPT is, here are a few Twitter threads on how to utilize chat GPT to its fullest.

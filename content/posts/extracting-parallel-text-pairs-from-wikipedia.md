@@ -2,9 +2,11 @@
 title="Extracting Parallel-text pairs from Wikipedia"
 description="How to extract parallel English-Odia text pairs from Wikipedia."
 date="2019-07-28"
+updated="2024-08-16"
 
 [taxonomies]
 tags=["programming", "python"]
+categories=["python", "odia"]
 +++
 
 ## Extracting Parallel-text pairs from Wikipedia

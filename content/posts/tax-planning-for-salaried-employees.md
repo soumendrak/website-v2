@@ -2,9 +2,11 @@
 title="Tax Planning for Salaried Employees"
 description="Tax Planning and different Taxes for Salaried Employees"
 date="2023-11-23"
+updated="2024-08-16"
 
 [taxonomies]
 tags=["tax", "income-tax", "tax-planning", "salaried-employees"]
+categories=["tax"]
 +++
 ## [Webinar] New in Budget 2023
 ### For Individuals

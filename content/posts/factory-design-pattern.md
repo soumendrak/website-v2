@@ -1,11 +1,13 @@
 +++
 title = "Factory Design Pattern"
 description = "Factory Design Pattern: Creational Pattern for creating objects."
-date = 2022-12-01
+date = "2022-12-01"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/factory-design-pattern.webp"
 [taxonomies]
 tags=["design-patterns", "python", "python-beginner", "factory-design-pattern", "solid-principles"]
+categories=["design-patterns", "python"]
 +++
 
 Several design patterns are commonly used in Python programming. Some of the most common design patterns include:

@@ -2,9 +2,11 @@
 title = "HCL interview experience"
 description = "My experience and what I learned."
 date = "2021-12-30"
+updated = "2024-08-16"
 
 [taxonomies]
 tags=["career", "interview", "python", "hcl"]
+categories=["job-interview"]
 +++
 
 ## HCL interview experience

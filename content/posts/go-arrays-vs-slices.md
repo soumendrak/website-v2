@@ -1,11 +1,13 @@
 +++
 title = "Go: Arrays vs Slices"
 date = "2022-12-09"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/go-arrays-slices.webp"
 
 [taxonomies]
 tags=["go", "golang", "array", "slice", "golang-developer"]
+categories=["Go"]
 +++
 
 Array and slice are two important data structures in Go that are used to store and manipulate sequences of values. Although they may appear similar at first glance, some key differences between the two are worth understanding.

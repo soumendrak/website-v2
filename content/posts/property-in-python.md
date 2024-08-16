@@ -7,6 +7,7 @@ og_preview_img = "/images/posts/property-in-python.webp"
 
 [taxonomies]
 tags=["python", "python3", "property", "decorators", "getter-and-setter"]
+categories=["python"]
 +++
 
 1. Introduction  

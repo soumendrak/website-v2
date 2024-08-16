@@ -7,6 +7,7 @@ og_preview_img = "/images/posts/patching-a-memory-leak.webp"
 
 [taxonomies]
 tags = ["python", "python3", "flask", "memory-leak", "memory-forensics"]
+categories=["python"]
 +++
 
 ## Problem

@@ -5,6 +5,7 @@ draft = true
 
 [taxonomies]
 tags=["life", "inspiration", "book-review"]
+categories=["personal"]
 +++
 ## Life is what you make it
 

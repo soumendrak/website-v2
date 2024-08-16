@@ -2,12 +2,14 @@
 title = "Basic Python interview questions and answers for beginners"
 description = "A few questions and answers for interviewers to check someone's basic python knowledge."
 date = "2024-07-29"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/py-interview.webp"
 
 
 [taxonomies]
 tags=["python", "job-interview"]
+categories=["python", "job-interview"]
 +++
 A few questions and answers for interviewers to check someone's basic python knowledge.
 

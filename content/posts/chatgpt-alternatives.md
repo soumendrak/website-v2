@@ -2,11 +2,13 @@
 title = "ChatGPT Alternatives"
 description = "ChatGPT Alternatives: ChatGPT, Bard, and other alternatives."
 date = "2023-02-08"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/chatgpt-alternative.webp"
 
 [taxonomies]
 tags=["ai", "alternative", "content-creation", "llm", "chatgpt"]
+categories=["ai", "tools"]
 +++
 
 We will discuss the upcoming LLMs (Large Language Models like ChatGPT) in 2023.

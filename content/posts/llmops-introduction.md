@@ -7,6 +7,7 @@ og_preview_img = "/images/posts/llmops-introduction.webp"
 
 [taxonomies]
 tags=["devops", "mlops", "llm", "llmops"]
+categories=["MLOps"]
 +++
 
 ## DevOps

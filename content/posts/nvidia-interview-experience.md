@@ -5,6 +5,7 @@ date = "2021-12-18"
 
 [taxonomies]
 tags=["career", "interview", "python", "nvidia"]
+categories=["job-interview"]
 +++
 
 ## Nvidia interview experience

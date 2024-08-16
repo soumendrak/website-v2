@@ -7,6 +7,7 @@ og_preview_img = "/images/posts/progressive-web-app.webp"
 
 [taxonomies]
 tags=["app-development", "applications", "progressive-web-apps", "pwa", "pwa-vs-native-apps"]
+categories=["web-development"]
 +++
 
 Progressive Web Applications (PWA) is intended to work on any platform with a standards-compliant browser, including desktop and mobile devices. It allows the following features:

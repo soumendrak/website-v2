@@ -2,9 +2,11 @@
 title = "ବ୍ଲକ୍‌ଚେନ୍‌ (Blockchain)"
 description = "Blockchain carsh course for beginners in Odia language."
 date = "2022-01-13"
+updated = "2024-08-16"
 
 [taxonomies]
 tags=["blockchain", "cryptocurrency"]
+categories=["odia"]
 +++
 # ⛓ ବ୍ଲକ୍‌ଚେନ୍‌ (Blockchain)
 

@@ -2,9 +2,11 @@
 title = "Street Views in Bhubaneswar"
 description = "Google Street View coverage in Bhubaneswar"
 date = "2022-07-28"
+updated = "2024-08-16"
 
 [taxonomies]
 tags=["google-street-view", "mapmyindia", "mapillary", "360-degree-view", "360-degree-street-view", "360-degree-imagery", "google-maps", "street-view-app", "odisha", "bhubaneswar"]
+categories=["maps"]
 +++
 ## Street Views in Bhubaneswar
 

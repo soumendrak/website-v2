@@ -2,10 +2,12 @@
 title = "Garbage Collection in Python"
 description = "How to use garbage collection in Python to manage memory efficiently."
 date = "2023-03-31"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/gc.webp"
 [taxonomies]
 tags = ["python", "gc", "programming-tips", "garbagecollection", "garbage-collector"]
+categories=["python"]
 +++
 
 ## Introduction

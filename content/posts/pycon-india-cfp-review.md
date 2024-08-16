@@ -7,6 +7,7 @@ og_preview_img = "/images/posts/pycon-india-cfp-review.webp"
 
 [taxonomies]
 tags=["programming-blogs", "python", "python3", "meetup", "python-projects"]
+categories=["conference", "python"]
 +++
 
 ## Introduction

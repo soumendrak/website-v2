@@ -2,12 +2,13 @@
 title = "Aggregate Code timing in Python"
 description = "Group by the code timings in Python using codetiming library."
 date = "2022-07-20"
-updated = "2024-07-24"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/codetiming.webp"
 
 [taxonomies]
 tags=["programming", "python", "performance", "code-timing"]
+categories=["python"]
 +++
 
 # Aggregate Code timing in Python

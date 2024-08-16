@@ -2,11 +2,13 @@
 title = "God mode in a browser"
 description = "How to use the God mode in a browser to modify any text on a website."
 date = "2024-01-14"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/god-mode.webp"
 
 [taxonomies]
 tags=["browser", "tricks", "javascript", "tools", "god", "god-mode"]
+categories=["tools"]
 +++
 
 With the help of god mode, you can modify any text on a website. Yes, **any text**.

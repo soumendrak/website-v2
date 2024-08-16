@@ -2,11 +2,13 @@
 title = "A Guide to the Amazon Recruiting Process: What to Expect and How to Get Ready"
 description = "Amazon Recruiting Process: my experience and what to expect."
 date = "2023-02-07"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/amazon.webp"
 
 [taxonomies]
 tags=["interview", "amazon", "python", "interview-questions", "faang"]
+categories=["job-interview"]
 +++
 
 ## TL;DR

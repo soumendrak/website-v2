@@ -2,11 +2,13 @@
 title = "Comparing DevOps, DataOps, AIOps, MLOps, and LLMOps: Key Differences"
 description = "Comparing the key differences between the Ops: DevOps, DataOps, AIOps, MLOps, and LLMOps" 
 date = "2024-04-11"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/diffrences-dataops-aiops-mlops.webp"
 
 [taxonomies]
 tags = ["devops", "mlops", "devops-articles", "dataops", "aiops", "llmops"]
+categories=["DevOps", "MLOps"]
 +++
 
 These are the commonly used terms that can be misunderstood. Here are the scope of the terms, use cases, and their limitations:

@@ -7,6 +7,7 @@ og_preview_img = "/images/posts/mysql-partition.webp"
 
 [taxonomies]
 tags=["mysql", "databases", "partition", "database-partitioning", "databasemanagement"]
+categories=["databases"]
 +++
 
 ## Why are Partitions Essential? 🤔

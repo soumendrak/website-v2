@@ -5,6 +5,7 @@ date = "2022-09-15"
 
 [taxonomies]
 tags=["career", "interview", "python", "byjus"]
+categories=["job-interview"]
 +++
 
 ## Interview experience in Byjus

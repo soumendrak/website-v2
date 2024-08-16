@@ -68,10 +68,10 @@ taxonomies = [
   {name = "categories", paginate_by = 5},  # 5 items per page for a term
   {name = "authors"}, # Basic definition: no feed or pagination
 ]
-#
+
 # When set to "true", a search index is built from the pages and section
 # content for `default_language`.
-build_search_index = false
+build_search_index = true
 
 # Configuration of the Markdown rendering
 [markdown]
@@ -194,11 +194,13 @@ index_format = "elasticlunr_json"
 # author value will be available using {{ config.extra.author }} in templates
 #
 [extra]
+repo_view = true
+repo_url = "https://github.com/soumendrak/website-v2"
 date_format="%d %b, %Y"
 toc = true
 use_cdn = false
 favicon = "/icons/soumendra_avatar.png"
-theme = "toggle"              # light, dark, auto, toggle
+theme = "auto"              # light, dark, auto, toggle
 comment = true
 fancy_code = true
 dynamic_note = true           # a note that can be toggled
@@ -212,11 +214,11 @@ meta = [
 ]
 
 menu = [
-    { name = "/posts", url = "/posts", weight = 1 },
+    { name = "/blog", url = "/posts", weight = 1 },
     { name = "/projects", url = "/projects", weight = 2 },
     { name = "/resume", url = "/resume", weight = 4 },
     { name = "/tags", url = "/tags", weight = 5 },
-    { name = "/contact", url = "/contact", weight = 6 },
+    { name = "/categories", url = "/categories", weight = 7 },
 ]
 
 socials = [

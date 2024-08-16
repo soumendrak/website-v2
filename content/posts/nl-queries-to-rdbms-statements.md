@@ -7,6 +7,7 @@ og_preview_img = "/images/posts/converting-nl-queries-to-rdbms-statements.webp"
 
 [taxonomies]
 tags=["programming", "python", "nlp", "sql"]
+categories=["NLP", "databases"]
 +++
 
 ## Converting NL queries to RDBMS statements

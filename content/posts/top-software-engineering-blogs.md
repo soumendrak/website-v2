@@ -2,11 +2,13 @@
 title = "Top Software Engineering Blogs"
 description = "Software Engineering, Software Architecture, and other topics."
 date = "2022-07-17"
+updated = "2024-08-16"
 [extra]
 og_preview_img = "/images/posts/top-software-engineering-blogs.webp"
 
 [taxonomies]
 tags=["software-engineering", "software-architecture"]
+categories=["career"]
 +++
 
 ## Top Software Engineering Blogs

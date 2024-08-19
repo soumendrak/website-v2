@@ -183,6 +183,14 @@ print(order)  # Order(id=UUID('...'), items=[Item(name='Book', price=10.99), Ite
 
 ## 6. attrs vs Other Libraries
 
+| Library | Features | Performance | Community |
+|---|---|---|---|
+| attrs | Automatic method generation, attribute definition with types and default values, validators and converters | Better performance than manual code | Active community |
+| pydantic | Data validation and settings management, automatic method generation, attribute definition with types and default values, validators and converters | Good performance | Active community |
+| dataclasses | Built into Python 3.7+, making them more accessible | Tied to the Python version | Built-in Python library |
+
+attrs and dataclasses are faster than pydantic[^1].
+
 ### Comparison with dataclasses:
 - attrs is more feature-rich and flexible
 - dataclasses are built into Python 3.7+, making them more accessible
@@ -198,6 +206,7 @@ print(order)  # Order(id=UUID('...'), items=[Item(name='Book', price=10.99), Ite
 - For complex class hierarchies with custom behaviors
 - When you need fine-grained control over attribute definitions
 - For projects that require Python 2 compatibility (though less relevant now)
+
 
 ## 7. Performance and Real-world Applications
 
@@ -249,25 +258,15 @@ customer.orders.append(order)
 print(customer)
 ```
 
-## 8. Comparison with pydantic and dataclasses
+## 8. Conclusion and Call to Action
 
-| Library | Features | Performance | Community |
-|---|---|---|---|
-| attrs | Automatic method generation, attribute definition with types and default values, validators and converters | Better performance than manual code | Active community |
-| pydantic | Data validation and settings management, automatic method generation, attribute definition with types and default values, validators and converters | Good performance | Active community |
-| dataclasses | Built into Python 3.7+, making them more accessible | Tied to the Python version | Built-in Python library |
-
-attrs and dataclasses are faster than pydantic[^1].
+attrs is a powerful library that simplifies Python class definitions while providing robust features for data validation and manipulation. Its ability to reduce boilerplate code, improve readability, and enhance performance makes it an invaluable tool for Python developers.
 
 Community resources:
 - GitHub repository: https://github.com/python-attrs/attrs
 - Documentation: https://www.attrs.org/
 - PyPI page: https://pypi.org/project/attrs/
 
-## 10. Conclusion and Call to Action
-
-attrs is a powerful library that simplifies Python class definitions while providing robust features for data validation and manipulation. Its ability to reduce boilerplate code, improve readability, and enhance performance makes it an invaluable tool for Python developers.
-
-We encourage you to try attrs in your next project and experience its benefits firsthand. Share your experiences with the community and contribute to its ongoing development. Happy coding!
+Try attrs in your next project and experience its benefits firsthand. Share your experiences with the community and contribute to its ongoing development. Happy coding!
 
 [^1]: https://stefan.sofa-rockers.org/2020/05/29/attrs-dataclasses-pydantic/

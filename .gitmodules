@@ -4,3 +4,6 @@
 [submodule "themes/duckquill"]
 	path = themes/duckquill
 	url = https://codeberg.org/daudix/duckquill.git
+[submodule "themes/tabi"]
+	path = themes/tabi
+	url = git@github.com:welpo/tabi.git

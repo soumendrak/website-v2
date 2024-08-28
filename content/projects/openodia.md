@@ -23,3 +23,6 @@ OpenOdia is a Python library for working with Odia language. It provides tools a
  - GitHub
  - GitHub Pages
  - MkDocs for documentation
+
+## Projects
+- [Main Website](https://www.openodia.soumendrak.com/)

@@ -1,5 +1,5 @@
 +++
-title = "OpenStrretMap Projects"
+title = "OpenStreetMap Projects"
 description = "Multiple mini-projects under OpenStreetMap Foundation."
 weight = 6
 

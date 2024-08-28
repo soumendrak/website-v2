@@ -1,10 +1,11 @@
 +++
 title = "Odias in AI/ML"
 description = "Co-Founder of Odias in AI/ML."
-weight = 3
+weight = 2
 
 [extra]
-og_preview_img = "/images/odishaai.jpg"
+local_image = "/images/odishaai.jpg"
+social_media_card = "/images/odishaai.jpg"
 +++
 
 ## About project 

@@ -4,8 +4,8 @@ description = "Co-Founder of Odias in AI/ML."
 weight = 2
 
 [extra]
-local_image = "/images/odishaai.jpg"
-social_media_card = "/images/odishaai.jpg"
+local_image = "/images/odishaai.webp"
+social_media_card = "/images/odishaai.webp"
 +++
 
 ## About project 

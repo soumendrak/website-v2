@@ -4,8 +4,8 @@ description = "Projects I have been working on with Wikimedia Foundation."
 weight = 4
 
 [extra]
-local_image = "/images/wikimedia_projects.jpg"
-social_media_card = "/images/wikimedia_projects.jpg"
+local_image = "/images/wikimedia_projects.webp"
+social_media_card = "/images/wikimedia_projects.webp"
 +++
 
 ## About project

@@ -11,7 +11,7 @@ description = "Soumendra's blog and website"
 default_language = "en"
 
 # The site theme to use.
-theme = "apollo"
+theme = "tabi"
 
 # For overriding the default output directory `public`, set it to another value (e.g.: "docs")
 output_dir = "public"
@@ -69,76 +69,31 @@ taxonomies = [
   {name = "authors"}, # Basic definition: no feed or pagination
 ]
 
-# When set to "true", a search index is built from the pages and section
-# content for `default_language`.
-build_search_index = false
+# ------------------------------------------------------------------------------
 
-# Configuration of the Markdown rendering
+build_search_index = true
+
+# To translate the entire theme, there must be a file with the same ISO 639-1
+# (or IETF BCP 47) Code in the `i18n` folder of your site or the tabi theme
+# For example, "i18n/fr.toml" for French or "i18n/zh-Hans.toml" for Simplified Chinese.
+# Otherwise the theme will be in English.
+# See https://welpo.github.io/tabi/blog/faq-languages/ for more details.
+
 [markdown]
-# When set to "true", all code blocks are highlighted.
 highlight_code = true
-
-# A list of directories used to search for additional `.sublime-syntax` and `.tmTheme` files.
-extra_syntaxes_and_themes = []
-
-# The theme to use for code highlighting.
-# See below for list of allowed values.
-highlight_theme = "base16-ocean-dark"
-
-# When set to "true", emoji aliases translated to their corresponding
-# Unicode emoji equivalent in the rendered Markdown files. (e.g.: :smile: => 😄)
-render_emoji = true
-
-# Whether external links are to be opened in a new tab
-# If this is true, a `rel="noopener"` will always automatically be added for security reasons
-external_links_target_blank = true
-
-# Whether to set rel="nofollow" for all external links
-external_links_no_follow = true
-
-# Whether to set rel="noreferrer" for all external links
-external_links_no_referrer = true
-
-# Whether smart punctuation is enabled (changing quotes, dashes, dots in their typographic form)
-# For example, `...` into `…`, `"quote"` into `“curly”` etc
-smart_punctuation = false
-
-# Whether to set decoding="async" and loading="lazy" for all images
-# When turned on, the alt text must be plain text.
-# For example, `![xx](...)` is ok but `![*x*x](...)` isn’t ok
-lazy_async_image = true
-
-# Whether footnotes are rendered in the GitHub-style (at the bottom, with back references) or plain (in the place, where they are defined)
 bottom_footnotes = true
+# To use a Zola built-in theme, CSP needs to allow unsafe-inline for style-src.
+highlight_theme = "css"
+smart_punctuation = true
 
-# Configuration of the link checker.
 [link_checker]
-# Skip link checking for external URLs that start with these prefixes
+internal_level = "warn"
 skip_prefixes = [
-    "http://[2001:db8::]/",
+    "https://www.vultr.com/",
 ]
-
-# Skip anchor checking for external URLs that start with these prefixes
 skip_anchor_prefixes = [
-    "https://caniuse.com/",
+    "https://github.com/",
 ]
-
-# Treat internal link problems as either "error" or "warn", default is "error"
-internal_level = "error"
-
-# Treat external link problems as either "error" or "warn", default is "error"
-external_level = "error"
-
-# Various slugification strategies, see below for details
-# Defaults to everything being a slug
-[slugify]
-paths = "on"
-taxonomies = "on"
-anchors = "on"
-# Whether to remove date prefixes for page path slugs.
-# For example, content/posts/2016-10-08_a-post-with-dates.md => posts/a-post-with-dates
-# When true, content/posts/2016-10-08_a-post-with-dates.md => posts/2016-10-08-a-post-with-dates
-paths_keep_dates = false
 
 [search]
 # Whether to include the title of the page/section in the index
@@ -151,84 +106,267 @@ include_date = true
 include_path = true
 # Whether to include the rendered content of the page/section in the index
 include_content = false
-# At which code point to truncate the content to. Useful if you have a lot of pages and the index would
-# become too big to load on the site. Defaults to not being set.
-# truncate_content_length = 100
-
-# Wether to produce the search index as a javascript file or as a JSON file
-# Accepted values:
-# - "elasticlunr_javascript", "elasticlunr_json"
-# - "fuse_javascript", "fuse_json"
 index_format = "elasticlunr_json"
 
-# Optional translation object for the default language
-# Example:
-#     default_language = "fr"
-#
-#     [translations]
-#     title = "Un titre"
-#
-[translations]
-
-# Additional languages definition
-# You can define language specific config values and translations: 
-# title, description, generate_feeds, feed_filenames, taxonomies, build_search_index
-# as well as its own search configuration and translations (see above for details on those)
-[languages]
-# For example
-# [languages.fr]
-# title = "Mon blog"
-# generate_feeds = true
-# taxonomies = [
-#    {name = "auteurs"},
-#    {name = "tags"},
-# ]
-# build_search_index = false
-
-# You can put any kind of data here. The data
-# will be accessible in all templates
-# Example:
-#     [extra]
-#     author = "Famous author"
-#
-# author value will be available using {{ config.extra.author }} in templates
-#
 [extra]
 repo_view = true
 repo_url = "https://github.com/soumendrak/website-v2"
 date_format="%d %b, %Y"
-toc = true
 use_cdn = false
+theme_switcher = true
+default_theme = ""
+
+# Use sans-serif font everywhere.
+# By default, the serif font is only used in articles.
+override_serif_with_sans = false
+
+# Choose the colourscheme (skin) for the theme. Default is "teal".
+# Skin available: blue, lavender, mint, red, sakura, teal, monochrome, lowcontrast_orange, lowcontrast_peach, lowcontrast_pink, indigo_ingot, evangelion
+# See them live and learn how to create your own: https://welpo.github.io/tabi/blog/customise-tabi/#skins
+# WARNING! "lowcontrast" skins, while aesthetically pleasing, may not provide optimal
+# contrast (in light theme) for readability and might not be suitable for all users.
+# Furthermore, low contrasting elements will affect your Google Lighthouse rating.
+# All other skins have optimal contrast.
+skin = "indigo_ingot"
+
+# Remote repository for your Zola site.
+# Used for `show_remote_changes` and `show_remote_source` (see below).
+# Supports GitHub, GitLab, Gitea, and Codeberg.
+remote_repository_url = "https://github.com/soumendrak/website-v2"
+# Set this to "auto" to try and auto-detect the platform based on the repository URL.
+# Accepted values are "github", "gitlab", "gitea", and "codeberg".
+remote_repository_git_platform = "auto"  # Defaults to "auto".
+# Branch in the repo hosting the Zola site.
+remote_repository_branch = "main"  # Defaults to "main".
+# Show a link to the commit history of updated posts, right next to the last updated date.
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+show_remote_changes = true  # Defaults to true.
+# Show a link to the repository of the site, right next to the "Powered by Zola & tabi" text.
+show_remote_source = true  # Defaults to true.
+
+# Add a "copy" button to codeblocks (loads ~700 bytes of JavaScript).
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+copy_button = true
+
+# Loads the necessary JavaScript (~400 bytes) to use the "Show source or path" shortcode: https://welpo.github.io/tabi/blog/shortcodes/#show-source-or-path
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+add_src_to_code_block = false
+
+# Show the author(s) of a page.
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+show_author = false
+
+# Show the reading time of a page.
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+show_reading_time = true
+
+# Show the date of a page below its title.
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+show_date = true
+
+# Determines how dates are displayed in the post listing (e.g. front page or /blog). Options:
+# "date" - Show only the original date of the post (default if unset).
+# "updated" - Show only the last updated date of the post. If there is no last updated date, it shows the original date.
+# "both" - Show both the original date and the last updated date.
+post_listing_date = "date"
+
+# Enable KaTeX for all posts.
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+katex = false
+
+# Show links to previous and next articles at the bottom of posts.
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+show_previous_next_article_links = false
+
+# Invert order of the links to previous and next articles at the bottom of posts.
+# By default, next articles are on the left side of the page and previous articles are on the right side.
+# To reverse the order (next articles on the right and previous articles on the left), set it to true.
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+invert_previous_next_article_links = false
+
+# Whether the navigation for previous/next article should match the full width of the site (same as the navigation bar at the top) or the article width.
+# To match the navigation bar at the top, set it to true.
+previous_next_article_links_full_width = true
+
+# Quick navigation buttons.
+# Adds "go up" and "go to comments" buttons on the bottom right (hidden for mobile).
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+quick_navigation_buttons = true
+
+# Add a Table of Contents to posts, right below the title and metadata.
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+toc = false
+
+# Date format used when listing posts (main page, /blog section, tag posts list…)
+# Default is "6th July 2049" in English and "%d %B %Y" in other languages.
+long_date_format = "%d %B %Y"
+
+# Date format used for blog posts.
+# Default is "6th July 2049" in English and "%-d %B %Y" in other languages.
+short_date_format = ""
+
+# Custom separator used in title tag and posts metadata (between date, time to read, and tags).
+separator = "•"
+
+# Use a shorter layout for All tags listing.
+# Default: tag_name – n post[s]
+# Compact: tag_name^n (superscript number)
+compact_tags = false
+
+# How tags are sorted in a Tags listing based on templates/tags/list.html.
+# "name" for alphabetical, "frequency" for descending count of posts.
+# Default: "name".
+tag_sorting = "name"
+
+# Invert the order of the site title and page title in the browser tab.
+# Example: true => "Blog • ~/tabi", false => "~/tabi • Blog"
+invert_title_order = false
+
+# Full path after the base URL required. So if you were to place it in "static" it would be "/favicon.png"
 favicon = "/icons/soumendra_avatar.png"
-theme = "toggle"              # light, dark, auto, toggle
+
+# Add an emoji here to use it as favicon.
+# Compatibility: https://caniuse.com/link-icon-svg
+# favicon_emoji = "🌱"
+
+# Path to the fallback image for social media cards (the preview image shown when sharing a link on WhatsApp, LinkedIn…).
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+# Learn how to create these images in batch and automatically:
+# https://osc.garden/blog/automating-social-media-cards-zola/
+social_media_card = "images/default_cover.jpg"
+
+menu = [
+    { name = "blog", url = "blog", trailing_slash = true },
+    { name = "projects", url = "projects", trailing_slash = true },
+    { name = "resume", url = "resume", trailing_slash = true },
+    { name = "categories", url = "categories", trailing_slash = true },
+    { name = "archive", url = "archive", trailing_slash = true },
+]
+
+# The RSS icon will be shown if (1) it's enabled and (2) the following variable is set to true.
+# Note for Zola 0.19.X users: when `feed_filenames` has two filenames, only the first one will be linked in the footer.
+feed_icon = true
+
+# Show the full post content in the Atom feed.
+# If it's set to false, only the description or summary will be shown.
+full_content_in_feed = true
+
+# Email address for footer's social section.
+# Protect against spambots:
+# 1. Use base64 for email (convert at https://www.base64encode.org/ or `printf 'your@email.com' | base64`).
+# 2. Or, set 'encode_plaintext_email' to true for auto-encoding (only protects on site, not in public repos).
+email = "Y29udGFjdEBzb3VtZW5kcmFrLmNvbQ=="
+# Decoding requires ~400 bytes of JavaScript. If JS is disabled, the email won't be displayed.
+encode_plaintext_email = true  # Setting is ignored if email is already encoded.
+
+# Social media links for the footer.
+# Built-in icons: https://github.com/welpo/tabi/tree/main/static/social_icons
+# To use a custom icon, add it to your site's `static/social_icons` directory.
+socials = [
+    { name = "github", url = "https://github.com/soumendrak/", icon = "github" },
+    { name = "linkedin", url = "https://www.linkedin.com/in/soumendrak/", icon = "linkedin" },
+    { name = "instagram", url = "https://instagram.com/soumendrak_", icon = "instagram" },
+    { name = "youtube", url = "https://youtube.com/@openodia", icon = "youtube" },
+    { name = "rss", url = "/blog/atom.xml", icon = "rss" },
+]
+
+# Extra menu to show on the footer, below socials section.
+footer_menu = [
+    {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
+]
+
+# Enable a copyright notice for the footer, shown between socials and the "Powered by" text.
+# $TITLE will be replaced by the website's title.
+# $CURRENT_YEAR will be replaced by the current year.
+# $AUTHOR will be replaced by the `author` variable.
+# $SEPARATOR will be replaced by the `separator` variable.
+# Markdown is supported (links, emphasis, etc).
+copyright = "© $CURRENT_YEAR $AUTHOR $SEPARATOR Unless otherwise noted, the content in this website is available under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license."
+
+# For multi-language sites, you can set a different copyright for each language.
+# The old way of setting `translated_copyright = true` and using i18n files is deprecated.
+# If a translation is missing for language, the `copyright` value will be used.
+# copyright_translations.es = "$TITLE © $CURRENT_YEAR $AUTHOR $SEPARATOR A menos que se indique lo contrario, el contenido de esta web está disponible bajo la licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+
+# Custom security headers. What urls should your website be able to connect to?
+# You need to specify the CSP and the URLs associated with the directive.
+# Useful if you want to load remote content safely (embed YouTube videos, which needs frame-src, for example).
+# Default directive is self.
+# Default config, allows for https remote images and embedding YouTube and Vimeo content.
+# This configuration (along with the right webserver settings) gets an A+ in Mozilla's Observatory: https://observatory.mozilla.org
+# Note: to use a Zola built-in syntax highlighting theme, allow unsafe-inline for style-src.
+allowed_domains = [
+    { directive = "font-src", domains = ["'self'", "data:"] },
+    { directive = "img-src", domains = ["'self'", "https://*", "data:"] },
+    { directive = "media-src", domains = ["'self'", "https://cdn.jsdelivr.net/"] },
+    { directive = "script-src", domains = ["'self'"] },
+    { directive = "style-src", domains = ["'self'"] },
+    { directive = "frame-src", domains = ["player.vimeo.com", "https://www.youtube-nocookie.com"] },
+]
+
+# Enable the CSP directives configured (or default).
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+enable_csp = true
+
+# Custom subset of characters for the header.
+# If set to true, the `static/custom_subset.css` file will be loaded first.
+# This avoids a flashing text issue in Firefox.
+# Please see https://welpo.github.io/tabi/blog/custom-font-subset/ to learn how to create this file.
+custom_subset = true
+
+[extra.analytics]
+# Specify which analytics service you want to use.
+# Supported options: ["goatcounter", "umami", "plausible"]
+service = "umami"
+
+# Unique identifier for tracking.
+# For GoatCounter, this is the code you choose during signup.
+# For Umami, this is the website ID.
+# For Plausible, this is the domain name (e.g. "example.com").
+# Note: Leave this field empty if you're self-hosting.
+id = "baba6031-fb63-47cc-bddd-196ee709a553"
+
+# Optional: Specify the URL for self-hosted analytics instances.
+# For GoatCounter: Base URL like "https://stats.example.com"
+# For Umami: Base URL like "https://umami.example.com"
+# For Plausible: Base URL like "https://plausible.example.com"
+# Leave this field empty if you're using the service's default hosting.
+self_hosted_url = ""
+
+# giscus support for comments. https://giscus.app
+# Setup instructions: https://welpo.github.io/tabi/blog/comments/#setup
+[extra.giscus]
+enabled_for_all_posts = true  # Enables giscus on all posts. It can be enabled on individual posts by setting `giscus = true` in the [extra] section of a post's front matter.
+automatic_loading = false  # If set to false, a "Load comments" button will be shown.
+repo = "https://github.com/soumendrak/website-v2"
+repo_id = "R_kgDOMZFQ-g"  # Find this value in https://giscus.app/
+category = "General"
+category_id = "DIC_kwDOMZFQ-s4ChDQOG"  # Find this value in https://giscus.app/
+mapping = "slug"  # Available: pathname; url; title; slug. "slug" will use the post's filename (slug); this is the only way to share comments between languages.
+strict_title_matching = 1  # 1 to enable, 0 to disable. https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#data-strict
+enable_reactions = 1  # 1 to enable, 0 to disable.
+comment_box_above_comments = false
+light_theme = "noborder_light"
+dark_theme = "noborder_dark"
+lang = ""  # Leave blank to match the page's language.
+lazy_loading = true
+
+
 comment = true
 fancy_code = true
 dynamic_note = true           # a note that can be toggled
 mathjax = true
 mathjax_dollar_inline_enable = true
 default_og_image = "/images/default_cover.jpg"
-footer = "Copyright © 2024 Soumendra Kumar Sahoo. All rights reserved. | Powered by [Zola](https://www.getzola.org/) and [Apollo](https://github.com/not-matthias/apollo)."
 meta = [
     {property = "og:title", content = "the og title"},
     {property = "og:description", content = "the og description"},
 ]
 
-menu = [
-    { name = "/blog", url = "/posts", weight = 1 },
-    { name = "/projects", url = "/projects", weight = 2 },
-    { name = "/resume", url = "/resume", weight = 4 },
-    { name = "/categories", url = "/categories", weight = 5 },
-]
+
 
 socials = [
     { name = "twitter", url = "https://twitter.com/soumendrak_", icon = "twitter" },
     { name = "github", url = "https://github.com/soumendrak", icon = "github" },
     { name = "rss", url = "/posts/atom.xml", icon = "rss" },
 ]
-
-[extra.analytics]
-enabled = true
-
-[extra.analytics.umami]
-website_id = "baba6031-fb63-47cc-bddd-196ee709a553"
-host_url = "https://analytics.us.umami.is"

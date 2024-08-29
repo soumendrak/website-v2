@@ -64,7 +64,7 @@ author = "Soumendra Kumar Sahoo"
 # Example:
 taxonomies = [
   {name = "tags", feed = true}, # each tag will have its own feed
-  {name = "posts", feed = true}, # you can have taxonomies with the same name in multiple languages
+  {name = "blog", feed = true}, # you can have taxonomies with the same name in multiple languages
   {name = "categories", paginate_by = 5},  # 5 items per page for a term
   {name = "authors"}, # Basic definition: no feed or pagination
 ]
@@ -369,4 +369,14 @@ socials = [
     { name = "twitter", url = "https://twitter.com/soumendrak_", icon = "twitter" },
     { name = "github", url = "https://github.com/soumendrak", icon = "github" },
     { name = "rss", url = "/posts/atom.xml", icon = "rss" },
+]
+
+[languages.or]
+title = "ସୌମେନ୍ଦ୍ର କୁମାର ସାହୁ"
+build_search_index = false
+taxonomies = [
+  {name = "tags", feed = true}, # each tag will have its own feed
+  {name = "blog", feed = true}, # you can have taxonomies with the same name in multiple languages
+  {name = "categories", paginate_by = 5},  # 5 items per page for a term
+  {name = "authors"}, # Basic definition: no feed or pagination
 ]

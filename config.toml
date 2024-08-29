@@ -172,17 +172,17 @@ post_listing_date = "date"
 
 # Enable KaTeX for all posts.
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
-katex = false
+katex = true
 
 # Show links to previous and next articles at the bottom of posts.
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
-show_previous_next_article_links = false
+show_previous_next_article_links = true
 
 # Invert order of the links to previous and next articles at the bottom of posts.
 # By default, next articles are on the left side of the page and previous articles are on the right side.
 # To reverse the order (next articles on the right and previous articles on the left), set it to true.
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
-invert_previous_next_article_links = false
+invert_previous_next_article_links = true
 
 # Whether the navigation for previous/next article should match the full width of the site (same as the navigation bar at the top) or the article width.
 # To match the navigation bar at the top, set it to true.
@@ -216,7 +216,7 @@ compact_tags = false
 # How tags are sorted in a Tags listing based on templates/tags/list.html.
 # "name" for alphabetical, "frequency" for descending count of posts.
 # Default: "name".
-tag_sorting = "name"
+tag_sorting = "frequency"
 
 # Invert the order of the site title and page title in the browser tab.
 # Example: true => "Blog • ~/tabi", false => "~/tabi • Blog"

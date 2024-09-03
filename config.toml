@@ -274,7 +274,8 @@ socials = [
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
-    {url = "https://cloud.umami.is/share/eYteTasmvoz80rfd/www.soumendrak.com", name = "site stats", trailing_slash = false},
+    {url = "https://cloud.umami.is/share/eYteTasmvoz80rfd/www.soumendrak.com", name = "site stats", trailing_slash = true},
+    {url = "https://venomous-cat.pikapod.net/status/soumendrak", name = "site status", trailing_slash = true},
 ]
 
 # Enable a copyright notice for the footer, shown between socials and the "Powered by" text.

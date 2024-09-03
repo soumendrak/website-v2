@@ -1,0 +1,10 @@
+@font-face {
+    src: local('Atkinson Hyperlegible'),
+        url('/fonts/Atkinson-Hyperlegible-Regular-102a.woff2') format("woff2");
+    font-family: 'Atkinson Hyperlegible';
+    font-display: swap;
+}
+
+:root {
+    --serif-font: 'Atkinson Hyperlegible', serif;
+}

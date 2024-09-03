@@ -127,6 +127,7 @@ override_serif_with_sans = false
 # contrast (in light theme) for readability and might not be suitable for all users.
 # Furthermore, low contrasting elements will affect your Google Lighthouse rating.
 # All other skins have optimal contrast.
+stylesheets = ["css/custom.css"]
 skin = "indigo_ingot"
 
 # Remote repository for your Zola site.

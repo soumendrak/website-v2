@@ -4,9 +4,13 @@ description = "Multiple mini-projects under OpenStreetMap Foundation."
 weight = 6
 
 [extra]
-local_image = "/images/osm.webp"
-social_media_card = "/images/osm.webp"
+local_image = "/images/india.webp"
+social_media_card = "/images/india.webp"
 +++
+
+![India](/images/india.webp)
+
+*Picture source: [NASA](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)*
 
 ## About project
 
@@ -17,7 +21,7 @@ Recently, in 2023, I finally started contributing to OSM seriously and continuou
 
 ## Contributions
 
-- I have been contributing to the OSM Foundation for the past two years and have made significant contributions to the OSM community.
+- I have been contributing to the OSM Foundation for the past two years and have made significant contributions to the OSM India community.
 - Few of my contributions include:
   - Mapped [over 3500 kilometers](https://overpass-turbo.eu/s/1Qns) of roads in India.
   - Mapped 75% of the buildings in Bhubaneswar[^1].

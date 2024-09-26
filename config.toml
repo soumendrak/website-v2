@@ -327,14 +327,14 @@ service = "umami"
 # For Umami, this is the website ID.
 # For Plausible, this is the domain name (e.g. "example.com").
 # Note: Leave this field empty if you're self-hosting.
-id = ""
+id = "6d674f4c-5b1a-43f3-80a5-3354176aea38"
 
 # Optional: Specify the URL for self-hosted analytics instances.
 # For GoatCounter: Base URL like "https://stats.example.com"
 # For Umami: Base URL like "https://umami.example.com"
 # For Plausible: Base URL like "https://plausible.example.com"
 # Leave this field empty if you're using the service's default hosting.
-self_hosted_url = "https://analytics.soumendrak.com/script.js"
+self_hosted_url = "https://analytics.soumendrak.com"
 
 # giscus support for comments. https://giscus.app
 # Setup instructions: https://welpo.github.io/tabi/blog/comments/#setup

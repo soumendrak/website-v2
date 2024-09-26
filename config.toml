@@ -274,7 +274,7 @@ socials = [
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
-    {url = "https://analytics.soumendrak.com", name = "site analytics", trailing_slash = true},
+    {url = "https://analytics.soumendrak.com/share/I0ly5z143esoL9r8/www.soumendrak.com", name = "site analytics", trailing_slash = true},
     {url = "https://status.soumendrak.com/", name = "site status", trailing_slash = true},
 ]
 
@@ -327,7 +327,7 @@ service = "umami"
 # For Umami, this is the website ID.
 # For Plausible, this is the domain name (e.g. "example.com").
 # Note: Leave this field empty if you're self-hosting.
-id = ""
+id = "6d674f4c-5b1a-43f3-80a5-3354176aea38"
 
 # Optional: Specify the URL for self-hosted analytics instances.
 # For GoatCounter: Base URL like "https://stats.example.com"

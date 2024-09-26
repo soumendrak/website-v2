@@ -274,7 +274,7 @@ socials = [
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
-    {url = "https://cloud.umami.is/share/eYteTasmvoz80rfd/www.soumendrak.com", name = "site stats", trailing_slash = true},
+    {url = "https://analytics.soumendrak.com", name = "site analytics", trailing_slash = true},
     {url = "https://status.soumendrak.com/", name = "site status", trailing_slash = true},
 ]
 
@@ -327,14 +327,14 @@ service = "umami"
 # For Umami, this is the website ID.
 # For Plausible, this is the domain name (e.g. "example.com").
 # Note: Leave this field empty if you're self-hosting.
-id = "baba6031-fb63-47cc-bddd-196ee709a553"
+id = ""
 
 # Optional: Specify the URL for self-hosted analytics instances.
 # For GoatCounter: Base URL like "https://stats.example.com"
 # For Umami: Base URL like "https://umami.example.com"
 # For Plausible: Base URL like "https://plausible.example.com"
 # Leave this field empty if you're using the service's default hosting.
-self_hosted_url = ""
+self_hosted_url = "https://analytics.soumendrak.com"
 
 # giscus support for comments. https://giscus.app
 # Setup instructions: https://welpo.github.io/tabi/blog/comments/#setup

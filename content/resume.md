@@ -11,6 +11,12 @@ tags=["resume"]
     <!-- toc -->
 </details>
 
+## PDF Version
+
+<object data="https://github.com/soumendrak/website-v2/blob/main/static/pdfs/cv.pdf" type="application/pdf" width="100%" height="1800px">
+      <p>Unable to display PDF file? <a href="https://github.com/soumendrak/website-v2/blob/main/static/pdfs/cv.pdf">Download</a> instead.</p>
+</object>
+
 ## About Me
 * Accomplished professional with extensive experience in scalable ML service, back-end software development, and leading teams to develop end-to-end solutions in Banking & Finance, and Education domains.
 * 2.5+ years of experience in deploying, operationalizing, maintaining and scaling Machine Learning models in production.

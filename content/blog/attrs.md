@@ -10,7 +10,7 @@ categories=["python"]
 social_media_card = "/images/posts/attrs.webp"
 +++
 
-## Introduction
+## 1. Introduction
 
 Python's `attrs` library is a game-changer for developers looking to simplify class creation and reduce boilerplate code. This libray is even trusted by NASA.
 Created by [Hynek Schlawack](https://hynek.me/) in 2015, `attrs` has quickly become a favorite tool among Python developers for its ability to automatically generate special methods and provide a clean, declarative way to define classes.

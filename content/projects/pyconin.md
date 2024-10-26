@@ -1,11 +1,11 @@
 +++
 title = "PyCon India"
-description = "Managing the CFP process for PyCon India 2019 and 2023."
+description = "Managed the CFP process for PyCon India 2019 and 2023."
 weight = 3
 
 [extra]
-local_image = "/images/pyconInd2023.webp"
-social_media_card = "/images/pyconInd2023.webp"
+local_image = "/images/pyconInd2023SKS.webp"
+social_media_card = "/images/pyconInd2023SKS.webp"
 +++
 
 ![PyCon India 2023](/images/pyconInd2023.webp)

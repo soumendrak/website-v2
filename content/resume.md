@@ -13,8 +13,8 @@ tags=["resume"]
 
 ## PDF Version
 
-<object data="https://github.com/soumendrak/website-v2/blob/main/static/pdfs/cv.pdf" type="application/pdf" width="100%" height="1800px">
-      <p>Unable to display PDF file? <a href="https://github.com/soumendrak/website-v2/blob/main/static/pdfs/cv.pdf">Download</a> instead.</p>
+<object data="/pdfs/cv.pdf" type="application/pdf" width="100%" height="1800px">
+      <p>Unable to display PDF file? <a href="/pdfs/cv.pdf">Download</a> instead.</p>
 </object>
 
 ## About Me

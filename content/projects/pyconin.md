@@ -8,11 +8,14 @@ local_image = "/images/pyconInd2023.webp"
 social_media_card = "/images/pyconInd2023.webp"
 +++
 
+![PyCon India 2023](/images/pyconInd2023.webp)
 ## About project
+
 
 PyCon India is India's largest gathering of Programmers for the Python programming language.
 
 ## PyCon India 2023, Hyderabad
+![PyCon India 2023](/images/pyconInd2023SKS.webp)
 
 ### Roles and Responsibilities
 
@@ -38,6 +41,9 @@ PyCon India is India's largest gathering of Programmers for the Python programmi
 
 ## PyCon India 2019, Chennai
 
+![PyCon India 2019](/images/pyconInd2019.webp)
+*With Matthew Honnibal(left) and Ines Montani*
+
 ### Roles and Responsibilities
 
 - I was one of the CFP reviewers. I reviewed around 100 talk proposals out of ~300 submissions.
@@ -50,3 +56,10 @@ PyCon India is India's largest gathering of Programmers for the Python programmi
 
 {{ youtube (id="VUT386_GKI8")}}
 _One of the best keynote talks I have ever seen._
+
+## PyCon India 2024, Bengaluru
+
+![PyCon India 2024](/images/pyconInd2024.webp)
+
+### Roles and Responsibilities
+- I did not contribute much to the conference this time. I was just an attendee.

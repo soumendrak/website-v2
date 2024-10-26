@@ -1,6 +1,6 @@
 +++
-title = "Odias in AI/ML"
-description = "Co-Founder of Odias in AI/ML."
+title = "Odisha AI"
+description = "Core staff volunteer at Odisha AI."
 weight = 2
 
 [extra]
@@ -9,7 +9,10 @@ social_media_card = "/images/odishaai.webp"
 +++
 
 ## About project
-Odias in ML is a global initiative creating a space for idea sharing, fostering collaborations, and discussing initiatives to increase Odia people's presence in AI. To this end, we run mentoring programs and maintain various fora for fostering partnerships and collaborations with industry and investors.
+
+![Odisha AI](/images/odishaai.webp)
+
+Odisha AI is a global initiative creating a space for idea sharing, fostering collaborations, and discussing initiatives to increase Odia people's presence in AI. To this end, we run mentoring programs and maintain various fora for fostering partnerships and collaborations with industry and investors.
 
 ## Roles and Responsibilities
 * During 2020 and 2021, I was a speaker and panelist at the conference.

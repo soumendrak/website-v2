@@ -13,7 +13,7 @@ show_projects_first = false
 social_media_card = "images/India_DP.webp"
 +++
 
-I'm Soumendra Kumar Sahoo, a software engineer turned architect from Hyderabad, India. I'm currently working as an AI Observability Architect at one of the top food and beverages brand in the world, [PepsiCo](https://www.pepsico.com/). I am also working as a part-time AI Consultant. I have 12+ years of experience in the field of software engineering. I have started my career as a COBOL/Mainframe developer. You can find my resume [here](@/resume.md).
+I'm Soumendra Kumar Sahoo, a software engineer turned architect from Hyderabad, India. I'm currently working as an AI Observability Architect at one of the top food and beverages brand in the world, [PepsiCo](https://www.pepsico.com/). I am also working as a part-time AI Consultant. I have 12+ years of experience in the field of software engineering. I have started my career as a COBOL/Mainframe developer. I have previously worked at [Tata Consultancy Services](https://www.tcs.com), [Accenture](https://www.accenture.com), [Wipro](https://www.wipro.com), [IBM](https://www.ibm.com) and [Freshworks](https://www.freshworks.com). You can find my resume [here](@/resume.md).
 
 I love to build and break latest tools and techs. I'm passionate about open-source software. Due to this I have made my hands dirty in LLMs, RAGs, DevOps, Full Stack Engineering, No Code development tools, Technical writing, Blockchain, Quantum Computing, IoT etc.
 

@@ -65,7 +65,7 @@ tags=["resume"]
 #### AI Solutions Sutainability Lead
 * Leading and managing a team of AI Observability Engineers to sustain AI Solutions with additional instrumentation, monitoring, and observability.
 
-### Freshworks (2021-present)
+### Freshworks (2021-2024)
 
 #### Lead MLOps/System Engineer
 * **Designed end-to-end** LLM Operations platform for the existing LLM solutions.

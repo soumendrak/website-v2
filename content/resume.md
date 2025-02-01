@@ -2,6 +2,7 @@
 title = "Profile"
 path = "resume"
 date = "2024-07-21"
+updated = "2025-02-01"
 [taxonomies]
 tags=["resume"]
 +++
@@ -18,7 +19,7 @@ tags=["resume"]
 </object>
 
 ## About Me
-* Accomplished professional with extensive experience in scalable ML service, back-end software development, and leading teams to develop end-to-end solutions in Banking & Finance, and Education domains.
+* Accomplished professional with extensive experience in scalable ML service, back-end software development, and leading teams to develop end-to-end solutions in Banking & Finance, Food & Beverages and Education domains.
 * 2.5+ years of experience in deploying, operationalizing, maintaining and scaling Machine Learning models in production.
 * 2+ years of experience AIOps platform development in IBM.
 * 8+ years of experience in **both traditional and Generative AI models**.
@@ -30,9 +31,10 @@ tags=["resume"]
 
 
 ## Top Skills
+* Instrumentation, Monitoring, AI Observability
 * Python Programming
 * MLOps (Machine Learning Operations) Engineering
-* Leading a team
+* Leading multiple teams
 * Technical Writing
 * Solving problems with System Design and Architecture
 * Maintaining a happy and healthy work environment
@@ -54,6 +56,14 @@ tags=["resume"]
 {% end %}
 
 ## Experiences
+
+### PepsiCo (2024-present)
+
+#### AI Observability Lead
+* Building a **comprehensive** observability platform for AI applications.
+
+#### AI Solutions Sutainability Lead
+* Leading and managing a team of AI Observability Engineers to sustain AI Solutions with additional instrumentation, monitoring, and observability.
 
 ### Freshworks (2021-present)
 
@@ -226,3 +236,6 @@ tags=["resume"]
 > I believe, he will play a key role in the success of any team that he is currently working in or the team he will be involved in as part of his future endeavor as well."
 >
 > — [Deepak Mahapatra](https://www.linkedin.com/in/deepakmahapatra1/), Senior Fullstack Developer at IBM, USA
+
+## Credits
+- The Resume is prepared using [Typst App](https://typst.app/?category=cv&template=vantage-cv&version=1.0.0) with the template [vantage-cv](https://github.com/sardorml/vantage-typst) authored by [Sardor Mamadaliev](https://github.com/sardorml).

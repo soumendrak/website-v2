@@ -9,6 +9,7 @@ categories=["osm"]
 [extra]
 social_media_card = "/images/posts/street-lamps.webp"
 +++
+![Diwali](/images/posts/street-lamps.webp)
 **TL;DR**: This post is about how I have tried to create a deepak just before the Diwali on the open street map by adding all the street lamps [near my area](https://sb12.github.io/OSMStreetLight/#15/13.0065/77.5559) in 2024.
 
 ## Street Lamps

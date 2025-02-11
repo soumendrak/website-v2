@@ -13,11 +13,10 @@ show_projects_first = false
 social_media_card = "images/India_DP.webp"
 +++
 
-I'm Soumendra Kumar Sahoo, a software engineer turned architect from Hyderabad, India. I'm currently working as an AI Observability Architect at one of the top food and beverages brand in the world, [PepsiCo](https://www.pepsico.com/). I am also working as a part-time AI Consultant. I have 12+ years of experience in the field of software engineering. I have started my career as a COBOL/Mainframe developer. I have previously worked at [Tata Consultancy Services](https://www.tcs.com), [Accenture](https://www.accenture.com), [Wipro](https://www.wipro.com), [IBM](https://www.ibm.com) and [Freshworks](https://www.freshworks.com). You can find my resume [here](@/resume.md).
+I'm Soumendra Kumar Sahoo, an AI Observability Architect and AI Sustainability Lead at PepsiCo, bringing over 12 years of enterprise technology leadership experience. At PepsiCo, I spearhead strategic initiatives in AI governance, focusing on system optimization, ethical compliance, and sustainable AI practices. 
 
-I love to build and break latest tools and techs. I'm passionate about open-source software. Due to this I have made my hands dirty in LLMs, RAGs, DevOps, Full Stack Engineering, No Code development tools, Technical writing, Blockchain, Quantum Computing, IoT etc.
+With expertise spanning artificial intelligence, and AI transformation, I specialize in leveraging cutting-edge technologies to solve complex business challenges. My work encompasses Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and full-stack engineering solutions.
 
-I am M.Tech in Data Science and Engineering from [BITS Pilani](https://www.bits-pilani.ac.in/) where my thesis was on LLM alignment. I have co-authored an IEEE paper on LLM fine-tuning, I have a patent pending and I have contributed to many [open-source projects](@/projects/_index.md).
+I hold an M.Tech in Data Science and Engineering from BITS Pilani, where my research focused on LLM alignment. My contributions to the field include an IEEE-published paper on LLM fine-tuning, a pending patent, and significant involvement in multiple [open-source projects](@/projects/_index.md). You can find my detailed professional background [here](@/resume.md).
 
-I recently moved to Hyderabad after spending around a decade in Bengaluru. When I'm not working, I like to play chess, walk, and write about my experiences.
-I love to help people in any way I can. If you need any help on career, project, portfolio, etc. please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/soumendrak/).
+Based in Hyderabad, India I maintain a strong commitment to technology innovation and knowledge sharing. I welcome connections with fellow technology leaders and innovators - feel free to reach out on [LinkedIn](https://www.linkedin.com/in/soumendrak/) to discuss technology trends, strategic initiatives, or collaborative opportunities.

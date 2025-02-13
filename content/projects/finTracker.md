@@ -1,6 +1,6 @@
 +++
 title = "Share Market Portfolio Tracker"
-description = "A live tracker of all the shares across different markets."
+description = "A live tracker of all your stocks across different markets."
 weight = 7
 
 [extra]

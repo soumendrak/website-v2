@@ -2,7 +2,7 @@
 title = "Profile"
 path = "resume"
 date = "2024-07-21"
-updated = "2025-02-01"
+updated = "2025-02-14"
 [taxonomies]
 tags=["resume"]
 +++
@@ -60,7 +60,7 @@ tags=["resume"]
 ### PepsiCo (2024-present)
 
 #### AI Observability Lead
-* Building a **comprehensive** observability platform for AI applications.
+* Building a comprehensive **observability platform** for GenAI, AI Agents, Computer Vision, and ML applications.
 
 #### AI Solutions Sutainability Lead
 * Leading and managing a team of AI Observability Engineers to sustain AI Solutions with additional instrumentation, monitoring, and observability.
@@ -114,7 +114,7 @@ tags=["resume"]
 * I guided and delegated tasks to my junior associates.
 
 ## Volunteering Experience
-* Maintainer of an open-source PyPi package, [OpenOdia](https://github.com/soumendrak/openodia), with 40,000+ downloads. 
+* Maintainer of an open-source PyPi package, [OpenOdia](https://github.com/soumendrak/openodia), with 50,000+ downloads. 
 * Started a couple of volunteering teams, [Odias in AI](https://www.odishaai.org/about#core-team) and [OdiaGenAI](https://www.odiagenai.org/).
 * Led multiple volunteering teams: [PyCon India 2023](https://in.pycon.org/2023/volunteers/workgroup-leads/), Odia Wikipedia, and Mozilla Common Voice for Odia.
 * Developed [Shabdarasa](https://www.shabdarasa.com/), a wordle game for the Odia language with 100+ DAU.
@@ -160,6 +160,25 @@ tags=["resume"]
 * Kannada (Elementary)
 
 ## Recommendations
+
+*All Recommendations are borrowed from my LinkedIn profile.*
+
+> "Soumendra is a tech powerhouse who transformed our MLOps initiatives at Freshworks. His deep passion for AI, combined with sharp technical acumen, enabled him to architect and deliver customer-ready solutions within a quarter. 
+> Beyond his technical prowess, his infectious smile and positive energy made every workday brighter. As a tech community builder and champion of both Python and Odia language, he brings a unique blend of skills to the table. 
+> If AI were to choose its own advocate, I'm pretty sure it would slide into Soumendra's DMs first! Highly recommended."
+>
+> — [Sayan Nayak](https://www.linkedin.com/in/sayannayak/), Staff Engineer at Freshworks
+
+> "It was a great experience working with Soumendra in the [Freddy AI for Freshdesk] team. He consistently showcased innovation, building efficient ML systems that were both scalable and future-proof. One of Soumendra's standout qualities is his exceptional documentation skills and attention to detail, which made it easy for the team to understand and build on his work effectively. 
+> His friendly and approachable nature made him a fantastic colleague and mentor. I highly recommend Soumendra for any opportunity that values innovation, expertise, and teamwork"
+>
+> — [Krithika Arunachalam](https://www.linkedin.com/in/krithika-ar/), Senior Data Scientist at Freshworks
+
+> "I had the pleasure of working with Soumendra at IBM. As an MCMP AIOps Platform squad lead, Soumendra showcased exceptional leadership and technical expertise, implementing multiple role-based user systems and a robust consumption-based pricing model.
+> As the AIOps Multi-Tenancy squad lead, he adeptly developed a multi-tenant architecture and seamlessly integrated user authentication via OpenID 2.0 in the ELK stack.
+> As an AI Solutions and Transformations Engineer, he excelled in analyzing complex product architectures and designing a unified ingestion and analytics framework, demonstrating a deep understanding of Big Data and Machine Learning technologies."
+>
+> — [Madhusoodanan (Madhu) K Madhavan](https://www.linkedin.com/in/madhusoodanan/), Enterprise Architect at IBM GTS Labs
 
 > "Soumendra is one of the best development engineer I had in my team. He has huge amount of skills to offer. Be it development, research, documentation, mentoring or guiding, he is first in all of them. He is role model for the whole team in so many ways. He guide team to do better coding. He promotes open source contributions. He is first in CSR activities. 
 > Soumendra is full of ideas and suggestions. You give him any task, he bring multiples ways of achieve it and also provide new insights in what can be done better. 

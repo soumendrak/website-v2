@@ -28,7 +28,7 @@ Why `attrs` is useful:
 Installation:
 To get started with attrs, you can install it using pip:
 
-```shell
+```sh
 pip install attrs
 ```
 

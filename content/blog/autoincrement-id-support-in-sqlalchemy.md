@@ -8,8 +8,7 @@ social_media_card = "/images/posts/sqlalchemy-autoincrement.webp"
 
 
 [taxonomies]
-tags=["python", "databases", "python3", "database-design", "sqlalchemy"]
-categories=["python", "databases"]
+tags=["python", "databases", "database-design", "sqlalchemy"]
 +++
 
 ## Introduction

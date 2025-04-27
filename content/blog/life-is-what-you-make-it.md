@@ -4,8 +4,8 @@ date = "2021-12-01"
 draft = true
 
 [taxonomies]
-tags=["life", "inspiration", "book-review"]
-categories=["personal"]
+tags=["life", "inspiration", "book-review", "personal"]
+
 +++
 ## Life is what you make it
 

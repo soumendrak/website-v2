@@ -6,7 +6,6 @@ updated = "2024-08-16"
 
 [taxonomies]
 tags=["career", "software-architecture"]
-categories=["career"]
 +++
 ## 10 tips to become a better Software Architect
 

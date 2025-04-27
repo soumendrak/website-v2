@@ -7,7 +7,7 @@ social_media_card = "/images/posts/llm-history.webp"
 
 [taxonomies]
 tags=["nlp", "llm", "languagemodelling", "large-language-models"]
-categories=["AI", "LLM"]
+
 +++
 
 ## What are Language Models?

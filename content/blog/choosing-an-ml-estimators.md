@@ -6,7 +6,7 @@ updated="2024-08-16"
 
 [taxonomies]
 tags=["Machine Learning"]
-categories=["ML"]
+
 +++
 
 ## Choosing an ML estimators

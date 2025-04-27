@@ -6,8 +6,8 @@ date = "2024-05-25"
 social_media_card = "/images/posts/patching-a-memory-leak.webp"
 
 [taxonomies]
-tags = ["python", "python3", "flask", "memory-leak", "memory-forensics"]
-categories=["python"]
+tags = ["python", "flask", "memory-leak", "memory-forensics"]
+
 +++
 
 ## Problem

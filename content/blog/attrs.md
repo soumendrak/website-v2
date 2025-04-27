@@ -4,8 +4,7 @@ description = "Mastering Python's attrs Library: A Comprehensive Guide"
 date = "2024-08-20"
 
 [taxonomies]
-tags=["python", "python3", "dataclasses", "pydantic"]
-categories=["python"]
+tags=["python", "dataclasses", "pydantic"]
 [extra]
 social_media_card = "/images/posts/attrs.webp"
 +++

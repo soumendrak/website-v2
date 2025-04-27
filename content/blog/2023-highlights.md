@@ -7,8 +7,7 @@ updated = "2024-08-16"
 social_media_card = "/images/posts/2023highlights.webp"
 
 [taxonomies]
-tags=["yearinreview", "2023", "year-in-a-review"]
-categories=["personal"]
+tags=["year-in-a-review", "review"]
 +++
 
 _As a person with access to the privileges of society, only providing income tax is not enough; we should help others without any expectations._

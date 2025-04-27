@@ -9,7 +9,6 @@ social_media_card = "/images/posts/py-interview.webp"
 
 [taxonomies]
 tags=["python", "job-interview"]
-categories=["python", "job-interview"]
 +++
 
 A few questions and answers for interviewers to check someone's basic python knowledge.

@@ -6,8 +6,8 @@ updated = "2024-08-16"
 [extra]
 social_media_card = "/images/posts/gc.webp"
 [taxonomies]
-tags = ["python", "gc", "programming-tips", "garbagecollection", "garbage-collector"]
-categories=["python"]
+tags = ["python", "gc", "tips", "garbagecollection", "garbage-collector"]
+
 +++
 
 ## Introduction

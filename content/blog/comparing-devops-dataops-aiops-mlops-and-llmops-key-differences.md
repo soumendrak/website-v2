@@ -8,7 +8,7 @@ social_media_card = "/images/posts/diffrences-dataops-aiops-mlops.webp"
 
 [taxonomies]
 tags = ["devops", "mlops", "devops-articles", "dataops", "aiops", "llmops"]
-categories=["DevOps", "MLOps"]
+
 +++
 
 These are the commonly used terms that can be misunderstood. Here are the scope of the terms, use cases, and their limitations:

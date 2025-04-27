@@ -4,10 +4,11 @@ description = "Discover the RSS feeds that keep me updated and informed in the d
 date = "2025-04-27"
 [extra]
 social_media_card = "/images/posts/rss-feeds.webp"
+local_image = "/images/posts/rss-feeds.webp"
 
 [taxonomies]
 tags=["rss", "reading"]
-categories=["rss"]
+
 +++
 
 In this era of attention seekers, I find RSS feeds to be a valuable tool for staying up-to-date with the latest news and updates of the persons you follow and the projects you care about.

@@ -7,8 +7,8 @@ updated = "2024-08-16"
 social_media_card = "/images/posts/tricks-to-manually-detect-ai-generated-fake-images.webp"
 
 [taxonomies]
-tags=["ai", "github", "opensource", "images", "social-media"]
-categories=["AI", "tools"]
+tags=["AI", "github", "opensource", "images", "social-media"]
+
 +++
 
 ## Introduction

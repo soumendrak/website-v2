@@ -6,8 +6,8 @@ date = "2023-03-18"
 social_media_card = "/images/posts/property-in-python.webp"
 
 [taxonomies]
-tags=["python", "python3", "property", "decorators", "getter-and-setter"]
-categories=["python"]
+tags=["python", "property", "decorators", "getter-and-setter"]
+
 +++
 
 1. Introduction  

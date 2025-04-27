@@ -8,7 +8,6 @@ social_media_card = "/images/posts/browser-extension.webp"
 
 [taxonomies]
 tags=["productivity", "web-extensions", "web-addons"]
-categories=["tools"]
 +++
 
 I have been trying out software since 2008. Back then, software was coming in CDs in tech magazines. After all these years, here is what I have been settling on:

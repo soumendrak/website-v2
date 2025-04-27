@@ -8,8 +8,8 @@ social_media_card = "/images/posts/the-importance-of-backward-slashes-in-python-
 
 
 [taxonomies]
-tags=["programming-blogs", "python", "python3", "python-beginner"]
-categories=["python"]
+tags=["python", ]
+
 +++
 
 In Python, the backslash (\\) character is used for several purposes, such as:

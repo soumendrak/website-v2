@@ -6,7 +6,7 @@ updated="2024-08-16"
 
 [taxonomies]
 tags=["programming", "python"]
-categories=["python"]
+
 +++
 
 ## Sharing files among devices through Python through your WiFi router or not

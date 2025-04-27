@@ -6,8 +6,8 @@ updated = "2024-08-16"
 [extra]
 social_media_card = "/images/posts/factory-design-pattern.webp"
 [taxonomies]
-tags=["design-patterns", "python", "python-beginner", "factory-design-pattern", "solid-principles"]
-categories=["design-patterns", "python"]
+tags=["design-patterns", "python", "factory-design-pattern", "solid-principles"]
+
 +++
 
 Several design patterns are commonly used in Python programming. Some of the most common design patterns include:

@@ -8,7 +8,7 @@ social_media_card = "/images/posts/access-gpt4.webp"
 
 [taxonomies]
 tags=["openai", "llm", "bing", "chatgpt", "gpt-4"]
-categories=["AI", "tools"]
+
 +++
 
 OpenAI released its latest LLM, [GPT-4](https://openai.com/research/gpt-4), on 14th March 2023. There are the following methods to access GPT-4:

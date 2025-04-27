@@ -5,8 +5,8 @@ date = "2023-03-25"
 social_media_card = "/images/posts/repr-in-python.webp"
 
 [taxonomies]
-tags=["python", "python-beginner", "python-advanced", "repr", "str"]
-categories=["python"]
+tags=["python",   "repr", "str"]
+
 +++
 
 ## Introduction

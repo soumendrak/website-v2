@@ -6,7 +6,7 @@ updated = "2024-08-16"
 
 [taxonomies]
 tags=["career", "interview", "python", "sony"]
-categories=["job-interview"]
+
 +++
 
 ## Sony interview questions

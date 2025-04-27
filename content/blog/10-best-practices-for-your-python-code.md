@@ -4,8 +4,7 @@ description = "10 Best Practices for your Python code"
 date = "2023-03-04"
 updated = "2024-08-16"
 [taxonomies]
-tags=["programming-blogs", "python", "python-beginner", "programming-tips"]
-categories=["python"]
+tags=["python", "tips"]
 [extra]
 social_media_card = "/images/posts/10best.webp"
 +++

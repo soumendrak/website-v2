@@ -8,8 +8,8 @@ canonical_url = "https://medium.com/@soumendrak/evolution-of-rags-5a5b996bdd94"
 social_media_card = "/images/posts/rag-evolution.webp"
 
 [taxonomies]
-tags=["ai", "rag", "graphrag"]
-categories=["AI", "RAG"]
+tags=["AI", "RAG"]
+
 +++
 
 ![|700x543](https://miro.medium.com/v2/resize:fit:700/1*joeczo_WjO680VN89dy9aA.png)

@@ -6,7 +6,7 @@ updated = "2024-08-16"
 
 [taxonomies]
 tags=["blockchain", "cryptocurrency"]
-categories=["odia"]
+
 +++
 # ⛓ ବ୍ଲକ୍‌ଚେନ୍‌ (Blockchain)
 

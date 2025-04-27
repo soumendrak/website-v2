@@ -7,7 +7,7 @@ social_media_card = "/images/posts/ml-academics-vs-ml-production.webp"
 
 [taxonomies]
 tags=["machine-learning", "ml", "mlops", "machine-learning-models", "machine-learning-life-cycle"]
-categories=["ML"]
+
 +++
 
 The Machine learning used in academics/research is quite different from the ML used in Production applications for real usage by end users. Here is a description on what are the differences.

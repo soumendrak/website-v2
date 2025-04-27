@@ -6,8 +6,7 @@ updated = "2024-08-16"
 social_media_card = "/images/posts/pyconIndia2023proposals.webp"
 
 [taxonomies]
-tags=["python", "data-analysis", "cfp", "pycon", "pyconindia2023"]
-categories=["python", "conference"]
+tags=["python", "data-analysis", "cfp", "pycon", "pyconindia2023", "conference"]
 +++
 
 Hello, I am the Call For Proposals Lead for [PyCon India 2023](https://in.pycon.org/2023/). My team and I have diligently managed proposals since April of this year. As we have completed our review and shortlisted our speakers, I would like to share an analysis of the proposal trends for this year's PyCon India.

@@ -7,8 +7,7 @@ updated = "2024-08-16"
 social_media_card = "/images/posts/10python.webp"
 
 [taxonomies]
-tags=["ai", "python", "machine-learning", "ml", "python-beginner"]
-categories=["python"]
+tags=["AI", "python", "machine-learning", "ml"]
 +++
 
 1. Requests - Requests is a library used for making HTTP requests in Python. It provides support for handling HTTP methods like GET, POST, and DELETE, and includes features like request headers and authentication.

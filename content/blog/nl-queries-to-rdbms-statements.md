@@ -6,8 +6,8 @@ date = "2018-10-20"
 social_media_card = "/images/posts/converting-nl-queries-to-rdbms-statements.webp"
 
 [taxonomies]
-tags=["programming", "python", "nlp", "sql"]
-categories=["NLP", "databases"]
+tags=["programming", "python", "nlp", "sql", "SysAdmin"]
+
 +++
 
 ## Converting NL queries to RDBMS statements

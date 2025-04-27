@@ -1,19 +1,18 @@
 +++
-title = "A Guide to the Amazon Recruiting Process: What to Expect and How to Get Ready"
+title = "[Offered] A Guide to the Amazon Recruiting Process: What to Expect and How to Get Ready"
 description = "Amazon Recruiting Process: my experience and what to expect."
 date = "2023-02-07"
-updated = "2024-08-16"
+updated = "2025-04-27"
 [extra]
 social_media_card = "/images/posts/amazon.webp"
 
 [taxonomies]
-tags=["interview", "amazon", "python", "interview-questions", "faang"]
-categories=["job-interview"]
+tags=["interview", "amazon", "python", "interview-questions", "faang", "job-interview"]
 +++
 
 ## TL;DR
 
-A Guide to the Amazon Recruiting Process: What to Expect and How to Get Ready - This article outlines the Amazon recruiting process, what to expect, and how to prepare. It includes a breakdown of the interview rounds, the topics discussed, and the outcome. It also provides tips on preparing for the Amazon Leadership Principle rounds and a conclusion.
+This article outlines the Amazon recruiting process, what to expect, and how to prepare. It includes a breakdown of the interview rounds, the topics discussed, and the outcome. It also provides tips on preparing for the Amazon Leadership Principle rounds and a conclusion.
 
 ## How I landed up with an interview call?
 
@@ -128,6 +127,7 @@ After these questions, I got a follow-up problem to solve.
 
 Q. Given a 100MB log file that looks like this:
 
+```text
 charles=3918  
 alice=0  
 bob=100  
@@ -136,6 +136,7 @@ django=77
 alice=0  
 erik=0  
 charles=4231
+```
 
 Write a program that removes the duplicate lines and sorts the pairs by value.  
 \* value is the integer assigned; duplicate lines are defined by the full-text line, not the key.

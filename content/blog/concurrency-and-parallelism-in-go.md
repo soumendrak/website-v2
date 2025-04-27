@@ -9,8 +9,8 @@ social_media_card = "/images/posts/concurrency-parallelism.webp"
 
 
 [taxonomies]
-tags=["programming-blogs", "go", "beginners", "programming-tips", "codingnewbies"]
-categories=["Go"]
+tags=["go", "beginners", "tips", "codingnewbies"]
+
 +++
 
 Boosting Go Performance: Understanding Concurrency and Parallelism for Efficient Code Execution

@@ -6,7 +6,7 @@ updated="2024-08-16"
 
 [taxonomies]
 tags=["python", "async", "semaphore"]
-categories=["python"]
+
 
 [extra]
 og_preview_img="/images/posts/semaphore.webp"

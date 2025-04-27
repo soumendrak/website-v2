@@ -8,7 +8,7 @@ social_media_card = "/images/posts/god-mode-browser.webp"
 
 [taxonomies]
 tags=["browser", "tricks", "javascript", "tools", "god", "god-mode"]
-categories=["tools"]
+
 +++
 
 With the help of god mode, you can modify any text on a website. Yes, **any text**.

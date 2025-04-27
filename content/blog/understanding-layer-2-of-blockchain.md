@@ -7,7 +7,7 @@ social_media_card = "/images/posts/understanding-layer-2-of-blockchain.webp"
 
 [taxonomies]
 tags=["blockchain", "layer-2"]
-categories=["blockchain"]
+
 +++
 ## Understanding Layer 2 of Blockchain
 

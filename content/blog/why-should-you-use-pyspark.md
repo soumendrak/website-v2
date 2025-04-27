@@ -5,8 +5,8 @@ date="2019-03-02"
 updated="2024-08-16"
 
 [taxonomies]
-tags=["python", "python3", "meetup", "python-projects"]
-categories=["python"]
+tags=["python", "meetup", "python-projects"]
+
 +++
 
 ## Why should you use PySpark?

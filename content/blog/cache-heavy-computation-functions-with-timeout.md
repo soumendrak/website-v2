@@ -8,7 +8,7 @@ social_media_card = "/images/posts/cache-heavy-computation-functions-with-timeou
 
 [taxonomies]
 tags=["programming", "python"]
-categories=["python"]
+
 +++
 ## Cache heavy computation functions with a timeout value
 

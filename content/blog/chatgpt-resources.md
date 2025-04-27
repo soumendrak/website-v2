@@ -8,7 +8,7 @@ social_media_card = "/images/posts/chatgpt-resources.webp"
 
 [taxonomies]
 tags=["go", "python", "typescript", "rust", "chatgpt"]
-categories=["ai", "tools"]
+
 +++
 
 This is a consolidation live data source for all developments and tools built around [chatGPT](https://chat.openai.com/chat).

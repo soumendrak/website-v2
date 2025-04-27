@@ -8,7 +8,7 @@ social_media_card = "/images/posts/statistics-about-odia-wikipedia.webp"
 
 [taxonomies]
 tags=["programming", "python", "statistics", "wikipedia"]
-categories=["odia"]
+
 +++
 
 ## Statistics about Odia Wikipedia

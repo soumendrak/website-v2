@@ -5,7 +5,7 @@ updated = "2024-08-16"
 
 [taxonomies]
 tags=["sopr", "blockchain"]
-categories=["blockchain"]
+
 +++
 
 ## What is SOPR (Spent Output Profit Ratio)?

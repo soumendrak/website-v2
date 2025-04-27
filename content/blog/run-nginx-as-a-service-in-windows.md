@@ -4,8 +4,8 @@ description="Batch file to run Nginx as a service in Windows platform."
 date="2018-02-03"
 
 [taxonomies]
-tags=["nginx", "windows"]
-categories=["SysAdmin"]
+tags=["nginx", "windows", "SysAdmin"]
+
 +++
 
 ## Run Nginx as a service in Windows platform

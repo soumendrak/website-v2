@@ -7,8 +7,8 @@ updated = "2024-08-16"
 social_media_card = "/images/posts/chatgpt-alternative.webp"
 
 [taxonomies]
-tags=["ai", "alternative", "content-creation", "llm", "chatgpt"]
-categories=["ai", "tools"]
+tags=["AI", "alternative", "content-creation", "llm", "chatgpt"]
+
 +++
 
 We will discuss the upcoming LLMs (Large Language Models like ChatGPT) in 2023.

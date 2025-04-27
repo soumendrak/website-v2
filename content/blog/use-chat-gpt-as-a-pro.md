@@ -6,8 +6,8 @@ updated = "2024-08-16"
 social_media_card = "/images/posts/maximizing-chatgpts-capabilities-for-increased-productivity.webp"
 
 [taxonomies]
-tags=["ai", "tools", "gpt-3", "openai", "chatgpt"]
-categories=["AI", "tools"]
+tags=["AI", "tools", "gpt-3", "openai", "chatgpt"]
+
 +++
 
 We already know what chatGPT is, here are a few Twitter threads on how to utilize chat GPT to its fullest.

@@ -6,7 +6,7 @@ updated="2024-08-16"
 
 [taxonomies]
 tags=["programming", "python", "design-patterns"]
-categories=["python", "design-patterns"]
+
 +++
 
 ## Circuit Breaker Pattern

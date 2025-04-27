@@ -8,7 +8,7 @@ updated = "2024-08-16"
 social_media_card = "/images/posts/the-story-behind-shabdarasa.webp"
 [taxonomies]
 tags=["odia", "wordle", "game"]
-categories=["odia"]
+
 +++
 
 # The story behind Shabdarasa (ଶବ୍ଦରସ)

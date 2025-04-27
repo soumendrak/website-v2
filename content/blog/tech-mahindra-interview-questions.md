@@ -6,7 +6,7 @@ updated = "2024-08-16"
 
 [taxonomies]
 tags=["career", "interview", "python", "tech-mahindra"]
-categories=["job-interview"]
+
 +++
 
 ## Tech Mahindra interview questions

@@ -6,8 +6,8 @@ date = "2022-11-07"
 social_media_card = "/images/posts/learn-python.webp"
 
 [taxonomies]
-tags=["python", "python3", "beginners", "python-beginner", "python-projects"]
-categories=["python"]
+tags=["python", "beginners",  "python-projects"]
+
 +++
 
 Python has been around since the 90s, and an enormous amount of content is there to learn Python. While this is good for any language, this creates information overload and decision paralysis in learning in a structured manner. _Note: There is no official certification for Python programming_

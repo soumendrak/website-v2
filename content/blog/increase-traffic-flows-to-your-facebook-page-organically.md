@@ -4,8 +4,8 @@ description="My experience with managing the Odia Wikipedia Facebook page."
 date="2020-01-01"
 
 [taxonomies]
-tags=["facebook", "social-media", "python", "python3", "meetup", "python-projects"]
-categories=["social-media"]
+tags=["facebook", "social-media", "python", "meetup", "python-projects"]
+
 +++
 # Increase traffic flows to your Facebook page organically
 

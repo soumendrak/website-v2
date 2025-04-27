@@ -8,8 +8,7 @@ updated = "2024-08-16"
 social_media_card = "/images/posts/ai-tools.webp"
 
 [taxonomies]
-tags=["ai", "tools", "ai-tools", "saas"]
-categories=["AI", "tools"]
+tags=["AI", "tools", "ai-tools", "saas"]
 +++
 
 ## Writing

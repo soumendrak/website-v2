@@ -7,7 +7,7 @@ social_media_card = "/images/posts/scrape-news-website-using-scrapy.webp"
 
 [taxonomies]
 tags=["programming", "python", "nlp", "odia"]
-categories=["NLP", "odia"]
+
 +++
 
 ## Scrape News website using Scrapy

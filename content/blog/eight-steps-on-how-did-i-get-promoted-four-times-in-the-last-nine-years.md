@@ -6,7 +6,7 @@ updated = "2024-08-16"
 
 [taxonomies]
 tags=["career", "promotion"]
-categories=["career"]
+
 +++
 ## Eight steps on how did I get promoted four times in the last nine years?
 

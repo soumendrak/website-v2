@@ -5,7 +5,7 @@ date = "2021-10-19"
 
 [taxonomies]
 tags=["programming", "python", "odia", "names"]
-categories=["python", "odia"]
+
 +++
 # Random Odia Name Generator
 

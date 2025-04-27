@@ -8,7 +8,6 @@ social_media_card = "/images/posts/codetiming.webp"
 
 [taxonomies]
 tags=["programming", "python", "performance", "code-timing"]
-categories=["python"]
 +++
 
 # Aggregate Code timing in Python

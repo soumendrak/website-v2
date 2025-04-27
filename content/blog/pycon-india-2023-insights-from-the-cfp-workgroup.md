@@ -7,7 +7,7 @@ social_media_card = "/images/posts/pycon-india-2023-insights-from-the-cfp-workgr
 
 [taxonomies]
 tags=["cfp", "pycon", "pyconindia2023", "pyconindia", "pycon2023"]
-categories=["conference", "python"]
+
 +++
 
 ## Introduction

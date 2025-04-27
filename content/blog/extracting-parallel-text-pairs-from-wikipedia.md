@@ -6,7 +6,7 @@ updated="2024-08-16"
 
 [taxonomies]
 tags=["programming", "python"]
-categories=["python", "odia"]
+
 +++
 
 ## Extracting Parallel-text pairs from Wikipedia

@@ -7,7 +7,7 @@ social_media_card = "/images/posts/mysql-partition.webp"
 
 [taxonomies]
 tags=["mysql", "databases", "partition", "database-partitioning", "databasemanagement"]
-categories=["databases"]
+
 +++
 
 ## Why are Partitions Essential? 🤔

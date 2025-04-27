@@ -7,7 +7,7 @@ social_media_card = "/images/posts/llmops-introduction.webp"
 
 [taxonomies]
 tags=["devops", "mlops", "llm", "llmops"]
-categories=["MLOps"]
+
 +++
 
 ## DevOps

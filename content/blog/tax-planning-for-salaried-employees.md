@@ -6,7 +6,7 @@ updated="2024-08-16"
 
 [taxonomies]
 tags=["tax", "income-tax", "tax-planning", "salaried-employees"]
-categories=["tax"]
+
 +++
 ## [Webinar] New in Budget 2023
 ### For Individuals

@@ -7,7 +7,7 @@ social_media_card = "/images/posts/go-array-slices.webp"
 
 [taxonomies]
 tags=["go", "golang", "array", "slice", "golang-developer"]
-categories=["Go"]
+
 +++
 
 Array and slice are two important data structures in Go that are used to store and manipulate sequences of values. Although they may appear similar at first glance, some key differences between the two are worth understanding.

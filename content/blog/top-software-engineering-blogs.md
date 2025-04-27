@@ -8,7 +8,7 @@ social_media_card = "/images/posts/top-software-engineering-blogs.webp"
 
 [taxonomies]
 tags=["software-engineering", "software-architecture"]
-categories=["career"]
+
 +++
 
 ## Top Software Engineering Blogs

@@ -6,7 +6,7 @@ updated = "2024-08-16"
 social_media_card = "/images/posts/github-opensource.webp"
 [taxonomies]
 tags=["github", "opensource", "git"]
-categories=["opensource"]
+
 +++
 
 GitHub and open-source software are two terms often misinterpreted; they are not the same thing. While both are essential to software development, the two have significant differences. This post will explore the differences between GitHub and open source and how they work together.

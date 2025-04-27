@@ -4,8 +4,8 @@ description = "Street lamp mapping in OpenStreetMap for the Diwali 2024."
 date = "2025-02-01"
 
 [taxonomies]
-tags=["diwali", "2024", "openstreetmap", "street-lamp"]
-categories=["osm"]
+tags=["diwali", "openstreetmap"]
+
 [extra]
 social_media_card = "/images/posts/street-lamps.webp"
 +++

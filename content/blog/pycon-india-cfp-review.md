@@ -6,8 +6,8 @@ date = "2020-06-26"
 social_media_card = "/images/posts/pycon-india-cfp-review.webp"
 
 [taxonomies]
-tags=["programming-blogs", "python", "python3", "meetup", "python-projects"]
-categories=["conference", "python"]
+tags=["python", "meetup", "python-projects"]
+
 +++
 
 ## Introduction

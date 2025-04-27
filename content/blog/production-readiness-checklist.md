@@ -6,8 +6,8 @@ date = "2024-08-04"
 social_media_card = "/images/posts/production-readiness-checklist.webp"
 
 [taxonomies]
-tags=["devops", "production-readiness", "python", "aws", "kubernetes"]
-categories=["DevOps"]
+tags=["devops", "python", "aws", "kubernetes"]
+
 +++
 
 I have been working on multiple pojects where I have moved applications from PoC to Production.

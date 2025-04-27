@@ -7,8 +7,8 @@ updated = "2024-08-16"
 social_media_card = "/images/posts/usage-of-forward-slash-in-python.webp"
 
 [taxonomies]
-tags=["python", "python3", "python-programming", "keywords", "python-beginner"]
-categories=["python"]
+tags=["python", "python-programming", "keywords", ]
+
 +++
 
 In Python, the forward slash (/) has several different uses depending on the context in which it appears. Some of the primary benefits of the forward slash in Python include:

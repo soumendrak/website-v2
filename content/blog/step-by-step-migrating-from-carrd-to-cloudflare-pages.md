@@ -8,7 +8,7 @@ social_media_card = "/images/posts/step-by-step-migrating-from-carrd-to-cloudfla
 
 [taxonomies]
 tags=["cloudflare", "migration", "carrd", "cloudflare-pages"]
-categories=["web-development"]
+
 +++
 
 [Carrd.co](https://carrd.co) is a single-page website builder with a no-code paid tool. [Cloudflare Pages](https://pages.cloudflare.com/) is a JAMstack platform for front-end developers to collaborate and deploy websites. In this blog post, I will describe how to move your static website from Carrd.co (Paid) to [Cloudflare pages](https://pages.cloudflare.com/) (Free). Let's start.

@@ -7,8 +7,8 @@ updated = "2024-08-16"
 social_media_card = "/images/posts/go-structs.webp"
 
 [taxonomies]
-tags=["go", "golang", "struct", "programming-tips", "golang-developer"]
-categories=["Go"]
+tags=["go", "golang", "struct", "tips", "golang-developer"]
+
 +++
 
 > This blog post discussed structs in GoLang, which are user-defined types used to group data and model real-world entities. It showed how to declare and create named and anonymous structs, access and modify structs fields, and use nested structs to create more complex data structures. Structs are the basis for creating methods and interfaces in GoLang.

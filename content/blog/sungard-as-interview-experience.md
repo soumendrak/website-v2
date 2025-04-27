@@ -6,7 +6,7 @@ updated = "2024-08-16"
 
 [taxonomies]
 tags=["career", "interview", "python", "sungard-as"]
-categories=["job-interview"]
+
 +++
 ## Sungard AS interview experience
 

@@ -239,7 +239,7 @@ menu = [
     { name = "blog", url = "blog", trailing_slash = true },
     { name = "projects", url = "projects", trailing_slash = true },
     { name = "resume", url = "resume", trailing_slash = true },
-    { name = "categories", url = "categories", trailing_slash = true },
+    { name = "tags", url = "tags", trailing_slash = true },
     { name = "archive", url = "archive", trailing_slash = true },
 ]
 
@@ -377,8 +377,7 @@ socials = [
 title = "ସୌମେନ୍ଦ୍ର କୁମାର ସାହୁ"
 build_search_index = false
 taxonomies = [
-  {name = "tags", feed = true}, # each tag will have its own feed
-  {name = "blog", feed = true}, # you can have taxonomies with the same name in multiple languages
-  {name = "categories", paginate_by = 5},  # 5 items per page for a term
+  {name = "tags", feed = true, paginate_by = 5}, # each tag will have its own feed
+  {name = "blog", feed = true, paginate_by = 25}, # you can have taxonomies with the same name in multiple languages
   {name = "authors"}, # Basic definition: no feed or pagination
 ]

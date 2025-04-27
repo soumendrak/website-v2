@@ -6,7 +6,7 @@ updated="2024-08-16"
 
 [taxonomies]
 tags=["nginx", "flask", "windows"]
-categories=["python"]
+
 +++
 
 ## Run Nginx with Flask in Windows OS

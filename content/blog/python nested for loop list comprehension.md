@@ -6,7 +6,7 @@ date="2020-11-25"
 social_media_card = "/images/posts/python-nested-for-loop-list-comprehension.webp"
 [taxonomies]
 tags=["programming", "python"]
-categories=["python"]
+
 +++
 
 ### Single for-loop with if condition

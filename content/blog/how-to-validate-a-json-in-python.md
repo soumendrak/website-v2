@@ -8,7 +8,7 @@ social_media_card = "/images/posts/json-validation.webp"
 
 [taxonomies]
 tags=["python", "json", "apis", "api-testing", "json-schema", "pydantic"]
-categories=["python"]
+
 +++
 
 _Edit on 13 Jan 2024:_

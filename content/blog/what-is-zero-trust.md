@@ -7,8 +7,8 @@ updated = "2024-08-16"
 social_media_card = "/images/posts/what-is-zero-trust.webp"
 
 [taxonomies]
-tags=["security", "zerotrust", "cxo", "czto"]
-categories=["cyber-security"]
+tags=["Security"]
+
 +++
 
 The first time I heard this term, I thought of it as a relationship term where couples do not trust each other. However, in the tech industry, it has a different meaning altogether. Naming things has always been challenging, and people are creative in calling things with different meanings overall for the ordinary person. So what do you think about the terms Zookeeper, Rust, Python, Anaconda, Jupyter, etc.?

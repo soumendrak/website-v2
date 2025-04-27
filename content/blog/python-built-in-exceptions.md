@@ -6,8 +6,8 @@ date = "2022-12-26"
 social_media_card = "/images/posts/understanding-pythons-pre-constructed-exceptions-for-beginners.webp"
 
 [taxonomies]
-tags=["python", "python3", "python-beginner", "exceptions"]
-categories=["python"]
+tags=["python",  "exceptions"]
+
 +++
 
 Explore the Most Common Built-In Errors in Python – Complete with Code Examples! Python is a universal language with many powerful features, but it can also throw various errors when your code encounters an issue. Here is an overview of some of the most common built-in errors in Python, complete with code examples to illustrate how they can occur.

@@ -6,7 +6,7 @@ updated="2024-08-16"
 
 [taxonomies]
 tags=["programming", "python", "youtube-dl"]
-categories=["python"]
+
 +++
 
 ## Download YouTube videos or only audios through this library

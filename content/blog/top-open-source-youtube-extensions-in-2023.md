@@ -8,7 +8,7 @@ social_media_card = "/images/posts/top-open-source-youtube-extensions-in-2023.we
 
 [taxonomies]
 tags=["opensource", "chrome-extension", "youtube"]
-categories=["tools"]
+
 +++
 
 # uBlock origin

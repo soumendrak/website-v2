@@ -7,7 +7,7 @@ social_media_card = "/images/posts/go-lets-start.webp"
 
 [taxonomies]
 tags=["go", "go-tutorial"]
-categories=["Go"]
+
 +++
 
 Go is a popular programming language known for its simplicity, concurrency support, and efficient memory management. Whether new to programming or an experienced developer, Go is a great language to learn.

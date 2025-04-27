@@ -6,7 +6,7 @@ updated="2024-08-16"
 
 [taxonomies]
 tags=["programming", "python"]
-categories=["python"]
+
 +++
 
 ## Cool Python tricks you are not using, but you should.

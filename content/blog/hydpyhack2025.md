@@ -4,8 +4,8 @@ description = "From a hacker to a hackathon judge"
 date = "2025-04-05"
 
 [taxonomies]
-tags=["python", "hackathon", "hyderabad", "genai"]
-categories=["python"]
+tags=["python", "hackathon", "genai", "AI"]
+
 [extra]
 social_media_card = "/images/posts/hydpyhack-cover.webp"
 +++

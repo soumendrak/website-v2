@@ -301,7 +301,7 @@ allowed_domains = [
     { directive = "font-src", domains = ["'self'", "data:"] },
     { directive = "img-src", domains = ["'self'", "https://*", "data:"] },
     { directive = "media-src", domains = ["'self'", "https://cdn.jsdelivr.net/"] },
-    { directive = "script-src", domains = ["'self'", "https://analytics.soumendrak.com", "https://giscus.app", "https://static.cloudflareinsights.com"] },
+    { directive = "script-src", domains = ["'self'", "https://analytics.soumendrak.com", "https://static.cloudflareinsights.com"] },
     { directive = "style-src", domains = ["'self'"] },
     { directive = "frame-src", domains = ["player.vimeo.com", "https://www.youtube-nocookie.com", "http://127.0.0.1:1111/", "https://www.soumendrak.com"] },
 ]
@@ -337,21 +337,21 @@ self_hosted_url = "https://analytics.soumendrak.com"
 
 # giscus support for comments. https://giscus.app
 # Setup instructions: https://welpo.github.io/tabi/blog/comments/#setup
-[extra.giscus]
-enabled_for_all_posts = true  # Enables giscus on all posts. It can be enabled on individual posts by setting `giscus = true` in the [extra] section of a post's front matter.
-automatic_loading = false  # If set to false, a "Load comments" button will be shown.
-repo = "https://github.com/soumendrak/website-v2"
-repo_id = "R_kgDOMZFQ-g"  # Find this value in https://giscus.app/
-category = "General"
-category_id = "DIC_kwDOMZFQ-s4ChDQOG"  # Find this value in https://giscus.app/
-mapping = "slug"  # Available: pathname; url; title; slug. "slug" will use the post's filename (slug); this is the only way to share comments between languages.
-strict_title_matching = 1  # 1 to enable, 0 to disable. https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#data-strict
-enable_reactions = 1  # 1 to enable, 0 to disable.
-comment_box_above_comments = false
-light_theme = "noborder_light"
-dark_theme = "noborder_dark"
-lang = ""  # Leave blank to match the page's language.
-lazy_loading = true
+# [extra.giscus]
+# enabled_for_all_posts = false  # Enables giscus on all posts. It can be enabled on individual posts by setting `giscus = true` in the [extra] section of a post's front matter.
+# automatic_loading = false  # If set to false, a "Load comments" button will be shown.
+# repo = "https://github.com/soumendrak/website-v2"
+# repo_id = "R_kgDOMZFQ-g"  # Find this value in https://giscus.app/
+# category = "General"
+# category_id = "DIC_kwDOMZFQ-s4ChDQOG"  # Find this value in https://giscus.app/
+# mapping = "slug"  # Available: pathname; url; title; slug. "slug" will use the post's filename (slug); this is the only way to share comments between languages.
+# strict_title_matching = 1  # 1 to enable, 0 to disable. https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#data-strict
+# enable_reactions = 1  # 1 to enable, 0 to disable.
+# comment_box_above_comments = false
+# light_theme = "noborder_light"
+# dark_theme = "noborder_dark"
+# lang = ""  # Leave blank to match the page's language.
+# lazy_loading = true
 
 
 comment = true

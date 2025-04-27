@@ -127,7 +127,7 @@ After these questions, I got a follow-up problem to solve.
 
 Q. Given a 100MB log file that looks like this:
 
-```text
+```txt
 charles=3918  
 alice=0  
 bob=100  

@@ -7,7 +7,7 @@ social_media_card = "/images/posts/rss-feeds.webp"
 local_image = "/images/posts/rss-feeds.webp"
 
 [taxonomies]
-tags=["rss", "reading"]
+tags=["rss", "reading", "tips"]
 
 +++
 

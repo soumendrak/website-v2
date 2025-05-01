@@ -6,6 +6,6 @@ insert_anchor_links = "left"
 
 [extra]
 social_media_card = "images/projects.webp"
-show_reading_time = false
+show_reading_time = true
 quick_navigation_buttons = true
 +++

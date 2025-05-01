@@ -2,6 +2,7 @@
 title = "Hackernews Sorter"
 description = "Web Add-on to sort HackerNews posts based on upvotes."
 weight = 8
+date = "2025-03-02"
 
 [extra]
 local_image = "/images/projects/hn-sorter.webp"

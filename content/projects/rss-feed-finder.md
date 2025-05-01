@@ -2,6 +2,7 @@
 title = "RSS Feed Finder"
 description = "Web Add-on to find RSS feeds of websites."
 weight = 9
+date = "2025-05-01"
 
 [extra]
 local_image = "/images/projects/feed-finder-screenshot.webp"

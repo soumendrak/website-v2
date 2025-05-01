@@ -39,7 +39,7 @@ ignored_content = []
 ignored_static = []
 
 # When set to "true", a feed is automatically generated.
-generate_feeds = false
+generate_feeds = true
 
 # The filenames to use for the feeds. Used as the template filenames, too.
 # Defaults to ["atom.xml"], which has a built-in template that renders an Atom 1.0 feed.
@@ -249,7 +249,7 @@ feed_icon = true
 
 # Show the full post content in the Atom feed.
 # If it's set to false, only the description or summary will be shown.
-full_content_in_feed = true
+full_content_in_feed = false
 
 # Email address for footer's social section.
 # Protect against spambots:
@@ -267,7 +267,6 @@ socials = [
     { name = "linkedin", url = "https://www.linkedin.com/in/soumendrak/", icon = "linkedin" },
     { name = "instagram", url = "https://instagram.com/soumendrak_", icon = "instagram" },
     { name = "youtube", url = "https://youtube.com/@openodia", icon = "youtube" },
-    { name = "rss", url = "/blog/atom.xml", icon = "rss" },
 ]
 
 # Extra menu to show on the footer, below socials section.
@@ -370,7 +369,6 @@ meta = [
 socials = [
     { name = "twitter", url = "https://twitter.com/soumendrak_", icon = "twitter" },
     { name = "github", url = "https://github.com/soumendrak", icon = "github" },
-    { name = "rss", url = "/posts/atom.xml", icon = "rss" },
 ]
 
 [languages.or]
@@ -378,6 +376,5 @@ title = "ସୌମେନ୍ଦ୍ର କୁମାର ସାହୁ"
 build_search_index = false
 taxonomies = [
   {name = "tags", feed = true, paginate_by = 5}, # each tag will have its own feed
-  {name = "blog", feed = true, paginate_by = 25}, # you can have taxonomies with the same name in multiple languages
   {name = "authors"}, # Basic definition: no feed or pagination
 ]

@@ -272,7 +272,7 @@ socials = [
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
-    {url = "https://analytics.soumendrak.com/share/I0ly5z143esoL9r8/www.soumendrak.com", name = "site analytics", trailing_slash = true},
+    {url = "https://umami.cfy.soumendra.org/share/iE9nbmyZ3hsNl9r0/www.soumendrak.com", name = "site analytics", trailing_slash = true},
     {url = "https://status.soumendrak.com/", name = "site status", trailing_slash = true},
 ]
 
@@ -300,7 +300,7 @@ allowed_domains = [
     { directive = "font-src", domains = ["'self'", "data:"] },
     { directive = "img-src", domains = ["'self'", "https://*", "data:"] },
     { directive = "media-src", domains = ["'self'", "https://cdn.jsdelivr.net/"] },
-    { directive = "script-src", domains = ["'self'", "https://analytics.soumendrak.com", "https://giscus.app/", "https://static.cloudflareinsights.com"] },
+    { directive = "script-src", domains = ["'self'", "https://umami.cfy.soumendra.org", "https://giscus.app/", "https://static.cloudflareinsights.com"] },
     { directive = "style-src", domains = ["'self'", "https://giscus.app/"] },
     { directive = "frame-src", domains = ["player.vimeo.com", "https://www.youtube-nocookie.com", "http://127.0.0.1:1111/", "https://www.soumendrak.com"] },
 ]
@@ -325,14 +325,14 @@ service = "umami"
 # For Umami, this is the website ID.
 # For Plausible, this is the domain name (e.g. "example.com").
 # Note: Leave this field empty if you're self-hosting.
-id = "6d674f4c-5b1a-43f3-80a5-3354176aea38"
+id = "5d4d26ea-b6a2-4fdd-b000-c30c52ca1d31"
 
 # Optional: Specify the URL for self-hosted analytics instances.
 # For GoatCounter: Base URL like "https://stats.example.com"
 # For Umami: Base URL like "https://umami.example.com"
 # For Plausible: Base URL like "https://plausible.example.com"
 # Leave this field empty if you're using the service's default hosting.
-self_hosted_url = "https://analytics.soumendrak.com"
+self_hosted_url = "https://umami.cfy.soumendra.org"
 
 # giscus support for comments. https://giscus.app
 # Setup instructions: https://welpo.github.io/tabi/blog/comments/#setup

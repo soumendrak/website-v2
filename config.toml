@@ -273,7 +273,7 @@ socials = [
 footer_menu = [
     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
     {url = "https://umami.cfy.soumendra.org/share/iE9nbmyZ3hsNl9r0/www.soumendrak.com", name = "site analytics", trailing_slash = true},
-    {url = "https://status.soumendrak.com/", name = "site status", trailing_slash = true},
+    {url = "https://uptime.cfy.soumendra.org/status/soumendrak", name = "site status", trailing_slash = true},
 ]
 
 # Enable a copyright notice for the footer, shown between socials and the "Powered by" text.

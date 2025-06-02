@@ -4,19 +4,19 @@ sort_by = "date"
 template = "section.html"
     
 [extra]
-header = {title = "Hello 👋🏼", img = "images/India_DP.webp", img_alt = "Soumendra Kumar Sahoo"}
+header = {title = "Hello 👋🏼", img = "images/DP.webp", img_alt = "Soumendra Kumar Sahoo"}
 section_path = "blog/_index.md"
 max_posts = 3
 projects_path = "projects/_index.md"
 max_projects = 3
 show_projects_first = false
-social_media_card = "images/India_DP.webp"
+social_media_card = "images/DP.webp"
 +++
 
-I'm Soumendra Kumar Sahoo, an AI Observability Architect and AI Sustainability Lead at PepsiCo, bringing over 12 years of enterprise technology leadership experience. At PepsiCo, I spearhead strategic initiatives in AI governance, focusing on system optimization, ethical compliance, and sustainable AI practices. 
+You have started implementing AI in your organization. Are you facing following challenges?
 
-With expertise spanning artificial intelligence, and AI transformation, I specialize in leveraging cutting-edge technologies to solve complex business challenges. My work encompasses Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and full-stack engineering solutions.
+- `RAG Quality`: Your Retrieval-Augmented Generation (RAG) system is not delivering the expected quality of responses. Sometimes it provides irrelevant or incorrect information, leading to user frustration and decreased trust in the system. Maybe you are unsure whether you can make it public facing.
+- `Observability`: You are struggling to monitor and understand the performance of your AI systems. The lack of observability makes it difficult to identify issues, optimize performance, and ensure that the AI models are functioning as intended.
+- `LLM Evaluation`: You are struggling to evaluate the performance of your Large Language Models (LLMs). The metrics you currently use do not provide a clear picture of how well the models are performing in real-world scenarios, making it difficult to identify areas for improvement. You have used LLM-as-a-Judge and it is burning a hole in your pocket.
 
-I hold an M.Tech in Data Science and Engineering from BITS Pilani, where my research focused on LLM alignment. My contributions to the field include an IEEE-published paper on LLM fine-tuning, a pending patent, and significant involvement in multiple [open-source projects](@/projects/_index.md). You can find my detailed professional background [here](@/resume.md).
-
-Based in Hyderabad, India I maintain a strong commitment to technology innovation and knowledge sharing. I welcome connections with fellow technology leaders and innovators - feel free to reach out on [LinkedIn](https://www.linkedin.com/in/soumendrak/) to discuss technology trends, strategic initiatives, or collaborative opportunities.
+I can help you with these challenges. With over 13 years of experience in AI and enterprise technology, I specialize in AI observability, RAG quality improvement, and LLM evaluation. [Reach out to me](mailto:contact@soumendrak.com) to discuss how we can enhance your AI systems and drive better business outcomes.

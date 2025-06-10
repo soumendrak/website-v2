@@ -43,3 +43,9 @@ We already know what chatGPT is, here are a few Twitter threads on how to utiliz
 If you want to know various open-source tools developed for ChatGPT, you may check my following article:
 
 [ChatGPT resources (](https://blog.soumendrak.com/chatgpt-resources)[soumendrak.com](https://soumendrak.com)[)](https://blog.soumendrak.com/chatgpt-resources)
+
+## Related Articles
+
+- [ChatGPT Alternatives](@/blog/chatgpt-alternatives.md) - Explore other AI language models
+- [ChatGPT resources](@/blog/chatgpt-resources.md) - APIs, Apps, and other tools for ChatGPT
+- [How to access GPT-4](@/blog/how-to-access-gpt-4.md) - Access methods for OpenAI's GPT-4

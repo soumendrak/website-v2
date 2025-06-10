@@ -172,3 +172,9 @@ After implementing the above methods the concurrency user support has been incre
 - [System design](https://github.com/donnemartin/system-design-primer)
 
 Thank you for your time.
+
+## Related Articles
+
+- [10 Best Practices for your Python code](@/blog/10-best-practices-for-your-python-code.md) - Essential coding practices for clean and maintainable Python code
+- [Cool Python tricks you are not using, but you should](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md) - Useful Python tricks to improve your code
+- [Basic Python interview questions and answers](@/blog/basic-python-questions.md) - Common Python concepts and best practices

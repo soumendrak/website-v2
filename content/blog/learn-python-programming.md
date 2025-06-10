@@ -78,4 +78,8 @@ This Twitter list contains 50+ Twitter users who post on the latest developments
 
 This list will be updated from time to time whenever required.
 
-+++
+## Related Articles
+
+- [Basic Python interview questions and answers](@/blog/basic-python-questions.md) - Essential Python concepts for beginners
+- [Cool Python tricks you are not using, but you should](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md) - Learn useful Python tricks
+- [10 Best Practices for your Python code](@/blog/10-best-practices-for-your-python-code.md) - Writing better Python code

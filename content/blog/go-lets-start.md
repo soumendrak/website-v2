@@ -1,7 +1,7 @@
 +++
 title = "Go: Let's start"
 date = "2022-12-25"
-updated = "2024-08-16"
+updated = "2025-06-10"
 [extra]
 social_media_card = "/images/posts/go-lets-start.webp"
 
@@ -72,6 +72,11 @@ import "fmt"
 ```
 
 This imports the `fmt` package, which contains functions for formatting input and output.
+
+## **Related Articles**
+- [Go: Arrays vs Slices](/blog/go-arrays-vs-slices)
+- [Concurrency and parallelism in Go](/blog/concurrency-and-parallelism-in-go)
+- [Python vs Golang vs Rust](/blog/python-vs-golang-vs-rust)
 
 ## **Conclusion**
 

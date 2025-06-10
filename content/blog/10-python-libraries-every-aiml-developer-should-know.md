@@ -2,7 +2,7 @@
 title = "10 Python Libraries Every AI/ML Developer Should Know"
 description = "Python Libraries Every AI/ML Developer Should Know to get ahead in the field."
 date = "2023-02-26"
-updated = "2024-08-16"
+updated = "2025-06-10"
 [extra]
 social_media_card = "/images/posts/10python.webp"
 

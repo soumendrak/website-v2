@@ -2,7 +2,7 @@
 title = "Basic Python interview questions and answers for beginners"
 description = "A few questions and answers for interviewers to check someone's basic python knowledge."
 date = "2024-07-29"
-updated = "2024-10-04"
+updated = "2025-06-10"
 [extra]
 social_media_card = "/images/posts/py-interview.webp"
 
@@ -320,3 +320,10 @@ def my_function():
 
 my_function()  # Output: Hello, World!
 ```
+
+## Related Articles
+
+- [Learn Python Programming](@/blog/learn-python-programming.md) - Resources and materials to learn Python
+- [10 Best Practices for your Python code](@/blog/10-best-practices-for-your-python-code.md) - Essential coding practices
+- [Usage of 'else' in Python](@/blog/usage-of-else-in-python.md) - Understanding Python control flow
+- [Cool Python tricks you are not using, but you should](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md) - Advanced Python tips

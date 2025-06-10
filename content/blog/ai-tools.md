@@ -2,7 +2,7 @@
 title = "AI Tools"
 description = "AI Tools across different usecases."
 date = "2024-07-28"
-updated = "2024-08-16"
+updated = "2025-06-10"
 
 [extra]
 social_media_card = "/images/posts/ai-tools.webp"
@@ -137,6 +137,14 @@ tags=["AI", "tools", "ai-tools", "saas"]
 
 ## Marketing
 
+## Related Articles
+- [From Naive to Light: The Evolution of RAG Systems](/blog/evolution-rag)
+- [ChatGPT Resources](/blog/chatgpt-resources)
+- [ChatGPT Alternatives](/blog/chatgpt-alternatives)
+- [How to Access GPT-4](/blog/how-to-access-gpt-4)
+
+## Marketing
+
 - Surfer SEO: [https://surferseo.com/](https://surferseo.com/)
 - ChatGPT3: [https://chat.openai.com/](https://chat.openai.com/)
 - Hemingwayapp: [https://hemingwayapp.com/](https://hemingwayapp.com/)
@@ -177,5 +185,11 @@ tags=["AI", "tools", "ai-tools", "saas"]
 - Warmer: [https://warmer.ai/](https://warmer.ai/)
 - Exceed: [https://exceed.ai/](https://exceed.ai/)
 - People: [http://people.ai/](http://people.ai/)
+
+## Related Articles
+
+- [ChatGPT Alternatives](@/blog/chatgpt-alternatives.md) - Explore other AI language models like Claude, Bard, and more
+- [How to access GPT-4](@/blog/how-to-access-gpt-4.md) - Learn different ways to access OpenAI's GPT-4
+- [Tricks to manually detect AI-generated fake images](@/blog/tricks-to-manually-detect-ai-generated-fake-images.md)
 
 Did I miss anything? Please let me know in the comments below.

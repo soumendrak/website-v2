@@ -67,6 +67,11 @@ The key differences lie in how each system handles the external knowledge and th
 - **HyDE** generates a hypothetical document to guide retrieval.
 - **GraphRAG** structures the knowledge as a graph and performs retrieval by navigating this structure.
 
+## Related Articles
+- [AI Tools](/blog/ai-tools)
+- [ChatGPT Resources](/blog/chatgpt-resources)
+- [How to Access GPT-4](/blog/how-to-access-gpt-4)
+
 ## Enters LightRAG
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*Qq0Ly460XMJkIWibKOyliA.png)

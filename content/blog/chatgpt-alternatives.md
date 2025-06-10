@@ -38,3 +38,9 @@ We will discuss the upcoming LLMs (Large Language Models like ChatGPT) in 2023.
 - They are working on an open-source ChatGPT.
 
 With the rise of LLMs, users will have more choices, which is a good thing. So let's see who can have extra features, reliable infra, and fine-tuned answers based on the need of the users.
+
+## Related Articles
+
+- [ChatGPT resources](@/blog/chatgpt-resources.md) - APIs, Apps, and other tools for ChatGPT
+- [How to access GPT-4](@/blog/how-to-access-gpt-4.md) - Learn different ways to access OpenAI's GPT-4
+- [Maximizing ChatGPT's Capabilities](@/blog/use-chat-gpt-as-a-pro.md) - Tips and tricks for using ChatGPT effectively

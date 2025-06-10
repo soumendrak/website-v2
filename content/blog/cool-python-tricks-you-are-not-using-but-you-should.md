@@ -2,7 +2,7 @@
 title="Cool Python tricks you are not using, but you should."
 description="Nice little tricks in Python: Ternary operator, Short Circuit, Comprehension, etc."
 date="2020-11-25"
-updated="2024-08-16"
+updated="2025-06-10"
 
 [taxonomies]
 tags=["programming", "python"]
@@ -137,6 +137,13 @@ All done! ✨ 🍰 ✨
 
 - `-l`: I use 120 as the maximum characters I accept in a line
 - `-t py38`: Python 3.8 specific custom formatting.
+
+## Related Articles
+
+- [Usage of 'else' in Python](@/blog/usage-of-else-in-python.md) - Advanced usage of else keyword
+- [Usage of the Underscore(_) in Python](@/blog/usage-of-underscore-in-python.md) - Understanding underscore usage
+- [Usage of asterisk(*) in Python](@/blog/usage-of-asterik-in-python.md) - Different ways to use asterisk
+- [Optimize your Python code](@/blog/optimize-your-python-code.md) - Tips for writing efficient Python code
 
 ## Further reading
 

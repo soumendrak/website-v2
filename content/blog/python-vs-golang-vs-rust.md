@@ -2,6 +2,7 @@
 title = "Python vs Golang vs Rust"
 description = "Comparison of Python, Golang, and Rust based on performance and code-timing."
 date = "2022-05-17"
+updated = "2025-06-10"
 [extra]
 social_media_card = "/images/posts/python-vs-golang-vs-rust.webp"
 
@@ -116,6 +117,11 @@ impl Solution {
 
 - Run time: **2ms**
 - Memory usage: **2.2 MB**
+
+## Related Articles
+- [Go: Let's start](/blog/go-lets-start)
+- [Go: Arrays vs Slices](/blog/go-arrays-vs-slices)
+- [Optimize Your Python Code](/blog/optimize-your-python-code)
 
 ## Conclusion
 

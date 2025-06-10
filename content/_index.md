@@ -19,4 +19,10 @@ You have started implementing AI in your organization. Are you facing following 
 - `Observability`: You are struggling to monitor and understand the performance of your AI systems. The lack of observability makes it difficult to identify issues, optimize performance, and ensure that the AI models are functioning as intended.
 - `LLM Evaluation`: You are struggling to evaluate the performance of your Large Language Models (LLMs). The metrics you currently use do not provide a clear picture of how well the models are performing in real-world scenarios, making it difficult to identify areas for improvement. You have used LLM-as-a-Judge and it is burning a hole in your pocket.
 
-I can help you with these challenges. With over 13 years of experience in AI and enterprise technology, I specialize in AI observability, RAG quality improvement, and LLM evaluation. [Reach out to me](mailto:contact@soumendrak.com) to discuss how we can enhance your AI systems and drive better business outcomes.
+I can help you with these challenges. With over 13 years of experience in AI and enterprise technology, I specialize in AI observability, RAG quality improvement, and LLM evaluation.
+
+<div class="email-button-container">
+    <a href="mailto:contact@soumendrak.com" class="email-button">
+        Let's Discuss Your AI Challenges
+    </a>
+</div>

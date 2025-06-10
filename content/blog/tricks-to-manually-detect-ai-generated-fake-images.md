@@ -95,6 +95,4 @@ If this is the first time you are reading my article, then welcome here, I am So
 
 You can connect with me on [Twitter](https://twitter.com/soumendrak_) or [LinkedIn](https://www.linkedin.com/in/soumendrak/). Thank you.
 
-Inspiration for this blog:
-
-%[https://twitter.com/soumendrak_/status/1508422664699842565?s=20&t=Zw94nEpRAQ3URHt24C_ftw]
+Inspiration for this blog: https://twitter.com/soumendrak_/status/1508422664699842565?s=20&t=Zw94nEpRAQ3URHt24C_ftw

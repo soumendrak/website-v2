@@ -2,7 +2,7 @@
 title = "ChatGPT resources"
 description = "ChatGPT resources: APIs, Apps, and other tools."
 date = 2022-12-07
-updated = "2024-08-16"
+updated = "2025-06-10"
 [extra]
 social_media_card = "/images/posts/chatgpt-resources.webp"
 
@@ -10,50 +10,49 @@ social_media_card = "/images/posts/chatgpt-resources.webp"
 tags=["go", "python", "typescript", "rust", "chatgpt"]
 
 +++
-
 This is a consolidation live data source for all developments and tools built around [chatGPT](https://chat.openai.com/chat).
 
-- %[https://openai.com/blog/chatgpt/]
-- %[https://github.com/f/awesome-chatgpt-prompts]
+- https://openai.com/blog/chatgpt/
+- https://github.com/f/awesome-chatgpt-prompts
 
 ## Python
 
-- %[https://github.com/acheong08/ChatGPT]
-- %[https://github.com/rawandahmad698/PyChatGPT]
-- %[https://github.com/altryne/chatGPT-telegram-bot]
-- %[https://github.com/Zero6992/chatGPT-discord-bot]
-- %[https://github.com/cesarhuret/docGPT]
+- https://github.com/acheong08/ChatGPT
+- https://github.com/rawandahmad698/PyChatGPT
+- https://github.com/altryne/chatGPT-telegram-bot
+- https://github.com/Zero6992/chatGPT-discord-bot
+- https://github.com/cesarhuret/docGPT
 
 ## GoLang
 
-- %[https://github.com/m1guelpf/chatgpt-telegram]
-- %[https://github.com/danielgross/whatsapp-gpt]
+- https://github.com/m1guelpf/chatgpt-telegram
+- https://github.com/danielgross/whatsapp-gpt
 
 ## Rust
 
-- %[https://github.com/sonnylazuardi/chatgpt-desktop]
-- %[https://github.com/lencx/ChatGPT]
+- https://github.com/sonnylazuardi/chatgpt-desktop
+- https://github.com/lencx/ChatGPT
 
 ## Javascript
 
-- %[https://github.com/ZohaibAhmed/ChatGPT-Google]
-- %[https://github.com/vincelwt/chatgpt-mac]
-- %[https://github.com/liady/ChatGPT-pdf]
+- https://github.com/ZohaibAhmed/ChatGPT-Google
+- https://github.com/vincelwt/chatgpt-mac
+- https://github.com/liady/ChatGPT-pdf
 
 ## Typescript
 
-- %[https://github.com/transitive-bullshit/chatgpt-api]
-- %[https://github.com/fuergaosi233/wechat-chatgpt]
-- %[https://github.com/mpociot/chatgpt-vscode]
-- %[https://github.com/wong2/chat-gpt-google-extension]
+- https://github.com/transitive-bullshit/chatgpt-api
+- https://github.com/fuergaosi233/wechat-chatgpt
+- https://github.com/mpociot/chatgpt-vscode
+- https://github.com/wong2/chat-gpt-google-extension
 
 ## Java
 
-- %[https://github.com/LiLittleCat/intellij-chatgpt]
+- https://github.com/LiLittleCat/intellij-chatgpt
 
 This page will be depreciated and it will be replaced by:
 
-%[https://github.com/humanloop/awesome-chatgpt]
+https://github.com/humanloop/awesome-chatgpt
 
 Let me know what you think at any of the following places:
 

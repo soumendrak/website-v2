@@ -11,44 +11,32 @@ tags=["opensource", "chrome-extension", "youtube"]
 
 +++
 
-# uBlock origin
+# uBlock Origin
 
-- You can remove the Ads from [YouTube.com](https://YouTube.com) by just installing an AdBlocker in your browser.
-- \- I recommend open-source AdBlocker "uBlock origin."
-
-%[https://github.com/gorhill/uBlock]
+- You can remove the Ads from [YouTube.com](https://youtube.com) by just installing an AdBlocker in your browser.
+- I recommend the open-source AdBlocker [uBlock Origin](https://github.com/gorhill/uBlock).
 
 # Video Speed Controller
 
-\- "Video Speed Controller" enables you to go beyond 2x speed; you can watch boring lectures faster by using this extension.
-
-\- It also works on any video playing on your browser besides YouTube.
-
-%[https://github.com/igrigorik/videospeed]
+- [Video Speed Controller](https://github.com/igrigorik/videospeed) enables you to go beyond 2x speed; you can watch boring lectures faster by using this extension.
+- It also works on any video playing on your browser besides YouTube.
 
 # FreeTube
 
-\- FreeTube is a YT desktop client (not a browser extension) built around using YT more privately.
-
-\- You can enjoy your favorite content and creators without your habits being tracked and Ads.
-
-\- You do not need to sign in but can import your subscriptions.
-
-%[https://github.com/FreeTubeApp/FreeTube]
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube) is a YT desktop client (not a browser extension) built around using YT more privately.
+- You can enjoy your favorite content and creators without your habits being tracked and Ads.
+- You do not need to sign in but can import your subscriptions.
 
 # SponsorBlock
 
-\- "SponsorBlock" is an open-source crowdsourced browser extension for skipping sponsor segments in YT videos.
-
-\- Users submit when a sponsor happens from the extension, & the extension automatically skips sponsors.
-
-%[https://github.com/ajayyy/SponsorBlock]
+- [SponsorBlock](https://github.com/ajayyy/SponsorBlock) is an open-source crowdsourced browser extension for skipping sponsor segments in YT videos.
+- Users submit when a sponsor happens from the extension, and the extension automatically skips sponsors.
 
 We have gone through the following extensions:
 
-- [uBlock origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-- [Video speed controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
-- Free tube and
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 - [SponsorBlock](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
 
 Follow me for more search articles.

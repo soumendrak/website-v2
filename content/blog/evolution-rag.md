@@ -2,6 +2,7 @@
 title = "From Naive to Light: The Evolution of RAG Systems"
 description = "How Retrieval-Augmented Generation is transforming from simple similarity matching to sophisticated knowledge graphs"
 date = "2025-04-10"
+updated="2025-06-10"
 canonical_url = "https://medium.com/@soumendrak/evolution-of-rags-5a5b996bdd94"
 
 [extra]
@@ -67,10 +68,6 @@ The key differences lie in how each system handles the external knowledge and th
 - **HyDE** generates a hypothetical document to guide retrieval.
 - **GraphRAG** structures the knowledge as a graph and performs retrieval by navigating this structure.
 
-## Related Articles
-- [AI Tools](/blog/ai-tools)
-- [ChatGPT Resources](/blog/chatgpt-resources)
-- [How to Access GPT-4](/blog/how-to-access-gpt-4)
 
 ## Enters LightRAG
 
@@ -138,3 +135,8 @@ LightRAG Server UI
 
 - [https://github.com/HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
 - [https://arxiv.org/pdf/2410.05779](https://arxiv.org/pdf/2410.05779)
+- [The Hidden Cost of LLM-as-a-Judge](@/blog/llm-evals.md) - Learn about LLM evaluation techniques
+- [LLMOps: Introduction](@/blog/llmops-introduction.md) - Understanding LLMOps and RAG deployment
+- [Large Language Models History](@/blog/large-language-models-history.md) - Evolution of language models
+- [AI Tools](@/blog/ai-tools.md) - Collection of AI and LLM tools
+- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world ML implementation

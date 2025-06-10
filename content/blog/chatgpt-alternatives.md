@@ -41,6 +41,8 @@ With the rise of LLMs, users will have more choices, which is a good thing. So l
 
 ## Related Articles
 
-- [ChatGPT resources](@/blog/chatgpt-resources.md) - APIs, Apps, and other tools for ChatGPT
-- [How to access GPT-4](@/blog/how-to-access-gpt-4.md) - Learn different ways to access OpenAI's GPT-4
-- [Maximizing ChatGPT's Capabilities](@/blog/use-chat-gpt-as-a-pro.md) - Tips and tricks for using ChatGPT effectively
+- [Large Language Models History](@/blog/large-language-models-history.md) - Evolution and development of LLMs
+- [LLMOps: Introduction](@/blog/llmops-introduction.md) - Understanding LLM operations and deployment
+- [ChatGPT Resources](@/blog/chatgpt-resources.md) - APIs, Apps, and other tools for ChatGPT
+- [How to Access GPT-4](@/blog/how-to-access-gpt-4.md) - Learn different ways to access OpenAI's GPT-4
+- [From Naive to Light: The Evolution of RAG Systems](@/blog/evolution-rag.md) - Understanding modern LLM architectures

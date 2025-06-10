@@ -2,6 +2,7 @@
 title = "Large Language Models History"
 description = "History of Large Language Models (LLMs) and their impact on the field of NLP."
 date = "2023-09-13"
+updated="2025-06-10"
 [extra]
 social_media_card = "/images/posts/llm-history.webp"
 
@@ -55,6 +56,13 @@ The development of LMs can be broadly classified into five stages.
   - Emergent abilities
   - Prompting/Conversational Interface
   - To attend the scale, Engineering and Research problems must be solved.
+
+## Related Articles
+- [From Naive to Light: The Evolution of RAG Systems](@/blog/evolution-rag.md) - Understanding RAG systems and LLMs
+- [LLMOps: Introduction](@/blog/llmops-introduction.md) - Managing LLMs in production
+- [The Hidden Cost of LLM-as-a-Judge](@/blog/llm-evals.md) - LLM evaluation strategies
+- [ChatGPT Alternatives](@/blog/chatgpt-alternatives.md) - Overview of different LLMs
+- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world ML deployment
 
 ## References
 

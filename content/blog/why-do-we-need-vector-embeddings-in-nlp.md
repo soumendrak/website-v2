@@ -25,6 +25,14 @@ tags=["interview", "artificial-intelligence", "machine-learning", "nlp", "techni
 - For this reason, embeddings can be used to accurately represent sparse data like clickstreams, text, and e-commerce purchases as features to downstream models.
 - On the other hand, embeddings are much more expensive to compute than one-hot encodings and are far less interpretable.
 
+## Related Articles
+
+- [From Naive to Light: The Evolution of RAG Systems](@/blog/evolution-rag.md) - Understanding modern NLP architectures
+- [LLMOps: Introduction](@/blog/llmops-introduction.md) - Managing language models in production
+- [10 Python Libraries Every AI/ML Developer Should Know](@/blog/10-python-libraries-every-aiml-developer-should-know.md) - Essential libraries for ML
+- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world ML implementation
+- [Large Language Models History](@/blog/large-language-models-history.md) - Evolution of language models
+
 ## References
 
 - [Definitive guide to Embeddings](https://www.featureform.com/post/the-definitive-guide-to-embeddings)

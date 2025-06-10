@@ -2,6 +2,7 @@
 title = "The Hidden Cost of LLM-as-a-Judge: When More Evaluation Means Less Value"
 description = "More evals ≠ better results. Understand how excessive, generic evaluations can undermine product efficiency—and what smarter, sampled strategies look like."
 date = "2025-05-11"
+updated="2025-06-10"
 
 [taxonomies]
 tags=["AI", "LLM", "Observability"]
@@ -167,6 +168,13 @@ Aligning LLM judgments with human preferences is a common evaluation approach. H
 - The user inputs may get change, production data may get drifted, the model responses may get biased, or out of date.
 - The LLM-as-a-judge responses need to be validated by human evaluator.
 - Take sample of each type of your responses and validate manually in a specific frequency.
+
+## Related Articles
+- [From Naive to Light: The Evolution of RAG Systems](@/blog/evolution-rag.md) - Understanding RAG systems
+- [LLMOps: Introduction](@/blog/llmops-introduction.md) - Learn about LLMOps practices
+- [Comparing DevOps, DataOps, AIOps, MLOps, and LLMOps](@/blog/comparing-devops-dataops-aiops-mlops-and-llmops-key-differences.md)
+- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world ML implementation
+- [Large Language Models History](@/blog/large-language-models-history.md) - Evolution of language models
 
 ## Conclusion
 

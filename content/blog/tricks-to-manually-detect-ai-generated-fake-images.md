@@ -2,7 +2,7 @@
 title = "Tricks to manually detect AI-generated fake images"
 description = "Pointers to check if an image is AI-generated"
 date = "2022-03-29"
-updated = "2024-08-16"
+updated="2025-06-10"
 [extra]
 social_media_card = "/images/posts/tricks-to-manually-detect-ai-generated-fake-images.webp"
 
@@ -72,7 +72,15 @@ _Disclaimer:_
 - The face is deformed or another nearby person's face is deformed.
 - Check for eyelid hairs, if they do not look right.
 
-### References
+## Related Articles
+
+- [AI Tools](@/blog/ai-tools.md) - Collection of AI tools and services
+- [ChatGPT Alternatives](@/blog/chatgpt-alternatives.md) - Explore different AI language models
+- [Large Language Models History](@/blog/large-language-models-history.md) - Evolution of AI models
+- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world AI applications
+- [From Naive to Light: The Evolution of RAG Systems](@/blog/evolution-rag.md) - Modern AI architectures
+
+## References
 
 - StyleGAN2 - Official TensorFlow Implementation [source code](https://github.com/NVlabs/stylegan2)
 - Analyzing and Improving the Image Quality of StyleGAN [paper](https://arxiv.org/abs/1912.04958)

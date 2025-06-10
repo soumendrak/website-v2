@@ -135,13 +135,6 @@ tags=["AI", "tools", "ai-tools", "saas"]
 - Presentation: [https://presentations.ai/](https://presentations.ai/)
 - Pitch: [https://pitch.com/](https://pitch.com/)
 
-## Marketing
-
-## Related Articles
-- [From Naive to Light: The Evolution of RAG Systems](/blog/evolution-rag)
-- [ChatGPT Resources](/blog/chatgpt-resources)
-- [ChatGPT Alternatives](/blog/chatgpt-alternatives)
-- [How to Access GPT-4](/blog/how-to-access-gpt-4)
 
 ## Marketing
 
@@ -188,8 +181,10 @@ tags=["AI", "tools", "ai-tools", "saas"]
 
 ## Related Articles
 
-- [ChatGPT Alternatives](@/blog/chatgpt-alternatives.md) - Explore other AI language models like Claude, Bard, and more
-- [How to access GPT-4](@/blog/how-to-access-gpt-4.md) - Learn different ways to access OpenAI's GPT-4
-- [Tricks to manually detect AI-generated fake images](@/blog/tricks-to-manually-detect-ai-generated-fake-images.md)
+- [ChatGPT Alternatives](@/blog/chatgpt-alternatives.md) - Explore other AI language models
+- [How to Access GPT-4](@/blog/how-to-access-gpt-4.md) - Learn different ways to access OpenAI's GPT-4
+- [LLMOps: Introduction](@/blog/llmops-introduction.md) - Managing AI models in production
+- [From Naive to Light: The Evolution of RAG Systems](@/blog/evolution-rag.md) - Understanding modern AI architectures
+- [Tricks to Manually Detect AI-Generated Fake Images](@/blog/tricks-to-manually-detect-ai-generated-fake-images.md) - Spotting AI-generated content
 
 Did I miss anything? Please let me know in the comments below.

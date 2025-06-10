@@ -2,7 +2,7 @@
 title="Choosing an ML estimators"
 description="Choosing an ML estimators: Linear Regression, Logistic Regression, Decision Tree, Random Forest, and other estimators."
 date="2019-03-30"
-updated="2024-08-16"
+updated="2025-06-10"
 
 [taxonomies]
 tags=["Machine Learning"]
@@ -168,6 +168,14 @@ As you have seen different algorithms are specialized in different use cases. To
 
 Each ML algorithm has its own efficient place based on the received data. Depending on the use case the algorithm or estimator needs to change. There is no all-in-one estimator for every use case in the world. May there will be something in Auto-ML or more advanced methods.
 However, we have to remember the strengths and weakness of the estimators, which can set our path during EDA (Exploratory Data Analysis).
+
+## Related Articles
+
+- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world ML implementation
+- [10 Python Libraries Every AI/ML Developer Should Know](@/blog/10-python-libraries-every-aiml-developer-should-know.md) - Essential ML libraries
+- [AI Tools](@/blog/ai-tools.md) - Collection of AI and ML tools
+- [LLMOps: Introduction](@/blog/llmops-introduction.md) - Managing ML models in production
+- [From Naive to Light: The Evolution of RAG Systems](@/blog/evolution-rag.md) - Modern ML architectures
 
 ## References:
 

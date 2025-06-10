@@ -119,8 +119,8 @@ In essence, these practices build upon each other, with AIOps and MLOps leveragi
 
 ## Related Articles
 
-- [LLMOps: Introduction](@/blog/llmops-introduction.md) - Comprehensive guide to LLMOps and its implementation
-- [Production Readiness Checklist](@/blog/production-readiness-checklist.md) - Essential checklist for deploying applications to production
-- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world considerations for ML deployment
-- [Code Refactoring](@/blog/code-refactoring.md) - Best practices for maintaining clean and efficient code
-- [Large Language Models History](@/blog/large-language-models-history.md) - Evolution and development of LLMs
+- [LLMOps: Introduction](@/blog/llmops-introduction.md) - Deep dive into LLMOps practices and implementation
+- [From Naive to Light: The Evolution of RAG Systems](@/blog/evolution-rag.md) - Understanding modern LLM systems
+- [The Hidden Cost of LLM-as-a-Judge](@/blog/llm-evals.md) - LLM evaluation techniques
+- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world ML deployment
+- [Production Readiness Checklist](@/blog/production-readiness-checklist.md) - Essential deployment practices

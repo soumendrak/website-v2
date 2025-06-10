@@ -2,7 +2,7 @@
 title = "10 Best Practices for your Python code"
 description = "10 Best Practices for your Python code"
 date = "2023-03-04"
-updated = "2024-08-16"
+updated = "2025-06-10"
 [taxonomies]
 tags=["python", "tips"]
 [extra]
@@ -156,6 +156,13 @@ conda activate <env name>
 ## Use version control
 
 - Do not manage changes by folders and file management. Instead, use version control to manage your code and collaborate with other developers. This helps to keep track of changes and makes it easier to revert to previous versions if needed.
+
+## Related Articles
+- [Optimize your Python code](@/blog/optimize-your-python-code.md) - Advanced optimization techniques
+- [Cool Python tricks you are not using, but you should](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md) - Useful Python tricks
+- [Code Refactoring](@/blog/code-refactoring.md) - Best practices for code maintenance
+- [Production Readiness Checklist](@/blog/production-readiness-checklist.md) - Preparing code for production
+- [Garbage Collection in Python](@/blog/garbage collection in python.md) - Memory management in Python
 
 ## Conclusion
 

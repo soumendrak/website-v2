@@ -139,16 +139,8 @@ All done! ✨ 🍰 ✨
 - `-t py38`: Python 3.8 specific custom formatting.
 
 ## Related Articles
-
-- [Usage of 'else' in Python](@/blog/usage-of-else-in-python.md) - Advanced usage of else keyword
-- [Usage of the Underscore(_) in Python](@/blog/usage-of-underscore-in-python.md) - Understanding underscore usage
-- [Usage of asterisk(*) in Python](@/blog/usage-of-asterik-in-python.md) - Different ways to use asterisk
-- [Optimize your Python code](@/blog/optimize-your-python-code.md) - Tips for writing efficient Python code
-
-## Further reading
-
-- [Do you know all the usage of the Underscore in Python?](https://blog.soumendrak.com/do-you-know-all-the-usage-of-the-underscore-in-python)
-- [5 usages of asterisk](https://blog.soumendrak.com/5-usages-of-an-asterisk-in-python)
-- [https://blog.soumendrak.com/cache-heavy-computation-functions-with-a-timeout-value](https://blog.soumendrak.com/cache-heavy-computation-functions-with-a-timeout-value)
-- [In Python, do you know double for loops with conditions in a list-comprehension?](https://blog.soumendrak.com/in-python-do-you-know-double-for-loops-with-conditions-in-a-list-comprehension)
-- [Optimize your Python code](https://blog.soumendrak.com/optimize-your-python-code-d7e9752e501e)
+- [10 Best Practices for your Python code](@/blog/10-best-practices-for-your-python-code.md) - Essential Python coding practices
+- [Optimize your Python code](@/blog/optimize-your-python-code.md) - Performance improvement techniques
+- [Usage of asterisk(*) in Python](@/blog/usage-of-asterik-in-python.md) - Advanced Python operators
+- [Usage of the Underscore(_) in Python](@/blog/usage-of-underscore-in-python.md) - Understanding special Python syntax
+- [Usage of 'else' in Python](@/blog/usage-of-else-in-python.md) - Python control flow features

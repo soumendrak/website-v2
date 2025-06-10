@@ -1,10 +1,10 @@
 +++
-title="Python double/nested for loop list comprehension"
-description="Python double/nested for loop list comprehension: How to use list comprehension to create a new list from an existing list."
+title="Code Refactoring"
+description="A guide to code refactoring: when and how to refactor your code effectively"
 date="2020-11-25"
-updated="2024-08-16"
+updated="2025-06-10"
 [taxonomies]
-tags=["programming", "python"]
+tags=["programming", "python", "best-practices", "code-quality"]
 
 +++
 
@@ -149,5 +149,13 @@ tags=["programming", "python"]
 - Prepare the software for change
 - Improve the software
 - Clean up the software
+
+## Related Articles
+
+- [10 Best Practices for your Python code](@/blog/10-best-practices-for-your-python-code.md) - Essential coding practices
+- [Production Readiness Checklist](@/blog/production-readiness-checklist.md) - Preparing code for production
+- [Cool Python tricks you are not using, but you should](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md) - Python optimization tips
+- [Optimize Your Python Code](@/blog/optimize-your-python-code.md) - Performance improvement techniques
+- [Basic Python interview questions](@/blog/basic-python-questions.md) - Python fundamentals and best practices
 
 <span>Photo by <a href="https://unsplash.com/@omarg247?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Omar Flores</a> on <a href="https://unsplash.com/s/photos/lego?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

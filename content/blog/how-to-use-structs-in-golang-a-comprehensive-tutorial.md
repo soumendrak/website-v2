@@ -2,7 +2,7 @@
 title = "How to Use Structs in GoLang: A Comprehensive Tutorial"
 description = "structs in GoLang: How to use structs in GoLang to create complex data structures."
 date = "2023-03-23"
-updated = "2024-08-16"
+updated = "2025-06-10"
 [extra]
 social_media_card = "/images/posts/go-structs.webp"
 
@@ -219,3 +219,8 @@ In this blog post, we have learned about structs in GoLang, which are user-defin
 
 - [https://golangbot.com/structs/](https://golangbot.com/structs/)
 - [https://www.geeksforgeeks.org/structures-in-golang/](https://www.geeksforgeeks.org/structures-in-golang/)
+
+## Related Articles
+- [Go: Let's start](@/blog/go-lets-start.md) - Begin your journey with Go programming
+- [Go: Arrays vs Slices](@/blog/go-arrays-vs-slices.md) - Understanding fundamental Go data structures
+- [Concurrency and parallelism in Go](@/blog/concurrency-and-parallelism-in-go.md) - Learn about Go's powerful concurrency features

@@ -2,7 +2,7 @@
 title="Usage of the Underscore(_) in Python?"
 description="Usage of the Underscore(_) in Python and how to use it"
 date="2021-07-31"
-updated="2024-08-16"
+updated="2025-06-10"
 
 [taxonomies]
 tags=["programming", "python"]
@@ -95,10 +95,8 @@ True
 
 Photo by the author.
 
-## Further reading
-
-- [5 usages of asterisk](https://blog.soumendrak.com/5-usages-of-an-asterisk-in-python)
-- [Cool Python tricks you are not using, but you should](https://blog.soumendrak.com/cool-python-tricks-you-are-not-using-but-you-should)
-- [https://blog.soumendrak.com/cache-heavy-computation-functions-with-a-timeout-value](https://blog.soumendrak.com/cache-heavy-computation-functions-with-a-timeout-value)
-- [In Python, do you know double for loops with conditions in a list-comprehension?](https://blog.soumendrak.com/in-python-do-you-know-double-for-loops-with-conditions-in-a-list-comprehension)
-- [Optimize your Python code](https://blog.soumendrak.com/optimize-your-python-code-d7e9752e501e)
+## Related Articles
+- [Usage of asterisk(*) in Python](@/blog/usage-of-asterik-in-python.md) - Understanding Python operators
+- [Cool Python tricks you are not using, but you should](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md) - More Python tips
+- [10 Best Practices for your Python code](@/blog/10-best-practices-for-your-python-code.md) - Python best practices
+- [Optimize your Python code](@/blog/optimize-your-python-code.md) - Performance improvements

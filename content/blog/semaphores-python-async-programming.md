@@ -2,7 +2,7 @@
 title="Semaphores in Python Async Programming Real-World Use Cases"
 date="2024-07-25"
 description="Use semaphore to avoid rate limit from OpenAI"
-updated="2024-08-16"
+updated="2025-06-10"
 
 [taxonomies]
 tags=["python", "async", "semaphore"]
@@ -349,3 +349,11 @@ Semaphores are a powerful tool in the async programmer's toolkit. They can help 
 - [asyncio Semaphore documentation](https://docs.python.org/3/library/asyncio-sync.html#semaphore)
 - [asyncio: We Did It Wrong](https://www.roguelynn.com/words/asyncio-we-did-it-wrong/) - An excellent deep dive into asyncio
 - [Python Asyncio: The Complete Guide](https://realpython.com/async-io-python/) - A comprehensive guide to asyncio
+
+## Related Articles
+
+- [Cool Python tricks you are not using, but you should](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md) - Advanced Python programming techniques
+- [Cache heavy computation functions with timeout](@/blog/cache-heavy-computation-functions-with-timeout.md) - Performance optimization in Python
+- [10 Best Practices for your Python code](@/blog/10-best-practices-for-your-python-code.md) - Python coding standards and best practices
+- [10 Python libraries every AI/ML developer should know](@/blog/10-python-libraries-every-aiml-developer-should-know.md) - Essential Python libraries for developers
+- [Aggregate code timing in Python](@/blog/aggregate-code-timing-in-python.md) - Measuring code performance in Python

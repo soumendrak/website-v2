@@ -2,6 +2,7 @@
 title = "Production Readiness Checklist"
 description = "A checklist for developers to ensure they are ready for production."
 date = "2024-08-04"
+updated = "2025-06-10"
 [extra]
 social_media_card = "/images/posts/production-readiness-checklist.webp"
 
@@ -97,3 +98,11 @@ Not all of these are mandatory, but they are the ones I have found most useful.
 - [ ] Is API documentation complete and current?
 - [ ] Are operational procedures documented?
 - [ ] Is there a comprehensive troubleshooting guide?
+
+## Related Articles
+
+- [Comparing DevOps, DataOps, AIOps, MLOps, and LLMOps](@/blog/comparing-devops-dataops-aiops-mlops-and-llmops-key-differences.md) - Understanding different Ops practices
+- [Code Refactoring](@/blog/code-refactoring.md) - Best practices for maintaining clean code
+- [10 Best Practices for your Python code](@/blog/10-best-practices-for-your-python-code.md) - Writing maintainable Python code
+- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world deployment considerations
+- [Optimize Your Python Code](@/blog/optimize-your-python-code.md) - Performance optimization techniques

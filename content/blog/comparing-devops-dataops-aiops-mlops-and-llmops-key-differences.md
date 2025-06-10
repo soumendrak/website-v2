@@ -2,7 +2,7 @@
 title = "Comparing DevOps, DataOps, AIOps, MLOps, and LLMOps: Key Differences"
 description = "Comparing the key differences between the Ops: DevOps, DataOps, AIOps, MLOps, and LLMOps" 
 date = "2024-04-11"
-updated = "2024-08-16"
+updated = "2025-06-10"
 [extra]
 social_media_card = "/images/posts/diffrences-dataops-aiops-mlops.webp"
 
@@ -116,3 +116,11 @@ These are the commonly used terms that can be misunderstood. Here are the scope 
 - The computational resources required for training and running LLMs can be significant.
 
 In essence, these practices build upon each other, with AIOps and MLOps leveraging the automation principles of DevOps for their respective domains. LLMOps is a specialized area focused on the unique challenges of managing large language models.
+
+## Related Articles
+
+- [LLMOps: Introduction](@/blog/llmops-introduction.md) - Comprehensive guide to LLMOps and its implementation
+- [Production Readiness Checklist](@/blog/production-readiness-checklist.md) - Essential checklist for deploying applications to production
+- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world considerations for ML deployment
+- [Code Refactoring](@/blog/code-refactoring.md) - Best practices for maintaining clean and efficient code
+- [Large Language Models History](@/blog/large-language-models-history.md) - Evolution and development of LLMs

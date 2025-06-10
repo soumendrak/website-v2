@@ -2,7 +2,7 @@
 title = "ChatGPT Alternatives"
 description = "ChatGPT Alternatives: ChatGPT, Bard, and other alternatives."
 date = "2023-02-08"
-updated = "2024-08-16"
+updated = "2025-06-10"
 [extra]
 social_media_card = "/images/posts/chatgpt-alternative.webp"
 

@@ -118,13 +118,14 @@ impl Solution {
 - Run time: **2ms**
 - Memory usage: **2.2 MB**
 
-## Related Articles
-- [Go: Let's start](/blog/go-lets-start)
-- [Go: Arrays vs Slices](/blog/go-arrays-vs-slices)
-- [Optimize Your Python Code](/blog/optimize-your-python-code)
 
 ## Conclusion
 
 - As per the results, Rust took the least memory and was the fastest of all three.
 
 For more such insights follow me on [Twitter](https://twitter.com/soumendrak_).
+
+## Related Articles
+- [Go: Let's start](@/blog/go-lets-start.md)
+- [Go: Arrays vs Slices](@/blog/go-arrays-vs-slices.md)
+- [Optimize Your Python Code](@/blog/optimize-your-python-code.md)

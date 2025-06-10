@@ -2,7 +2,7 @@
 title="Run Nginx with Flask in Windows OS"
 description="How to run Nginx with Flask in Windows OS."
 date="2018-02-02"
-updated="2024-08-16"
+updated="2025-06-10"
 
 [taxonomies]
 tags=["nginx", "flask", "windows"]
@@ -88,3 +88,8 @@ except KeyboardInterrupt:
 
 You can follow this link to run Nginx as a service in windows.
 Here the app from Flask is used to route the API URLs we get as HTTP requests. As Flask server is highly recommended to not use in production server, Cherrypy is doing the purpose here.
+
+## Related Articles
+- [Run Nginx as a Service in Windows](@/blog/run-nginx-as-a-service-in-windows.md)
+- [Optimize Your Python Code](@/blog/optimize-your-python-code.md)
+- [Production Readiness Checklist](@/blog/production-readiness-checklist.md)

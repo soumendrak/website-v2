@@ -2,7 +2,7 @@
 title="5 usages of an asterisk (*) in Python"
 description="5 usages of an asterisk (*) in Python"
 date="2020-11-25"
-updated="2024-08-16"
+updated="2025-06-10"
 
 [taxonomies]
 tags=["programming", "python"]
@@ -82,13 +82,10 @@ Traceback (most recent call last):
 TypeError: dict() got multiple values for keyword argument 'a'
 
 ```
-## Further reading
-
-- [Do you know all the usage of the Underscore in Python?](https://blog.soumendrak.com/do-you-know-all-the-usage-of-the-underscore-in-python)
-- [Cool Python tricks you are not using, but you should](https://blog.soumendrak.com/cool-python-tricks-you-are-not-using-but-you-should)
-- [https://blog.soumendrak.com/cache-heavy-computation-functions-with-a-timeout-value](https://blog.soumendrak.com/cache-heavy-computation-functions-with-a-timeout-value)
-- [In Python, do you know double for loops with conditions in a list-comprehension?](https://blog.soumendrak.com/in-python-do-you-know-double-for-loops-with-conditions-in-a-list-comprehension)
-- [Optimize your Python code](https://blog.soumendrak.com/optimize-your-python-code-d7e9752e501e)
+## Related Articles
+- [Cool Python tricks you are not using, but you should](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md) - Advanced Python tips and tricks
+- [Usage of the Underscore(_) in Python](@/blog/usage-of-underscore-in-python.md) - More special Python syntax features
+- [10 Best Practices for your Python code](@/blog/10-best-practices-for-your-python-code.md) - Writing better Python code
+- [Optimize your Python code](@/blog/optimize-your-python-code.md) - Python performance optimization
 
 Photo by <a href="https://unsplash.com/@mikekilcoyne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Kilcoyne</a> on <a href="https://unsplash.com/s/photos/star?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  

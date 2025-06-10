@@ -2,7 +2,7 @@
 title = "Garbage Collection in Python"
 description = "How to use garbage collection in Python to manage memory efficiently."
 date = "2023-03-31"
-updated = "2024-08-16"
+updated = "2025-06-10"
 [extra]
 social_media_card = "/images/posts/gc.webp"
 [taxonomies]
@@ -197,3 +197,11 @@ Optimizing garbage collection (GC) in Python can boost your application's perfor
 > Python's garbage collection system uses reference counting and a cyclic garbage collector to reclaim unused memory, preventing memory leaks and improving application performance. It is easy to understand and automatic, but can introduce latency and memory overhead, and is not suitable for real-time applications. Advanced users can optimize garbage collection by understanding their application's memory usage and adjusting GC thresholds.
 
 With these expert Python garbage collection tips, optimize your applications for efficient memory management and enhanced performance 🎉.
+
+## Related Articles
+- [Optimize Your Python Code](@/blog/optimize-your-python-code.md)
+- [10 Best Practices for your Python Code](@/blog/10-best-practices-for-your-python-code.md)
+- [Cool Python Tricks You Are Not Using, But You Should](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md)
+- [Cache heavy computation functions with timeout](@/blog/cache-heavy-computation-functions-with-timeout.md) - Performance optimization tips
+- [Aggregate code timing in Python](@/blog/aggregate-code-timing-in-python.md) - Measure and improve code performance
+- [Basic Python interview questions](@/blog/basic-python-questions.md) - Python fundamentals and best practices

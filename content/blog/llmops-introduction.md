@@ -2,6 +2,7 @@
 title = "LLMOps: Introduction"
 description = "Introduction to LLMOps: Large Language Models Operations."
 date = "2024-01-12"
+updated = "2025-06-10"
 [extra]
 social_media_card = "/images/posts/llmops-introduction.webp"
 
@@ -106,3 +107,21 @@ Several best practices have been identified to overcome these challenges and ens
 - Mastering LLMOps will ultimately enable organizations to create cutting-edge AI solutions and open up new opportunities for innovation. As the discipline continues to evolve, it will be exciting to see how it shapes the future of AI and machine learning.
 
 To summarize, DevOps, MLOps, and LLMOps are three approaches to enhance the speed, efficiency, and dependability of software and services. DevOps is a methodology that focuses on overall IT and software development, while MLOps is designed to optimize machine learning models. LLMOps, on the other hand, specializes in managing large language models within the AI field.
+
+## References:
+[^1]: [https://www.javatpoint.com/devops](https://www.javatpoint.com/devops)
+[^3]: [https://dzone.com/articles/introduction-to-llmops](https://dzone.com/articles/introduction-to-llmops)
+[^4]: [https://neptune.ai/blog/llmops](https://neptune.ai/blog/llmops)
+[^5]: [https://www.arrikto.com/mlops-explained/](https://www.arrikto.com/mlops-explained/)
+[^7]: [https://www.atlassian.com/devops/what-is-devops](https://www.atlassian.com/devops/what-is-devops)
+[^8]: [https://www.infracloud.io/blogs/introduction-to-mlops/](https://www.infracloud.io/blogs/introduction-to-mlops/)
+[^10]: [https://www.nimblework.com/blog/introduction-to-devops/](https://www.nimblework.com/blog/introduction-to-devops/)
+[^25]: [https://www.globenewswire.com/en/news-release/2023/04/27/2656791/28124/en/Rapid-Growth-of-Large-Language-Models-Drives-Generative-AI-Market-to-Projected-51-8-Billion-by-2028.html](https://www.globenewswire.com/en/news-release/2023/04/27/2656791/28124/en/Rapid-Growth-of-Large-Language-Models-Drives-Generative-AI-Market-to-Projected-51-8-Billion-by-2028.html)
+
+## Related Articles
+
+- [The Hidden Cost of LLM-as-a-Judge](@/blog/llm-evals.md) - Understanding LLM evaluation strategies and best practices
+- [Large Language Models History](@/blog/large-language-models-history.md) - Evolution of language models from rule-based to LLMs
+- [ChatGPT Alternatives](@/blog/chatgpt-alternatives.md) - Explore different LLM options and their capabilities
+- [From Naive to Light: The Evolution of RAG Systems](@/blog/evolution-rag.md) - Understanding Retrieval Augmented Generation in LLMs
+- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Comparing ML deployment strategies

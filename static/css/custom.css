@@ -9,3 +9,21 @@
     --serif-font: 'Atkinson Hyperlegible', serif;
     --sans-serif-font: 'Atkinson Hyperlegible', serif;
 }
+
+/* Simple paper texture for light theme */
+:root:not([data-theme="dark"]) {
+    --theme-bg: #fafbf9; /* Very subtle greenish-white background */
+    background-color: var(--theme-bg);
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='paperNoise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.4' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23paperNoise)' opacity='0.15'/%3E%3C/svg%3E");
+    background-position: 0 0;
+    background-size: 150px 150px;
+}
+
+/* Dark theme paper texture - inspired by recycled black paper */
+:root[data-theme="dark"] {
+    --theme-bg: #1a1c1b; /* Very dark gray with slight green tint */
+    background-color: var(--theme-bg);
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='darkPaperNoise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.4' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23darkPaperNoise)' opacity='0.05'/%3E%3C/svg%3E");
+    background-position: 0 0;
+    background-size: 150px 150px;
+}

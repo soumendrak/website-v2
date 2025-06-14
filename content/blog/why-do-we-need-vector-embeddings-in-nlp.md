@@ -2,7 +2,7 @@
 title = "Why do we need vector embeddings in NLP?"
 description = "Why do we need vector embeddings in NLP?"
 date = "2022-04-06"
-updated = "2024-08-16"
+updated = "2025-06-14"
 [extra]
 social_media_card = "/images/posts/why-do-we-need-vector-embeddings-in-nlp.webp"
 
@@ -28,10 +28,11 @@ tags=["interview", "artificial-intelligence", "machine-learning", "nlp", "techni
 ## Related Articles
 
 - [From Naive to Light: The Evolution of RAG Systems](@/blog/evolution-rag.md) - Understanding modern NLP architectures
-- [LLMOps: Introduction](@/blog/llmops-introduction.md) - Managing language models in production
-- [10 Python Libraries Every AI/ML Developer Should Know](@/blog/10-python-libraries-every-aiml-developer-should-know.md) - Essential libraries for ML
-- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world ML implementation
-- [Large Language Models History](@/blog/large-language-models-history.md) - Evolution of language models
+- [Evolution of RAG Systems](@/blog/evolution-rag.md) - Modern LLM architectures
+- [LLM Evaluations](@/blog/llm-evals.md) - Evaluation strategies for LLMs
+- [Large Language Models History](@/blog/large-language-models-history.md) - Evolution of LLMs
+- [10 Python Libraries for AI/ML](@/blog/10-python-libraries-every-aiml-developer-should-know.md) - Essential ML libraries
+- [ML in Academics vs Production](@/blog/ml-academics-vs-ml-production.md) - Real-world ML deployment
 
 ## References
 

@@ -2,7 +2,7 @@
 title = "Production Readiness Checklist"
 description = "A checklist for developers to ensure they are ready for production."
 date = "2024-08-04"
-updated = "2025-06-10"
+updated = "2025-06-14"
 [extra]
 social_media_card = "/images/posts/production-readiness-checklist.webp"
 
@@ -101,8 +101,8 @@ Not all of these are mandatory, but they are the ones I have found most useful.
 
 ## Related Articles
 
-- [Comparing DevOps, DataOps, AIOps, MLOps, and LLMOps](@/blog/comparing-devops-dataops-aiops-mlops-and-llmops-key-differences.md) - Understanding different Ops practices
-- [Code Refactoring](@/blog/code-refactoring.md) - Best practices for maintaining clean code
-- [10 Best Practices for your Python code](@/blog/10-best-practices-for-your-python-code.md) - Writing maintainable Python code
-- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world deployment considerations
-- [Optimize Your Python Code](@/blog/optimize-your-python-code.md) - Performance optimization techniques
+- [Better Software Architect](@/blog/better-software-architect.md) - Improving architecture skills
+- [Code Refactoring](@/blog/code-refactoring.md) - Best practices for clean code
+- [Finding Root Cause Analysis](@/blog/finding-rca-of-an-issue.md) - Problem investigation
+- [DevOps and Related Ops](@/blog/comparing-devops-dataops-aiops-mlops-and-llmops-key-differences.md) - Understanding Ops practices
+- [Circuit Breaker Pattern](@/blog/circuit-breaker-design-pattern.md) - Resilient system design

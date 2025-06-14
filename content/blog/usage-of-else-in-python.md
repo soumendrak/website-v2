@@ -2,7 +2,7 @@
 title = "Usage of 'else' in Python"
 description = "How the 'else' keyword in Python works and its different uses."
 date = "2024-03-18"
-updated = "2024-08-16"
+updated = "2025-06-14"
 [extra]
 social_media_card = "/images/posts/usage-of-else-in-python.webp"
 
@@ -142,8 +142,10 @@ print(f"Your input (if valid): {user_input}")  # Print input only if valid
 
 We have gone through various ways we can use \`else\` keyword in Python programming language.
 
-## Further Read:
+## Related Articles
 
-- [https://blog.soumendrak.com/python-double-nested-for-loop-list-comprehension](https://blog.soumendrak.com/python-double-nested-for-loop-list-comprehension)
-- [https://blog.soumendrak.com/cool-python-tricks-you-are-not-using-but-you-should](https://blog.soumendrak.com/cool-python-tricks-you-are-not-using-but-you-should)
-- [https://blog.soumendrak.com/usage-of-the-underscore-in-python](https://blog.soumendrak.com/usage-of-the-underscore-in-python)
+- [Usage of Underscore](@/blog/usage-of-underscore-in-python.md) - Understanding underscore usage
+- [Usage of Asterisk](@/blog/usage-of-asterik-in-python.md) - Python operators
+- [Usage of Forward Slash](@/blog/usage-of-forward-slash-in-python.md) - Python operators
+- [Usage of Backward Slash](@/blog/usage-of-backward-slash-in-python.md) - Python syntax
+- [Learn Python Programming](@/blog/learn-python-programming.md) - Python programming guide

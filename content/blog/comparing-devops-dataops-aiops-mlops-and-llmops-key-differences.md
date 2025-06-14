@@ -2,7 +2,7 @@
 title = "Comparing DevOps, DataOps, AIOps, MLOps, and LLMOps: Key Differences"
 description = "Comparing the key differences between the Ops: DevOps, DataOps, AIOps, MLOps, and LLMOps" 
 date = "2024-04-11"
-updated = "2025-06-10"
+updated = "2025-06-14"
 [extra]
 social_media_card = "/images/posts/diffrences-dataops-aiops-mlops.webp"
 
@@ -119,8 +119,8 @@ In essence, these practices build upon each other, with AIOps and MLOps leveragi
 
 ## Related Articles
 
-- [LLMOps: Introduction](@/blog/llmops-introduction.md) - Deep dive into LLMOps practices and implementation
-- [From Naive to Light: The Evolution of RAG Systems](@/blog/evolution-rag.md) - Understanding modern LLM systems
-- [The Hidden Cost of LLM-as-a-Judge](@/blog/llm-evals.md) - LLM evaluation techniques
-- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world ML deployment
 - [Production Readiness Checklist](@/blog/production-readiness-checklist.md) - Essential deployment practices
+- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world ML deployment
+- [Better Software Architect](@/blog/better-software-architect.md) - Improving architecture skills
+- [Evolution of RAG Systems](@/blog/evolution-rag.md) - Understanding modern LLM systems
+- [LLMOps Introduction](@/blog/llmops-introduction.md) - Deep dive into LLMOps

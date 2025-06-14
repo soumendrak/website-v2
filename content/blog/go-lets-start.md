@@ -1,7 +1,7 @@
 +++
 title = "Go: Let's start"
 date = "2022-12-25"
-updated = "2025-06-10"
+updated = "2025-06-14"
 [extra]
 social_media_card = "/images/posts/go-lets-start.webp"
 
@@ -73,10 +73,6 @@ import "fmt"
 
 This imports the `fmt` package, which contains functions for formatting input and output.
 
-## **Related Articles**
-- [Go: Arrays vs Slices](/blog/go-arrays-vs-slices)
-- [Concurrency and parallelism in Go](/blog/concurrency-and-parallelism-in-go)
-- [Python vs Golang vs Rust](/blog/python-vs-golang-vs-rust)
 
 ## **Conclusion**
 
@@ -85,3 +81,11 @@ This blog post covered the basics of getting started with Go. Then, we installed
 Go has a simple and consistent syntax, making it easy to learn for beginners. Some basic concepts include variables, types, functions, and control structures like loops and conditionals. There are also many resources available online for learning to Go, including the official Go documentation ([https://go.dev/doc/](https://go.dev/doc/)) and tutorial ([https://go.dev/tour/welcome/1](https://go.dev/tour/welcome/1))
 
 There is much more to learn about Go, but this should give you an excellent foundation to start from.
+
+## Related Articles
+
+- [Go Arrays vs Slices](@/blog/go-arrays-vs-slices.md) - Understanding Go data structures
+- [How to Use Structs in Golang](@/blog/how-to-use-structs-in-golang-a-comprehensive-tutorial.md) - Working with structs
+- [Python vs Golang vs Rust](@/blog/python-vs-golang-vs-rust.md) - Language comparison
+- [Ownership and Borrowing in Rust](@/blog/ownership-and-borrowing-in-rust.md) - Systems programming concepts
+- [Optimize Your Python Code](@/blog/optimize-your-python-code.md) - Performance improvement techniques

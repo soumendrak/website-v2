@@ -1,6 +1,7 @@
 +++
 title = "Ownership and Borrowing in Rust"
 date = "2023-03-10"
+updated = "2025-06-14"
 [extra]
 social_media_card = "/images/posts/ownership-and-borrowing-in-rust.webp"
 
@@ -69,3 +70,11 @@ In Rust, every value has a unique owner, which means that the variable that hold
 Borrowing is another crucial concept in Rust that enables you to pass references to values without transferring ownership. This allows multiple program parts to access the same value without creating additional copies or risking memory-related errors.
 
 Overall, understanding ownership and borrowing in Rust is crucial for writing safe and efficient code free from common memory-related bugs.
+
+## Related Articles
+
+- [Python vs Golang vs Rust](@/blog/python-vs-golang-vs-rust.md) - Language comparison
+- [Go: Let's Start](@/blog/go-lets-start.md) - Introduction to Go programming
+- [Go Arrays vs Slices](@/blog/go-arrays-vs-slices.md) - Data structures in Go
+- [Optimize Your Python Code](@/blog/optimize-your-python-code.md) - Performance improvement techniques
+- [10 Best Practices for Python Code](@/blog/10-best-practices-for-your-python-code.md) - Writing better code

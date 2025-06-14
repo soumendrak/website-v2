@@ -2,7 +2,7 @@
 title = "ChatGPT Alternatives"
 description = "ChatGPT Alternatives: ChatGPT, Bard, and other alternatives."
 date = "2023-02-08"
-updated = "2025-06-10"
+updated = "2025-06-14"
 [extra]
 social_media_card = "/images/posts/chatgpt-alternative.webp"
 
@@ -41,8 +41,8 @@ With the rise of LLMs, users will have more choices, which is a good thing. So l
 
 ## Related Articles
 
-- [Large Language Models History](@/blog/large-language-models-history.md) - Evolution and development of LLMs
-- [LLMOps: Introduction](@/blog/llmops-introduction.md) - Understanding LLM operations and deployment
 - [ChatGPT Resources](@/blog/chatgpt-resources.md) - APIs, Apps, and other tools for ChatGPT
 - [How to Access GPT-4](@/blog/how-to-access-gpt-4.md) - Learn different ways to access OpenAI's GPT-4
-- [From Naive to Light: The Evolution of RAG Systems](@/blog/evolution-rag.md) - Understanding modern LLM architectures
+- [Use ChatGPT as a Pro](@/blog/use-chat-gpt-as-a-pro.md) - Tips for maximizing ChatGPT usage
+- [Prompt Engineering](@/blog/prompt-engineering.md) - Learn effective prompt engineering techniques
+- [AI Tools](@/blog/ai-tools.md) - Discover useful AI tools and applications

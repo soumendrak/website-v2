@@ -2,6 +2,7 @@
 title = "Understanding Python's Pre-Constructed Exceptions for Beginners"
 description = "Understanding Python's Pre-Constructed Exceptions for Beginners: How to use try/except blocks to handle exceptions."
 date = "2022-12-26"
+updated = "2025-06-14"
 [extra]
 social_media_card = "/images/posts/understanding-pythons-pre-constructed-exceptions-for-beginners.webp"
 
@@ -149,6 +150,13 @@ BaseException
            ├── ResourceWarning
            ├── RuntimeWarning
            ├── SyntaxWarning
-           ├── UnicodeWarning
-           └── UserWarning
+           ├── UnicodeWarning           └── UserWarning
 ```
+
+## Related Articles
+
+- [Basic Python Questions](@/blog/basic-python-questions.md) - Essential Python concepts
+- [Learn Python Programming](@/blog/learn-python-programming.md) - Python programming guide
+- [Usage of Else in Python](@/blog/usage-of-else-in-python.md) - Python control flow features
+- [10 Best Practices for Python Code](@/blog/10-best-practices-for-your-python-code.md) - Writing better Python code
+- [Cool Python Tricks You Should Use](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md) - Advanced Python tips

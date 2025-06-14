@@ -2,6 +2,7 @@
 title = "Optimize your Python code"
 description = "How to optimize your Python code for better performance."
 date = "2018-10-20"
+updated = "2025-06-14"
 [extra]
 social_media_card = "/images/posts/optimize-your-python-code.webp"
 
@@ -175,6 +176,8 @@ Thank you for your time.
 
 ## Related Articles
 
-- [10 Best Practices for your Python code](@/blog/10-best-practices-for-your-python-code.md) - Essential coding practices for clean and maintainable Python code
-- [Cool Python tricks you are not using, but you should](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md) - Useful Python tricks to improve your code
-- [Basic Python interview questions and answers](@/blog/basic-python-questions.md) - Common Python concepts and best practices
+- [10 Best Practices for Python Code](@/blog/10-best-practices-for-your-python-code.md) - Writing better Python code
+- [Cool Python Tricks You Should Use](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md) - Advanced Python tips
+- [Code Refactoring](@/blog/code-refactoring.md) - Guide to effective code refactoring
+- [Cache Heavy Computation Functions](@/blog/cache-heavy-computation-functions-with-timeout.md) - Optimizing function performance
+- [Learn Python Programming](@/blog/learn-python-programming.md) - Python programming guide

@@ -2,6 +2,7 @@
 title = "Learn Python Programming"
 description = "Materials to learn Python programming."
 date = "2022-11-07"
+updated = "2025-06-14"
 [extra]
 social_media_card = "/images/posts/learn-python.webp"
 
@@ -80,6 +81,8 @@ This list will be updated from time to time whenever required.
 
 ## Related Articles
 
-- [Basic Python interview questions and answers](@/blog/basic-python-questions.md) - Essential Python concepts for beginners
-- [Cool Python tricks you are not using, but you should](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md) - Learn useful Python tricks
-- [10 Best Practices for your Python code](@/blog/10-best-practices-for-your-python-code.md) - Writing better Python code
+- [10 Best Practices for Python Code](@/blog/10-best-practices-for-your-python-code.md) - Writing better Python code
+- [Cool Python Tricks You Should Use](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md) - Advanced Python tips
+- [Basic Python Questions](@/blog/basic-python-questions.md) - Essential Python concepts
+- [Optimize Your Python Code](@/blog/optimize-your-python-code.md) - Performance improvement techniques
+- [Python Built-in Exceptions](@/blog/python-built-in-exceptions.md) - Understanding Python exceptions

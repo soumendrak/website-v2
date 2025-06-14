@@ -2,7 +2,7 @@
 title = "10 Python Libraries Every AI/ML Developer Should Know"
 description = "Python Libraries Every AI/ML Developer Should Know to get ahead in the field."
 date = "2023-02-26"
-updated = "2025-06-10"
+updated = "2025-06-14"
 [extra]
 social_media_card = "/images/posts/10python.webp"
 
@@ -264,11 +264,11 @@ Output:
 
 ## Related Articles
 
-- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world ML implementation
-- [Why Do We Need Vector Embeddings in NLP?](@/blog/why-do-we-need-vector-embeddings-in-nlp.md) - Understanding ML for NLP
-- [Choosing an ML Estimators](@/blog/choosing-an-ml-estimators.md) - Selecting the right ML algorithms
-- [LLMOps: Introduction](@/blog/llmops-introduction.md) - Managing ML models in production
-- [AI Tools](@/blog/ai-tools.md) - Collection of AI and ML tools
+- [Vector Embeddings in NLP](@/blog/why-do-we-need-vector-embeddings-in-nlp.md) - Understanding ML for NLP
+- [ML in Academics vs Production](@/blog/ml-academics-vs-ml-production.md) - Real-world ML deployment
+- [Evolution of RAG Systems](@/blog/evolution-rag.md) - Modern LLM architectures
+- [LLM Evaluations](@/blog/llm-evals.md) - Evaluation strategies for LLMs
+- [Choosing ML Estimators](@/blog/choosing-an-ml-estimators.md) - ML algorithm selection
 
 ### Conclusion
 

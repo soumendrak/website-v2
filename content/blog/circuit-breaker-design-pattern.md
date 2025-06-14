@@ -2,7 +2,7 @@
 title="Circuit Breaker Pattern"
 description="Circuit Breaker Pattern: Design Pattern for handling failure in distributed systems."
 date="2019-03-31"
-updated="2024-08-16"
+updated="2025-06-14"
 
 [taxonomies]
 tags=["programming", "python", "design-patterns"]
@@ -170,3 +170,11 @@ Thanks for your time. Please suggest any improvements if needed..
 * [Circuit Breaker Pattern](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/dn589784(v=pandp.10)) by Microsoft Developer Network
 
 * [Pybreaker](https://github.com/danielfm/pybreaker) from Daniel Martins et al
+
+## Related Articles
+
+- [Factory Design Pattern](@/blog/factory-design-pattern.md) - Understanding the Factory Pattern
+- [Better Software Architect](@/blog/better-software-architect.md) - Improving software architecture skills
+- [Production Readiness Checklist](@/blog/production-readiness-checklist.md) - Preparing code for production
+- [Finding Root Cause Analysis](@/blog/finding-rca-of-an-issue.md) - Techniques for problem investigation
+- [Code Refactoring](@/blog/code-refactoring.md) - Guide to effective code refactoring

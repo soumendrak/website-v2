@@ -2,7 +2,7 @@
 title = "ChatGPT resources"
 description = "ChatGPT resources: APIs, Apps, and other tools."
 date = 2022-12-07
-updated = "2025-06-10"
+updated = "2025-06-14"
 [extra]
 social_media_card = "/images/posts/chatgpt-resources.webp"
 
@@ -67,3 +67,5 @@ Let me know what you think at any of the following places:
 - [ChatGPT Alternatives](@/blog/chatgpt-alternatives.md) - Explore other AI language models like Claude, Bard, and more
 - [How to access GPT-4](@/blog/how-to-access-gpt-4.md) - Learn different ways to access OpenAI's GPT-4
 - [Maximizing ChatGPT's Capabilities](@/blog/use-chat-gpt-as-a-pro.md) - Tips and tricks for using ChatGPT effectively
+- [Prompt Engineering Guide](@/blog/prompt-engineering.md) - Learn effective prompt engineering techniques
+- [AI Tools Collection](@/blog/ai-tools.md) - Discover useful AI tools and applications

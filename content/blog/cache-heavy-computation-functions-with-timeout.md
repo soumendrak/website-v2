@@ -2,7 +2,7 @@
 title="Cache heavy computation functions with a timeout value"
 description="How to cache heavy computation functions with a specific timeout value."
 date="2020-11-25"
-updated="2024-08-16"
+updated="2025-06-14"
 [extra]
 social_media_card = "/images/posts/cache-heavy-computation-functions-with-timeout.webp"
 
@@ -132,4 +132,12 @@ def test_cache():
 ```
 - Source: https://gist.github.com/Morreski/c1d08a3afa4040815eafd3891e16b945
 - Photo by <a href="https://unsplash.com/@loic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Djim Loic</a> on <a href="https://unsplash.com/s/photos/time?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+## Related Articles
+
+- [Optimize Your Python Code](@/blog/optimize-your-python-code.md) - Performance improvement techniques
+- [Cool Python Tricks You Should Use](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md) - Advanced Python tips
+- [10 Best Practices for Python Code](@/blog/10-best-practices-for-your-python-code.md) - Essential coding practices
+- [Python vs Golang vs Rust](@/blog/python-vs-golang-vs-rust.md) - Language performance comparison
+- [Production Readiness Checklist](@/blog/production-readiness-checklist.md) - Preparing code for production
   

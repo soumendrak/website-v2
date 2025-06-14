@@ -2,7 +2,7 @@
 title = "The Hidden Cost of LLM-as-a-Judge: When More Evaluation Means Less Value"
 description = "More evals ≠ better results. Understand how excessive, generic evaluations can undermine product efficiency—and what smarter, sampled strategies look like."
 date = "2025-05-11"
-updated="2025-06-10"
+updated="2025-06-14"
 
 [taxonomies]
 tags=["AI", "LLM", "Observability"]
@@ -169,13 +169,6 @@ Aligning LLM judgments with human preferences is a common evaluation approach. H
 - The LLM-as-a-judge responses need to be validated by human evaluator.
 - Take sample of each type of your responses and validate manually in a specific frequency.
 
-## Related Articles
-- [From Naive to Light: The Evolution of RAG Systems](@/blog/evolution-rag.md) - Understanding RAG systems
-- [LLMOps: Introduction](@/blog/llmops-introduction.md) - Learn about LLMOps practices
-- [Comparing DevOps, DataOps, AIOps, MLOps, and LLMOps](@/blog/comparing-devops-dataops-aiops-mlops-and-llmops-key-differences.md)
-- [ML in Academics vs ML in Production](@/blog/ml-academics-vs-ml-production.md) - Real-world ML implementation
-- [Large Language Models History](@/blog/large-language-models-history.md) - Evolution of language models
-
 ## Conclusion
 
 {{ dual_theme_image(light_src="images/posts/llm-evals/light/13.webp", dark_src="images/posts/llm-evals/dark/13.webp" alt="Conclusion") }}
@@ -190,3 +183,11 @@ LLM-as-a-Judge systems offer significant potential for scalable and adaptable ev
 - [Judging Judges: All that is LLM Judgements does not glitter](https://sambanova.ai/blog/judging-llm-judgements)
 - [Awesome-LLM-as-a-judge](https://awesome-llm-as-a-judge.github.io/)
 - [LLM Evals: Common Mistakes](https://www.youtube.com/watch?v=GL0XhAj5LPE)
+
+## Related Articles
+
+- [Evolution of RAG Systems](@/blog/evolution-rag.md) - Understanding modern LLM architectures
+- [Large Language Models History](@/blog/large-language-models-history.md) - Evolution of LLMs
+- [Vector Embeddings in NLP](@/blog/why-do-we-need-vector-embeddings-in-nlp.md) - Understanding embeddings
+- [Prompt Engineering](@/blog/prompt-engineering.md) - Effective prompt engineering
+- [AI Tools](@/blog/ai-tools.md) - Useful AI tools and applications

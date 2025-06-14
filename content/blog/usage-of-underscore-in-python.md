@@ -2,7 +2,7 @@
 title="Usage of the Underscore(_) in Python?"
 description="Usage of the Underscore(_) in Python and how to use it"
 date="2021-07-31"
-updated="2025-06-10"
+updated="2025-06-14"
 
 [taxonomies]
 tags=["programming", "python"]
@@ -96,7 +96,8 @@ True
 Photo by the author.
 
 ## Related Articles
-- [Usage of asterisk(*) in Python](@/blog/usage-of-asterik-in-python.md) - Understanding Python operators
-- [Cool Python tricks you are not using, but you should](@/blog/cool-python-tricks-you-are-not-using-but-you-should.md) - More Python tips
-- [10 Best Practices for your Python code](@/blog/10-best-practices-for-your-python-code.md) - Python best practices
-- [Optimize your Python code](@/blog/optimize-your-python-code.md) - Performance improvements
+- [Usage of Asterisk in Python](@/blog/usage-of-asterik-in-python.md) - Understanding operators
+- [Usage of Else in Python](@/blog/usage-of-else-in-python.md) - Control flow features
+- [Usage of Forward Slash](@/blog/usage-of-forward-slash-in-python.md) - Python operators
+- [Usage of Backward Slash](@/blog/usage-of-backward-slash-in-python.md) - Python syntax
+- [Learn Python Programming](@/blog/learn-python-programming.md) - Python programming guide

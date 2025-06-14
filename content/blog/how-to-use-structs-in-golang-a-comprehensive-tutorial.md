@@ -223,4 +223,4 @@ In this blog post, we have learned about structs in GoLang, which are user-defin
 ## Related Articles
 - [Go: Let's start](@/blog/go-lets-start.md) - Begin your journey with Go programming
 - [Go: Arrays vs Slices](@/blog/go-arrays-vs-slices.md) - Understanding fundamental Go data structures
-- [Concurrency and parallelism in Go](@/blog/concurrency-and-parallelism-in-go.md) - Learn about Go's powerful concurrency features
+

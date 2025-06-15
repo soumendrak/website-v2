@@ -378,3 +378,18 @@ taxonomies = [
   {name = "tags", feed = true, paginate_by = 5}, # each tag will have its own feed
   {name = "authors"}, # Basic definition: no feed or pagination
 ]
+
+# JSON-LD Person Schema Configuration
+[extra.person]
+name = "Soumendra Kumar Sahoo"
+jobTitle = "AI Solutions Sustain Lead and AI Observability Architect"
+url = "https://www.soumendrak.com"
+logo = "/images/avatar.jpg"
+sameAs = [
+    "https://www.linkedin.com/in/soumendrak",
+    "https://github.com/soumendrak",
+    "https://twitter.com/soumendrak_"
+]
+serviceType = "Software Engineering & AI Consulting"
+areaServed = "IN"
+priceRange = "$$"

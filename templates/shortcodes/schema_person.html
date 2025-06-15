@@ -1,0 +1,14 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["Person","ProfessionalService"],
+  "name": "{{ config.extra.person.name }}",
+  "url":  "{{ config.extra.person.url }}",
+  "logo": "{{ config.extra.person.logo }}",
+  "jobTitle": "{{ config.extra.person.jobTitle }}",
+  "serviceType": "AI Observability & RAG Consulting",
+  "areaServed": "IN",
+  "sameAs": {{ config.extra.person.sameAs | json_encode() | safe }},
+  "priceRange": "$$"
+}
+</script>

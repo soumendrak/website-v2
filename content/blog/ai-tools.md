@@ -1,14 +1,15 @@
 +++
 title = "AI Tools"
-description = "AI Tools across different usecases."
+description = "A comprehensive guide to AI tools across different use cases, from text generation to image creation and code assistance."
 date = "2024-07-28"
-updated = "2025-06-10"
+updated = "2025-06-15"
 
 [extra]
 social_media_card = "/images/posts/ai-tools.webp"
+cover = "/images/posts/ai-tools.webp"
 
 [taxonomies]
-tags=["AI", "tools", "ai-tools", "saas"]
+tags = ["AI", "tools", "productivity", "technology"]
 +++
 
 ## Writing

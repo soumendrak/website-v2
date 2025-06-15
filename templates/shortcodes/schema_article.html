@@ -1,0 +1,14 @@
+{%- set img = page.extra.cover | default(value=config.extra.person.logo) -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ page.title | json_encode() | safe }},
+  "description": {% if page.summary %}{{ page.summary | striptags | truncate(length=160) | json_encode() | safe }}{% else %}{{ page.content | striptags | truncate(length=160) | json_encode() | safe }}{% endif %},
+  "image": {{ img | json_encode() | safe }},
+  "author": { "@type": "Person", "name": {{ config.extra.person.name | json_encode() | safe }} },
+  "datePublished": "{{ page.date | date(format='%Y-%m-%d') }}",
+  "dateModified": "{{ page.updated | default(value=page.date) | date(format='%Y-%m-%d') }}",
+  "url": "{{ page.permalink | safe }}"
+}
+</script>

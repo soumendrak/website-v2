@@ -371,14 +371,6 @@ socials = [
     { name = "github", url = "https://github.com/soumendrak", icon = "github" },
 ]
 
-[languages.or]
-title = "ସୌମେନ୍ଦ୍ର କୁମାର ସାହୁ"
-build_search_index = false
-taxonomies = [
-  {name = "tags", feed = true, paginate_by = 5}, # each tag will have its own feed
-  {name = "authors"}, # Basic definition: no feed or pagination
-]
-
 # JSON-LD Person Schema Configuration
 [extra.person]
 name = "Soumendra Kumar Sahoo"

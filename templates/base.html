@@ -30,8 +30,14 @@ This variable will hold all the text strings for the language #}
     data-theme="{{config.extra.default_theme}}"
 {%- endif -%}{% if macros_settings::evaluate_setting_priority(setting="force_codeblock_ltr", page=current_page, default_global_value=true) == "false" -%}
     data-code-direction="inherit"{% endif %}>
-
-{% include "partials/header.html" %}
+<head></head>
+    {% include "partials/header.html" %}
+    {# Add structured data in head #}
+    {% include "shortcodes/schema_person.html" %}
+    {% if page and page.taxonomies and page.taxonomies.tags %}
+        {% include "shortcodes/schema_article.html" %}
+    {% endif %}
+</head>
 {% include "shortcodes/schema_person.html" %}
 {% if page and page.taxonomies and page.taxonomies.tags %}
     {% include "shortcodes/schema_article.html" %}

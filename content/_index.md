@@ -4,7 +4,7 @@ sort_by = "date"
 template = "section.html"
     
 [extra]
-header = {title = "Hello 👋🏼", img = "images/DP.webp", img_alt = "Soumendra Kumar Sahoo"}
+header = { title = "Production-grade RAG & AI-Observability Consulting", subtitle = "AI Engineering Leader with 13+ years of experience. Specializing in RAG systems, LLM evaluation, and AI observability to help organizations build reliable, production-ready AI systems.", img = "images/DP.webp", img_alt = "Soumendra Kumar Sahoo" }
 section_path = "blog/_index.md"
 max_posts = 3
 projects_path = "projects/_index.md"
@@ -13,11 +13,19 @@ show_projects_first = false
 social_media_card = "images/DP.webp"
 +++
 
-You have started implementing AI in your organization. Are you facing following challenges?
+## Expert AI Consulting for Real-World Challenges
 
-- `RAG Quality`: Your Retrieval-Augmented Generation (RAG) system is not delivering the expected quality of responses. Sometimes it provides irrelevant or incorrect information, leading to user frustration and decreased trust in the system. Maybe you are unsure whether you can make it public facing.
-- `Observability`: You are struggling to monitor and understand the performance of your AI systems. The lack of observability makes it difficult to identify issues, optimize performance, and ensure that the AI models are functioning as intended.
-- `LLM Evaluation`: You are struggling to evaluate the performance of your Large Language Models (LLMs). The metrics you currently use do not provide a clear picture of how well the models are performing in real-world scenarios, making it difficult to identify areas for improvement. You have used LLM-as-a-Judge and it is burning a hole in your pocket.
+Is your organization facing these AI implementation challenges?
+
+### RAG Quality Issues
+Your Retrieval-Augmented Generation system isn't delivering reliable responses, causing user frustration and trust issues. You need expert guidance to make it production-ready.
+
+### Limited AI Observability
+Without proper monitoring systems, you're struggling to track AI performance, identify issues, and optimize your models effectively.
+
+### Costly LLM Evaluation
+Your current LLM evaluation approach is expensive and doesn't provide clear insights into real-world performance. You need a more efficient, cost-effective solution.
+
 
 I can help you with these challenges. With over 13 years of experience in AI and enterprise technology, I specialize in AI observability, RAG quality improvement, and LLM evaluation.
 

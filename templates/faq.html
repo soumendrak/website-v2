@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block main_content %}
+<article>
+    <h1>{{ page.title }}</h1>
+    
+    {{ page.content | safe }}
+
+    {% if page.extra.faq %}
+    {% for qa in page.extra.faq %}
+    <h2>{{ qa.question }}</h2>
+    <p>{{ qa.answer }}</p>
+    {% endfor %}
+    {% endif %}
+</article>
+{%- include "shortcodes/schema_faq.html" -%}
+{% endblock %}

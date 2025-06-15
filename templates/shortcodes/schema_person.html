@@ -8,6 +8,7 @@
   "jobTitle": "{{ config.extra.person.jobTitle }}",
   "serviceType": "AI Observability & RAG Consulting",
   "areaServed": "IN",
+  "address": {{ config.extra.person.address | json_encode() | safe }},
   "sameAs": {{ config.extra.person.sameAs | json_encode() | safe }},
   "priceRange": "$$"
 }

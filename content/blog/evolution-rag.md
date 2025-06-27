@@ -22,14 +22,14 @@ Components of an RAG System
 
 ## Naive RAG
 
-![](https://miro.medium.com/v2/resize:fit:700/1*C9fMlA_rrH9dMrihHXAHyQ.png)
+![C9fMlA_rrH9dMrihHXAHyQ](https://miro.medium.com/v2/resize:fit:700/1*C9fMlA_rrH9dMrihHXAHyQ.png)
 - **Naive RAG** is presented as a standard baseline RAG system. It operates by first segmenting the raw text data into smaller chunks. These chunks are then converted into vectorized representations (embeddings) and stored in a vector database.
 - When a user poses a query, Naive RAG generates a vector representation of the query and retrieves the text chunks from the vector database that have the highest similarity to the query vector.
 - This retrieved information is then used by LLM to generate a response. Naive RAG relies on flat data representations and direct similarity matching of text chunks.
 
 ## RQ-RAG
 
-![](https://miro.medium.com/v2/resize:fit:700/1*G2cbSuxOxEtb7W4DSXR7GQ.png)
+![G2cbSuxOxEtb7W4DSXR7GQ](https://miro.medium.com/v2/resize:fit:700/1*G2cbSuxOxEtb7W4DSXR7GQ.png)
 
 Refine Queries RAG
 
@@ -38,7 +38,7 @@ Refine Queries RAG
 
 ## HyDE RAG
 
-![](https://miro.medium.com/v2/resize:fit:700/1*ErbeUkkJZg2terNdXwwkQA.png)
+![ErbeUkkJZg2terNdXwwkQA](https://miro.medium.com/v2/resize:fit:700/1*ErbeUkkJZg2terNdXwwkQA.png)
 
 HyDE based RAG
 
@@ -48,7 +48,7 @@ HyDE based RAG
 
 ## Graph RAG
 
-![](https://miro.medium.com/v2/resize:fit:700/1*d7BqYJUfSZc2TiTbQdEzkQ.png)
+![d7BqYJUfSZc2TiTbQdEzkQ](https://miro.medium.com/v2/resize:fit:700/1*d7BqYJUfSZc2TiTbQdEzkQ.png)
 - GraphRAG introduces a graph-based approach to knowledge representation and retrieval.
 - GraphRAG uses an LLM to extract entities and relationships from the text corpus, representing them as nodes and edges in a knowledge graph. It also generates descriptions for these graph elements.
 - To capture global information, GraphRAG aggregates nodes into communities and produces community reports.
@@ -57,7 +57,7 @@ HyDE based RAG
 
 ## Summary
 
-![](https://miro.medium.com/v2/resize:fit:700/1*BjlLpr2ZHWbOExJeyARfsw.png)
+![BjlLpr2ZHWbOExJeyARfsw](https://miro.medium.com/v2/resize:fit:700/1*BjlLpr2ZHWbOExJeyARfsw.png)
 
 Difference between various RAGs
 
@@ -71,7 +71,7 @@ The key differences lie in how each system handles the external knowledge and th
 
 ## Enters LightRAG
 
-![](https://miro.medium.com/v2/resize:fit:700/1*Qq0Ly460XMJkIWibKOyliA.png)
+![Qq0Ly460XMJkIWibKOyliA](https://miro.medium.com/v2/resize:fit:700/1*Qq0Ly460XMJkIWibKOyliA.png)
 
 Advantages of LightRAG
 
@@ -79,7 +79,7 @@ Advantages of LightRAG
 - LightRAG incorporates graph structures into text indexing and retrieval and uses a **dual-level retrieval system** to enhance comprehensive information retrieval.
 - It also focuses on efficient retrieval and rapid adaptation to new data, which are highlighted as crucial aspects not fully addressed before.
 - You can check the code repo [here](https://github.com/HKUDS/LightRAG).
-![](https://miro.medium.com/v2/resize:fit:700/0*oXJWuCUn_Y8hqSxC.png)
+![oXJWuCUn_Y8hqSxC](https://miro.medium.com/v2/resize:fit:700/0*oXJWuCUn_Y8hqSxC.png)
 ```sh
 import os
 import asyncio
@@ -127,7 +127,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-![](https://miro.medium.com/v2/resize:fit:700/0*Tycg7tsI-CyHwAU-.png)
+![Tycg7tsI CyHwAU ](https://miro.medium.com/v2/resize:fit:700/0*Tycg7tsI-CyHwAU-.png)
 
 LightRAG Server UI
 

@@ -60,13 +60,13 @@ As seen from the chart there was a drastic increase in non-content pages in 2011
 
 ![Wikipedia visit from numbers of unique devices](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634024751/USbWb8P4a.png)_Wikipedia visit from numbers of unique devices_
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634026467/PxyE6G5zg.png)
+![Mobile vs desktop view chart 1](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634026467/PxyE6G5zg.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634027944/jUYmI_CUk.png)
+![Mobile vs desktop view chart 2](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634027944/jUYmI_CUk.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634029616/3pMRV8Vdn.png)
+![Unique visitors statistics 1](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634029616/3pMRV8Vdn.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634031139/WiqRiGO9m.png)
+![Unique visitors statistics 2](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634031139/WiqRiGO9m.png)
 
 These pie charts show one important trend among Wikipedia readers. The desktop viewers have been reduced from 84% in 2015 to 62% in 2018.
 

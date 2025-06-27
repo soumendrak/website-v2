@@ -98,14 +98,14 @@
                         <li class="post-thumbnail">
                             <a href="{{ post.permalink }}">
                                 {% if post.extra.social_media_card %}
-                                    {% set meta = get_image_metadata(path=post.extra.social_media_card, allow_missing=true) %}
-                                    <img class="thumbnail-image"
+                                    {% set thumb = resize_image(path=post.extra.social_media_card, width=400, op="fit_width") %}
+                                    <img class="thumbnail-image" loading="lazy"
                                         alt="{{ post.extra.social_media_card }}"
-                                        src="{{ get_url(path=post.extra.social_media_card) }}"
-                                        {% if meta.width %}width="{{ meta.width }}"{% endif %}
-                                        {% if meta.height %}height="{{ meta.height }}"{% endif %}>
+                                        src="{{ thumb.url }}"
+                                        {% if thumb.width %}width="{{ thumb.width }}"{% endif %}
+                                        {% if thumb.height %}height="{{ thumb.height }}"{% endif %}>
                                 {% elif post.extra.remote_image %}
-                                    <img class="thumbnail-image"
+                                    <img class="thumbnail-image" loading="lazy"
                                         alt="{{ post.extra.remote_image }}"
                                         src="{{ post.extra.remote_image }}">
                                 {% endif %}

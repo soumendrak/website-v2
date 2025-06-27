@@ -114,8 +114,10 @@ date_format="%d %b, %Y"
 use_cdn = false
 theme_switcher = true
 default_theme = ""
-base_canonical_url = "https://www.soumendrak.com"
 
+mermaid = true
+serve_local_mermaid = true
+base_canonical_url = "https://www.soumendrak.com"
 # Use sans-serif font everywhere.
 # By default, the serif font is only used in articles.
 override_serif_with_sans = false

@@ -16,7 +16,7 @@ Problem statement
 
 While developing an enterprise search engine, we came into multiple use cases where multiple clients have a large amount of structured data (mainly RDBMS), where they want their non-technical employees to search for expected answers through those databases. For e.g., if there is a table like below:
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634039908/mXZwYZvlW.png)
+![Architecture diagram](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634039908/mXZwYZvlW.png)
 
 The user can ask “let me know about the department number of Nirun” to get the response “20-B”, instead of writing the following SQL query
 

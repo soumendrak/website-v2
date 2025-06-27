@@ -24,7 +24,7 @@ PySpark is just a Python wrapper around Apache Spark which is written in Scala p
 
 ## Pandas
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634044977/3qb5sv9hOQ.png)
+![Pandas overview graphic](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634044977/3qb5sv9hOQ.png)
 
 Pandas is good for:
 
@@ -46,7 +46,7 @@ In these cases, we have to look away from Pandas. My favorite Pandas is not enou
 
 ## Hadoop
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634046700/m8v3Nh7ED.png)
+![Hadoop architecture diagram](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634046700/m8v3Nh7ED.png)
 
 I googled and found Hadoop is a well-established tool to handle my increasing growth of data. Few things which Hadoop is good for:
 
@@ -64,7 +64,7 @@ However, it does not fit my requirement:
 
 ## Dask
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634048222/4CbseL1ES.png)
+![Dask workflow illustration](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634048222/4CbseL1ES.png)
 
 [Dask](https://dask.org) provides advanced parallelism for analytics, enabling performance at scale for the tools. It is written in Python on top of Pandas. Therefore, in addition to the features supported by Pandas it [also has](https://stackoverflow.com/q/38882660/5014656):
 
@@ -84,7 +84,7 @@ However, it has some limitations as well:
 
 ## Apache Storm
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634049571/XZMB3GK-3.png)
+![Apache Storm diagram](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634049571/XZMB3GK-3.png)
 
 [Apache storm](https://storm.apache.org) is another alternative for Spark. Some features of Apache Storm include:
 
@@ -96,7 +96,7 @@ However, it has some limitations as well:
 
 ## Apache Flink
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634051178/B5CRRPZG6.jpeg)
+![Apache Flink logo](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634051178/B5CRRPZG6.jpeg)
 
 [Apache Flink](https://flink.apache.org/) is also another one of the best alternatives to Spark. Some [features include](https://www.youtube.com/watch?v=Dzx-iE6RN4w):
 
@@ -108,7 +108,7 @@ However, it has some limitations as well:
 
 ## Conclusion
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634052920/8ILc_w8aa.jpeg)
+![PySpark ecosystem overview](https://cdn.hashnode.com/res/hashnode/image/upload/v1629634052920/8ILc_w8aa.jpeg)
 
 It is a tough decision to choose in between Dask and PySpark. However, In addition to other differences, PySpark is an all-in-one ecosystem which can handle the aggressive requirements with its MLlib, Structured data processing API, GraphX will definitely of help.
 Hadoop data can be processed with PySpark, so it will not be of any problem. Storm and Flink have got discarded due to their other differences.

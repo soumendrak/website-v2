@@ -75,7 +75,7 @@ Other than these, many advanced prompting techniques have been designed to impro
 
       The knowledge samples are then used to create knowledge-augmented questions to get answer proposals. The highest-confidence response is selected as the final answer:
 
-   10. ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677472897368/295b674f-3b8f-4571-99a6-736a1d6c1ab0.png)
+   10. ![Flowchart for knowledge-augmented question process](https://cdn.hashnode.com/res/hashnode/image/upload/v1677472897368/295b674f-3b8f-4571-99a6-736a1d6c1ab0.png)
 
 5. ReAct
 

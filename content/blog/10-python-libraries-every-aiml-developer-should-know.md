@@ -97,7 +97,7 @@ print(response.json())
    plt.show()
    ```
 
-   ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1676629103108/38bd74a9-ea0b-4c77-a333-f5f85ab330af.png)
+   ![Matplotlib line plot example](https://cdn.hashnode.com/res/hashnode/image/upload/v1676629103108/38bd74a9-ea0b-4c77-a333-f5f85ab330af.png)
 
 5. Scikit-learn – Scikit-learn is a library used for machine learning in Python. It provides support for various machine learning algorithms, including classification, regression, and clustering.
 

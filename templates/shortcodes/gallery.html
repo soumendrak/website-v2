@@ -3,7 +3,7 @@
       {%- if asset is matching("[.](jpg|png|webp)$") -%}
         {% set image = resize_image(path=asset, height=600, op="fit_height") %}
         <a href="{{ get_url(path=asset) }}" target="_blank">
-          <img src="{{ image.url }}" />
+          <img src="{{ image.url }}" loading="lazy" />
         </a>
       {%- endif %}
     {%- endfor %}

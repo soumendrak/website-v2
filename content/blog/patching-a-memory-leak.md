@@ -127,7 +127,7 @@ Top 10 highest memory used lines on day-5 of the code change
 
 ## Postfix
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1716638010742/5be304dc-fff2-408e-8d54-3e098aa82d5b.png)
+![Memory usage after patch](https://cdn.hashnode.com/res/hashnode/image/upload/v1716638010742/5be304dc-fff2-408e-8d54-3e098aa82d5b.png)
 
 _Figure 2: The memory usage after the fix_
 

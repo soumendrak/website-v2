@@ -19,7 +19,7 @@ It also helps how developed a neighbourhood is.
 ## Inspiration
 In 2024, I got introduced to OSM Bengaluru Telegram channel. There I came across a post where Prasanna was mapping street lamps on the OSM. 
 
-![](/images/posts/street-lights-diwali.webp)
+![Map of street lights forming a lamp design](/images/posts/street-lights-diwali.webp)
 *Does it look like a deepak?*
 
 ## Background efforts

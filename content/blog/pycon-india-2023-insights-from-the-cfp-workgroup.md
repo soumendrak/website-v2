@@ -88,7 +88,7 @@ To know more about the proposal category trends across previous editions, please
 
 Once the Junction tool was ready with data backup of previous editions and Category &lt;&gt; Reviewer mapping, we opened the CFP submission.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696356177782/f9db40e5-699e-4021-897f-63c9450b84b8.png)
+![Timeline of talk and workshop proposals](https://cdn.hashnode.com/res/hashnode/image/upload/v1696356177782/f9db40e5-699e-4021-897f-63c9450b84b8.png)
 
 _The trend of the number of Talk and Workshop proposals received over time._
 

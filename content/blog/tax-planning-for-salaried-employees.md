@@ -19,10 +19,10 @@ tags=["tax", "income-tax", "tax-planning", "salaried-employees"]
 - We pay two types of tax: Direct and Indirect.
 - Every Taxpayer is an Assesse but not the reverse.
 ### PAN Card
-![[Attachments/Untitled 137.png|Untitled 137.png]]
+![Untitled 137.png](Attachments/Untitled 137.png)
   
-![[Attachments/Untitled 1 77.png|Untitled 1 77.png]]
-![[Attachments/Untitled 2 56.png|Untitled 2 56.png]]
+![Untitled 1 77.png](Attachments/Untitled 1 77.png)
+![Untitled 2 56.png](Attachments/Untitled 2 56.png)
 ## I-T Act
 - Sections, Sub-sections, Chapters
 - Govt. creates new rules for Finance Act in the Budget for the umbrella I-T Act, which CBDT executes.
@@ -45,14 +45,14 @@ tags=["tax", "income-tax", "tax-planning", "salaried-employees"]
 ### Tax Applicability
 - A Resident Indian is liable to pay their Global Income taxes in India.
 - An NR Indian must pay only their Indian income taxes in India, not global income.
-![[Attachments/Untitled 3 44.png|Untitled 3 44.png]]
+![Untitled 3 44.png](Attachments/Untitled 3 44.png)
   
 ## Accrued Income
 - Income earned in India by an NR means Income accrued in India. The NR needs to pay tax on the income. The German consultant came to Utkal Tannery for factory Quality control.
 - Similarly, an Infosys guy on a three-monthly trip to the USA, whatever s/he will earn will be income accrued outside India and taxable in India.  
       
     
-![[Attachments/Untitled 4 40.png|Untitled 4 40.png]]
+![Untitled 4 40.png](Attachments/Untitled 4 40.png)
 IAI: Income Accrued in India, IAOI: IA Outside India, IRI: Income Received in India, IROI: IR Outside IN
 ## Tax break
 Three types are there
@@ -121,7 +121,7 @@ Two rates are there:
     - Three months to 7 years in jail if eligible but not filing.
     - 1000 to 5000 fees for not filing ITR.
     
-    ![[Attachments/Untitled 5 36.png|Untitled 5 36.png]]
+    ![Untitled 5 36.png](Attachments/Untitled 5 36.png)
     
     ### Benefits of ITR filing
     
@@ -214,8 +214,8 @@ Indexation Benefits
 ---
 ## Module 3: Income from Salary
 - Advanced salary will be regarded as income on the year received than due.
-![[Attachments/Untitled 6 31.png|Untitled 6 31.png]]
-![[Attachments/Untitled 7 27.png|Untitled 7 27.png]]
+![Untitled 6 31.png](Attachments/Untitled 6 31.png)
+![Untitled 7 27.png](Attachments/Untitled 7 27.png)
 - Any gift or perks from an employer over 5000 INR comes under taxable income.
 - More perquisites details: [Income Tax Department (incometaxindia.gov.in)](https://incometaxindia.gov.in/_layouts/15/dit/Pages/viewer.aspx?grp=Rule&cname=CMSID&cval=103120000000007059&searchFilter=[{%22CrawledPropertyKey%22:0,%22Value%22:%22Income-tax%20Rules%22,%22SearchOperand%22:2},{%22CrawledPropertyKey%22:1,%22Value%22:%22Rule%22,%22SearchOperand%22:2}]&k=&IsDlg=0)
 ### Deduction
@@ -247,7 +247,7 @@ The least of the following three shall be exempt HRA amount:
 3. 50% of the Salary for metro and 40% for non-metro
   
 ### Provident Fund
-![[Attachments/Untitled 8 22.png|Untitled 8 22.png]]
+![Untitled 8 22.png](Attachments/Untitled 8 22.png)
 - If withdrawn before five years of service, then (maybe Employer contribution is?) Taxable. PF Transfer is recommended.
 - If the employee leaves the job due to health reasons or the company got closed, then PF withdrawal is not taxable.
 ### Retrenchment Compensation (Termination)
@@ -273,7 +273,7 @@ S 10(5): Leave Travel Allowance or Leave Travel Concession
     - 20 Lakhs
 ### Pension
 - Commuted Pension = 1/3 * Total Pension
-![[Attachments/Untitled 9 19.png|Untitled 9 19.png]]
+![Untitled 9 19.png](Attachments/Untitled 9 19.png)
 - Commuted pension is exempted.
 - However, Pension comes under taxable income.
 - If the primary pension taker dies and their spouse receives the pension, this entire income is exempted.
@@ -410,7 +410,7 @@ Two types of deductions are there on both the Rented and SO properties.
 - _Sukanya Samriddhi Yojana_ is EET
 - Senior Citizen Saving Scheme is ETT
 ### Health Insurance
-![[Attachments/Untitled 10 17.png|Untitled 10 17.png]]
+![Untitled 10 17.png](Attachments/Untitled 10 17.png)
 Three types:
 1. Individual Premium
     1. It cannot be cash

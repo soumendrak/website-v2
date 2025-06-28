@@ -166,7 +166,6 @@ Plan --> Automate --> Review --> Improve
 
 Need expert support? [Contact me](mailto:contact@soumendrak.com) to discuss how tailored observability practices can accelerate your AI roadmap.
 
----
 
 [^1]: [https://www.gartner.com/en/articles/highlights-from-gartner-data-analytics-summit-2024](https://www.gartner.com/en/articles/highlights-from-gartner-data-analytics-summit-2024)
 

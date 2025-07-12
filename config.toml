@@ -276,8 +276,8 @@ socials = [
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
-    {url = "https://umami.cfy.soumendra.org/share/iE9nbmyZ3hsNl9r0/www.soumendrak.com", name = "site analytics", trailing_slash = true},
-    {url = "https://uptime.cfy.soumendra.org/status/soumendrak", name = "site status", trailing_slash = true},
+    {url = "https://umami.soumendra.org/share/iE9nbmyZ3hsNl9r0/www.soumendrak.com", name = "site analytics", trailing_slash = true},
+    {url = "https://uptime.soumendra.org/status/soumendrak", name = "site status", trailing_slash = true},
 ]
 
 # Enable a copyright notice for the footer, shown between socials and the "Powered by" text.
@@ -304,7 +304,7 @@ allowed_domains = [
     { directive = "font-src", domains = ["'self'", "data:"] },
     { directive = "img-src", domains = ["'self'", "https://*", "data:"] },
     { directive = "media-src", domains = ["'self'", "https://cdn.jsdelivr.net/"] },
-    { directive = "script-src", domains = ["'self'", "https://umami.cfy.soumendra.org", "https://giscus.app/", "https://static.cloudflareinsights.com"] },
+    { directive = "script-src", domains = ["'self'", "https://umami.soumendra.org", "https://giscus.app/", "https://static.cloudflareinsights.com"] },
     { directive = "style-src", domains = ["'self'", "https://giscus.app/"] },
     { directive = "frame-src", domains = ["player.vimeo.com", "https://www.youtube-nocookie.com", "http://127.0.0.1:1111/", "https://www.soumendrak.com"] },
 ]
@@ -336,7 +336,7 @@ id = "5d4d26ea-b6a2-4fdd-b000-c30c52ca1d31"
 # For Umami: Base URL like "https://umami.example.com"
 # For Plausible: Base URL like "https://plausible.example.com"
 # Leave this field empty if you're using the service's default hosting.
-self_hosted_url = "https://umami.cfy.soumendra.org"
+self_hosted_url = "https://umami.soumendra.org"
 
 # giscus support for comments. https://giscus.app
 # Setup instructions: https://welpo.github.io/tabi/blog/comments/#setup

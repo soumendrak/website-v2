@@ -1,24 +1,67 @@
 .email-button-container {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
     margin: 2rem 0;
+    flex-wrap: nowrap;
 }
 
 .email-button {
     display: inline-block;
-    padding: 1rem 2rem;
+    padding: 0.8rem 1.5rem;
     background-color: var(--primary-color);
     color: var(--hover-color) !important;
     text-decoration: none;
     border-radius: 8px;
     font-weight: 500;
-    font-size: 1.1rem;
+    font-size: 1rem;
     transition: transform 0.2s ease, background-color 0.2s ease;
     border: none;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    flex: 0 0 auto;
+    white-space: nowrap;
+}
+
+/* Primary button (first button - Let's Discuss) */
+.email-button:first-child {
+    background-color: var(--primary-color);
+    color: var(--hover-color) !important;
+}
+
+/* Secondary button (second button - Newsletter) */
+.email-button:last-child {
+    background-color: transparent;
+    color: var(--primary-color) !important;
+    border: 2px solid var(--primary-color);
 }
 
 .email-button:hover {
     transform: translateY(-2px);
-    background-color: var(--text-color-high-contrast);
     text-decoration: none;
+}
+
+.email-button:first-child:hover {
+    opacity: 0.9;
+}
+
+.email-button:last-child:hover {
+    background-color: var(--primary-color);
+    color: var(--hover-color) !important;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 640px) {
+    .email-button-container {
+        flex-direction: column;
+        gap: 0.8rem;
+        flex-wrap: wrap;
+    }
+    
+    .email-button {
+        width: 100%;
+        max-width: 280px;
+        flex: 1 1 auto;
+    }
 }

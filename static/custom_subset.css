@@ -1,0 +1,19 @@
+/* Custom font subset for Atkinson Hyperlegible - Critical characters only */
+/* This loads first to prevent FOUC (Flash of Unstyled Content) */
+/* Contains: A-Z, a-z, 0-9, and common punctuation used in header/navigation */
+
+@font-face {
+    font-family: 'Atkinson Hyperlegible';
+    src: url('/fonts/Atkinson-Hyperlegible-Regular-102a.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+    /* Using unicode-range to load only critical characters first */
+    unicode-range: U+0020-007E, U+00A0-00FF;
+}
+
+/* Preload hint for the full font */
+:root {
+    --serif-font: 'Atkinson Hyperlegible', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    --sans-serif-font: 'Atkinson Hyperlegible', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}

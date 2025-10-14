@@ -8,6 +8,8 @@ show_reading_time = false
 quick_navigation_buttons = true
 +++
 
+# Talks
+
 *These are my notable public talks:*
 
 ## 2025

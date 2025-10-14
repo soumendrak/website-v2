@@ -1,7 +1,7 @@
 <h2 align="center">Website</h2>
 
 * This website is powered by Rust based static site generator [Zola](https://www.getzola.org/). 
-* The theme is based on [Apollo](https://github.com/not-matthias/apollo) theme.
+* The theme is based on [Tabi](https://github.com/welpo/tabi) theme.
 * The blog posts are written in [Markdown](https://www.markdownguide.org/basic-syntax/).
 * The website is hosted on [Cloudflare Pages](https://pages.cloudflare.com/).
 

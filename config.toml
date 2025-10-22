@@ -366,13 +366,6 @@ meta = [
     {property = "og:description", content = "the og description"},
 ]
 
-
-
-socials = [
-    { name = "twitter", url = "https://twitter.com/soumendrak_", icon = "twitter" },
-    { name = "github", url = "https://github.com/soumendrak", icon = "github" },
-]
-
 # JSON-LD Person Schema Configuration
 [extra.person]
 name = "Soumendra Kumar Sahoo"

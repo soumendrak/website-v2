@@ -1,6 +1,6 @@
 +++
 title = "The Three Types of Workplace Power Explained: Role, Relational, and Expertise"
-description = "Learn about the three types of workplace power—role power, relational power, and expertise power—and how to leverage them for career growth and influence in any organization."
+description = "Learn about the three types of workplace power; role power, relational power, and expertise power; and how to leverage them for career growth and influence in any organization."
 date = "2025-11-02"
 updated = "2025-11-02"
 [extra]
@@ -18,7 +18,7 @@ tags=["management", "workplace power", "leadership", "influence", "career develo
 
 # The Three Types of Workplace Power Explained
 
-Are you looking to increase your influence at work, especially if your authority is limited? Understanding the three types of workplace power—role power, relational power, and expertise power—is essential for career advancement and effective leadership.
+Are you looking to increase your influence at work, especially if your authority is limited? Understanding the three types of workplace power; role power, relational power, and expertise power; is essential for career advancement and effective leadership.
 
 Almost a year ago, I transitioned from an Individual Contributor to a Manager. Recently, a team member asked me: "How do I increase my influence on colleagues who aren't my direct reports?" This is a common workplace challenge, and my answer boils down to mastering these three forms of power. Here, I share practical advice based on my real-world management experience. 
 
@@ -28,7 +28,7 @@ If you want to improve your ability to influence others, manage teams more effec
 
 {{ dual_theme_image(light_src="images/posts/3p/3p-rp-light.webp", dark_src="images/posts/3p/3p-rp-dark.webp" alt="Role Power in the Workplace") }}
 
-Role power (also called legitimate or positional power) is derived from your position in the company hierarchy. As a manager, you have the formal authority to assign tasks, conduct reviews, and shape careers. People generally follow your requests because they have to—it’s part of your organizational role.
+Role power (also called legitimate or positional power) is derived from your position in the company hierarchy. As a manager, you have the formal authority to assign tasks, conduct reviews, and shape careers. People generally follow your requests because they have to; it’s part of your organizational role.
 
 However, relying only on role or positional power has downsides. It often leads to mere compliance, not real commitment. Research shows when leaders overuse their official authority, it can diminish employee engagement and satisfaction at work. Role power works best for handling routine responsibilities or during crises, but it’s rarely enough for influencing complex, knowledge-driven situations.
 
@@ -36,9 +36,9 @@ However, relying only on role or positional power has downsides. It often leads 
 
 {{ dual_theme_image(light_src="images/posts/3p/3P-Rel-light.webp", dark_src="images/posts/3p/3P-Rel-light.webp" alt="Relational Power Influence") }}
 
-Relational power is based on the relationships and networks you build across your workplace. Simply put, when you help others, they are more willing to help you in return—a principle known as reciprocity.
+Relational power is based on the relationships and networks you build across your workplace. Simply put, when you help others, they are more willing to help you in return; a principle known as reciprocity.
 
-Workplace success often hinges on these social connections. Studies show that leaders who add value for colleagues bank what researchers call “organizational currencies” which can be exchanged for cooperation and support later. The key to building relational power is to be genuinely helpful *before* you need assistance. Volunteer for cross-functional teams, share useful information, and don’t hesitate to ask for help—a behavior consistently ranked as the top trust-builder. 
+Workplace success often hinges on these social connections. Studies show that leaders who add value for colleagues bank what researchers call “organizational currencies” which can be exchanged for cooperation and support later. The key to building relational power is to be genuinely helpful *before* you need assistance. Volunteer for cross-functional teams, share useful information, and don’t hesitate to ask for help; a behavior consistently ranked as the top trust-builder. 
 
 ## What is Expertise Power? Leveraging Knowledge for Workplace Authority
 
@@ -46,7 +46,7 @@ Workplace success often hinges on these social connections. Studies show that le
 
 Expertise power is the influence you gain through your specialized skills and knowledge. Others respect and follow your guidance not out of obligation, but because they genuinely value your expertise.
 
-Research has found that expert power is linked with higher work effort and intrinsic motivation, qualities missing from reward or coercive power. The foundation of this power is constant learning and deliberate practice—elite professionals achieve mastery by seeking immediate feedback, tackling new challenges, and pushing beyond their comfort zone.
+Research has found that expert power is linked with higher work effort and intrinsic motivation, qualities missing from reward or coercive power. The foundation of this power is constant learning and deliberate practice; elite professionals achieve mastery by seeking immediate feedback, tackling new challenges, and pushing beyond their comfort zone.
 
 To maximize your expertise power, make a habit of sharing your knowledge, mentoring others, yet always striving to stay ahead through continuous learning. The more indispensable your skills, the greater your influence.
 

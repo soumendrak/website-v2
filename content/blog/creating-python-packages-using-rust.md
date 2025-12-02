@@ -12,7 +12,7 @@ tags=["python", "rust", "python-projects"]
 +++
 
 
-![Cover Picture](/posts/rust/title.webp)
+![Cover Picture](/images/posts/rust/title.webp)
 Python's simplicity and vast ecosystem make it a favorite among developers, but when performance becomes a bottleneck, traditional approaches like C extensions can fall short.
 Enter Rust - a modern, memory-safe language that's transforming how we build high-performance Python tools. In this blog post, we'll explore how to create Python packages with Rust, leveraging its speed and safety. From real-world examples like Ruff and uv to hands-on tutorials with PyO3, this guide has you covered. Let's dive in!
 ![Python and Rust](/images/posts/rust/1.webp)

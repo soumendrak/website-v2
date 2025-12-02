@@ -22,7 +22,7 @@ Python and Rust
 
 ## The Rise of Rust-Powered Python Tools
 Rust has emerged as a game-changer for Python developers, powering tools that prioritize performance without sacrificing safety.
-Take Ruff, a Python linter that's 10–100x faster than traditional options like Flake8, or uv, a package manager that outpaces pip by 8–10x. These tools exemplify how Rust enhances Python, making it ideal for performance-critical tasks.
+Take Ruff, a Python linter that's [10–100x faster](https://github.com/astral-sh/ruff) than traditional options like Flake8, or uv, a package manager that outpaces pip by [8–10x](https://astral.sh/blog/uv). These tools exemplify how Rust enhances Python, making it ideal for performance-critical tasks.
 
 ## Why Combine Python and Rust?
 ![Why Combine Python and Rust](/images/posts/rust/2.webp)
@@ -36,26 +36,26 @@ By combining them, you can write performance-critical code in Rust while keeping
 ### Performance Bottlenecks in Pure Python Packages
 Pure Python excels for quick development, but tasks like numerical computations or large-scale data processing expose its limits.
 The GIL restricts true parallelism, and its interpreted nature slows execution.
-For example, a Medium article highlights how Python struggles with CPU-bound tasks, pushing developers to seek faster alternatives.
+For example, [a Medium article](https://medium.com/swlh/make-python-hundreds-of-times-faster-with-a-c-extension-9d0a5180063e) highlights how Python struggles with CPU-bound tasks, pushing developers to seek faster alternatives.
 
 ### The C Extension Approach and Its Limitations
 Historically, C extensions addressed these bottlenecks, but they come with trade-offs. Writing C is complex, and memory errors - like null pointer dereferences - can crash applications.
-A Pythonspeed article notes additional overhead from function calls and debugging challenges, making C less appealing today.
+[A Pythonspeed article](https://pythonspeed.com/articles/python-extension-performance/) notes additional overhead from function calls and debugging challenges, making C less appealing today.
 
 ## Rust as the Modern Alternative
 ### Rust's Safety and Performance Advantages
 Rust eliminates memory bugs at compile time, offering safety without a garbage collector. Its performance rivals C/C++, making it a compelling choice for Python extensions.
-According to Emeritus, Rust's adoption in major projects - like a 2024 White House report praising memory-safe languages - underscores its reliability.
+According to [Emeritus](https://emeritus.org/blog/coding-rust-programming-language/), Rust's adoption in major projects - like a 2024 White House report praising memory-safe languages - underscores its reliability.
 
 ### Comparing Rust to C/C++ for Python Extensions
-Unlike C/C++, Rust's PyO3 framework simplifies bindings, as noted in DataCamp.
-Compared to Cython, which is Pythonic but less performant for complex tasks, Rust excels in safety and speed, supported by a rich ecosystem on crates.io.
+- Unlike C/C++, Rust's PyO3 framework simplifies bindings, as noted in [DataCamp](https://www.datacamp.com/blog/rust-vs-python).
+- Compared to Cython, which is Pythonic but less performant for complex tasks, Rust excels in safety and speed, supported by a rich ecosystem on [crates.io](https://crates.io/).
 
 ## Case Studies: Ruff and uv
 ### Ruff: A Blazingly Fast Python Linter
-Ruff redefines linting, running checks in sub-second times on large codebases - 10–100x faster than Flake8. Adopted by projects like Apache Airflow, it's a testament to Rust's real-world impact (Jerrycodes).
+Ruff redefines linting, running checks in [sub-second times](https://trunk.io/learn/comparing-ruff-flake8-and-pylint-linting-speed) on large codebases - 10–100x faster than Flake8. Adopted by projects like Apache Airflow, it's a testament to Rust's real-world impact ([Jerrycodes](https://blog.jerrycodes.com/ruff-the-python-linter/)).
 ### uv: Reimagining Python Package Management
-uv accelerates package installation, resolving dependencies in 0.60s versus pip's slower pace - up to 115x faster with caching. Its ease of use makes it a drop-in replacement for pip (Bitecode).
+uv accelerates package installation, resolving dependencies in [0.60s](https://astral.sh/blog/uv) versus pip's slower pace - up to 115x faster with caching. Its ease of use makes it a drop-in replacement for pip ([Bitecode](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)).
 
 ![Ruff and uv](/images/posts/rust/3.webp)
 Rust python package benchmarks
@@ -68,7 +68,7 @@ python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install maturin
 ```
-Maturin simplifies building Rust-Python packages (Depth-First).
+Maturin simplifies building Rust-Python packages ([Depth-First](https://depth-first.com/articles/2022/03/09/python-extensions-in-pure-rust-with-rust-cpython/)).
 ## The PyO3 Framework: Bridging Rust and Python
 PyO3 connects Rust to Python seamlessly. Create a new project:
 ```sh
@@ -97,7 +97,7 @@ maturin develop
 python -c "import my_package; print(my_package.sum_as_string(5, 20))"
 # Outputs: '25'
 ```
-See PyO3 GitHub for more.
+See [PyO3 GitHub](https://github.com/PyO3/pyo3) for more.
 
 ## Building Your First Rust-Powered Python Package
 Project Structure and Organization
@@ -124,14 +124,14 @@ fn divide(a: f64, b: f64) -> PyResult<f64> {
 }
 ```
 ## Error Handling Across Language Boundaries
-PyO3 converts Rust errors to Python exceptions, ensuring smooth integration (Medium).
+PyO3 converts Rust errors to Python exceptions, ensuring smooth integration ([Medium](https://medium.com/@kudryavtsev_ia/how-i-design-and-develop-real-world-python-extensions-in-rust-2abfe2377182)).
 ## Distribution Considerations
 ### Packaging for Multiple Platforms
 Use Maturin to build wheels:
 ```sh
 maturin publish
 ```
-For broader compatibility, tools like cibuildwheel automate multi-platform builds (Yossarian).
+For broader compatibility, tools like [cibuildwheel](https://github.com/pypa/cibuildwheel) automate multi-platform builds ([Yossarian](https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust)).
 Managing Binary Wheels and Compatibility
 Ensure Rust dependencies are bundled, and test across Windows, Linux, and macOS to avoid runtime issues.
 
@@ -152,7 +152,7 @@ Benchmark with timeit:
 import timeit
 print(timeit.timeit("my_package.sum_as_string(5, 20)", setup="import my_package"))
 ```
-Rust extensions often yield significant speedups (Red Hat).
+Rust extensions often yield significant speedups ([Red Hat](https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust)).
 ## Advanced Techniques
 ### Memory Management Between Rust and Python
 PyO3 handles memory safely, but avoid leaks by managing Python object references carefully.

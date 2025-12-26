@@ -1,6 +1,6 @@
 +++
 title = "2025: at a glance"
-description = "2025 year in a review." 
+description = "Highlights, new skills unlocked, lessons learnt and projects I have worked upon in 2025." 
 date = "2025-12-27"
 
 [extra] 

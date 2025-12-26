@@ -13,10 +13,9 @@ tags=["year-in-a-review", "review"]
 This year I have learnt many life experiences especially on the personal front. On my last breaths when I will rewind my life, 2025 will be remembered for sure.
 
 ## Highlights
-- For the first time I have met with any of my employer's CEO. I met PepsiCo CEO, Ramon Laguarta. He shook hands with me and thanked me for my work. Memory of the year. Decade?
-- Upto a certain extent, I was able to predict how the stock market will behave especially on the AI stocks and I have a good amount of unrealized gain.
+- For the first time I have met with any of my employer's CEO. I met PepsiCo CEO, [Ramon Laguarta](https://www.linkedin.com/in/ramonlaguarta/). He shook hands with me and thanked me for my work. Memory of the year? Decade?
 - I have become a [judge in a hackathon](https://www.soumendrak.com/blog/hydpyhack2025/) for the first time. The experience of being a participant was better for me than being a judge.
-- I moved my VPS from DigitalOcean to a cheaper alternative, Hetzner.
+- I moved my VPS (Virtual Private Server) from DigitalOcean to a cheaper alternative, Hetzner.
 - I have gained the experiences of [making reels](https://www.youtube.com/@SoumendraSahooAIGuy). This year I have moved outdoors in parks, rooftops, desk and all to shoot reels on AI. In that brief period 4 persons were involved behind the camera and It is tougher than it looks.
 - The best book I have read this year is [The 5 Types of Wealth - Sahil Bloom](https://www.the5typesofwealth.com/). This book helped me shift my focus a bit from my work and take care of the other aspects of life.
 - I have learnt car driving, got Driver's license and drove around 500 KM/50hrs in 6 months to prepare for the DL test. Surprisingly, my two wheeler driving got improved after I have implemented my four wheeler driving lessons there. #TransferLearning

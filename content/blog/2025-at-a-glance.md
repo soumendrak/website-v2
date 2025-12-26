@@ -1,7 +1,9 @@
 +++
 title = "2025: at a glance"
 description = "2025 year in a review." 
-date = "2025-12-27" [extra] 
+date = "2025-12-27"
+
+[extra] 
 social_media_card = "/images/posts/2025-cover.png"
 
 [taxonomies] 

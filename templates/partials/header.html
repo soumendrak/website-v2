@@ -7,7 +7,6 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="base" content="{{ config.base_url | safe }}">
-    <link rel="preload" href="{{ get_url(path='fonts/Atkinson-Hyperlegible-Regular-102a.woff2') }}" as="font" type="font/woff2" crossorigin>
 
     {# Site title #}
     <title>{%- include "partials/title.html" -%}</title>
@@ -182,5 +181,5 @@
     {% include "tabi/extend_head.html" ignore missing %}
     
     {# Rybbit Analytics#}
-    <script src="https://rybbit.ekathi.com/api/script.js" data-site-id="1" defer></script>
+    <script src="https://rybbit.ekathi.com/api/script.js" data-site-id="1" data-session-replay="true" defer></script>
 </head>

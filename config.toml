@@ -303,7 +303,7 @@ allowed_domains = [
     { directive = "font-src", domains = ["'self'", "data:"] },
     { directive = "img-src", domains = ["'self'", "https://*", "data:"] },
     { directive = "media-src", domains = ["'self'", "https://cdn.jsdelivr.net/"] },
-    { directive = "script-src", domains = ["'self'", "https://umami.ekathi.com", "https://giscus.app/", "https://static.cloudflareinsights.com"] },
+    { directive = "script-src", domains = ["'self'", "https://umami.ekathi.com", "https://rybbit.ekathi.com", "https://giscus.app/", "https://static.cloudflareinsights.com"] },
     { directive = "style-src", domains = ["'self'", "https://giscus.app/"] },
     { directive = "frame-src", domains = ["player.vimeo.com", "https://www.youtube-nocookie.com", "http://127.0.0.1:1111/", "https://www.soumendrak.com"] },
 ]

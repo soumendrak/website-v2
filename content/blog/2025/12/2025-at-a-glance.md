@@ -2,6 +2,7 @@
 title = "2025: at a glance"
 description = "Highlights, new skills unlocked, lessons learnt and projects I have worked upon in 2025." 
 date = "2025-12-27"
+path = "blog/2025-at-a-glance"
 
 [extra] 
 social_media_card = "/images/posts/2025-cover.png"

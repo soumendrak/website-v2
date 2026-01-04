@@ -3,6 +3,7 @@ title = "ବ୍ଲକ୍‌ଚେନ୍‌"
 description = "ଓଡ଼ିଆ ଭାଷାରେ ନବାଗତମାନଙ୍କ ପାଇଁ ବ୍ଲକଚେନ୍ ପାଠ୍ୟକ୍ରମ।"
 date = "2022-01-13"
 updated = "2024-08-29"
+path = "blog/blockchain"
 
 [taxonomies]
 tags=["blockchain", "cryptocurrency"]

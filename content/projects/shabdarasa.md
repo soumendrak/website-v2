@@ -16,7 +16,7 @@ Shabdarasa is a word puzzle game (like wordle) for Odia language.
 
 - I had developed this game.
 - Dr. Aviseka ideated the game and mentor of the game.
-- An article about the story behind it, [The story behind Shabdarasa](@/blog/the-story-behind-shabdarasa.md)
+- An article about the story behind it, [The story behind Shabdarasa](@/blog/2022/02/the-story-behind-shabdarasa.md)
 - Checkout [Twitter/X](https://twitter.com/search?q=%23%E0%AC%B6%E0%AC%AC%E0%AD%8D%E0%AC%A6%E0%AC%B0%E0%AC%B8) to find out more about the game.
 
 ## Tech stack

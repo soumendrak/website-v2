@@ -10,7 +10,6 @@ tags=["AI", "LLM", "Observability"]
 
 [extra]
 social_media_card = "/images/posts/llm-evals/light/1.webp"
-pinned = true
 +++
 
 {{ dual_theme_image(light_src="images/posts/llm-evals/light/1.webp", dark_src="images/posts/llm-evals/dark/1.webp" alt="The Eiffel tower") }}

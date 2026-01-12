@@ -9,6 +9,7 @@ tags=["OpenTelemetry", "Observability", "Certification"]
 
 [extra]
 social_media_card = "/images/posts/OTCA/OTCA-cover.webp"
+pinned = true
 +++
 
 ![OTCA](/images/posts/OTCA/OTCA-cover.webp)
@@ -81,3 +82,7 @@ Finally, I refreshed my email multiple times and saw the result at the portal.
 I got 88% this time. 
 ![Final Result](/images/posts/OTCA/4.webp)
 As soon as the results appeared, street dogs barked exactly at the same time to celebrate.
+
+<object data="/pdfs/otca.pdf" type="application/pdf" width="100%" height="650px">
+      <p>Unable to display PDF file? <a href="/pdfs/otca.pdf">Download</a> instead.</p>
+</object>

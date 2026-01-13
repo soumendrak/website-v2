@@ -86,3 +86,13 @@ As soon as the results appeared, street dogs barked exactly at the same time to 
 <object data="/pdfs/otca.pdf" type="application/pdf" width="100%" height="650px">
       <p>Unable to display PDF file? <a href="/pdfs/otca.pdf">Download</a> instead.</p>
 </object>
+
+---
+## Preparation Materials
+These are the materials I used to prepare for the exam:
+
+1. [Getting Started With OpenTelemetry](https://trainingportal.linuxfoundation.org/courses/getting-started-with-opentelemetry-lfs148)
+2. [Getting Started With OpenTelemetry GitHub Repo](https://github.com/lftraining/LFS148-code)
+3. [Udemy Practice Exam](https://www.udemy.com/course/opentelemetry-certified-associate-otca-practice-exams/?couponCode=CP250112G3)
+4. [OTCA Exam Questions and Answers with the help of Claude Opus 4.5](https://gist.github.com/soumendrak/53e54cfcfdfdc3f66ce19dc2e524e76f)
+5. [Documentation GitHub Repo](https://github.com/open-telemetry/opentelemetry.io)

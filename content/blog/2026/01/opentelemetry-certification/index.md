@@ -12,7 +12,7 @@ social_media_card = "OTCA-cover.webp"
 pinned = true
 +++
 
-![OTCA](OTCA-OTCA-cover.webp)
+![OTCA](OTCA-cover.webp)
 
 ## Background
 The last time I appeared for any proctored certification exam was four years ago in 2021, when I obtained my [AWS Certified Machine Learning – Specialty - Credly](https://www.credly.com/badges/abd00b47-bde3-438f-bb18-5bdccd7c87ba/public_url) certificate, which expired in 2024.

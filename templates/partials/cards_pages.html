@@ -19,7 +19,11 @@
             data-tags="{% for tax_name, terms in page.taxonomies %}{% for term in terms | unique %}{{ term | lower }}{% if not loop.last %},{% endif %}{% endfor %}{% endfor %}"
             {% endif %}>
             {% if page.extra.social_media_card %}
-                {% set thumb = resize_image(path=page.extra.social_media_card, width=400, op="fit_width") %}
+                {% set img_path = page.extra.social_media_card %}
+                {% if page.colocated_path and not img_path is starting_with("/") %}
+                    {% set img_path = page.colocated_path ~ img_path %}
+                {% endif %}
+                {% set thumb = resize_image(path=img_path, width=400, op="fit_width") %}
                 <img class="card-image" loading="lazy"
                     alt="{{ page.extra.social_media_card }}"
                     src="{{ thumb.url }}"

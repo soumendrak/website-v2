@@ -24,7 +24,7 @@ Wikimedia Projects encompass a wide range of collaborative initiatives driven by
   - Representing Odia Wikipedia in world forums
   - Regulating the edits
   - Actively participating in resolving conflicts.
-- Social media accounts manager [from April 2019 to Dec 2019](@/blog/2020/01/increase-traffic-flows-to-your-facebook-page-organically.md).
+- Social media accounts manager [from April 2019 to Dec 2019](@/blog/2020/01/increase-traffic-flows-to-your-facebook-page-organically/index.md).
 - Content creator to show on homepage and social media channels.
 
 ### Wikimedia Commons

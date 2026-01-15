@@ -5,7 +5,7 @@ description = "Highlights of 2023 year in a review."
 date = "2023-12-30"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/2023highlights.webp"
+social_media_card = "/images/posts/2023/12/2023-highlights/2023highlights.webp"
 
 [taxonomies]
 tags=["year-in-a-review", "review"]

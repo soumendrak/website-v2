@@ -5,17 +5,17 @@ description="Creating Python Packages with Rust: A Comprehensive Guide"
 date="2025-03-23"
 updated="2025-12-02"
 [extra]
-social_media_card = "/images/posts/rust/title.webp"
+social_media_card = "/images/posts/2025/03/creating-python-packages-using-rust/rust-title.webp"
 
 [taxonomies]
 tags=["python", "rust", "python-projects"]
 +++
 
 
-![Cover Picture](/images/posts/rust/title.webp)
+![Cover Picture](/images/posts/2025/03/creating-python-packages-using-rust/rust-title.webp)
 Python's simplicity and vast ecosystem make it a favorite among developers, but when performance becomes a bottleneck, traditional approaches like C extensions can fall short.
 Enter Rust - a modern, memory-safe language that's transforming how we build high-performance Python tools. In this blog post, we'll explore how to create Python packages with Rust, leveraging its speed and safety. From real-world examples like Ruff and uv to hands-on tutorials with PyO3, this guide has you covered. Let's dive in!
-![Python and Rust](/images/posts/rust/1.webp)
+![Python and Rust](/images/posts/2025/03/creating-python-packages-using-rust/rust-1.webp)
 Python and Rust
 
 ---
@@ -25,7 +25,7 @@ Rust has emerged as a game-changer for Python developers, powering tools that pr
 Take Ruff, a Python linter that's [10–100x faster](https://github.com/astral-sh/ruff) than traditional options like Flake8, or uv, a package manager that outpaces pip by [8–10x](https://astral.sh/blog/uv). These tools exemplify how Rust enhances Python, making it ideal for performance-critical tasks.
 
 ## Why Combine Python and Rust?
-![Why Combine Python and Rust](/images/posts/rust/2.webp)
+![Why Combine Python and Rust](/images/posts/2025/03/creating-python-packages-using-rust/rust-2.webp)
 Python shines in rapid prototyping and ease of use, but its interpreted nature and Global Interpreter Lock (GIL) limit performance in computationally intensive scenarios.
 Rust, by contrast, offers blazing-fast execution and memory safety, preventing crashes and vulnerabilities common in C extensions.
 By combining them, you can write performance-critical code in Rust while keeping Python's user-friendly interface; a perfect synergy.
@@ -57,7 +57,7 @@ Ruff redefines linting, running checks in [sub-second times](https://trunk.io/le
 ### uv: Reimagining Python Package Management
 uv accelerates package installation, resolving dependencies in [0.60s](https://astral.sh/blog/uv) versus pip's slower pace - up to 115x faster with caching. Its ease of use makes it a drop-in replacement for pip ([Bitecode](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)).
 
-![Ruff and uv](/images/posts/rust/3.webp)
+![Ruff and uv](/images/posts/2025/03/creating-python-packages-using-rust/rust-3.webp)
 Rust python package benchmarks
 
 ## Getting Started with PyO3

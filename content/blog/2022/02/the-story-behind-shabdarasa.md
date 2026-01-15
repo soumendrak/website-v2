@@ -6,7 +6,7 @@ date = "2022-02-08"
 updated = "2024-08-16"
 
 [extra]
-social_media_card = "/images/posts/the-story-behind-shabdarasa.webp"
+social_media_card = "/images/posts/2022/02/the-story-behind-shabdarasa/the-story-behind-shabdarasa.webp"
 [taxonomies]
 tags=["odia", "wordle", "game"]
 +++

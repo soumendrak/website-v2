@@ -5,7 +5,7 @@ description = "Group by the code timings in Python using codetiming library."
 date = "2022-07-20"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/codetiming.webp"
+social_media_card = "/images/posts/2022/07/aggregate-code-timing-in-python/codetiming.webp"
 
 [taxonomies]
 tags=["programming", "python", "performance", "code-timing"]

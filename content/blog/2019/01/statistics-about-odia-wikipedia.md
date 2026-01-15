@@ -5,7 +5,7 @@ description = "Statistics about Odia Wikipedia on users, edits, and pageviews"
 date = "2019-01-11"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/statistics-about-odia-wikipedia.webp"
+social_media_card = "/images/posts/2019/01/statistics-about-odia-wikipedia/statistics-about-odia-wikipedia.webp"
 
 [taxonomies]
 tags=["programming", "python", "statistics", "wikipedia"]

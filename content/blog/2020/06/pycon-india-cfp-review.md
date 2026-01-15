@@ -4,7 +4,7 @@ title = "Pycon India 2019 CFP group"
 description = "The Inside Story of How We Selected 30 Talks from 280+ Proposals for Pycon India 2019"
 date = "2020-06-26"
 [extra]
-social_media_card = "/images/posts/pycon-india-cfp-review.webp"
+social_media_card = "/images/posts/2020/06/pycon-india-cfp-review/pycon-india-cfp-review.webp"
 
 [taxonomies]
 tags=["python", "meetup", "python-projects"]

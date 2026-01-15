@@ -5,7 +5,7 @@ description = "A few questions and answers for interviewers to check someone's b
 date = "2024-07-29"
 updated = "2025-06-10"
 [extra]
-social_media_card = "/images/posts/py-interview.webp"
+social_media_card = "/images/posts/2024/07/basic-python-questions/py-interview.webp"
 
 
 [taxonomies]

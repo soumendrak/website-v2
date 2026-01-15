@@ -5,7 +5,7 @@ date = "2025-12-27"
 path = "blog/2025-at-a-glance"
 
 [extra] 
-social_media_card = "/images/posts/2025-cover.png"
+social_media_card = "/images/posts/2025/12/2025-at-a-glance/2025-cover.png"
 
 [taxonomies] 
 tags=["year-in-a-review", "review"]
@@ -52,5 +52,5 @@ This year I have learnt many life experiences especially on the personal front. 
 - I will not be having any new year resolution. The mantra is to take every day as a new blessing and keep helping others.
 - I have created a process of planning phase every weekend to get the broader picture on where I am going and execution phase on rest of the weekdays.
 
-![A few pics from 2025](/images/posts/2025-collage.jpg)
+![A few pics from 2025](/images/posts/2025/12/2025-at-a-glance/2025-collage.jpg)
 *A few pics from 2025*

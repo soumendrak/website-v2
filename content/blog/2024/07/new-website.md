@@ -27,7 +27,7 @@ At the back of my mind, I was also thinking of creating a website which will be 
 
 ## Tech stack evolution over the years
 
-![Tech stack evolution over the years](/images/posts/blog_evolution.webp)
+![Tech stack evolution over the years](/images/posts/2024/07/new-website/blog_evolution.webp)
 
 ## Challenges
 * Migrating the old website links to the new website.

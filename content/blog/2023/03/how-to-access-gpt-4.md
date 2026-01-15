@@ -5,7 +5,7 @@ description = "How to access GPT-4 from OpenAI."
 date = "2023-03-14"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/access-gpt4.webp"
+social_media_card = "/images/posts/2023/03/how-to-access-gpt-4/access-gpt4.webp"
 
 [taxonomies]
 tags=["openai", "llm", "bing", "chatgpt", "gpt-4"]

@@ -6,7 +6,7 @@ date = "2023-02-19"
 updated = "2025-06-10"
 draft = true
 [extra]
-social_media_card = "/images/posts/concurrency-parallelism.webp"
+social_media_card = "/images/posts/2023/02/concurrency-and-parallelism-in-go/concurrency-parallelism.webp"
 
 
 [taxonomies]

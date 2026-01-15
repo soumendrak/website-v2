@@ -4,7 +4,7 @@ title = "Productive Mac Apps"
 description = "A list of productive Mac apps"
 date = "2022-07-21"
 [extra]
-social_media_card = "/images/posts/productive-mac-apps.webp"
+social_media_card = "/images/posts/2022/07/productive-mac-apps/productive-mac-apps.webp"
 
 [taxonomies]
 tags=["mac", "productivity", "macbook", "tools", "macos"]

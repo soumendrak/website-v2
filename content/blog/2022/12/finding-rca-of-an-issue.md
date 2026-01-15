@@ -5,7 +5,7 @@ description = "How to find the root cause of a production bug."
 date = "2022-12-06"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/rca.webp"
+social_media_card = "/images/posts/2022/12/finding-rca-of-an-issue/rca.webp"
 
 [taxonomies]
 tags=["debug", "debugging", "rca", "production-bug", "root-cause-analysis"]

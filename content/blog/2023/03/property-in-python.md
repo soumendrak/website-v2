@@ -4,7 +4,7 @@ title = "@property in Python"
 description = "Python's @property decorator is used to define getter and setter methods for a class attribute."
 date = "2023-03-18"
 [extra]
-social_media_card = "/images/posts/property-in-python.webp"
+social_media_card = "/images/posts/2023/03/property-in-python/property-in-python.webp"
 
 [taxonomies]
 tags=["python", "property", "decorators", "getter-and-setter"]

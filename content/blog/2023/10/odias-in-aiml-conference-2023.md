@@ -4,7 +4,7 @@ title = "Odias in AI/ML Conference 2023"
 description = "Odias in AI/ML is an annual conference of people directly/indirectly related to Odisha and Odia people."
 date = "2023-10-22"
 [extra]
-social_media_card = "/images/posts/odias-in-aiml-conference-2023.webp"
+social_media_card = "/images/posts/2023/10/odias-in-aiml-conference-2023/odias-in-aiml-conference-2023.webp"
 
 [taxonomies]
 tags=["AI", "conference", "odia", "odisha"]

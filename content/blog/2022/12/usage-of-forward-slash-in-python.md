@@ -4,7 +4,7 @@ description = "Usage of forward slash (/) in Python and how to use it"
 date = "2022-12-05"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/usage-of-forward-slash-in-python.webp"
+social_media_card = "/images/posts/2022/12/usage-of-forward-slash-in-python/usage-of-forward-slash-in-python.webp"
 
 [taxonomies]
 tags=["python", "keywords"]

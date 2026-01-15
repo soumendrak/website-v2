@@ -10,7 +10,7 @@ tags=["python", "async", "semaphore"]
 
 
 [extra]
-og_preview_img="/images/posts/semaphore.webp"
+og_preview_img="/images/posts/2024/07/semaphores-python-async-programming/semaphore.webp"
 +++
 
 ## Context

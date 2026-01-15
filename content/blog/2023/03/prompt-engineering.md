@@ -4,7 +4,7 @@ title = "Prompt Engineering"
 description = "Prompt Engineering is a technique used in natural language processing (NLP) to design and create prompts to generate desired outputs from an NLP model."
 date = "2023-03-17"
 [extra]
-social_media_card = "/images/posts/prompt-engineering.webp"
+social_media_card = "/images/posts/2023/03/prompt-engineering/prompt-engineering.webp"
 
 [taxonomies]
 tags=["nlp", "llm", "chatgpt", "promptengineering", "bard"]

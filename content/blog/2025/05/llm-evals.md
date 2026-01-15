@@ -9,10 +9,10 @@ updated="2025-06-14"
 tags=["AI", "LLM", "Observability"]
 
 [extra]
-social_media_card = "/images/posts/llm-evals/light/1.webp"
+social_media_card = "/images/posts/2025/05/llm-evals/llm-evals-light-1.webp"
 +++
 
-{{ dual_theme_image(light_src="images/posts/llm-evals/light/1.webp", dark_src="images/posts/llm-evals/dark/1.webp" alt="The Eiffel tower") }}
+{{ dual_theme_image(light_src="images/posts/2025/05/llm-evals/llm-evals-light-1.webp", dark_src="images/posts/2025/05/llm-evals/llm-evals-dark-1.webp" alt="The Eiffel tower") }}
 
 
 With the rise of LLMs it has become difficult for human judges to evaluate the quality of LLMs.  In the products where we use LLMs, usually we do not use evals. However, even if we use evals the default choice we set as LLM-as-a-judge based evals with a costly model.
@@ -31,7 +31,7 @@ LLM evaluations can be inconsistent and unfair. This is partly because they are 
 
 ### **Solution: Reliability Enhancement Strategies**
 
-{{ dual_theme_image(light_src="images/posts/llm-evals/light/2.webp", dark_src="images/posts/llm-evals/dark/2.webp" alt="Reliability Enhancement Strategies") }}
+{{ dual_theme_image(light_src="images/posts/2025/05/llm-evals/llm-evals-light-2.webp", dark_src="images/posts/2025/05/llm-evals/llm-evals-dark-2.webp" alt="Reliability Enhancement Strategies") }}
 
 Strategies to enhance reliability include improving the evaluation prompts, enhancing the LLMs' inherent abilities, and optimizing final results through post-processing.
 
@@ -59,7 +59,7 @@ LLM evaluators can inherit and exhibit various types of biases present in their 
 
 ### **Solution: Mitigating Biases**
 
-{{ dual_theme_image(light_src="images/posts/llm-evals/light/3.webp", dark_src="images/posts/llm-evals/dark/3.webp" alt="Mitigating Biases") }}
+{{ dual_theme_image(light_src="images/posts/2025/05/llm-evals/llm-evals-light-3.webp", dark_src="images/posts/2025/05/llm-evals/llm-evals-dark-3.webp" alt="Mitigating Biases") }}
 
 Mitigating these inherent biases is a critical challenge.
 
@@ -73,7 +73,7 @@ Often, the decision-making process of LLM-as-a-Judge systems is like a black box
 
 ### **Solution: Improving Transparency and Explanations**
 
-{{ dual_theme_image(light_src="images/posts/llm-evals/light/4.webp", dark_src="images/posts/llm-evals/dark/4.webp" alt="Improving Transparency and Explanations") }}
+{{ dual_theme_image(light_src="images/posts/2025/05/llm-evals/llm-evals-light-4.webp", dark_src="images/posts/2025/05/llm-evals/llm-evals-dark-4.webp" alt="Improving Transparency and Explanations") }}
 
 - LLM judges should not only provide evaluation results but also present clear explanations and justifications.
 - **Explanation Generation:** Focus on designing systems where the LLM provides step-by-step reasoning, justifications, or decision-making insights.
@@ -103,7 +103,7 @@ Aligning LLM judgments with human preferences is a common evaluation approach. H
 
 ### Cost vs Accuracy
 
-{{ dual_theme_image(light_src="images/posts/llm-evals/light/5.webp", dark_src="images/posts/llm-evals/dark/5.webp" alt="Cost vs Accuracy") }}
+{{ dual_theme_image(light_src="images/posts/2025/05/llm-evals/llm-evals-light-5.webp", dark_src="images/posts/2025/05/llm-evals/llm-evals-dark-5.webp" alt="Cost vs Accuracy") }}
 
 - You may have asked your judge to evaluate the entire trace or conversation with different kinds of evals.
 - This will drastically decreases the performance of your LLM-as-a-judge.
@@ -111,7 +111,7 @@ Aligning LLM judgments with human preferences is a common evaluation approach. H
 
 ### Are you using your evals?
 
-{{ dual_theme_image(light_src="images/posts/llm-evals/light/6.webp", dark_src="images/posts/llm-evals/dark/6.webp" alt="Are you using your evals?") }}
+{{ dual_theme_image(light_src="images/posts/2025/05/llm-evals/llm-evals-light-6.webp", dark_src="images/posts/2025/05/llm-evals/llm-evals-dark-6.webp" alt="Are you using your evals?") }}
 
 - Vendors come up with generic eval scores like hallucination, toxicity, coherence, etc. but these are not always relevant to your application context.
 - It is important to validate the evals being used. 
@@ -120,7 +120,7 @@ Aligning LLM judgments with human preferences is a common evaluation approach. H
 
 ### Generic Evals are useless
 
-{{ dual_theme_image(light_src="images/posts/llm-evals/light/7.webp", dark_src="images/posts/llm-evals/dark/7.webp" alt="Generic Evals are useless") }}
+{{ dual_theme_image(light_src="images/posts/2025/05/llm-evals/llm-evals-light-7.webp", dark_src="images/posts/2025/05/llm-evals/llm-evals-dark-7.webp" alt="Generic Evals are useless") }}
 
 - To ask whether the tone is appropriate to a judge and not providing the context is a sin.
 - Your use case is unique and the generic evals do not capture that. Tune your prompts or provide the context to your judge.
@@ -129,7 +129,7 @@ Aligning LLM judgments with human preferences is a common evaluation approach. H
 
 ### Ask for justification
 
-{{ dual_theme_image(light_src="images/posts/llm-evals/light/8.webp", dark_src="images/posts/llm-evals/dark/8.webp" alt="Ask for justification") }}
+{{ dual_theme_image(light_src="images/posts/2025/05/llm-evals/llm-evals-light-8.webp", dark_src="images/posts/2025/05/llm-evals/llm-evals-dark-8.webp" alt="Ask for justification") }}
 
 - Simply asking binary output from your judge like *Respond if the response is toxic* mostly will not provide accurate response.
 - In addition to that it will not help the users on how to debug further if a response is toxic.
@@ -137,7 +137,7 @@ Aligning LLM judgments with human preferences is a common evaluation approach. H
 
 ### Are the prompts being followed?
 
-{{ dual_theme_image(light_src="images/posts/llm-evals/light/9.webp", dark_src="images/posts/llm-evals/dark/9.webp" alt="Are the prompts being followed?") }}
+{{ dual_theme_image(light_src="images/posts/2025/05/llm-evals/llm-evals-light-9.webp", dark_src="images/posts/2025/05/llm-evals/llm-evals-dark-9.webp" alt="Are the prompts being followed?") }}
 
 - LLM-as-a-judge does not always follow the instructions given to it. It is important to validate the prompts being followed.
 - The contexts (variable parameters, conversation history, etc.) you have provided to the LLM-as-a-judge should be validated.
@@ -145,7 +145,7 @@ Aligning LLM judgments with human preferences is a common evaluation approach. H
 
 ### Output should be binary if not multi class classification
 
-{{ dual_theme_image(light_src="images/posts/llm-evals/light/10.webp", dark_src="images/posts/llm-evals/dark/10.webp" alt="Output should be binary if not multi class classification") }}
+{{ dual_theme_image(light_src="images/posts/2025/05/llm-evals/llm-evals-light-10.webp", dark_src="images/posts/2025/05/llm-evals/llm-evals-dark-10.webp" alt="Output should be binary if not multi class classification") }}
 
 - It is difficult for the judge to provide a score from 1 to 5 like likert scale.
 - It is better to provide binary output and justify the output.
@@ -154,7 +154,7 @@ Aligning LLM judgments with human preferences is a common evaluation approach. H
 
 ### Don't blindly take decisions based on LLM benchmarks
 
-{{ dual_theme_image(light_src="images/posts/llm-evals/light/11.webp", dark_src="images/posts/llm-evals/dark/11.webp" alt="Don't blindly take decisions based on LLM benchmarks") }}
+{{ dual_theme_image(light_src="images/posts/2025/05/llm-evals/llm-evals-light-11.webp", dark_src="images/posts/2025/05/llm-evals/llm-evals-dark-11.webp" alt="Don't blindly take decisions based on LLM benchmarks") }}
 
 - Foundational LLM benchmark does not necessarily reflect the performance of LLMs as judges in your application customized for a specific need like say a chatbot on your FAQ data.
 - A smaller model may perform better as a judge than a larger model on your application context.
@@ -163,7 +163,7 @@ Aligning LLM judgments with human preferences is a common evaluation approach. H
 
 ### Sampling and Human Evaluation
 
-{{ dual_theme_image(light_src="images/posts/llm-evals/light/12.webp", dark_src="images/posts/llm-evals/dark/12.webp" alt="Sampling and Human Evaluation") }}
+{{ dual_theme_image(light_src="images/posts/2025/05/llm-evals/llm-evals-light-12.webp", dark_src="images/posts/2025/05/llm-evals/llm-evals-dark-12.webp" alt="Sampling and Human Evaluation") }}
 
 - Automating the evals via LLM as a judge does not mean we can completely skip the human evaluation.
 - The user inputs may get change, production data may get drifted, the model responses may get biased, or out of date.
@@ -172,7 +172,7 @@ Aligning LLM judgments with human preferences is a common evaluation approach. H
 
 ## Conclusion
 
-{{ dual_theme_image(light_src="images/posts/llm-evals/light/13.webp", dark_src="images/posts/llm-evals/dark/13.webp" alt="Conclusion") }}
+{{ dual_theme_image(light_src="images/posts/2025/05/llm-evals/llm-evals-light-13.webp", dark_src="images/posts/2025/05/llm-evals/llm-evals-dark-13.webp" alt="Conclusion") }}
 
 LLM-as-a-Judge systems offer significant potential for scalable and adaptable evaluation across diverse domains. However, achieving truly reliable, fair, and transparent judgments requires addressing inherent challenges related to biases, robustness, interpretability, and fundamental model capabilities. By implementing strategies focused on improving prompts, selecting and fine-tuning models, employing sophisticated post-processing techniques, utilizing robust evaluation metrics, and maintaining appropriate human oversight, we can move towards developing LLM judges that are more accurate, fair, and dependable assessment partners. While they may never be perfect, continuous research and practical application of these improvement strategies are essential for building trust and expanding the effective use of LLM-as-a-Judge systems.
 

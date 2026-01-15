@@ -4,7 +4,7 @@ title = "ML academics vs ML production"
 description = "ML academics vs ML production: Differences between academics and production."
 date = "2022-10-19"
 [extra]
-social_media_card = "/images/posts/ml-academics-vs-ml-production.webp"
+social_media_card = "/images/posts/2022/10/ml-academics-vs-ml-production/ml-academics-vs-ml-production.webp"
 
 [taxonomies]
 tags=["machine-learning", "ml", "mlops", "machine-learning-models", "machine-learning-life-cycle"]

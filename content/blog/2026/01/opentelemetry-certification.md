@@ -8,11 +8,11 @@ date = "2026-01-13"
 tags=["OpenTelemetry", "Observability", "Certification"]
 
 [extra]
-social_media_card = "/images/posts/OTCA/OTCA-cover.webp"
+social_media_card = "/images/posts/2026/01/opentelemetry-certification/OTCA-cover.webp"
 pinned = true
 +++
 
-![OTCA](/images/posts/OTCA/OTCA-cover.webp)
+![OTCA](/images/posts/2026/01/opentelemetry-certification/OTCA-OTCA-cover.webp)
 
 ## Background
 The last time I appeared for any proctored certification exam was four years ago in 2021, when I obtained my [AWS Certified Machine Learning – Specialty - Credly](https://www.credly.com/badges/abd00b47-bde3-438f-bb18-5bdccd7c87ba/public_url) certificate, which expired in 2024.
@@ -57,12 +57,12 @@ You need to join the exam link 30 minutes before the exam time (10 PM in my case
 I encountered some errors while installing the custom browser; the error appeared again, but finally, I just closed the error pop-up, and it worked. Ignorance is bliss.
 There were 60 questions and 90 minutes. I could afford to get 15 questions wrong and still pass.
 The first time I attempted the exam, I scored 73%. The passing mark was 75%. I think I answered one or two questions incorrectly. Immediately, I received an email stating I didn't make it and explaining how to retake the exam.
-![First attempt score](/images/posts/OTCA/1.webp)
+![First attempt score](/images/posts/2026/01/opentelemetry-certification/OTCA-1.webp)
 
 It hurts a lot when you miss the passing mark by just 2%. I was feeling so low and was on the verge of depression the whole night, then I remembered one scene from [Bhaag Milkha Bhaag](https://en.wikipedia.org/wiki/Bhaag_Milkha_Bhaag) out of nowhere, where Milkha Singh got selected even though he failed due to a sharp stone while running.
 This changed my perspective: I did not fail by 2%; I failed by 27%. Score 100% so that the cut-off will not scare you anymore.
 
-![Milkha Singh](/images/posts/OTCA/2.webp)
+![Milkha Singh](/images/posts/2026/01/opentelemetry-certification/OTCA-2.webp)
 With this mindset, I rebooked the exam right then and there. It was late, so the earliest slot I got was 12:30 AM. I booked it. I knew that if I didn't do it this weekend, I wouldn't do it next weekend or even in three months. I had so many things to do, and I didn't want to wait for this certification. I had already spent my year-end holidays preparing for this.
 
 ## Second and Final Attempt Preparation
@@ -70,7 +70,7 @@ With this mindset, I rebooked the exam right then and there. It was late, so the
 - I cloned the OTel documentation GitHub repo and saved these questions in a file. I asked Claude Code to find the answers and citations. I got all the answers and their explanations.
 - I searched a bit more and remembered that I used to get practice exam papers from Udemy. I bought a 6-set practice exam there for 399 INR. I scored the same 73% there. There were so many incorrect responses. I felt frustrated at first, but then I convinced myself that the more incorrect responses I got here, the fewer I would get in the exam. *The more you sweat, the less you bleed.* 
 
-![Incorrect responses](/images/posts/OTCA/3.webp)
+![Incorrect responses](/images/posts/2026/01/opentelemetry-certification/OTCA-3.webp)
 Frankly speaking, just an hour before the exam, I should not have attempted these practice exams; it added frustration and drained unnecessary mental energy. I had to watch a few mindless reels to return to a normal state.
 
 ## The Now or Never Exam
@@ -80,7 +80,7 @@ Finally, I counted how many questions I was unsure of; there were 12 out of 60. 
 In school, I had a habit of submitting answer sheets just 5 minutes before the exam end time. I did the same this time. 
 Finally, I refreshed my email multiple times and saw the result at the portal.
 I got 88% this time. 
-![Final Result](/images/posts/OTCA/4.webp)
+![Final Result](/images/posts/2026/01/opentelemetry-certification/OTCA-4.webp)
 As soon as the results appeared, street dogs barked exactly at the same time to celebrate.
 
 <object data="/pdfs/otca.pdf" type="application/pdf" width="100%" height="650px">

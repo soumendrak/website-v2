@@ -7,10 +7,10 @@ date = "2026-01-15"
 tags=["Python", "Profiling", "tprof"]
 
 [extra]
-social_media_card = "/images/posts/targeted-profiling-cover.webp"
+social_media_card = "/images/posts/2026/01/targeted-profiling/targeted-profiling-cover.webp"
 +++
 
-![Targeted Profiling with tprof](/images/posts/targeted-profiling-cover.webp)
+![Targeted Profiling with tprof](/images/posts/2026/01/targeted-profiling/targeted-profiling-cover.webp)
 
 Recently, I was working on a project that involved processing large JSON datasets and needed to optimize the performance of JSON serialization and deserialization. I ran a quick benchmark using **[tprof](https://github.com/adamchainz/tprof)**, a lightweight targeting profiler and the results were eye-opening.
 
@@ -192,7 +192,7 @@ cd targeted-profiling
 uv add tprof orjson
 ```
 
-I can not share the actual proprietary code I have tested with here is an equivalent code snippet (Claude Code generated):
+I can not share the actual proprietary code I have tested with; here is an equivalent code snippet (Claude Code generated):
 
 ```python
 import json
@@ -261,7 +261,6 @@ if __name__ == "__main__":
             orjson_deserialize()
 
 ```
-## Appendix
 The output of the benchmark is:
 
 ```bash

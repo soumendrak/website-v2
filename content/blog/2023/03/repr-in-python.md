@@ -3,7 +3,7 @@ path = "blog/repr-in-python"
 title = "__repr__ in Python"
 description = "How to use __repr__ in Python to create a human-readable representation of an object."
 date = "2023-03-25"
-social_media_card = "/images/posts/repr-in-python.webp"
+social_media_card = "/images/posts/2023/03/repr-in-python/repr-in-python.webp"
 
 [taxonomies]
 tags=["python",   "repr", "str"]

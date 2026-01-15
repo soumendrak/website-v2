@@ -4,7 +4,7 @@ title = "An Analysis of PyCon India 2023 Proposals"
 description = "An Analysis of PyCon India 2023 Talk Proposals"
 date = "2023-09-27"
 updated = "2024-08-16"
-social_media_card = "/images/posts/pyconIndia2023proposals.webp"
+social_media_card = "/images/posts/2023/09/an-analysis-of-pycon-india-2023-proposals/pyconIndia2023proposals.webp"
 
 [taxonomies]
 tags=["python", "data-analysis", "cfp", "pycon", "pyconindia2023", "conference"]

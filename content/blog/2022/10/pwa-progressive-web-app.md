@@ -4,7 +4,7 @@ title = "PWA: Progressive Web App"
 description = "Progressive Web Applications (PWA) is intended to work on any platform with a standards-compliant browser, including desktop and mobile devices."
 date = "2022-10-30"
 [extra]
-social_media_card = "/images/posts/progressive-web-app.webp"
+social_media_card = "/images/posts/2022/10/pwa-progressive-web-app/progressive-web-app.webp"
 
 [taxonomies]
 tags=["app-development", "applications", "progressive-web-apps", "pwa", "pwa-vs-native-apps"]

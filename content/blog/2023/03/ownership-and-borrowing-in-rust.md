@@ -4,7 +4,7 @@ title = "Ownership and Borrowing in Rust"
 date = "2023-03-10"
 updated = "2025-06-14"
 [extra]
-social_media_card = "/images/posts/ownership-and-borrowing-in-rust.webp"
+social_media_card = "/images/posts/2023/03/ownership-and-borrowing-in-rust/ownership-and-borrowing-in-rust.webp"
 
 [taxonomies]
 tags=["rust", "rust-lang", "ownership", "borrowing"]

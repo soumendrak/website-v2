@@ -4,7 +4,7 @@ title="Python double/nested for loop list comprehension"
 description="Python double/nested for loop list comprehension: How to use list comprehension to create a new list from an existing list."
 date="2020-11-25"
 [extra]
-social_media_card = "/images/posts/python-nested-for-loop-list-comprehension.webp"
+social_media_card = "/images/posts/2020/11/python nested for loop list comprehension/python-nested-for-loop-list-comprehension.webp"
 [taxonomies]
 tags=["programming", "python"]
 +++

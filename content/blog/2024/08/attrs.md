@@ -7,7 +7,7 @@ date = "2024-08-20"
 [taxonomies]
 tags=["python", "dataclasses", "pydantic"]
 [extra]
-social_media_card = "/images/posts/attrs.webp"
+social_media_card = "/images/posts/2024/08/attrs/attrs.webp"
 +++
 
 ## 1. Introduction

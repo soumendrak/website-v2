@@ -5,7 +5,7 @@ description = "A checklist for developers to ensure they are ready for productio
 date = "2024-08-04"
 updated = "2025-06-14"
 [extra]
-social_media_card = "/images/posts/production-readiness-checklist.webp"
+social_media_card = "/images/posts/2024/08/production-readiness-checklist/production-readiness-checklist.webp"
 
 [taxonomies]
 tags=["devops", "python", "aws", "kubernetes"]

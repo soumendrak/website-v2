@@ -5,7 +5,7 @@ description = "Carrd.co is a single-page website builder with a no-code paid too
 date = "2023-07-31"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/step-by-step-migrating-from-carrd-to-cloudflare-pages.webp"
+social_media_card = "/images/posts/2023/07/step-by-step-migrating-from-carrd-to-cloudflare-pages/step-by-step-migrating-from-carrd-to-cloudflare-pages.webp"
 
 [taxonomies]
 tags=["cloudflare", "migration", "carrd", "cloudflare-pages"]

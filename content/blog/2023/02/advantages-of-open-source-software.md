@@ -5,7 +5,7 @@ description = "Advantages of Open source software over proprietary software."
 date = "2023-02-17"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/advantage-opensource.webp"
+social_media_card = "/images/posts/2023/02/advantages-of-open-source-software/advantage-opensource.webp"
 
 [taxonomies]
 tags=["opensource"]

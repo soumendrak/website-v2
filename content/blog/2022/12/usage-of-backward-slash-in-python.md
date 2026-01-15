@@ -5,7 +5,7 @@ description = "The importance of Backward Slashes in Python and how to use them"
 date = "2022-12-10"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/the-importance-of-backward-slashes-in-python-and-how-to-use-them.webp"
+social_media_card = "/images/posts/2022/12/usage-of-backward-slash-in-python/the-importance-of-backward-slashes-in-python-and-how-to-use-them.webp"
 
 
 [taxonomies]

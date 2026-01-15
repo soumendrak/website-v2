@@ -7,7 +7,7 @@ updated="2025-06-10"
 canonical_url = "https://medium.com/@soumendrak/evolution-of-rags-5a5b996bdd94"
 
 [extra]
-social_media_card = "/images/posts/rag-evolution.webp"
+social_media_card = "/images/posts/2025/04/evolution-rag/rag-evolution.webp"
 
 [taxonomies]
 tags=["AI", "RAG"]

@@ -4,7 +4,7 @@ title = "GitHub vs. Open Source: Understanding the Differences"
 date = "2023-02-25"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/github-opensource.webp"
+social_media_card = "/images/posts/2023/02/github-vs-open-source-understanding-the-differences/github-opensource.webp"
 [taxonomies]
 tags=["github", "opensource", "git"]
 +++

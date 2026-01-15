@@ -5,7 +5,7 @@ description = "Zero Trust is a security model that assumes all users, devices, a
 date = "2023-03-01"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/what-is-zero-trust.webp"
+social_media_card = "/images/posts/2023/03/what-is-zero-trust/what-is-zero-trust.webp"
 
 [taxonomies]
 tags=["Security"]

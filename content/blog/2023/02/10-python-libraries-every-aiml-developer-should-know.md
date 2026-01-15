@@ -5,7 +5,7 @@ description = "Python Libraries Every AI/ML Developer Should Know to get ahead i
 date = "2023-02-26"
 updated = "2025-06-14"
 [extra]
-social_media_card = "/images/posts/10python.webp"
+social_media_card = "/images/posts/2023/02/10-python-libraries-every-aiml-developer-should-know/10python.webp"
 
 [taxonomies]
 tags=["AI", "python", "machine-learning", "ml"]

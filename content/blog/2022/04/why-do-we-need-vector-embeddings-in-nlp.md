@@ -5,7 +5,7 @@ description = "Why do we need vector embeddings in NLP?"
 date = "2022-04-06"
 updated = "2025-06-14"
 [extra]
-social_media_card = "/images/posts/why-do-we-need-vector-embeddings-in-nlp.webp"
+social_media_card = "/images/posts/2022/04/why-do-we-need-vector-embeddings-in-nlp/why-do-we-need-vector-embeddings-in-nlp.webp"
 
 [taxonomies]
 tags=["AI", "machine-learning", "nlp"]

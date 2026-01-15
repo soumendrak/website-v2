@@ -4,8 +4,8 @@ title = "Stay Informed: My Top RSS Picks"
 description = "Discover the RSS feeds that keep me updated and informed in the digital world."
 date = "2025-04-27"
 [extra]
-social_media_card = "/images/posts/rss-feeds.webp"
-local_image = "/images/posts/rss-feeds.webp"
+social_media_card = "/images/posts/2025/04/rss-feeds/rss-feeds.webp"
+local_image = "/images/posts/2025/04/rss-feeds/rss-feeds.webp"
 
 [taxonomies]
 tags=["rss", "reading", "tips"]

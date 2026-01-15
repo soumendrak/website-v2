@@ -5,7 +5,7 @@ description = "Learn about the three types of workplace power; role power, relat
 date = "2025-11-02"
 updated = "2025-11-02"
 [extra]
-social_media_card = "/images/posts/3p/three-powers.webp"
+social_media_card = "/images/posts/2025/11/three-powers/3p-three-powers.webp"
 
 [taxonomies]
 tags=["management", "workplace power", "leadership", "influence", "career development"]
@@ -15,7 +15,7 @@ tags=["management", "workplace power", "leadership", "influence", "career develo
 > - **Relational power** transforms that authority from "you must" into "I hope you will" through built-up reciprocity.
 > - **Expertise power** gives you credibility that makes both your position and relationships more effective.
 
-{{ dual_theme_image(light_src="images/posts/3p/3p-summary-light.webp", dark_src="images/posts/3p/3p-summary-dark.webp" alt="Three Types of Workplace Power Summary") }}
+{{ dual_theme_image(light_src="images/posts/2025/11/three-powers/3p-3p-summary-light.webp", dark_src="images/posts/2025/11/three-powers/3p-3p-summary-dark.webp" alt="Three Types of Workplace Power Summary") }}
 
 # The Three Types of Workplace Power Explained
 
@@ -27,7 +27,7 @@ If you want to improve your ability to influence others, manage teams more effec
 
 ## What is Role Power in the Workplace?
 
-{{ dual_theme_image(light_src="images/posts/3p/3p-rp-light.webp", dark_src="images/posts/3p/3p-rp-dark.webp" alt="Role Power in the Workplace") }}
+{{ dual_theme_image(light_src="images/posts/2025/11/three-powers/3p-3p-rp-light.webp", dark_src="images/posts/2025/11/three-powers/3p-3p-rp-dark.webp" alt="Role Power in the Workplace") }}
 
 Role power (also called legitimate or positional power) is derived from your position in the company hierarchy. As a manager, you have the formal authority to assign tasks, conduct reviews, and shape careers. People generally follow your requests because they have to; it’s part of your organizational role.
 
@@ -35,7 +35,7 @@ However, relying only on role or positional power has downsides. It often leads 
 
 ## What is Relational Power? How to Build Influence Through Relationships
 
-{{ dual_theme_image(light_src="images/posts/3p/3P-Rel-light.webp", dark_src="images/posts/3p/3P-Rel-light.webp" alt="Relational Power Influence") }}
+{{ dual_theme_image(light_src="images/posts/2025/11/three-powers/3p-3P-Rel-light.webp", dark_src="images/posts/2025/11/three-powers/3p-3P-Rel-light.webp" alt="Relational Power Influence") }}
 
 Relational power is based on the relationships and networks you build across your workplace. Simply put, when you help others, they are more willing to help you in return; a principle known as reciprocity.
 
@@ -43,7 +43,7 @@ Workplace success often hinges on these social connections. Studies show that le
 
 ## What is Expertise Power? Leveraging Knowledge for Workplace Authority
 
-{{ dual_theme_image(light_src="images/posts/3p/3p-ep-light.webp", dark_src="images/posts/3p/3p-ep-dark.webp" alt="Expertise Power Authority") }}
+{{ dual_theme_image(light_src="images/posts/2025/11/three-powers/3p-3p-ep-light.webp", dark_src="images/posts/2025/11/three-powers/3p-3p-ep-dark.webp" alt="Expertise Power Authority") }}
 
 Expertise power is the influence you gain through your specialized skills and knowledge. Others respect and follow your guidance not out of obligation, but because they genuinely value your expertise.
 

@@ -4,7 +4,7 @@ title = "Multiple return values from a function"
 description = "Multiple return values from a function: How to use multiple return values from a function in GoLang."
 date = "2023-02-18"
 [extra]
-social_media_card = "/images/posts/multiple-return-values-from-a-function.webp"
+social_media_card = "/images/posts/2023/02/multiple-return-values-from-a-function/multiple-return-values-from-a-function.webp"
 
 [taxonomies]
 tags=["go", "tips"]

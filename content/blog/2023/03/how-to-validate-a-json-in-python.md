@@ -5,7 +5,7 @@ description = "How to validate a JSON in Python using JSON Schema."
 date = "2023-03-08"
 updated = "2024-01-13"
 [extra]
-social_media_card = "/images/posts/json-validation.webp"
+social_media_card = "/images/posts/2023/03/how-to-validate-a-json-in-python/json-validation.webp"
 
 [taxonomies]
 tags=["python", "json", "apis", "api-testing", "json-schema", "pydantic"]

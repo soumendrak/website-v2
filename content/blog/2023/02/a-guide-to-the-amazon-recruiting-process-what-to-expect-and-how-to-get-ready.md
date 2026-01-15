@@ -5,7 +5,7 @@ description = "Amazon Recruiting Process: my experience and what to expect."
 date = "2023-02-07"
 updated = "2025-04-27"
 [extra]
-social_media_card = "/images/posts/amazon.webp"
+social_media_card = "/images/posts/2023/02/a-guide-to-the-amazon-recruiting-process-what-to-expect-and-how-to-get-ready/amazon.webp"
 
 [taxonomies]
 tags=["interview", "amazon", "python", "interview-questions", "faang", "job-interview"]

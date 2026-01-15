@@ -5,7 +5,7 @@ description = "ChatGPT Alternatives: ChatGPT, Bard, and other alternatives."
 date = "2023-02-08"
 updated = "2025-06-14"
 [extra]
-social_media_card = "/images/posts/chatgpt-alternative.webp"
+social_media_card = "/images/posts/2023/02/chatgpt-alternatives/chatgpt-alternative.webp"
 
 [taxonomies]
 tags=["AI", "alternative", "content-creation", "llm", "chatgpt"]

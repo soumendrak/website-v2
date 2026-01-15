@@ -5,7 +5,7 @@ description = "Pointers to check if an image is AI-generated"
 date = "2022-03-29"
 updated="2025-06-10"
 [extra]
-social_media_card = "/images/posts/tricks-to-manually-detect-ai-generated-fake-images.webp"
+social_media_card = "/images/posts/2022/03/tricks-to-manually-detect-ai-generated-fake-images/tricks-to-manually-detect-ai-generated-fake-images.webp"
 
 [taxonomies]
 tags=["AI", "github", "opensource", "images", "social-media"]

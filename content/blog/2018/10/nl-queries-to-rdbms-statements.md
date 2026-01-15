@@ -4,7 +4,7 @@ title = "Converting NL queries to RDBMS statements"
 description = "How to convert natural language queries to relational database management system (RDBMS) statements."
 date = "2018-10-20"
 [extra]
-social_media_card = "/images/posts/converting-nl-queries-to-rdbms-statements.webp"
+social_media_card = "/images/posts/2018/10/nl-queries-to-rdbms-statements/converting-nl-queries-to-rdbms-statements.webp"
 
 [taxonomies]
 tags=["programming", "python", "nlp", "sql", "SysAdmin"]

@@ -8,7 +8,7 @@ date = "2025-06-27"
 tags=["AI", "Observability", "LLM"]
 
 [extra]
-social_media_card = "/images/posts/observability/3_achieving_ai_observability_light.webp"
+social_media_card = "/images/posts/2025/06/advancing-ai-observability/observability-3_achieving_ai_observability_light.webp"
 +++
 
 Earlier I shared a [**Production Readiness Checklist**](@/blog/2024/08/production-readiness-checklist.md) outlining the essential steps before rolling an AI system into production. One key section focused on observability and tracing. This post expands on that foundation, adding **hands‑on examples, code snippets, and real‑world war stories** so you can move from aspirational slides to shipping dashboards.
@@ -45,7 +45,7 @@ Production --> Observation --> Business-KPI
 
 ### 1. Instrumentation (Deep Dive)
 
-{{ dual_theme_image(light_src="images/posts/observability/1_visual-selection_light.webp", dark_src="images/posts/observability/1_visual-selection_dark.webp" alt="visual selection") }}
+{{ dual_theme_image(light_src="images/posts/2025/06/advancing-ai-observability/observability-1_visual-selection_light.webp", dark_src="images/posts/2025/06/advancing-ai-observability/observability-1_visual-selection_dark.webp" alt="visual selection") }}
 
 Instrumentation is the groundwork. Capture the right signals from your application code, model‑serving layers, and data pipelines **at the point they happen**, not in an after‑the‑fact batch.
 
@@ -99,7 +99,7 @@ The snippet auto‑instruments **FastAPI, Requests, and LangChain** using OpenTe
 
 ### 2. Monitoring and Dashboards (Deep Dive)
 
-{{ dual_theme_image(light_src="images/posts/observability/2_AI-Initiative-dashboards_light.webp", dark_src="images/posts/observability/2_AI-Initiative-dashboards_dark.webp" alt="AI Initiative Dashboards") }}
+{{ dual_theme_image(light_src="images/posts/2025/06/advancing-ai-observability/observability-2_AI-Initiative-dashboards_light.webp", dark_src="images/posts/2025/06/advancing-ai-observability/observability-2_AI-Initiative-dashboards_dark.webp" alt="AI Initiative Dashboards") }}
 
 Metrics are only useful when **actionable**. Build dashboards that combine system health with AI‑specific indicators.
 {% wide_container() %}
@@ -145,7 +145,7 @@ Newer --> Retrain
 
 ## Putting It All Together
 
-{{ dual_theme_image(light_src="images/posts/observability/3_achieving_ai_observability_light.webp", dark_src="images/posts/observability/3_achieving_ai_observability_dark.webp" alt="Achieving AI Observability") }}
+{{ dual_theme_image(light_src="images/posts/2025/06/advancing-ai-observability/observability-3_achieving_ai_observability_light.webp", dark_src="images/posts/2025/06/advancing-ai-observability/observability-3_achieving_ai_observability_dark.webp" alt="Achieving AI Observability") }}
 
 1. **Plan instrumentation early.** Decide which traces, metrics, and logs map to *business* KPIs. Bake observability into your Definition of Done and Terraform modules.
 2. **Automate monitoring.** Dashboards and alerts should deploy with every model push via CI/CD so you never ship blind code.

@@ -4,7 +4,7 @@ title = "Maximizing ChatGPT's Capabilities for Increased Productivity"
 date = "2023-01-10"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/maximizing-chatgpts-capabilities-for-increased-productivity.webp"
+social_media_card = "/images/posts/2023/01/use-chat-gpt-as-a-pro/maximizing-chatgpts-capabilities-for-increased-productivity.webp"
 
 [taxonomies]
 tags=["AI", "tools", "gpt-3", "openai", "chatgpt"]

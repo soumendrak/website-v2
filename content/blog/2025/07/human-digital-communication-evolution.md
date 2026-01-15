@@ -8,12 +8,12 @@ date = "2025-07-09"
 tags = ["technology", "communication", "human-computer-interaction", "future"]
 
 [extra]
-social_media_card = "/images/posts/personal/writing-speed-light.webp"
+social_media_card = "/images/posts/2025/07/human-digital-communication-evolution/personal-writing-speed-light.webp"
 +++
 
 ## The Evolution of Human‑Digital Communication: From Penmanship to Brain‑Computer Interfaces
 
-{{ dual_theme_image(light_src="images/posts/personal/writing-speed-light.webp", dark_src="images/posts/personal/writing-speed-dark.webp" alt="my writing speed over different mediums") }}
+{{ dual_theme_image(light_src="images/posts/2025/07/human-digital-communication-evolution/personal-writing-speed-light.webp", dark_src="images/posts/2025/07/human-digital-communication-evolution/personal-writing-speed-dark.webp" alt="my writing speed over different mediums") }}
 
 There’s a clear pattern in how we get ideas out of our heads and into the world. Half of our school lives were spent perfecting **penmanship**, half of our working lives have revolved around **typing faster**, and today many of us are training our **voices** so speech‑to‑text systems can keep up.
 

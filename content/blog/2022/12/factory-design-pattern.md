@@ -5,7 +5,7 @@ description = "Factory Design Pattern: Creational Pattern for creating objects."
 date = "2022-12-01"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/factory-design-pattern.webp"
+social_media_card = "/images/posts/2022/12/factory-design-pattern/factory-design-pattern.webp"
 [taxonomies]
 tags=["design-patterns", "python", "factory-design-pattern", "solid-principles"]
 +++

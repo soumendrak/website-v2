@@ -5,7 +5,7 @@ description = "Top open source YouTube extensions in 2023 to help you."
 date = "2023-01-06"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/top-open-source-youtube-extensions-in-2023.webp"
+social_media_card = "/images/posts/2023/01/top-open-source-youtube-extensions-in-2023/top-open-source-youtube-extensions-in-2023.webp"
 
 [taxonomies]
 tags=["opensource", "chrome-extension", "youtube"]

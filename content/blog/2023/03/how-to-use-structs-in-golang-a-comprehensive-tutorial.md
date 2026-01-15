@@ -5,7 +5,7 @@ description = "structs in GoLang: How to use structs in GoLang to create complex
 date = "2023-03-23"
 updated = "2025-06-10"
 [extra]
-social_media_card = "/images/posts/go-structs.webp"
+social_media_card = "/images/posts/2023/03/how-to-use-structs-in-golang-a-comprehensive-tutorial/go-structs.webp"
 
 [taxonomies]
 tags=["go", "golang", "struct", "tips", "golang-developer"]

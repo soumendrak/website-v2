@@ -4,7 +4,7 @@ title = "PyCon India 2023: Insights from the CFP Workgroup"
 description = "PyCon India 2023 CFP Workgroup timeline and insights"
 date = "2023-10-05"
 [extra]
-social_media_card = "/images/posts/pycon-india-2023-insights-from-the-cfp-workgroup.webp"
+social_media_card = "/images/posts/2023/10/pycon-india-2023-insights-from-the-cfp-workgroup/pycon-india-2023-insights-from-the-cfp-workgroup.webp"
 
 [taxonomies]
 tags=["cfp", "pycon", "pyconindia2023", "pyconindia", "pycon2023"]

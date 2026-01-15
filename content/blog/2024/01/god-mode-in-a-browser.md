@@ -5,7 +5,7 @@ description = "How to use the God mode in a browser to modify any text on a webs
 date = "2024-01-14"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/god-mode-browser.webp"
+social_media_card = "/images/posts/2024/01/god-mode-in-a-browser/god-mode-browser.webp"
 
 [taxonomies]
 tags=["browser", "tricks", "javascript", "tools", "god", "god-mode"]

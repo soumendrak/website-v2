@@ -5,7 +5,7 @@ description = "ChatGPT resources: APIs, Apps, and other tools."
 date = 2022-12-07
 updated = "2025-06-14"
 [extra]
-social_media_card = "/images/posts/chatgpt-resources.webp"
+social_media_card = "/images/posts/2022/12/chatgpt-resources/chatgpt-resources.webp"
 
 [taxonomies]
 tags=["go", "python", "typescript", "rust", "chatgpt"]

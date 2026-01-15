@@ -4,7 +4,7 @@ title = "Go: Let's start"
 date = "2022-12-25"
 updated = "2025-06-14"
 [extra]
-social_media_card = "/images/posts/go-lets-start.webp"
+social_media_card = "/images/posts/2022/12/go-lets-start/go-lets-start.webp"
 
 [taxonomies]
 tags=["go", "go-tutorial"]

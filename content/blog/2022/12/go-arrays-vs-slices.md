@@ -4,7 +4,7 @@ title = "Go: Arrays vs Slices"
 date = "2022-12-09"
 updated = "2025-06-10"
 [extra]
-social_media_card = "/images/posts/go-array-slices.webp"
+social_media_card = "/images/posts/2022/12/go-arrays-vs-slices/go-array-slices.webp"
 
 [taxonomies]
 tags=["go", "golang", "array", "slice", "golang-developer"]

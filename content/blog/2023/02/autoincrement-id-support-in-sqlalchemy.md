@@ -5,7 +5,7 @@ description = "Autoincrement ID Support in SQLAlchemy library for Python in MySQ
 date = "2023-02-22"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/sqlalchemy-autoincrement.webp"
+social_media_card = "/images/posts/2023/02/autoincrement-id-support-in-sqlalchemy/sqlalchemy-autoincrement.webp"
 
 
 [taxonomies]

@@ -6,8 +6,8 @@ date = "2024-07-28"
 updated = "2025-08-02"
 
 [extra]
-social_media_card = "/images/posts/ai-tools.webp"
-cover = "/images/posts/ai-tools.webp"
+social_media_card = "/images/posts/2024/07/ai-tools/ai-tools.webp"
+cover = "/images/posts/2024/07/ai-tools/ai-tools.webp"
 
 [taxonomies]
 tags = ["AI", "tools", "productivity", "technology", "automation", "2025"]

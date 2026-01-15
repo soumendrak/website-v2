@@ -5,7 +5,7 @@ description="How to cache heavy computation functions with a specific timeout va
 date="2020-11-25"
 updated="2025-06-14"
 [extra]
-social_media_card = "/images/posts/cache-heavy-computation-functions-with-timeout.webp"
+social_media_card = "/images/posts/2020/11/cache-heavy-computation-functions-with-timeout/cache-heavy-computation-functions-with-timeout.webp"
 
 [taxonomies]
 tags=["programming", "python"]

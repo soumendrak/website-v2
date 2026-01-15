@@ -4,7 +4,7 @@ title = "Understanding Layer 2 of Blockchain"
 date = "2022-01-07"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/understanding-layer-2-of-blockchain.webp"
+social_media_card = "/images/posts/2022/01/understanding-layer-2-of-blockchain/understanding-layer-2-of-blockchain.webp"
 
 [taxonomies]
 tags=["blockchain", "layer-2"]

@@ -5,7 +5,7 @@ description = "Materials to learn Python programming."
 date = "2022-11-07"
 updated = "2025-06-14"
 [extra]
-social_media_card = "/images/posts/learn-python.webp"
+social_media_card = "/images/posts/2022/11/learn-python-programming/learn-python.webp"
 
 [taxonomies]
 tags=["python", "beginners",  "python-projects"]

@@ -5,7 +5,7 @@ description = "Comparison of Python, Golang, and Rust based on performance and c
 date = "2022-05-17"
 updated = "2025-06-16"
 [extra]
-social_media_card = "/images/posts/python-vs-golang-vs-rust.webp"
+social_media_card = "/images/posts/2022/05/python-vs-golang-vs-rust/python-vs-golang-vs-rust.webp"
 
 [taxonomies]
 tags=["programming", "python", "golang", "rust", "performance", "code-timing"]

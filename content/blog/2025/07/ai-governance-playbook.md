@@ -8,10 +8,10 @@ date = "2025-07-09"
 tags=["AI governance", "responsible AI", "AI"]
 
 [extra]
-social_media_card = "/images/posts/aiGovernance/ai-governance.webp"
+social_media_card = "/images/posts/2025/07/ai-governance-playbook/ai-governance.webp"
 +++
 
-![Cover image for AI Governance Playbook](/images/posts/aiGovernance/ai-governance.webp)
+![Cover image for AI Governance Playbook](/images/posts/2025/07/ai-governance-playbook/ai-governance.webp)
 
 ---
 

@@ -8,10 +8,10 @@ date = "2025-12-19"
 tags = ["self-hosting", "homelab", "VPS", "coolify", "proxmox", "hetzner", "FOSS"]
 
 [extra]
-social_media_card = "/images/posts/self-host/self-host-cover.webp"
+social_media_card = "/images/posts/2025/12/self-hosting/self-host-cover.webp"
 +++
 
-![Cover](/images/posts/self-host/self-host-cover.webp)
+![Cover](/images/posts/2025/12/self-host/self-host-cover.webp)
 *Cover Image*
 
 ## Journey

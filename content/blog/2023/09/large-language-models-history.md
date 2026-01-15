@@ -5,7 +5,7 @@ description = "History of Large Language Models (LLMs) and their impact on the f
 date = "2023-09-13"
 updated="2025-06-14"
 [extra]
-social_media_card = "/images/posts/llm-history.webp"
+social_media_card = "/images/posts/2023/09/large-language-models-history/llm-history.webp"
 
 [taxonomies]
 tags=["nlp", "llm", "languagemodelling", "large-language-models"]

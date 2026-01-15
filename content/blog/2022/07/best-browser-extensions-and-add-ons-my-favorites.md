@@ -5,7 +5,7 @@ description = "My favorite browser extensions and add-ons."
 date = "2022-07-16"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/browser-extension.webp"
+social_media_card = "/images/posts/2022/07/best-browser-extensions-and-add-ons-my-favorites/browser-extension.webp"
 
 [taxonomies]
 tags=["productivity", "web-extensions", "web-addons"]

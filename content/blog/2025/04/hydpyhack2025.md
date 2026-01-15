@@ -8,10 +8,10 @@ date = "2025-04-05"
 tags=["python", "hackathon", "genai", "AI"]
 
 [extra]
-social_media_card = "/images/posts/hydpyhack-cover.webp"
+social_media_card = "/images/posts/2025/04/hydpyhack2025/hydpyhack-cover.webp"
 +++
 
-![Cover](/images/posts/hydpyhack-cover.webp)
+![Cover](/images/posts/2025/04/hydpyhack2025/hydpyhack-cover.webp)
 *Cover Image*
 
 As a hackathon participant there is a sense of adrenaline rush and race against the clock; on the other hand being a hackathon jury was pretty chilled.
@@ -84,7 +84,7 @@ Note: Effectively implementing a few (at least 1 or more) features is better tha
 ### My experience
 
 - There are two more jury members: [Sonu Kumar](https://www.linkedin.com/in/sonukr0/) and [Jitendra Santosh Varma Kosuri](https://www.linkedin.com/in/jitendra-santosh-varma-kosuri-93960626/).
-![Score Spreadsheet](/images/posts/hydpyhack-score.webp)
+![Score Spreadsheet](/images/posts/2025/04/hydpyhack2025/hydpyhack-score.webp)
 *Score Spreadsheet*
 - I have prepared a spreadsheet to evaluate the hackathon participants as they present their projects. This spreadsheet calculated the weighted average of the jury ratings and quickly decided the winners of the hackathon.
 - The event was at the Bilvantis office in Hyderabad, where I recently moved from Bengaluru. I got a bit surprised to see 50+ participants in the event. Hyderabad tech city is not too far from Bengaluru.
@@ -96,17 +96,17 @@ Note: Effectively implementing a few (at least 1 or more) features is better tha
 
 Few images of the event:
 
-![Participants Presentation](/images/posts/hydpyhack-ppt.webp)
+![Participants Presentation](/images/posts/2025/04/hydpyhack2025/hydpyhack-ppt.webp)
 *Participants Presentation*
 
-![Winner Selection Discussion](/images/posts/hydpyhack-winner-selection-discussion.webp)
+![Winner Selection Discussion](/images/posts/2025/04/hydpyhack2025/hydpyhack-winner-selection-discussion.webp)
 *Winner Selection Discussion*
 
-![Jury Speech](/images/posts/hydpyhack-jury-speech.webp)
+![Jury Speech](/images/posts/2025/04/hydpyhack2025/hydpyhack-jury-speech.webp)
 *Jury Speech by yours truly*
 
-![Winners](/images/posts/hydpyhack-winners.webp)
+![Winners](/images/posts/2025/04/hydpyhack2025/hydpyhack-winners.webp)
 *Winners*
 
-![Attendees](/images/posts/hydpyhack-all.webp)
+![Attendees](/images/posts/2025/04/hydpyhack2025/hydpyhack-all.webp)
 *All attendees of the event who made it successful*

@@ -5,7 +5,7 @@ description = "Understanding Python's Pre-Constructed Exceptions for Beginners: 
 date = "2022-12-26"
 updated = "2025-06-14"
 [extra]
-social_media_card = "/images/posts/understanding-pythons-pre-constructed-exceptions-for-beginners.webp"
+social_media_card = "/images/posts/2022/12/python-built-in-exceptions/understanding-pythons-pre-constructed-exceptions-for-beginners.webp"
 
 [taxonomies]
 tags=["python",  "exceptions"]

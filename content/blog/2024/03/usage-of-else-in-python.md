@@ -5,7 +5,7 @@ description = "How the 'else' keyword in Python works and its different uses."
 date = "2024-03-18"
 updated = "2025-06-14"
 [extra]
-social_media_card = "/images/posts/usage-of-else-in-python.webp"
+social_media_card = "/images/posts/2024/03/usage-of-else-in-python/usage-of-else-in-python.webp"
 
 [taxonomies]
 tags=["python", "loops", "tips", "conditional-statement", "exceptionhandling"]

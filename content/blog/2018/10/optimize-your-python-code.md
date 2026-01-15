@@ -5,7 +5,7 @@ description = "How to optimize your Python code for better performance."
 date = "2018-10-20"
 updated = "2025-06-14"
 [extra]
-social_media_card = "/images/posts/optimize-your-python-code.webp"
+social_media_card = "/images/posts/2018/10/optimize-your-python-code/optimize-your-python-code.webp"
 
 [taxonomies]
 tags=["programming", "python", "optimization", "performance", "design-patterns"]

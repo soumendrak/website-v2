@@ -5,7 +5,7 @@ description = "How to use garbage collection in Python to manage memory efficien
 date = "2023-03-31"
 updated = "2025-06-10"
 [extra]
-social_media_card = "/images/posts/gc.webp"
+social_media_card = "/images/posts/2023/03/garbage collection in python/gc.webp"
 [taxonomies]
 tags = ["python", "gc", "tips", "garbagecollection", "garbage-collector"]
 +++

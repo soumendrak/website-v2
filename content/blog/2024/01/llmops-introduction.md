@@ -5,7 +5,7 @@ description = "Introduction to LLMOps: Large Language Models Operations."
 date = "2024-01-12"
 updated = "2025-06-10"
 [extra]
-social_media_card = "/images/posts/llmops-introduction.webp"
+social_media_card = "/images/posts/2024/01/llmops-introduction/llmops-introduction.webp"
 
 [taxonomies]
 tags=["devops", "mlops", "llm", "llmops"]

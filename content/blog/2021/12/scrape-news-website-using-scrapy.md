@@ -4,7 +4,7 @@ title = "Scrape News website using Scrapy"
 description = "How to use Scrapy to scrape news websites using Scrapy framework."
 date = "2021-12-04"
 [extra]
-social_media_card = "/images/posts/scrape-news-website-using-scrapy.webp"
+social_media_card = "/images/posts/2021/12/scrape-news-website-using-scrapy/scrape-news-website-using-scrapy.webp"
 
 [taxonomies]
 tags=["programming", "python", "nlp", "odia"]

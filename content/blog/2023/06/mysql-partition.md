@@ -4,7 +4,7 @@ title = "MySQL Partition"
 description = "How to use partitions in MySQL to improve performance."
 date = "2023-06-09"
 [extra]
-social_media_card = "/images/posts/mysql-partition.webp"
+social_media_card = "/images/posts/2023/06/mysql-partition/mysql-partition.webp"
 
 [taxonomies]
 tags=["mysql", "databases", "partition", "database-partitioning", "databasemanagement"]

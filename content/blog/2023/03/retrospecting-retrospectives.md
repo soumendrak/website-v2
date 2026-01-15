@@ -4,7 +4,7 @@ title = "Retrospecting Retrospectives"
 description = "How to conduct a retrospective."
 date = "2023-03-15"
 [extra]
-social_media_card = "/images/posts/retrospecting-retrospectives.webp"
+social_media_card = "/images/posts/2023/03/retrospecting-retrospectives/retrospecting-retrospectives.webp"
 
 [taxonomies]
 tags=["agile", "retrosepctive"]

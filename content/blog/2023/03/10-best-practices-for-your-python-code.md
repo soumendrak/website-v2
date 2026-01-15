@@ -7,7 +7,7 @@ updated = "2025-06-10"
 [taxonomies]
 tags=["python", "tips"]
 [extra]
-social_media_card = "/images/posts/10best.webp"
+social_media_card = "/images/posts/2023/03/10-best-practices-for-your-python-code/10best.webp"
 +++
 
 In this blog post, I will share ten best practices every Python developer should follow. These best practices will help you write better, more efficient, and readable Python code.

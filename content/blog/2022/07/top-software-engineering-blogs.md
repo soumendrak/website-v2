@@ -5,7 +5,7 @@ description = "Software Engineering, Software Architecture, and other topics."
 date = "2022-07-17"
 updated = "2024-08-16"
 [extra]
-social_media_card = "/images/posts/top-software-engineering-blogs.webp"
+social_media_card = "/images/posts/2022/07/top-software-engineering-blogs/top-software-engineering-blogs.webp"
 
 [taxonomies]
 tags=["software-engineering", "software-architecture"]

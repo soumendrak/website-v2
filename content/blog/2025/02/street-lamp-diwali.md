@@ -8,9 +8,9 @@ date = "2025-02-01"
 tags=["diwali", "openstreetmap"]
 
 [extra]
-social_media_card = "/images/posts/street-lamps.webp"
+social_media_card = "/images/posts/2025/02/street-lamp-diwali/street-lamps.webp"
 +++
-![Diwali](/images/posts/street-lamps.webp)
+![Diwali](/images/posts/2025/02/street-lamp-diwali/street-lamps.webp)
 **TL;DR**: This post is about how I have tried to create a deepak just before the Diwali on the open street map by adding all the street lamps [near my area](https://sb12.github.io/OSMStreetLight/#15/13.0065/77.5559) in 2024.
 
 ## Street Lamps
@@ -20,7 +20,7 @@ It also helps how developed a neighbourhood is.
 ## Inspiration
 In 2024, I got introduced to OSM Bengaluru Telegram channel. There I came across a post where Prasanna was mapping street lamps on the OSM. 
 
-![Map of street lights forming a lamp design](/images/posts/street-lights-diwali.webp)
+![Map of street lights forming a lamp design](/images/posts/2025/02/street-lamp-diwali/street-lights-diwali.webp)
 *Does it look like a deepak?*
 
 ## Background efforts

@@ -5,7 +5,7 @@ description = "Comparing the key differences between the Ops: DevOps, DataOps, A
 date = "2024-04-11"
 updated = "2025-06-14"
 [extra]
-social_media_card = "/images/posts/diffrences-dataops-aiops-mlops.webp"
+social_media_card = "/images/posts/2024/04/comparing-devops-dataops-aiops-mlops-and-llmops-key-differences/diffrences-dataops-aiops-mlops.webp"
 
 [taxonomies]
 tags = ["devops", "mlops", "devops-articles", "dataops", "aiops", "llmops"]

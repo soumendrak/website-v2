@@ -4,7 +4,7 @@ title = "Patching a memory leak"
 description = "Patching a memory leak in Python with Flask server."
 date = "2024-05-25"
 [extra]
-social_media_card = "/images/posts/patching-a-memory-leak.webp"
+social_media_card = "/images/posts/2024/05/patching-a-memory-leak/patching-a-memory-leak.webp"
 
 [taxonomies]
 tags = ["python", "flask", "memory-leak", "memory-forensics"]

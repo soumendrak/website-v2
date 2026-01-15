@@ -276,7 +276,7 @@ socials = [
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
-    {url = "https://umami.ekathi.com/share/7smO0DOMMHiaqFZV/www.soumendrak.com", name = "site analytics", trailing_slash = true},
+    {url = "https://rybbit.ekathi.com/1/main/", name = "site analytics", trailing_slash = true},
 ]
 
 # Enable a copyright notice for the footer, shown between socials and the "Powered by" text.
@@ -304,11 +304,11 @@ allowed_domains = [
     { directive = "img-src", domains = ["'self'", "https://*", "data:"] },
     { directive = "media-src", domains = ["'self'", "https://cdn.jsdelivr.net/"] },
     # Added 'unsafe-inline' to fix Rocket Loader error
-    { directive = "script-src", domains = ["'self'", "'unsafe-inline'", "https://umami.ekathi.com", "https://rybbit.ekathi.com", "https://giscus.app/", "https://static.cloudflareinsights.com"] },
+    { directive = "script-src", domains = ["'self'", "'unsafe-inline'", "https://rybbit.ekathi.com", "https://giscus.app/", "https://static.cloudflareinsights.com"] },
     { directive = "style-src", domains = ["'self'", "https://giscus.app/"] },
     { directive = "frame-src", domains = ["player.vimeo.com", "https://www.youtube-nocookie.com", "http://127.0.0.1:1111/", "https://www.soumendrak.com"] },
     # Added connect-src to fix the analytics tracking error
-    { directive = "connect-src", domains = ["'self'", "https://umami.ekathi.com", "https://rybbit.ekathi.com"] },
+    { directive = "connect-src", domains = ["'self'", "https://rybbit.ekathi.com"] },
 ]
 
 # Enable the CSP directives configured (or default).
@@ -324,21 +324,21 @@ custom_subset = true
 [extra.analytics]
 # Specify which analytics service you want to use.
 # Supported options: ["goatcounter", "umami", "plausible"]
-service = "umami"
+# service = "umami"
 
 # Unique identifier for tracking.
 # For GoatCounter, this is the code you choose during signup.
 # For Umami, this is the website ID.
 # For Plausible, this is the domain name (e.g. "example.com").
 # Note: Leave this field empty if you're self-hosting.
-id = "5fc4105b-5dc9-4d3e-b336-828628296f9f"
+# id = "5fc4105b-5dc9-4d3e-b336-828628296f9f"
 
 # Optional: Specify the URL for self-hosted analytics instances.
 # For GoatCounter: Base URL like "https://stats.example.com"
 # For Umami: Base URL like "https://umami.example.com"
 # For Plausible: Base URL like "https://plausible.example.com"
 # Leave this field empty if you're using the service's default hosting.
-self_hosted_url = "https://umami.ekathi.com"
+# self_hosted_url = "https://umami.ekathi.com"
 
 # giscus support for comments. https://giscus.app
 # Setup instructions: https://welpo.github.io/tabi/blog/comments/#setup

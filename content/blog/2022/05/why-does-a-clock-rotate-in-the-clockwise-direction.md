@@ -5,7 +5,7 @@ description = "Why and how did we decide that the clock rotates in the clockwise
 date = "2022-05-07"
 
 [taxonomies]
-tags=["interview", "artificial-intelligence", "machine-learning", "nlp", "technical-interview"]
+tags=["history"]
 +++
 ## 🧑🏻‍🦱 -> Why does a clock rotate in the clockwise direction?
 

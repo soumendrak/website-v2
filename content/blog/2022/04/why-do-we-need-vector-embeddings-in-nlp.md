@@ -8,7 +8,7 @@ updated = "2025-06-14"
 social_media_card = "/images/posts/why-do-we-need-vector-embeddings-in-nlp.webp"
 
 [taxonomies]
-tags=["interview", "artificial-intelligence", "machine-learning", "nlp", "technical-interview"]
+tags=["AI", "machine-learning", "nlp"]
 +++
 
 - Most ML algorithms can only take low-dimensional numerical data as inputs. Why? → Faster for computation.

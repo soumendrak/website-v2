@@ -7,7 +7,7 @@ date = "2023-02-18"
 social_media_card = "/images/posts/multiple-return-values-from-a-function.webp"
 
 [taxonomies]
-tags=["go", "developer", "beginners", "go-lang", "tips"]
+tags=["go", "tips"]
 +++
 
 One feature that makes GoLang unique is its support for multiple return values from a function. This can be very useful in various situations, such as error handling, parsing data, and returning multiple values from a computation.

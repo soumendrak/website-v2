@@ -7,7 +7,7 @@ date = "2023-10-22"
 social_media_card = "/images/posts/odias-in-aiml-conference-2023.webp"
 
 [taxonomies]
-tags=["AI", "conference", "odia", "ai-ml", "odisha"]
+tags=["AI", "conference", "odia", "odisha"]
 +++
 
 Odias in AI/ML is an annual conference of people directly/indirectly related to [Odisha](https://en.wikipedia.org/wiki/Odisha) and [Odia people](https://en.wikipedia.org/wiki/Odia_people). This is an entirely volunteer-driven conference. It has been happening since 2020. As a core team member of this community, here is my experience and perspective of the conference.

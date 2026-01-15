@@ -7,7 +7,7 @@ updated = "2024-08-16"
 social_media_card = "/images/posts/usage-of-forward-slash-in-python.webp"
 
 [taxonomies]
-tags=["python", "python-programming", "keywords", ]
+tags=["python", "keywords"]
 
 +++
 

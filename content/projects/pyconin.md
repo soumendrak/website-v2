@@ -27,7 +27,7 @@ Event Page: [https://in.pycon.org/2019/](https://in.pycon.org/2019/)
 
 ### Lessons Learnt and Documentations
 
-- [Selecting 30 Talks from 280+ Proposals for Pycon India 2019](@/blog/2020/06/pycon-india-cfp-review.md)
+- [Selecting 30 Talks from 280+ Proposals for Pycon India 2019](@/blog/2020/06/pycon-india-cfp-review/index.md)
 - [PyCon India 2019 thank you note](https://in.pycon.org/2019/thank-you.html)
 
 {{ youtube (id="VUT386_GKI8")}}
@@ -59,8 +59,8 @@ Event Page: [https://in.pycon.org/2023/](https://in.pycon.org/2023/)
 
 ### Lessons Learnt and Documentations
 
-- [Proposals Analysis](@/blog/2023/09/an-analysis-of-pycon-india-2023-proposals.md)
-- [Insights from the CFP workgroup](@/blog/2023/10/pycon-india-2023-insights-from-the-cfp-workgroup.md)
+- [Proposals Analysis](@/blog/2023/09/an-analysis-of-pycon-india-2023-proposals/index.md)
+- [Insights from the CFP workgroup](@/blog/2023/10/pycon-india-2023-insights-from-the-cfp-workgroup/index.md)
 
 ## PyCon India 2024, Bengaluru
 

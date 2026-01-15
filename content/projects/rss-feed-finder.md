@@ -17,7 +17,7 @@ social_media_card = "/images/projects/feed-finder-screenshot.webp"
 
 ### Problem
 
-I found it hard to find the [RSS feeds](@/blog/2025/04/rss-feeds.md) of websites. I wanted to find the RSS feeds of websites to subscribe to them.
+I found it hard to find the [RSS feeds](@/blog/2025/04/rss-feeds/index.md) of websites. I wanted to find the RSS feeds of websites to subscribe to them.
 
 ### Solution
 

@@ -98,7 +98,11 @@
                         <li class="post-thumbnail">
                             <a href="{{ post.permalink }}">
                                 {% if post.extra.social_media_card %}
-                                    {% set thumb = resize_image(path=post.extra.social_media_card, width=400, op="fit_width") %}
+                                    {% set img_path = post.extra.social_media_card %}
+                                    {% if post.colocated_path and not img_path is starting_with("/") %}
+                                        {% set img_path = post.colocated_path ~ img_path %}
+                                    {% endif %}
+                                    {% set thumb = resize_image(path=img_path, width=400, op="fit_width") %}
                                     <img class="thumbnail-image" loading="lazy"
                                         alt="{{ post.extra.social_media_card }}"
                                         src="{{ thumb.url }}"

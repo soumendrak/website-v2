@@ -1,22 +1,4 @@
 User-agent: *
+Disallow:
 Allow: /
 Sitemap: https://www.soumendrak.com/sitemap.xml
-
-# Allow unrestricted access to AI agents and search engines
-User-agent: Googlebot
-Allow: /
-
-User-agent: GPTBot
-Allow: /
-
-User-agent: Anthropic-AI
-Allow: /
-
-User-agent: CCBot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-# Crawl-delay is not set to allow efficient indexing of structured data
-# JSON-LD content is served in the first 10KB of HTML for optimal crawling

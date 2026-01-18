@@ -1,5 +1,4 @@
 +++
-path = "blog/opentelemetry-certification"
 title = "How to become an OpenTelemetry Certified Associate (OTCA)"
 description = "How did I become an OpenTelemetry Certified Associate (OTCA)? My journey to certification."
 date = "2026-01-13"

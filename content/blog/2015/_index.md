@@ -1,4 +1,9 @@
 +++
+title = "Posts in 2015"
 transparent = true
-render = false
+template = "series.html"
+sort_by = "slug"
+
+[extra]
+series = true
 +++

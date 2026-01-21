@@ -1,0 +1,44 @@
+.wrap-code {
+    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 -960 960 960'%3E%3Cpath d='M120-240v-80h360v80H120Zm0-160v-80h600q33 0 56.5 23.5T800-340v100h-80v-100q0-17-11.5-28.5T680-380H120Zm0-160v-80h720v80H120Zm0-160v-80h720v80H120Z'/%3E%3C/svg%3E");
+    mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 -960 960 960'%3E%3Cpath d='M120-240v-80h360v80H120Zm0-160v-80h600q33 0 56.5 23.5T800-340v100h-80v-100q0-17-11.5-28.5T680-380H120Zm0-160v-80h720v80H120Zm0-160v-80h720v80H120Z'/%3E%3C/svg%3E");
+    position: absolute;
+    top: 0.3rem;
+    align-self: center;
+    z-index: 1;
+    cursor: pointer;
+    inset-inline-end: 2.3rem;
+    /* To the left of copy button */
+    background: var(--hover-color);
+    background-size: contain;
+    width: 0.9rem;
+    height: 0.9rem;
+    color: white;
+    /* Reset button styles */
+    border: none;
+    padding: 0;
+}
+
+.wrap-code.unwrapping {
+    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 -960 960 960'%3E%3Cpath d='M120-240v-80h720v80H120Zm0-160v-80h720v80H120Zm0-160v-80h720v80H120Zm0-160v-80h720v80H120Z'/%3E%3C/svg%3E");
+    mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 -960 960 960'%3E%3Cpath d='M120-240v-80h720v80H120Zm0-160v-80h720v80H120Zm0-160v-80h720v80H120Zm0-160v-80h720v80H120Z'/%3E%3C/svg%3E");
+}
+
+pre.wrapped {
+    white-space: pre-wrap !important;
+    overflow-wrap: anywhere !important;
+    /* Better than break-all */
+    overflow-x: hidden !important;
+}
+
+pre.wrapped code {
+    white-space: pre-wrap !important;
+    overflow-wrap: anywhere !important;
+}
+
+/* If the code block uses a table for line numbers, wrapping gets tricky.
+   Tabi uses tables for line numbers sometimes. 
+   We need to handle the table-cell wrapping if it exists. */
+pre.wrapped table td:last-child {
+    white-space: pre-wrap !important;
+    overflow-wrap: anywhere !important;
+}

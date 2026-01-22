@@ -1,0 +1,53 @@
+{% if section.extra.series_path %}
+{%- set series_root = get_section(path=section.extra.series_path) -%}
+{%- if series_root -%}
+<div id="featured-series" style="margin-top: 4rem;">
+    {{ macros_page_header::page_header(title="Featured Series") }}
+    {%- set subsections = series_root.subsections -%}
+    {%- set max_series = section.extra.max_series | default(value=3) -%}
+
+    <div class="bloglist-container">
+        {%- for subsection_path in subsections %}
+        {% if loop.index > max_series %}{% break %}{% endif %}
+        {%- set subsection = get_section(path=subsection_path) -%}
+
+        {%- if not loop.last and loop.index < max_series -%} {% set bottom_divider=true %} {%- else -%} {% set
+            bottom_divider=false %} {%- endif -%} <section
+            class="bloglist-meta {% if bottom_divider -%}bottom-divider{%- endif -%}">
+            <ul>
+                <li class="index-label">{{ loop.index }}</li>
+                {% if subsection.extra.local_image %}
+                <li class="post-thumbnail">
+                    <a href="{{ subsection.permalink }}">
+                        {% set meta = get_image_metadata(path=subsection.extra.local_image, allow_missing=true) %}
+                        <img class="thumbnail-image" src="{{ get_url(path=subsection.extra.local_image) }}"
+                            alt="{{ subsection.title }}" {% if meta.width %}width="{{ meta.width }}" {% endif %} {% if
+                            meta.height %}height="{{ meta.height }}" {% endif %}>
+                    </a>
+                </li>
+                {% endif %}
+            </ul>
+            </section>
+            <section class="bloglist-content {% if bottom_divider -%}bottom-divider{%- endif -%}">
+                <div>
+                    <h2 class="bloglist-title"><a href="{{ subsection.permalink }}">{{ subsection.title }}</a></h2>
+                    <div class="description">
+                        {% if subsection.description %}<p>{{ subsection.description | markdown(inline=true) | safe }}
+                        </p>{% endif %}
+                    </div>
+                    <a class="readmore" href="{{ subsection.permalink }}">{{
+                        macros_translate::translate(key="read_more", default="Read more",
+                        language_strings=language_strings) }}&nbsp;<span class="arrow">→</span></a>
+                </div>
+            </section>
+            {% endfor %}
+    </div>
+
+    {%- if subsections | length > max_series -%}
+    <div class="all-posts">
+        <a href="{{ get_url(path=series_root.path, lang=lang) }}/">All Series&nbsp;<span class="arrow">⟶</span></a>
+    </div>
+    {%- endif -%}
+</div>
+{%- endif -%}
+{% endif %}

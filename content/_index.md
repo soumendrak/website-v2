@@ -7,6 +7,8 @@ template = "section.html"
 header = { title = "Production-grade RAG & AI-Observability Consulting", subtitle = "AI Engineering Leader with 13+ years of experience. Specializing in RAG systems, LLM evaluation, and AI observability to help organizations build reliable, production-ready AI systems.", img = "images/DP.webp", img_alt = "Soumendra Kumar Sahoo" }
 section_path = "blog/_index.md"
 max_posts = 3
+series_path = "series/_index.md"
+max_series = 3
 projects_path = "projects/_index.md"
 max_projects = 3
 show_projects_first = false

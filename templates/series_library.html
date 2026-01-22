@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block main_content %}
+{{ macros_page_header::page_header(title=section.title) }}
+
+<main>
+    {% if section.content -%}
+    <div id="page-content">{{ section.content | safe }}</div>
+    {% endif %}
+
+    {%- include "partials/list_subsections.html" -%}
+</main>
+{% endblock main_content %}

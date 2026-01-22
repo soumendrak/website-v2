@@ -1,5 +1,5 @@
 +++
-title = "Structured Logging in Python using Loguru"
+title = "1: Structured Logging in Python using Loguru"
 description = "Why standard text logging is failing you in production, and how switching to structured logging with Loguru is the first step towards true observability."
 date = "2026-01-21"
 

@@ -1,0 +1,49 @@
+<div class="bloglist-container">
+    {%- for subsection_path in section.subsections %}
+    {%- set subsection = get_section(path=subsection_path) -%}
+
+    {% if not loop.last %}
+    {% set bottom_divider = true %}
+    {% else %}
+    {% set bottom_divider = false %}
+    {% endif %}
+
+    <section class="bloglist-meta {% if bottom_divider -%}bottom-divider{%- endif -%}">
+        <ul>
+            <li class="index-label">{{ loop.index }}</li>
+            {% if subsection.extra.local_image or subsection.extra.remote_image %}
+            <li class="post-thumbnail">
+                <a href="{{ subsection.permalink }}">
+                    {% if subsection.extra.local_image %}
+                    {% set meta = get_image_metadata(path=subsection.extra.local_image, allow_missing=true) %}
+                    <img class="thumbnail-image" alt="{{ subsection.extra.local_image }}"
+                        src="{{ get_url(path=subsection.extra.local_image) }}" {% if meta.width
+                        %}width="{{ meta.width }}" {% endif %} {% if meta.height %}height="{{ meta.height }}" {% endif
+                        %}>
+                    {% elif subsection.extra.remote_image %}
+                    <img class="thumbnail-image" alt="{{ subsection.extra.remote_image }}"
+                        src="{{ subsection.extra.remote_image }}">
+                    {% endif %}
+                </a>
+            </li>
+            {% endif %}
+        </ul>
+    </section>
+
+    <section class="bloglist-content {% if bottom_divider -%}bottom-divider{%- endif -%}">
+        <div>
+            <h2 class="bloglist-title">
+                <a href="{{ subsection.permalink }}">{{ subsection.title }}</a>
+            </h2>
+
+            <div class="description">
+                {% if subsection.description %}
+                <p>{{ subsection.description | markdown(inline=true) | safe }}</p>
+                {% endif %}
+            </div>
+            <a class="readmore" href="{{ subsection.permalink }}">{{ macros_translate::translate(key="read_more",
+                default="Read more", language_strings=language_strings) }}&nbsp;<span class="arrow">→</span></a>
+        </div>
+    </section>
+    {% endfor -%}
+</div>

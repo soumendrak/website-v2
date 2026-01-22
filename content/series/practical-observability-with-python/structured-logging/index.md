@@ -183,4 +183,4 @@ Structured logging is the foundation of modern observability. It turns your logs
 *   [12 Factor App: Logs](https://12factor.net/logs)
 *   [Chapter 1: Code](https://github.com/soumendrak/observability-engineering-series/tree/main/chapters/ch1-structured-logging)
 
-In the next post, we will look at **Context Propagation**: how to make sure that `user_id` automatically attaches to every log line in a request, so you don't have to bind it manually every time.
+In the next post, we will look at [**Context Propagation**](@/series/practical-observability-with-python/context-propagation/index.md): how to make sure that `user_id` automatically attaches to every log line in a request, so you don't have to bind it manually every time.

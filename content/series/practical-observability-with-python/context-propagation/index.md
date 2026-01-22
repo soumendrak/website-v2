@@ -1,8 +1,7 @@
 +++
 title = "2: Context Propagation"
 description = "Why your request IDs disappear in Python async applications, and how to fix it using ContextVars."
-date = "2026-01-23"
-draft = true
+date = "2026-01-22"
 
 [taxonomies]
 tags = ["Python", "Observability", "Asyncio"]
@@ -12,7 +11,9 @@ social_media_card = "context-propagation-cover.webp"
 og_image = "context-propagation-cover.webp"
 +++
 
-In [Part 1](@/series/practical-observability-with-python/structured-logging-python/index.md), we solved the first half of the observability puzzle: moving from unstructured text logs to structured JSON events. We learned that `grep` is dead and that logs should be treated as data.
+![Cover Photo](context-propagation-cover.webp)
+
+In [Part 1](@/series/practical-observability-with-python/structured-logging/index.md), we solved the first half of the observability puzzle: moving from unstructured text logs to structured JSON events. We learned that `grep` is dead and that logs should be treated as data.
 
 But as soon as you deploy that beautiful structured logger into a real-world async application (like FastAPI), you hit a new wall.
 
@@ -36,6 +37,9 @@ A single thread runs an **event loop** that switches between thousands of tasks.
 We need something that behaves like a **thread-local**, but for **async tasks**.
 
 ## The Solution: `contextvars`
+
+{{ admonition(icon="info", title="Info", text="All the code snippets are available at [Chapter 2: Code](https://github.com/soumendrak/observability-engineering-series/blob/main/chapters/ch2-context-propagation/)") }}
+
 Python 3.7 introduced the [`contextvars`](https://docs.python.org/3/library/contextvars.html) module specifically to solve this. It provides storage that is "task-local".
 
 ### 1. Defining the Variable
@@ -156,6 +160,19 @@ async def correlation_id_middleware(request: Request, call_next):
 
 ## Conclusion
 
+![Summary](tldr-2.webp)
+*This image is created using [Google Gemini](https://gemini.google.com/share/30172880e2c1)*
+
 Context propagation is the glue that holds distributed traces together. Without it, you have a pile of disjointed logs. With it, you can tell the full story of a user's journey through your system—across async tasks, threads, and eventually (as we'll see later), across network boundaries.
 
 In the next post, we will look at **OpenTelemetry Tracing**, taking this concept further to visualize these requests as flame graphs.
+
+---
+
+## Resources
+
+*   **Chapter 2 Code:** [GitHub - ch2-context-propagation](https://github.com/soumendrak/observability-engineering-series/tree/main/chapters/ch2-context-propagation)
+*   **Python `contextvars` Documentation:** [docs.python.org/3/library/contextvars](https://docs.python.org/3/library/contextvars.html)
+*   **Loguru (Structured Logging Library):** [GitHub - Delgan/loguru](https://github.com/Delgan/loguru)
+*   **FastAPI (Async Web Framework):** [fastapi.tiangolo.com](https://fastapi.tiangolo.com/)
+*   **Python `asyncio` Documentation:** [docs.python.org/3/library/asyncio](https://docs.python.org/3/library/asyncio.html)

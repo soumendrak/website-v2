@@ -1,10 +1,10 @@
 +++
 title = "Resurrecting an Abandoned Project: CoverView"
-description = "I forked CoverView and added pattern backgrounds, color palettes, platform presets and fixed Unsplash bugs. Here's my journey of improving an abandoned open-source tool."
+description = "I forked CoverView and added pattern backgrounds, color palettes, platform presets and fixed Unsplash bugs. Here's my journey of improving an abandoned opensource tool."
 date = "2026-01-18"
 
 [taxonomies]
-tags = ["open-source", "side-project", "tools"]
+tags = ["opensource", "side-project", "tools"]
 
 [extra]
 social_media_card = "advanced-coverview-cover.webp"

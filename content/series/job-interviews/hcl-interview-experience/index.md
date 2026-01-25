@@ -6,7 +6,7 @@ date = "2016-08-01"
 updated = "2024-08-16"
 
 [taxonomies]
-tags=["career", "interview", "python", "hcl"]
+tags=["career", "interview", "python"]
 
 [extra]
 social_media_card = "hcl-cover.webp"

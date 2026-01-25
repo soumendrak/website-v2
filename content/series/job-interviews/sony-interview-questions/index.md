@@ -2,7 +2,7 @@
 path = "blog/sony-interview-questions"
 title = "Sony interview questions"
 description = "My interview experience with Sony"
-date = "2021-12-20"
+date = "2016-08-01"
 updated = "2024-08-16"
 
 [taxonomies]

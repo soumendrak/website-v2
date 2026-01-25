@@ -2,15 +2,21 @@
 path = "blog/sungard-as-interview-experience"
 title = "Sungard AS interview experience"
 description = "My experience and what I learned."
-date = "2021-12-19"
+date = "2016-08-01"
 updated = "2024-08-16"
 
 [taxonomies]
 tags=["career", "interview", "python", "sungard-as"]
+
+[extra]
+social_media_card = "sungard-cover.webp"
 +++
+
+![Cover](sungard-cover.webp)
+
 ## Sungard AS interview experience
 
-This is a part of my [job interviews series](https://blog.soumendrak.com/series/job-interview). 
+This is a part of my [job interviews series](@/series/job-interviews/_index.md). 
 
 ## Background
 
@@ -67,6 +73,6 @@ Got an email that I did not qualify.
 - This time at least the discussion went on for about an hour.
 - I answered most of the questions and was optimistic that I will get a second-round call. However, my answers were not good enough for them.
 
-I have appeared in 20+ interviews so far. You can check out my [job interview series](https://blog.soumendrak.com/series/job-interview) for the rest of the interviews experiences.
+I have appeared in 20+ interviews so far. You can check out my [job interview series](@/series/job-interviews/_index.md) for the rest of the interviews experiences.
 
 Let me know if you have any further questions. Thank You.

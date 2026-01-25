@@ -5,11 +5,13 @@ description = "Amazon Recruiting Process: my experience and what to expect."
 date = "2023-02-07"
 updated = "2025-04-27"
 [extra]
-social_media_card = "amazon.webp"
+social_media_card = "amazon-cover.webp"
 
 [taxonomies]
 tags=["interview", "amazon", "python", "interview-questions", "faang", "job-interview"]
 +++
+
+![Cover](amazon-cover.webp)
 
 ## TL;DR
 
@@ -150,6 +152,8 @@ I have written one with all logs, Exception handling, and Edge case handling. Th
 - I negotiated and requested to give me some time to decide.
 
 ## The Offer 🙂
+
+![Offer](sks-amazon-offer-letter.webp)
 
 - Finally, I got an offer from a FAANG company. (Do we care after the 2022 Layoffs?)
 

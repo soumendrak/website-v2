@@ -6,7 +6,12 @@ date = "2022-09-15"
 
 [taxonomies]
 tags=["career", "interview", "python", "byjus"]
+
+[extra]
+social_media_card = "byju-cover.webp"
 +++
+
+![Cover](byju-cover.webp)
 
 ## Interview experience in Byjus
 
@@ -103,6 +108,6 @@ In this round was asked to design a rate limiter.
 - In case one interviewer was unavailable substitutions were arranged.
 - I got to know my improvement areas and doubled down my efforts on those.
 
-I have appeared in 20+ interviews so far. You can check out my [job interview series](https://blog.soumendrak.com/series/job-interview) for the rest of the interview experiences.
+I have appeared in 20+ interviews so far. You can check out my [job interview series](@/series/job-interviews/_index.md) for the rest of the interview experiences.
 
 Let me know if you have any further questions. Thank You.

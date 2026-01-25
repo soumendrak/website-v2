@@ -7,11 +7,16 @@ updated = "2024-08-16"
 
 [taxonomies]
 tags=["career", "interview", "python", "sony"]
+
+[extra]
+social_media_card = "sony-cover.webp"
 +++
+
+![Cover](sony-cover.webp)
 
 ## Sony interview questions
 
-This is a part of my [job interviews series](https://blog.soumendrak.com/series/job-interview). 
+This is a part of my [job interviews series](@/series/job-interviews/_index.md). 
 
 ## Background
 
@@ -122,6 +127,6 @@ What did not go well or I have not planned for and I need to improve:
 - I need to improve on live coding. Though the problem was not tough, due to lack of practice on coding when someone is watching you code every letter made me nervous.
 - I need to improve my Unit testing skills; learn `pytest`.
 
-I have appeared in 20+ interviews so far. You can check out my [job interview series](https://blog.soumendrak.com/series/job-interview) for the rest of the interviews experiences.
+I have appeared in 20+ interviews so far. You can check out my [job interview series](@/series/job-interviews/_index.md) for the rest of the interviews experiences.
 
 Let me know if you have any further questions. Thank You.

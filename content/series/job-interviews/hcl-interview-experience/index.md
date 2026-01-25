@@ -2,16 +2,21 @@
 path = "blog/hcl-interview-experience"
 title = "HCL interview experience"
 description = "My experience and what I learned."
-date = "2021-12-30"
+date = "2016-08-01"
 updated = "2024-08-16"
 
 [taxonomies]
 tags=["career", "interview", "python", "hcl"]
+
+[extra]
+social_media_card = "hcl-cover.webp"
 +++
+
+![Cover](hcl-cover.webp)
 
 ## HCL interview experience
 
-This is a part of my [job interviews series](https://blog.soumendrak.com/series/job-interview). 
+This is a part of my [job interviews series](@/series/job-interviews/_index.md). 
 
 ## 👉🏼 Background
 
@@ -62,7 +67,7 @@ It was a pen paper-based exam, no computer was there. The discussion was more fo
 - The interview process was not well structured and could have been improved.
 - I did not expect the discussions will be so much concentrated on RegEx, though I had the basic knowledge of RegEx I was not able to come up with solutions at that time.
 
-I have appeared in 20+ interviews so far. You can check out my [job interview series](https://blog.soumendrak.com/series/job-interview) for the rest of the interviews experiences.
+I have appeared in 20+ interviews so far. You can check out my [job interview series](@/series/job-interviews/_index.md) for the rest of the interviews experiences.
 
 Let me know if you have any further questions. Thank You 🙏🏼
 

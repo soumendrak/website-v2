@@ -6,11 +6,16 @@ date = "2022-02-18"
 
 [taxonomies]
 tags=["career", "interview", "python", "jpmc"]
+
+[extra]
+social_media_card = "jpmc-cover.webp"
 +++
+
+![Cover](jpmc-cover.webp)
 
 ## JP Morgan & Chase interview questions and answers
 
-This is a part of my [job interviews series](https://blog.soumendrak.com/series/job-interview). 
+This is a part of my [job interviews series](@/series/job-interviews/_index.md). 
 
 ## Background
 
@@ -20,7 +25,7 @@ This is a part of my [job interviews series](https://blog.soumendrak.com/series/
 - Company: [JPMC India](https://www.jpmorgan.com/IN/en/about-us)
 
 
-On the ORR (outer ring road), JPMC has a big office. It took me some time to reach the designated building. I used to stay at BTM during that time.
+On the ORR (outer ring road), JPMC has a big office. It took me some time to reach the designated building. I used to stay at BTM Layout during that time.
 
 ## First round of discussion
 
@@ -112,7 +117,7 @@ Not selected for next round. I have been escorted back to the ground floor by on
 - Got to know where was I lacked the skills.
 - When I was in COBOL/Mainframe technology during the initial phase of my career, JPMC was one of my dream companies to work on. Anyway, not with Python anymore. I started preparing hard for my next interviews.
 
-I have appeared in 20+ interviews so far. You can check out my [job interview series](https://blog.soumendrak.com/series/job-interview) for the rest of the interviews experiences.
+I have appeared in 20+ interviews so far. You can check out my [job interview series](@/series/job-interviews/_index.md) for the rest of the interviews experiences.
 
 Let me know if you have any further questions. Thank You.
   

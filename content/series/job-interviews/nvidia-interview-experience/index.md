@@ -2,11 +2,16 @@
 path = "blog/nvidia-interview-experience"
 title = "Nvidia interview experience"
 description = "My experience and what I learned."
-date = "2021-12-18"
+date = "2016-08-01"
 
 [taxonomies]
 tags=["career", "interview", "python", "nvidia"]
+
+[extra]
+social_media_card = "nvidia-cover.webp"
 +++
+
+![Cover](nvidia-cover.webp)
 
 ## Nvidia interview experience
 
@@ -49,12 +54,12 @@ You may have seen, the first round is very short and ended abruptly. Definitely,
 
 ## My opinion
 
-- Nvidia was a good company; it is now too. I have expected at least to clear the first round. However, this was a disaster. Worse than the [Tech Mahindra experience](https://blog.soumendrak.com/tech-mahindra-interview-experience).
+- Nvidia was a good company; it is now too. I have expected at least to clear the first round. However, this was a disaster. Worse than the [Tech Mahindra experience](@/series/job-interviews/tech-mahindra-interview-questions/index.md).
 - I have prepared for this unlike the previous. However, unfortunately, the questions asked and my preparation did not match. My preparation gaps were clearly visible.
 - I worked on my communication skills by answering to the point with keywords and not beating around the bush on how I understood them. The goal is to communicate properly so the other person can understand.
 
 My quest for clearing a single interview continued...
 
-I have appeared in 20+ interviews so far. You can check out my [job interview series](https://blog.soumendrak.com/series/job-interview) for the rest of the interviews experiences.
+I have appeared in 20+ interviews so far. You can check out my [job interview series](@/series/job-interviews/_index.md) for the rest of the interviews experiences.
 
 Let me know if you have any further questions. Thank You.

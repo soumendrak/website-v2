@@ -26,11 +26,11 @@ social_media_card = "accion-labs-cover.webp"
 
 1. What are the data structures in Python ? 
 2. What are the differences between list and tuple ? 
-  a. Demonstrate how both are immutable/mutable 
-  b. Gave example of list inside tuple and vice versa 
-  c. Can we extend/append a tuple to another tuple 
+   1. Demonstrate how both are immutable/mutable 
+   2. Gave example of list inside tuple and vice versa 
+   3. Can we extend/append a tuple to another tuple 
 3. Why dictionary keys should be hashable and immutable ? 
-  a. How hashing happen inside dictionary 
+   1. How hashing happen inside dictionary 
 4. Else clause inside list expression 
 5. What is git reset command 
 6. What is Duck Typing  
@@ -45,21 +45,21 @@ The interviewer suggested to learn on the following sections
 
 1. Data structures and operations 
 2. Advanced data structures 
-  a. Namedtuple 
-  b. Defaultdict 
-  c. Orderedict 
+   1. Namedtuple 
+   2. Defaultdict 
+   3. Orderedict 
 3. Oops concepts 
-  a. Inheritance 
-  b. Polymorphism 
-  c. Abstraction 
-  d. Encapsulation 
+   1. Inheritance 
+   2. Polymorphism 
+   3. Abstraction 
+   4. Encapsulation 
 4. Design Patterns 
 5. REST API design and development 
 6. Github/Git 
 7. Linux basic operation 
-  a. How to make a file extracting only the second  column of the original file ? 
-  b. Reduction 
-  c. Pipe 
+   1. How to make a file extracting only the second  column of the original file ? 
+   2. Reduction 
+   3. Pipe 
 
 The interviewer advised not to mug-up things, but go deep and ask yourself why is this happening, what will happen if design patterns/polymorphism is not there. 
 

@@ -9,7 +9,7 @@ tags=["about"]
 
 <img src="/images/DP.webp" alt="Profile Picture" width="300" style="border-radius: 8px;" />
 
-I'm Soumendra Kumar Sahoo, an AI Observability Architect and AI Sustainability Lead at PepsiCo, bringing over 13 years of enterprise technology leadership experience. At PepsiCo, I spearhead strategic initiatives in AI governance, focusing on system optimization, ethical compliance, and sustainable AI practices. 
+I'm Soumendra Kumar Sahoo, an AI Observability Architect and AI Sustainability Lead at PepsiCo, bringing over 14 years of enterprise technology leadership experience. At PepsiCo, I spearhead strategic initiatives in AI governance, focusing on system optimization, ethical compliance, and sustainable AI practices. 
 
 With expertise spanning artificial intelligence, and AI transformation, I specialize in leveraging cutting-edge technologies to solve complex business challenges. My work encompasses Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and full-stack engineering solutions.
 

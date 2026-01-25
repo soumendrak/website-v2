@@ -29,7 +29,7 @@ Without proper monitoring systems, you're struggling to track AI performance, id
 Your current LLM evaluation approach is expensive and doesn't provide clear insights into real-world performance. You need a more efficient, cost-effective solution.
 
 
-I can help you with these challenges. With over 13 years of experience in AI and enterprise technology, I specialize in AI observability, RAG quality improvement, and LLM evaluation.
+I can help you with these challenges. With over 14 years of experience in AI and enterprise technology, I specialize in AI observability, RAG quality improvement, and LLM evaluation.
 
 <div class="email-button-container">
     <a href="mailto:contact@soumendrak.com" class="email-button">

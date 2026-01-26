@@ -1,7 +1,7 @@
 {% if section.extra.series_path %}
 {%- set series_root = get_section(path=section.extra.series_path) -%}
 {%- if series_root -%}
-<div id="featured-series" style="margin-top: 4rem;">
+<div id="featured-series" class="list">
     {{ macros_page_header::page_header(title="Featured Series") }}
     {%- set subsections = series_root.subsections -%}
     {%- set max_series = section.extra.max_series | default(value=3) -%}

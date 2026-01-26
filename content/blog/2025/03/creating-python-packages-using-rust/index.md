@@ -13,8 +13,8 @@ tags=["python", "rust", "python-projects"]
 
 
 ![Cover Picture](rust-title.webp)
-Python's simplicity and vast ecosystem make it a favorite among developers, but when performance becomes a bottleneck, traditional approaches like C extensions can fall short.
-Enter Rust - a modern, memory-safe language that's transforming how we build high-performance Python tools. In this blog post, we'll explore how to create Python packages with Rust, leveraging its speed and safety. From real-world examples like Ruff and uv to hands-on tutorials with PyO3, this guide has you covered. Let's dive in!
+Python's simplicity and vast ecosystem make it a favorite among developers, but when [performance becomes a bottleneck](@/blog/2018/10/optimize-your-python-code/index.md), traditional approaches like C extensions can fall short.
+Enter Rust, a modern, memory-safe language that's transforming how we build high-performance Python tools. In this blog post, we'll explore how to create Python packages with Rust, leveraging its speed and safety. From real-world examples like Ruff and uv to hands-on tutorials with PyO3, this guide has you covered. Let's dive in!
 ![Python and Rust](rust-1.webp)
 Python and Rust
 
@@ -26,7 +26,7 @@ Take Ruff, a Python linter that's [10–100x faster](https://github.com/astral-s
 
 ## Why Combine Python and Rust?
 ![Why Combine Python and Rust](rust-2.webp)
-Python shines in rapid prototyping and ease of use, but its interpreted nature and Global Interpreter Lock (GIL) limit performance in computationally intensive scenarios.
+[Python](@/blog/2022/05/python-vs-golang-vs-rust/index.md) shines in rapid prototyping and ease of use, but its interpreted nature and Global Interpreter Lock (GIL) limit performance in computationally intensive scenarios.
 Rust, by contrast, offers blazing-fast execution and memory safety, preventing crashes and vulnerabilities common in C extensions.
 By combining them, you can write performance-critical code in Rust while keeping Python's user-friendly interface; a perfect synergy.
 

@@ -237,7 +237,7 @@ I found this genuinely admirable. They treat privacy as a *product requirement* 
 
 After analyzing this ecosystem, I walked away with three key takeaways for any software engineer:
 
-1.  **Constraints Drive Innovation:** When you can't use the easy cloud APIs (OpenAI/AWS) due to censorship or cost, you are *forced* to innovate with Open Source. This constraint has made this community masters of self-hosted, quantized and fine-tuned AI. User experience demands (real-time interaction, privacy guarantees) forced innovation where enterprise AI was complacent. They have optimized edge inference for their specific use case in ways that offer lessons for enterprise AI.
+1.  **Constraints Drive Innovation:** When you can't use the easy cloud APIs (OpenAI/AWS) due to censorship or cost, you are *forced* to innovate with Open Source. This constraint has made this community masters of [self-hosted](@/blog/2025/12/self-hosting/index.md), quantized and fine-tuned AI. User experience demands (real-time interaction, privacy guarantees) forced innovation where enterprise AI was complacent. They have optimized edge inference for their specific use case in ways that offer lessons for enterprise AI.
 
 2.  **Privacy-First is Possible:** We often say "data must be in the cloud" for AI to work. This industry proves that you can build sophisticated, personalized AI experiences that never leave the user's `localhost`. Enterprises can learn valuable lessons here about local-first architectures for processing sensitive customer data without it ever leaving the premise. If they can do it for intimate companion apps, we can do it for enterprise analytics.
 

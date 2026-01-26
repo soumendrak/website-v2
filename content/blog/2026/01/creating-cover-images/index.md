@@ -124,7 +124,7 @@ There were commented-out code blocks and patterns I didn't fully understand. But
 
 ## Deployment
 
-My DNS provider is Cloudflare and Cloudflare Pages is free, reliable and just works. The subdomain `cover.soumendrak.com` was a natural choice: "Advanced CoverView" shortened to "cover."
+My DNS provider is [Cloudflare](@/blog/2025/12/self-hosting/index.md) and Cloudflare Pages is free, reliable and just works. The subdomain `cover.soumendrak.com` was a natural choice: "Advanced CoverView" shortened to "cover."
 
 ## Do I Use My Own Tool?
 

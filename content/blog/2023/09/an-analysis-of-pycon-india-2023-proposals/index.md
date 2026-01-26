@@ -50,7 +50,7 @@ These graphs illustrate the distribution of proposals received by category from 
 
 ![Subcategories of the AI category](https://cdn.hashnode.com/res/hashnode/image/upload/v1694191269886/ff7e6a12-3958-4738-b936-474dcc67387f.png)
 
-We received 88 proposals, and they fell into different categories. It's interesting to note that there's a chart showing the percentage of proposals related to AI or Data Science (DS) from 2015 to previous PyCon India editions.
+We received 88 proposals, and they fell into different categories. It's interesting to note that there's a chart showing the percentage of proposals related to AI or [Data Science (DS)](@/blog/2023/02/10-python-libraries-every-aiml-developer-should-know/index.md) from 2015 to previous PyCon India editions.
 
 _Unfortunately, we don't have data for the 2021 edition, and PyCon India 2022 had to be canceled._
 

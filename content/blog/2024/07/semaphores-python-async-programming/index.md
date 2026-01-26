@@ -15,7 +15,7 @@ og_preview_img="semaphore.webp"
 
 ## Context
 
-While doing LLM-as-a-judge for evaluations, I was facing a rate limit issue from OpenAI. This post will explain how to use `asyncio.Semaphore` in Python to manage the rate limit and avoid getting rate limit errors. We will start with the basics of semaphores and then move on to use cases. To directly jump to the code, you can check out the [use case 5](#use-case-5-calling-openai-api).
+While doing [LLM-as-a-judge](@/blog/2025/05/llm-evals/index.md) for evaluations, I was facing a rate limit issue from OpenAI. This post will explain how to use `asyncio.Semaphore` in Python to manage the rate limit and avoid getting rate limit errors. We will start with the basics of semaphores and then move on to use cases. To directly jump to the code, you can check out the [use case 5](#use-case-5-calling-openai-api).
 
 ## Introduction
 
@@ -60,7 +60,7 @@ Let's look at real-world use cases where semaphores can save the day.
 
 ## Use Case 1: Rate Limiting API Requests
 
-Respecting rate limits is crucial when working with external APIs to avoid being blocked. Semaphores can help you easily control the rate of requests.
+Respecting [rate limits](@/blog/2019/03/circuit-breaker-design-pattern/index.md) is crucial when working with external APIs to avoid being blocked. Semaphores can help you easily control the rate of requests.
 
 ```python
 import asyncio

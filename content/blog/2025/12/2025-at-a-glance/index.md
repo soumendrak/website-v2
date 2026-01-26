@@ -23,18 +23,18 @@ This year I have learnt many life experiences especially on the personal front. 
 - I have moved to Hyderabad in Dec 2024. If I compare my experiences in cities other than my hometown on descending order: Mumbai, Hyderabad, and Bengaluru.
 - In this year I understood clearly that I love teaching; more than teaching I love more the process of anticipating student questions and preparing for those.
 - In total I have given sessions both internally at PepsiCo and outside on diverse set of topics:
-	- AI Observability
-	- Opentelemetry
+	- [AI Observability](@/blog/2025/06/advancing-ai-observability/index.md)
+	- [Opentelemetry](@/blog/2026/01/opentelemetry-certification/index.md)
 	- Self Hosting
 	- n8n
-	- RAG
+	- [RAG](@/blog/2025/04/evolution-rag/index.md)
 	- AI Agents
 	- Context Engineering
 	- Indian Income Tax across salary, business, and rest other income heads.
 	- Basics of share market.
 - These are a few projects I have tried this year:
 	1. Mapped the street lights of where do I stay at OpenStreetMap. How did it in 2024, you can [read here](https://www.soumendrak.com/blog/street-lamp-diwali/).
-	2. Replaced package manager as `uv` in the [openodia](https://github.com/soumendrak/openodia) project. Adding MCP tool is in progress.
+	2. Replaced package manager as `uv` in the [openodia](@/projects/openodia.md) project. Adding MCP tool is in progress.
 	3. Last year in 2024, I have moved my website from Notion to this Zola based website. This year I have settled on the Tabi theme and made many fine tuning to the site.
 	4. I have started my physical server [self hosting journey](https://www.soumendrak.com/blog/self-hosting/) with a Beelink mini PC. This is also the first time I have ordered something of a significant amount from Indiamart on the recommendation of an LLM (Gemini) for the first time.
 	5. I have stopped making slides for my talks and have been using Lovable to create slide websites for my talks like [RAG](http://rag.soumendrak.com/) and [OTel](https://o11y.soumendrak.com/).

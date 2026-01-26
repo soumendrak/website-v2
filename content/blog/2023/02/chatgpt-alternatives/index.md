@@ -35,7 +35,7 @@ We will discuss the upcoming LLMs (Large Language Models like ChatGPT) in 2023.
 
 ## Stability AI:
 
-- They are working on an open-source ChatGPT.
+- They are working on an [open-source](@/blog/2023/02/advantages-of-open-source-software/index.md) ChatGPT.
 
 With the rise of LLMs, users will have more choices, which is a good thing. So let's see who can have extra features, reliable infra, and fine-tuned answers based on the need of the users.
 

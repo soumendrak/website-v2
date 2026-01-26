@@ -21,7 +21,7 @@ I have tried IE, Edge, Safari, Opera, Maxthon, Avant, Vivaldi, etc. I have been 
   - I use Firefox, especially for its container feature.
   - I contribute to the Mozilla community, so a bit of emotional attachment is there.
 - [Brave](https://brave.com/)
-  - Brave I use Google Input tools add-on to write into Odia Wikipedia and make [Shabdarasa](https://www.sabdarasa.com) posts in Odia.
+  - Brave I use Google Input tools add-on to write into [Odia](@/blog/2022/02/the-story-behind-shabdarasa/index.md) Wikipedia and make [Shabdarasa](https://www.sabdarasa.com) posts in Odia.
   - To try out new Chromium-based Add-ons.
 
 ## Firefox Browser Extensions/Add-ons

@@ -41,6 +41,6 @@ print(10 / 2)
 
 You may further be interested in the following:
 
-- [Usage of forward slash (/) in Python](https://blog.soumendrak.com/usage-of-forward-slash-in-python)
-- [Five usages of an asterisk (\*) in Python](https://blog.soumendrak.com/5-usages-of-an-asterisk-in-python)
-- [Usage of the Underscore(\_) in Python](https://blog.soumendrak.com/usage-of-the-underscore-in-python)
+- [Usage of forward slash (/) in Python](@/blog/2022/12/usage-of-forward-slash-in-python/index.md)
+- [Five usages of an asterisk (\*) in Python](@/blog/2020/11/usage-of-asterik-in-python/index.md)
+- [Usage of the Underscore(\_) in Python](@/blog/2021/07/usage-of-underscore-in-python/index.md)

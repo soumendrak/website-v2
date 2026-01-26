@@ -26,7 +26,7 @@ Live streaming links of the conference:
 1. This was the 4th edition of the conference. The theme of the conference was
 2. This edition was the longest of all the previous three editions. It was 11 hours long conference.
 3. This was a complete virtual conference. The previous edition was a hybrid conference with physical meetups.
-4. A wide variety of speakers who were working related to AI have been invited.
+4. A wide variety of speakers who were working related to [AI](@/blog/2023/09/large-language-models-history/index.md) have been invited.
 5. A global conference with attendees from all across the continents.
 
 ## Challenges

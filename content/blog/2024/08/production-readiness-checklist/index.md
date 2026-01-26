@@ -47,7 +47,7 @@ Not all of these are mandatory, but they are the ones I have found most useful.
 - [ ] Is there a blue-green or canary deployment strategy in place?
 - [ ] Is there a defined rollback plan and procedure?
 
-## 5. Observability and tracing
+## 5. [Observability](@/blog/2025/06/advancing-ai-observability/index.md) and tracing
 
 - [ ] Is there a dashboard showing relevant metrics (e.g., request count, HTTP status codes, usage)?
 - [ ] Can we trace a single request end-to-end for debugging purposes?

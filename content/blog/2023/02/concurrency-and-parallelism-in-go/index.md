@@ -35,6 +35,5 @@ In this example, the `doSomething` function is executed in a separate goroutine 
 This can be incredibly useful when working with long-running or CPU-intensive tasks. It allows you to take advantage of all available CPU cores and keep your application responsive. However, it's essential to remember that concurrency and parallelism introduce new challenges and complexities, such as data races and deadlocks. So it's vital to be familiar with the GoLang concurrency model and best practices for handling these issues.
 
 ## Related Articles
-- [Go: Let's start](/blog/go-lets-start)
-- [Go: Arrays vs Slices](/blog/go-arrays-vs-slices)
-- [Python vs Golang vs Rust](/blog/python-vs-golang-vs-rust)
+- [Go: Arrays vs Slices](@/blog/2022/12/go-arrays-vs-slices/index.md)
+- [Python vs Golang vs Rust](@/blog/2022/05/python-vs-golang-vs-rust/index.md)

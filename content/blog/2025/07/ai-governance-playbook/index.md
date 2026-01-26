@@ -25,7 +25,7 @@ Global spending on enterprise AI is forecast to reach **\$297 billion by 2027
 
 * **Block Inc.** paid **\$80 million** for deficient automated AML controls in Cash App[^3].
 * The **EU AI Act** allows penalties up to **7 % of global turnover** for prohibited AI practices[^4].
-* A proprietary **hospital sepsis predictor** missed two‑thirds of cases after data drift, triggering patient‑safety alarms and manual overrides[^5].
+* A proprietary **hospital sepsis predictor** missed two‑thirds of cases after [data drift](@/blog/2025/06/advancing-ai-observability/index.md), triggering patient‑safety alarms and manual overrides[^5].
 
 Governance is no longer a “nice to have”; it is business continuity.
 

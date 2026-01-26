@@ -25,7 +25,7 @@ RSS is a valuable tool for staying up-to-date with the latest news and updates o
 ## How to use RSS?
 You can use RSS readers like Feedly, Inoreader, and The Old Reader to subscribe to RSS feeds and receive updates from the websites you follow.
 
-I use [Karakeep](https://github.com/karakeep-app/karakeep) (earlier known as Hoarder) to subscribe to RSS feeds and receive updates from the websites I follow. I self host this reader at [PikaPods](https://www.pikapods.com/). Earlier, I used Readwise and before that Omnivore. Readewise became too costly after my student discount got over and Omnivore is not there anymore.
+I use [Karakeep](https://github.com/karakeep-app/karakeep) (earlier known as Hoarder) to subscribe to RSS feeds and receive updates from the websites I follow. I self host this reader at [PikaPods](@/blog/2025/12/self-hosting/index.md). Earlier, I used Readwise and before that Omnivore. Readewise became too costly after my student discount got over and Omnivore is not there anymore.
 
 ## Feeds I subscribe to
 I subscribe to the following RSS feeds:
@@ -71,7 +71,7 @@ I subscribe to the following RSS feeds:
 | Zoom	|	https://medium.com/feed/zoom-developer-blog |
 | Simon Willison Blog	|	https://simonwillison.net/atom/everything/ |
 | S Anand	|	https://www.s-anand.net/blog/feed/ |
-| OpenTelemetry	|	https://opentelemetry.io/blog/index.xml |
+| [OpenTelemetry](@/blog/2026/01/opentelemetry-certification/index.md)	|	https://opentelemetry.io/blog/index.xml |
 | Tomas Petricek	|	https://tomasp.net/rss.xml |
 
 ## Conclusion

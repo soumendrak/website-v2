@@ -162,7 +162,7 @@ print(z)  # Output: 20
 
 ### Q: What is a decorator?
 
-A: A decorator in Python is a special type of function that can modify or enhance another function or class without directly changing its source code. It's a way to wrap a function, adding new functionality to an existing function.Decorators are denoted by the "@" symbol followed by the decorator name, placed on the line immediately before the function or class definition. They allow you to easily add behaviors to objects without modifying the objects themselves.
+A: A [decorator](@/blog/2018/10/optimize-your-python-code/index.md) in Python is a special type of function that can modify or enhance another function or class without directly changing its source code. It's a way to wrap a function, adding new functionality to an existing function.Decorators are denoted by the "@" symbol followed by the decorator name, placed on the line immediately before the function or class definition. They allow you to easily add behaviors to objects without modifying the objects themselves.
 Common uses for decorators include:
 
 - Logging
@@ -172,7 +172,7 @@ Common uses for decorators include:
 
 ### Q: What is a context manager?
 
-- A context manager in Python is a construct that allows you to properly manage resources, such as file handles or database connections. It ensures that resources are properly acquired and released, even if errors occur during execution.
+- A [context manager](@/blog/2018/10/optimize-your-python-code/index.md) in Python is a construct that allows you to properly manage resources, such as file handles or database connections. It ensures that resources are properly acquired and released, even if errors occur during execution.
 - Common use cases:
   - File operations (automatically closing files)
   - Database connections (ensuring connections are closed)
@@ -190,7 +190,7 @@ with open('example.txt', 'w') as file:
 ### Q: What are Python generators and when would you use them?
 
 - Generators are functions that return an iterator. They use the `yield` keyword to produce a series of values over time, rather than computing them all at once and storing them in memory.
-- Generators are memory-efficient and useful when working with large datasets or infinite sequences.
+- [Generators](@/blog/2018/10/optimize-your-python-code/index.md) are memory-efficient and useful when working with large datasets or infinite sequences.
 - Example:
 
 ```python

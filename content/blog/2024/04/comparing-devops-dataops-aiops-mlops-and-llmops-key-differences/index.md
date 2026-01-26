@@ -87,7 +87,7 @@ These are the commonly used terms that can be misunderstood. Here are the scope 
 
 - Model training pipeline automation for streamlining the creation and training of ML models.
 - Model versioning tracks changes made to models and facilitates rollbacks if necessary.
-- Model deployment and orchestration for deploying models to production environments.
+- Model deployment and orchestration for deploying models to production environments. See [Production Readiness Checklist](@/blog/2024/08/production-readiness-checklist/index.md).
 - Model monitoring and drift detection ensure models continue performing well over time.
 
 ### Limitations
@@ -101,7 +101,7 @@ These are the commonly used terms that can be misunderstood. Here are the scope 
 
 ### Scope
 
-- A relatively new concept focused on managing the lifecycle of large language models (LLMs). It aims to automate the processes involved in training, deploying, and monitoring LLMs.
+- A relatively new concept focused on managing the lifecycle of large language models (LLMs). It aims to automate the processes involved in training, deploying, and monitoring LLMs. See [LLMOps Introduction](@/blog/2024/01/llmops-introduction/index.md).
 
 ### Use Cases
 

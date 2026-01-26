@@ -14,7 +14,7 @@ Ownership and borrowing are fundamental concepts in Rust that help ensure memory
 
 ## Ownership in Rust
 
-In Rust, ownership is a concept that ensures that every value has a unique owner, which is the variable that holds the value. The owner has the exclusive right to modify or destroy the value. Rust enforces these rules at compile-time to prevent memory-related bugs like data races, null pointer dereferences, and memory leaks.
+In Rust, ownership is a concept that ensures that every value has a unique owner, which is the variable that holds the value. The owner has the exclusive right to modify or destroy the value. Rust enforces these rules at compile-time to prevent memory-related bugs like data races, null pointer dereferences, and [memory leaks](@/blog/2024/05/patching-a-memory-leak/index.md).
 
 When a variable goes out of scope, Rust automatically deallocates the memory associated with that value. This means that when a function returns or when a block of code ends, any values declared within that scope are automatically cleaned up by Rust. This feature ensures that memory is freed when it is no longer needed, preventing memory leaks and making Rust programs more efficient and reliable.
 

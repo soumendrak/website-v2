@@ -14,7 +14,7 @@ tags=["opensource", "chrome-extension", "youtube"]
 # uBlock Origin
 
 - You can remove the Ads from [YouTube.com](https://youtube.com) by just installing an AdBlocker in your browser.
-- I recommend the open-source AdBlocker [uBlock Origin](https://github.com/gorhill/uBlock).
+- I recommend the [open-source](@/blog/2023/02/advantages-of-open-source-software/index.md) AdBlocker [uBlock Origin](https://github.com/gorhill/uBlock).
 
 # Video Speed Controller
 

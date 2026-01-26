@@ -13,7 +13,7 @@ tags=["devops", "mlops", "llm", "llmops"]
 
 ## DevOps
 
-- DevOps Developer Operations is a cultural and professional movement that emphasizes collaboration and communication between software developers and other IT professionals while automating the process of software delivery and infrastructure changes \[[1](https://www.javatpoint.com/devops)\].
+- [DevOps](@/blog/2024/04/comparing-devops-dataops-aiops-mlops-and-llmops-key-differences/index.md) Developer Operations is a cultural and professional movement that emphasizes collaboration and communication between software developers and other IT professionals while automating the process of software delivery and infrastructure changes \[[1](https://www.javatpoint.com/devops)\].
 - It aims to help organizations produce software and IT services more rapidly, with frequent iterations\[[7](https://www.atlassian.com/devops/what-is-devops)\]\[[10](https://www.nimblework.com/blog/introduction-to-devops/)\].
 - DevOps integrates developers and operations teams to improve collaboration and productivity by automating workflows and continuously measuring application performance.
 - It's about removing the barriers between traditionally siloed teams, development, and operations\[[4](https://aws.amazon.com/devops/what-is-devops/)\].
@@ -35,7 +35,7 @@ tags=["devops", "mlops", "llm", "llmops"]
 | **Task**             | **MLOps**                                                                                                                     | **LLMOps**                                                                                                                                                                                           |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Primary focus**    | Developing and deploying machine-learning models.                                                                             | Specifically focused on LLMs.                                                                                                                                                                        |
-| **Model adaptation** | If employed, it typically focuses on transfer learning and retraining.                                                        | Centers on fine-tuning pre-trained models like GPT-3.5 with efficient methods and enhancing model performance through prompt engineering and retrieval augmented generation (RAG).                   |
+| **Model adaptation** | If employed, it typically focuses on transfer learning and retraining.                                                        | Centers on fine-tuning pre-trained models like GPT-3.5 with efficient methods and enhancing model performance through prompt engineering and [retrieval augmented generation (RAG)](@/blog/2025/04/evolution-rag/index.md).                   |
 | **Model evaluation** | Evaluation relies on well-defined performance metrics.                                                                        | Evaluating text quality and response accuracy often requires human feedback due to the complexity of language understanding  (e.g., using techniques like [R](https://huggingface.co/blog/rlhf)LHF.) |
 | **Model management** | Teams typically manage their models, including versioning [and](https://huggingface.co/blog/rlhf) metadata.                   | Models are often externally hosted and accessed via APIs.                                                                                                                                            |
 | **Deployment**       | [Dep](https://huggingface.co/blog/rlhf)loy models through pipelines, typically involving feature stores and containerization. | Models are part of chains and agents, supported by specialized tools like vector databases[.](https://huggingface.co/blog/rlhf)                                                                      |
@@ -48,7 +48,7 @@ tags=["devops", "mlops", "llm", "llmops"]
 ### Challenges in LLMOps
 
 - Despite its benefits, implementing LLMOps is not without challenges. These include data privacy and security concerns, contextual limitations, infrastructure optimization, and LLM evaluation.
-- As LLMs evolve rapidly, companies face challenges in versioning, non-regression testing, and dealing with concept and data drift. Moreover, the computational resources required for LLMOps can be significant, making cost planning and optimization a critical aspect of the process.
+- As LLMs evolve rapidly, companies face challenges in versioning, non-regression testing, and dealing with concept and [data drift](@/blog/2025/06/advancing-ai-observability/index.md). Moreover, the computational resources required for LLMOps can be significant, making cost planning and optimization a critical aspect of the process.
 - Without a structured and managed approach to incorporating LLMs into applications, estimating future costs becomes complex and uncertain.
 
 ### Stages in LLMOps
@@ -98,7 +98,7 @@ Several best practices have been identified to overcome these challenges and ens
 - **Data Management and Security:** Robust data management and stringent security practices are essential, given the critical role of data in LLM training.
 - **Model Lifecycle Management:** This involves versioning models and datasets, automated testing, continuous integration and deployment of models, and monitoring model performance.
 - **Efficient Resource Allocation:** LLMOps ensure access to suitable hardware resources for efficient fine-tuning while monitoring and managing resource allocation.
-- **Evaluation:** LLMOps tools can be used for LLM-based application evaluation, offering a concise and straightforward assessment of your LLM application’s performance and determining its deployability.
+- **Evaluation:** LLMOps tools can be used for [LLM-based application evaluation](@/blog/2025/05/llm-evals/index.md), offering a concise and straightforward assessment of your LLM application’s performance and determining its deployability.
 - **Continuous Improvement:** Regular evaluation is essential for maintaining the LLM’s performance over time, as it can be used to compare different versions or iterations of the model.
 
 ### Future of LLMOps

@@ -13,7 +13,7 @@ GitHub and open-source software are two terms often misinterpreted; they are not
 
 ### Open-source software
 
-- Open Source Software is software whose source code is freely available to the public. This means anyone can view, modify, and distribute the code without restrictions.
+- [Open Source Software](@/blog/2023/02/advantages-of-open-source-software/index.md) is software whose source code is freely available to the public. This means anyone can view, modify, and distribute the code without restrictions.
 - Open-source software is often developed by a community of developers who collaborate and contribute to the project, resulting in continually evolving and improving the software.
 - Some famous examples of open-source software include the Linux operating system, the Apache web server, and the Mozilla Firefox browser.
 

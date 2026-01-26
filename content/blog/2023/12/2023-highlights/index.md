@@ -26,7 +26,7 @@ _As a person with access to the privileges of society, only providing income tax
 ![The latest 15 articles of 2023](https://cdn.hashnode.com/res/hashnode/image/upload/v1703931815440/10fc34d8-ebf3-4fdb-bcc1-44ad89e6ff44.png)
 
 - I attended two Wikimedia conferences, the [Wiki Tech Summit](https://meta.wikimedia.org/wiki/2nd_Wikimedia_Technology_Summit), and the [Wiki India Conference](https://meta.wikimedia.org/wiki/WikiConference_India_2023).
-- We have organized the most prominent [Python programmer's conference](https://in.pycon.org/2023/) in India with 1200+ attendees. This year, I have become a core member CFP lead. Back in PyCon 2019, I was a CFP reviewer.
+- We have organized the most prominent [Python programmer's conference](@/blog/2023/10/pycon-india-2023-insights-from-the-cfp-workgroup/index.md) in India with 1200+ attendees. This year, I have become a core member CFP lead. Back in PyCon 2019, I was a CFP reviewer.
 - I have started an [AI newsletter](https://odishaml.substack.com/) under Odias in the AI/ML brand with ~1500 subscribers.
 - There has been a 50% increase in Twitter followers, from 500 to 750+.
 - There has been a 20% increase in LinkedIn followers, from 6000 to 7100.

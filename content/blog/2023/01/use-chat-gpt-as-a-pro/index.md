@@ -27,7 +27,7 @@ We already know what ChatGPT is. Here are a few Twitter threads on how to utiliz
 - [@thesyedhuq (2)](https://twitter.com/thesyedhuq/status/1607784625572827139)
 - [@alliekmiller](https://twitter.com/alliekmiller/status/1602745470584967170)
 
-If you want to know various open-source tools developed for ChatGPT, you may check my following article:
+If you want to know various [open-source](@/blog/2023/02/advantages-of-open-source-software/index.md) tools developed for ChatGPT, you may check my following article:
 
 [ChatGPT resources (soumendrak.com)](https://blog.soumendrak.com/chatgpt-resources)
 

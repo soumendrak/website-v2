@@ -69,9 +69,8 @@ slice := []int{1, 2, 3, 4, 5}
 - Slices are used when the data size is not known in advance or is expected to change. This allows for more flexible and dynamic data manipulation. Examples include working with a subset of data from an array, such as the first ten elements, or dynamically adding and removing elements from a list.
 
 ## Related Articles
-- [Go: Let's start](/blog/go-lets-start)
-- [Concurrency and parallelism in Go](/blog/concurrency-and-parallelism-in-go)
-- [Python vs Golang vs Rust](/blog/python-vs-golang-vs-rust)
+- [Go: Let's start](@/blog/2022/12/go-lets-start/index.md)
+- [Python vs Golang vs Rust](@/blog/2022/05/python-vs-golang-vs-rust/index.md)
 
 ## Conclusion
 

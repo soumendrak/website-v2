@@ -16,7 +16,7 @@ pinned = true
 ## Background
 The last time I appeared for any proctored certification exam was four years ago in 2021, when I obtained my [AWS Certified Machine Learning – Specialty - Credly](https://www.credly.com/badges/abd00b47-bde3-438f-bb18-5bdccd7c87ba/public_url) certificate, which expired in 2024.
 
-I knew Observability as a phase in MLOps when I was at Freshworks. I joined PepsiCo as an AI Observability Architect. Therefore, I had to build the acumen to live up to my designation. Certifications are an easy way to showcase your skillsets. Therefore, I completed a bunch of AI Observability certifications from Arize. Then, I completed a certificate on OpenTelemetry called "Getting Started with OpenTelemetry" back in June 2025. 
+I knew [Observability](@/series/practical-observability-with-python/_index.md) as a phase in MLOps when I was at Freshworks. I joined PepsiCo as an AI Observability Architect. Therefore, I had to build the acumen to live up to my designation. Certifications are an easy way to showcase your skillsets. Therefore, I completed a bunch of AI Observability certifications from Arize. Then, I completed a certificate on OpenTelemetry called "Getting Started with OpenTelemetry" back in June 2025. 
 
 ## 50% Black Friday Discount
 The next stage after that free certification was the OTCA certificate, which is a paid one and the only one available for OTel. In general, it costs 250 USD. It was expensive, but it had been on my radar for quite some time. On Black Friday, I learned they were offering discounts, and I purchased the certification at a 50% discount for 125 USD. I had no clue if I would be able to complete the certification or not. I was convinced that if I wanted to stay in this domain, I had to earn this certificate.

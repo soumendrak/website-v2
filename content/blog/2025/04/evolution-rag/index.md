@@ -23,7 +23,7 @@ Components of an RAG System
 ## Naive RAG
 
 ![C9fMlA_rrH9dMrihHXAHyQ](https://miro.medium.com/v2/resize:fit:700/1*C9fMlA_rrH9dMrihHXAHyQ.png)
-- **Naive RAG** is presented as a standard baseline RAG system. It operates by first segmenting the raw text data into smaller chunks. These chunks are then converted into vectorized representations (embeddings) and stored in a vector database.
+- **Naive RAG** is presented as a standard baseline RAG system. It operates by first segmenting the raw text data into smaller chunks. These chunks are then converted into [vectorized representations (embeddings)](@/blog/2022/04/why-do-we-need-vector-embeddings-in-nlp/index.md) and stored in a vector database.
 - When a user poses a query, Naive RAG generates a vector representation of the query and retrieves the text chunks from the vector database that have the highest similarity to the query vector.
 - This retrieved information is then used by LLM to generate a response. Naive RAG relies on flat data representations and direct similarity matching of text chunks.
 

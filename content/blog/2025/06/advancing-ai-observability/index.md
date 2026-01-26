@@ -20,7 +20,7 @@ Users --> AI-Application --> Observability
 
 ## Why Observability Matters
 
-Modern AI applications — from Retrieval‑Augmented Generation (RAG) pipelines to fine‑tuned LLMs — are **complex socio‑technical systems**. Standard application metrics alone aren't enough when a slight model‑drift or data‑quality issue can torpedo business outcomes.
+Modern AI applications — from [Retrieval‑Augmented Generation (RAG)](@/blog/2025/04/evolution-rag/index.md) pipelines to fine‑tuned LLMs — are **complex socio‑technical systems**. Standard application metrics alone aren't enough when a slight model‑drift or data‑quality issue can torpedo business outcomes.
 
 > **Headline stats worth sharing with the board**
 > 

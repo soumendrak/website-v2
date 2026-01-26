@@ -13,7 +13,7 @@ tags=["software-engineering", "software-architecture"]
 
 ## Top Software Engineering Blogs
 
-This is a growing collection of blogs by software companies that you can read to get Engineering practices and Software Architecture ideas.
+This is a growing collection of blogs by software companies that you can read to get Engineering practices and [Software Architecture](@/blog/2022/03/better-software-architect/index.md) ideas.
 
 - [Airbnb](https://medium.com/airbnb-engineering)
 - [Altassian](https://blog.developer.atlassian.com/)

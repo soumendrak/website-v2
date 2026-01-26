@@ -60,7 +60,7 @@ I have prepared an SOP for the hosts to follow during the conference.
 * Notify the attendees well in advance about the conference with the links.
 * There should be a way to communicate the attendees about the progress of the community over the last year.
 
-I also had the opportunity to present a talk on "ML Monitoring and Observability" as a filler slot. 
+I also had the opportunity to present a talk on "[ML Monitoring and Observability](@/blog/2025/06/advancing-ai-observability/index.md)" as a filler slot. 
 I also met a few more community members from the Bengaluru local conference community.
 
 I would like to thank the organizers and volunteers who helped in organizing the conference. 

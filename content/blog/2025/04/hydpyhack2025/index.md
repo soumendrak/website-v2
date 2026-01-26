@@ -23,7 +23,7 @@ These are the following points I need to cover on this blog post:
 
 ### How did I get the invite?
 
-I have been volunteering for Pycon India since 2019. In 2023, I have led the CFP workgroup and was a core member of the PyCon India 2023 which was organized by the Hyderabad Python User group. Therefore, I have a good amount of connection in the community.
+I have been volunteering for Pycon India since 2019. In 2023, I have led the CFP workgroup and was a core member of the [PyCon India 2023](@/blog/2023/10/pycon-india-2023-insights-from-the-cfp-workgroup/index.md) which was organized by the Hyderabad Python User group. Therefore, I have a good amount of connection in the community.
 The jury do not get any monetary benefit and all. This was a form of volunteering. I volunteered as I got the invite.
 Along with me there were two more jury members.
 

@@ -11,7 +11,7 @@ tags=["diwali", "openstreetmap"]
 social_media_card = "street-lamps.webp"
 +++
 ![Diwali](street-lamps.webp)
-**TL;DR**: This post is about how I have tried to create a deepak just before the Diwali on the open street map by adding all the street lamps [near my area](https://sb12.github.io/OSMStreetLight/#15/13.0065/77.5559) in 2024.
+**TL;DR**: This post is about how I have tried to create a deepak just before the Diwali on the [open street map](@/projects/osm.md) by adding all the street lamps [near my area](https://sb12.github.io/OSMStreetLight/#15/13.0065/77.5559) in 2024.
 
 ## Street Lamps
 Street lamps plays an important role towards the safety. Street lamps gives confidence and reduces nuances in a neighbourhood. It also increases visibility while driving. By watching the street lamps on the [OSM](https://www.openstreetmap.org/#map=5/21.84/82.79) before going on the street makes a person confident.

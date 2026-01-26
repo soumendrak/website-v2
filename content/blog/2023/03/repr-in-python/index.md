@@ -11,7 +11,7 @@ tags=["python",   "repr", "str"]
 
 ## Introduction
 
-This blog post will explore the Python magic method, `__repr__`. This method is useful and even necessary to display a human-readable representation of an object. We'll start with the basics and work up to more advanced concepts.
+This blog post will explore the [Python](@/blog/2023/03/10-best-practices-for-your-python-code/index.md) magic method, `__repr__`. This method is useful and even necessary to display a human-readable representation of an object. We'll start with the basics and work up to more advanced concepts.
 
 ## What is `__repr__`?
 

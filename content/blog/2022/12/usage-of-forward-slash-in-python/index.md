@@ -11,7 +11,7 @@ tags=["python", "keywords"]
 
 +++
 
-In Python, the forward slash (/) has several different uses depending on the context in which it appears. Some of the primary benefits of the forward slash in Python include:
+In [Python](@/blog/2023/03/10-best-practices-for-your-python-code/index.md), the forward slash (/) has several different uses depending on the context in which it appears. Some of the primary benefits of the forward slash in Python include:
 
 ## Division
 
@@ -54,5 +54,5 @@ match = re.search(pattern, text)
 
 Thanks for reading; you can further check the following:
 
-- [Five usages of an asterisk (\*) in Python](https://blog.soumendrak.com/5-usages-of-an-asterisk-in-python)
-- [Usage of the Underscore(\_) in Python](https://blog.soumendrak.com/usage-of-the-underscore-in-python)
+- [Five usages of an asterisk (\*) in Python](@/blog/2020/11/usage-of-asterik-in-python/index.md)
+- [Usage of the Underscore(\_) in Python](@/blog/2021/07/usage-of-underscore-in-python/index.md)

@@ -244,6 +244,7 @@ social_media_card = "images/default_cover.webp"
 
 menu = [
     { name = "blog", url = "blog", trailing_slash = true },
+    { name = "notes", url = "notes", trailing_slash = true },
     { name = "series", url = "series", trailing_slash = true },
     { name = "projects", url = "projects", trailing_slash = true },
     { name = "talks", url = "talks", trailing_slash = true },

@@ -35,7 +35,4 @@ I can help you with these challenges. With over 14 years of experience in AI and
     <a href="mailto:contact@soumendrak.com" class="email-button">
         Let's Discuss Your AI Challenges
     </a>
-    <a href="https://listmonk.soumendra.org/subscription/form" class="email-button">
-        Subscribe to My Newsletter
-    </a>
 </div>

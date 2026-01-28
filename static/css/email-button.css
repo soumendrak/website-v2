@@ -30,12 +30,7 @@
     color: var(--hover-color) !important;
 }
 
-/* Secondary button (second button - Newsletter) */
-.email-button:last-child {
-    background-color: transparent;
-    color: var(--primary-color) !important;
-    border: 2px solid var(--primary-color);
-}
+
 
 .email-button:hover {
     transform: translateY(-2px);
@@ -46,10 +41,7 @@
     opacity: 0.9;
 }
 
-.email-button:last-child:hover {
-    background-color: var(--primary-color);
-    color: var(--hover-color) !important;
-}
+
 
 /* Responsive design for smaller screens */
 @media (max-width: 640px) {

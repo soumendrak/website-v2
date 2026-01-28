@@ -16,3 +16,14 @@ draft = true
     - I liked the UX so much that I made [a donation](https://github.com/sponsors/goldflag) to the developer.
     - You can see this website's analytics [here](https://rybbit.ekathi.com/1/main?timeMode=day&bucket=hour&stat=users&wellKnown=today).
     - I got sold on the Globe view. I have a weakness to [maps](@/projects/osm.md) from childhood.
+
+## Random Thoughts & Quotes
+- Another advantage of using Indian toilet is that you will waste less time looking at your smartphone than in western toilets.
+- "The curse of productivity is that it's self-perpetuating. Respond to e-mails with lightning speed and you just get more replies. Demonstrate your reliability to others long enough, and they'll just bring you more shit to do. Develop productive routines and habits and—before you know it—your natural disposition will shift towards being done with things and away from actually doing things." -- [Justin Searls](https://justin.searls.co/posts/weekstart/)
+- "The biggest lesson I’ve learned is that in the world of AI agents, complexity is the enemy. Every layer of abstraction you add is another place for things to break, and another thing the LLM has to 'understand' to be effective.
+Sometimes, the best sandbox isn’t a high-tech container or a WASM runtime. Sometimes, it’s just a clean git worktree and a healthy dose of pragmatism." -- [Tuan-Anh](https://tuananh.net/2026/01/22/i-was-wrong-about-ai-agent-sandboxing/)
+- "You don’t need permission to help people.
+
+You don’t need much to have a positive impact on your community. You don’t need to wait for the perfect solution or for “the people in charge” to do something about a problem.
+
+All you need to do is something that makes things a little better than they are right now." -- [Chris Ferdinandi](https://gomakethings.com/you-dont-need-permission/)
